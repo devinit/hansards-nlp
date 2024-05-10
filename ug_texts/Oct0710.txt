@@ -1,0 +1,1066 @@
+﻿Thursday, 7 October 2010 
+
+Parliament met at 2.48 p.m. in Parliament House, Kampala. 
+
+PRAYERS
+
+(The Speaker, Mr Edward Ssekandi, in the Chair.) 
+
+The House was called to order. 
+
+COMMUNICATION FROM THE CHAIR 
+
+THE SPEAKER: Hon. Members, I welcome you. In a particular way, I welcome the Rt Hon. Prime Minister, who was in Nigeria when there was that nasty incident. We are happy to see you back in Uganda. (Applause) 
+
+In the public gallery this afternoon, we have pupils and teachers of Kabusu Secondary School from Iganga. Please, join me in welcoming them. (Applause) We also have pupils and teachers of Bandwe Secondary School from Nateete. (Applause) You are welcome. Again in the gallery we have pupils and teachers of Misindye Church of Uganda Primary School from Mukono. Your Member of Parliament is here. (Applause)
+
+BILLS
+COMMITTEE STAGE
+
+THE ELECTRONIC TRANSACTIONS BILL, 2008
+
+Clause 1
+
+THE CHAIRMAN: Hon. Members, I propose that Clause 1 stands part of the Bill. 
+
+(Question out and agreed to.)
+
+Clause 1, agreed to.
+
+THE CHAIRMAN: Hon. Members, I am sorry to announce the death of one of our former Member, hon. Modi Okot, a Member of the last Parliament. But maybe I will announce it when the House resumes.
+ 
+Clause 2
+
+MR NABETA: The committee recommends that we insert the definition of “advanced electronic signature” immediately after the definition of “addressee”. “Advanced electronic signature” means an electronic signature which is uniquely linked to a signatory reliably capable of identifying the signatory created using secure signature creation device that the signatory can maintain under his sole control and link to the data in which it relates in such a manner that any subsequent change of data or connections between the data and signature are detectable. This is for consistence with The Electronic Signatures Bill, which we shall look at later.
+
+THE SPEAKER: Maybe, hon. Nabeta, you may have to decrease on your speed. (Laughter)
+
+MR NABETA: Thank you, Mr Chairman. Can I read all the interpretation? 
+
+THE SPEAKER: No.
+
+MR NABETA: Insert the definition of “computer” immediately after the definition of “automated transaction.” “Computer” means electronic, magnetic, optical, electro-comical or data processing device or group of such interconnected or related devices performing logical arithmetic or storage functions and includes any data storage facility or communication facility directly related to or operating in conjunction with such a device or a group of such interconnected or related devices. This is for clarity and harmonisation with the Computer Misuse Act.   
+
+Insert in (c) the interpretation of the word “consumer” and delete the word “natural” appearing in line 1. The justification is that it is too restrictive. 
+
+In (d), interpretation of the phrase data message, substitute the word, “electronic” appearing in line 2 with the word, “computer.” The justification is to broaden the definition. 
+
+In the interpretation of the phrase, “data subject” delete the word “natural” appearing in line 1. This is also restrictive. 
+
+In the interpretation of the phrase, “e-governed,” substitute the word, “electronic” appearing in line 2 with the word, “computer.” This is also to broaden the definition. 
+Rephrase the definition of “electronic signatures” to read as follows: “Electronic signature means data in electronic form affixed to or logically associated with the data message which may be used to identify the signatory in relation to the data message and indicate the signatory’s approval of the information contained in the data message and includes an advanced electronic signature as well as secure signature.” This is for clarity and harmonisation with The Electronic Signatures Bill.
+
+In the interpretation of the phrase, “electronic transaction” rephrase the definition of “electronic transaction” to read as follows: “Electronic transaction means the exchange of information or data, the sell or purchase of goods  or services between businesses, households, individuals, governments and other public private organisations conducted over a computer mediated network.” The justification is for consistency with The National Information Technology Act, 2009. 
+
+In the interpretation of information system, add the expression, “or any other information sharing system,” at the end of the definition of the term, “information system.” This is to broaden the definition.
+ 
+In the interpretation of the phrase, “information system services,” rephrase the definition to read as follows: “Information systems services includes the provision of connections of operation facilities for information systems, the provision of access of information systems, the transmission or routing of data messages between or among points satisfied by the user and the processing and storage of data at the individual request or the recipient of the service.”  This is for harmonisation with The Computer Misuse Act, 2010. 
+
+The interpretation of the word, “person,” person includes any association or body of persons corporate. This is for consistency with the Interpretation Act. 
+
+In the interpretation of the word, “service provider,” rephrase the definition of service provider to read as follows: “Any public or private entity that provides to the users of its service the ability to communicate by means of a computer system; and any other entity that processes or stores computer data on behalf of such communication service or users of such service.” This is for clarity.
+
+In the interpretation of the word, “transaction” the definition of “transaction” having been defined as “electronic transaction”, the definition is redundant. 
+
+THE SPEAKER: Hon. Members, you have heard these clauses. I put the question.
+
+(Question put and agreed to.)
+
+Clause 2, as amended, agreed to.
+
+Clause 3
+
+MR NABETA: I think we should rephrase clause 3 (1)to read as follows; “this Act does not apply to the list of documents specified in schedule 2. The justification is that the schedules are easier to amend than substantive provisions of the Act of Parliament. 
+
+In clause 3(3), delete the sub clause. The justification is that the intention of the provision is catered for under clause 34.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 3, as amended, agreed to.
+
+Clause 4
+
+MR NABETA: Clause 4(1)(j), delete the words “through the information sector” appearing after the word “prosperity”. This is because they are restrictive.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 4, as amended, agreed to.
+
+Clause 5, agreed to.
+
+Clause 6, agreed to.
+
+Clause 7, agreed to.
+
+Clause 8
+
+MR NABETA: Clause 8(6), substitute the word “any” appearing in line with “set”. The use of “any” may be abused.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 8, as amended, agreed to.
+
+Clause 9, agreed to.
+
+Clause 10, agreed to.
+
+Clause 11, agreed to.
+
+Clause 12
+
+MR NABETA: In clause 12, insert at the end of the provision the words; “provided that such reproduction does not affect the integrity of the document.” This is to avoid duplication.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 12, as amended, agreed to.
+
+Clause 13
+
+MR NABETA: In clause 13(4), delete the word “natural” appearing in line 2. This is because it is restrictive.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 13, as amended, agreed to.
+
+Clause 14, agreed to.
+
+Clause 15, agreed to.
+
+Clause 16
+
+MR NABETA: In clause 16(1)(a), insert “or” immediately after the semicolon at the end of the paragraph for clarity. In clause 16(1)(b), insert the word “or” appearing at the end of paragraph. It is redundant.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 16, as amended, agreed to.
+
+Clause 17, agreed to.
+
+Clause 18, agreed to.
+
+Clause 19, agreed to.
+
+Clause 20, agreed to.
+
+Clause 21, agreed to.
+
+Clause 22, agreed to.
+
+Clause 23, agreed to.
+
+Clause 24, agreed to.
+
+Clause 25, agreed to.
+
+Clause 26
+
+MR NABETA: Clause 26(1) rephrase (a) and (b) to read as follows; “a person who sends unsolicited commercial communication to a consumer shall provide it at a) no cost to the consumer, b) leave the consumer with the option to cancel his/her subscription to the mailing list of that person at no cost.” This is to ensure that the consumer does not incur any financial loss due to unsolicited commercial communication. 
+
+In clause 26(3) substitute the word “seven” appearing in line 4 and the word “three” appearing in line 5 with words “One hundred and twenty” and “five” respectively to make the penalty more deterrent.
+
+MR KYANJO: I would like the chairperson to clarify on 26(1)(a) where he says “a person who sends unsolicited commercial communication to the consumer shall provide  it at no cost to the consumer.” I do not know whether this explanation is sufficient because it is possible to receive a non solicited communication which attracts a cost at your discretion. If you say that it should not be paid for, then there is a problem.
+
+MR NABETA: The issue here is that when you are sending unsolicited emails, whoever receives it, must receive it at no cost. Whether it is going to benefit me or not, it is me to decide to act. No one should pay after receiving an unsolicited message.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 26, as amended, agreed to.
+
+Clause 27
+
+MR NABETA: Clause 27(3), substitute the words “as soon as practical appearing in line 3 with the words “before the expiry of the agreed time.” This is for clarity.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 27, as amended, agreed to.
+
+Clause 28, agreed to.
+
+Clause 29, agreed to.
+
+Clause 30
+
+MR NABETA: For clause 30, substitute for the words, “web page,” appearing in line 1 with the words, “data message.” The justification is that it is restrictive.”
+
+THE CHAIRMAN: I now put the question.
+
+(Question put and agreed to.)
+
+Clause 30, as amended, agreed to.
+
+Clause 31, agreed to.
+
+Clause 32
+MR NABETA: In clause 32(2) insert the words, “in consultation with the National Information Technology Authority Uganda,” immediately after the word, “Minister,” appearing in line one. This is for their technical input.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 32, as amended, agreed to.
+
+MR NABETA: We propose to insert two new clauses immediately after clause 32 to provide as follows; “Clause 33: Territorial jurisdiction subject to sub-section 2, this Act shall have effect in relation to any person whatever his or her nationality or citizenship or whether he or she is outside or within Uganda.”
+
+Secondly, “Where an offence under this Act is committed by any person in any place outside of Uganda, he or she may be dealt with as if the offence had been committed within Uganda.” This is to provide for territorial jurisdiction and jurisdiction of court.  
+
+And for these jurisdictions of court, “The court presided over by the Chief Magistrate or the Magistrate Grade One has jurisdiction to hear and determine all offences in this Act and not withstanding anything to the contrary in any written law, has power to impose the penalty or punishment in respect to any offence under this Act.” This is for clarity.
+
+THE CHAIRMAN: the amendment is to insert two new clauses numbered 33 and 34. I put the question.
+
+(Question put and agreed to.)
+
+Clause 33, as amended, agreed to.
+
+THE CHAIRMAN: There is also another new clause 34. I thought you had read it.
+
+MR NABETA: I have not read the entire clause. The entire clause will just follow, “The Minister in consultation with the National Information Technology Authority Uganda may by statutory instrument with the approval of Cabinet amend the schedule.” The justification is for consistency with the amendment made to clause 32 (2) and clause 3.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 34, as amended, agreed to.
+
+
+The Schedule
+
+MR NABETA: On the schedule, we would like to rename the schedule to read, “schedule one” and insert, “Schedule Two” immediately after the schedule on currency point to provide as follows; “Schedule Two, Section 3: “Documents not covered by this Act will include will or codicil, trust created by a will or codicil, power of attorney, document that creates autonomous files and interest in property and requires registration to be effective against third parties and negotiable instruments including negotiable documents on title.”
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Schedule one, as amended, agreed to.
+
+Schedule Two 
+
+MR NABETA: On schedule two, the documents thought to be covered by this Act, (a) Will or codicil. (b) Trust created by will or codicil. (c) Power of Attorney. (d) Document that creates autonomous files and interests in property and requires registration to be effective against third parties and, (e) a negotiable instrument including negotiable documents of title. 
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Schedule One, as amended, agreed to.
+
+The Title, agreed to.
+
+MOTION FOR THE HOUSE TO RESUME
+
+3.15
+THE MINISTER OF STATE FOR INFORMATION AND COMMUNICATION TECHNOLOGY (Mr Alintuma Nsambu): Mr Chairman, I beg to move that the House do resume and the committee of the whole House reports there to.
+
+(Question put and agreed to.)
+
+(The House resumed, the Speaker presiding.)
+
+REPORT FROM THE COMMITTEE OF THE WHOLE HOUSE
+
+3.15
+THE MINISTER OF STATE FOR INFORMATION AND COMMUNICATION TECHNOLOGY (Mr Alintuma Nsambu): Mr Speaker, I beg to report that the committee of the Whole House has considered the Bill entitled, “The Electronic Transactions Bill, 2008” and passed it with amendments.
+
+(Question put and agreed to.)
+
+MOTION FOR ADOPTION OF THE REPORT FROM THE COMMITTEE OF THE WHOLE HOUSE
+
+3.16
+THE MINISTER OF STATE FOR INFORMATION AND COMMUNICATION TECHNOLOGY (Mr Alintuma Nsambu): Mr Speaker, I beg to move that that the report from the committee of the whole House be adopted.
+
+(Question put and agreed to.)
+
+(Report adopted.)
+
+BILLS
+THIRD READING
+
+THE ELECTRONIC TRANSACTIONS BILL, 2008
+
+3.17
+THE MINISTER OF STATE FOR INFORMATION AND COMMUNICATIONS TECHNOLOGY (Mr Alintuma Nsambu): Mr Speaker, I beg to move that the Bill entitled, “The Electronic Transactions Bill, 2008” be read for the third time and do pass.
+
+THE SPEAKER: I put the question.
+
+(Question put and agreed to.)
+
+A BILL FOR AN ACT ENTITLED,
+“THE ELECTRONIC TRANSACTIONS BILL, 2010”
+
+THE SPEAKER: The Bill is passed. (Applause)
+
+BILLS
+SECOND READING
+
+THE ELECTRONIC SIGNATURES BILL, 2009
+
+THE SPEAKER: But hon. Members, have you read this Bill? These are very technical Bills, do you need more time? [Hon. Members: “No.”] So, you have read? [Hon. Members: “Yes.”] Okay.
+
+3.18
+THE MINISTER OF STATE FOR INFORMATION AND COMMUNICATION TECHNOLOGY (Mr Alintuma Nsambu): Mr Speaker, I beg to move that the Bill entitled, “The Electronic Signatures Bill, 2009” be read for the second time.
+
+
+MR NSAMBU: Mr Speaker, the objective of this Bill is to make provisions for and to regulate the use of electronic signatures, criminalisation of unauthorised access and modification of electronic signatures, determination of minimum requirements for functional equivalence of electronic signatures, modernisation and harmonisation of the laws relating to computer-generated evidence and amendments of the current laws to provide for admissibility and evidential weight of electronic communications.
+
+Also, digital signatures is defined to mean transformation of a message using an asymmetric ecosystem such that a person, having the initial message and the signer’s public key, can determine accurately whether the transformation was created using the private key that corresponds to the signer’s public key and whether the message has been altered since the transformation was made.
+
+Third; electronic signature means data in electronic forms, affixed to or logically associated with a data message, which may be used to identify the signatory in relation to the data message and includes the signatory’s approval of the information contained in the data message and also includes an advanced electronic signature and secure signature. 
+
+Fourth; “public key” means the key of a key pair used to verify a digital signature and listed in the digital signature certificate.
+
+Fifth; “private key” means the key of a key pair used to create a digital signature. 
+
+Sixth; at present, there is no law in Uganda that regulates the use of electronic signatures despite the fact that Uganda adopted a National Information and Communications Technology policy as early as 2003. ICT has now become a vehicle for consumer purchases, mass marketing, financial transactions and Government services. 
+
+Finally, the need to enact this law arises from the fact that information and communication technology has enabled Uganda to actively participate in the information age in realisation of the country’s broad development goals such as the Millennium Development Goals and poverty eradication under the Poverty Eradication Action Plan of 2004. Thus for optimal exploitation of information technology, Uganda needs to create a conducive and enabling environment for all users and beneficiaries to ensure security for users.
+
+I beg to move, Mr Speaker. 
+
+3.22
+THE CHAIRPERSON OF THE COMMITTEE ON INFORMATION AND COMMUNICATION TECHNOLOGY (Mr Nathan Igeme Nabeta): Thank you Mr Speaker. Mr Speaker and hon. Members, the Sessional Committee on Information and Communication Technology looked at the Electronic Signatures Bill, 2008 which was brought on 18th March 2009 and committed to our committee. 
+
+The committee was guided by Rule 113 of the Rules of Procedure of Parliament and now reports. 
+
+The objective of the Bill is to make provisions for and regulate the use of electronic signatures, criminalisation of unauthorised access and modification of electronic signatures, determination of minimum requirements for functional equivalence of electronic signatures, modernisation and harmonisation of the laws relating to computer-generated evidence and amendments of the current laws to provide for admissibility and evidential weight of electronic communications. 
+
+The committee met various stakeholders who are all highlighted in the report.
+
+The committee reviewed the Bill in context of international best practices embodied in the following regional and international electronic commerce and related instruments. 
+
+i)	The draft East African Framework for Cyber Laws (2008) 
+ii)	The Council of Europe Convention of Cybercrime (2001)
+iii)	The United Nations Convention on the use of Electronic Communications in International Contracts (2005)
+iv)	UNICTRAL Model Law on Electronic Commerce (1996)
+v)	UNICTRAL Model Law on Electronic Signatures (2001)
+
+The committee also held several workshops with stakeholders to further discuss the Bill.
+
+Observations and Recommendations
+
+The committee made the following observations and recommendations:
+
+Controller and other staff
+
+The committee noted that in Clause 21, there is no need for the minister to designate a public officer or be a controller of certification authorities.
+
+Recommendation
+
+The committee recommends that the National Information Technology Authority (NITA-Uganda) under their mandate of the NITA-U Act, is mandated to regulate the electronic signatures infrastructure in Uganda and it should be the controller of the certification authorities. 
+
+Obligation of confidentiality
+The committee observed that Section 81(1) makes it optional for a person not to obtain access to any electronic record or information from any other person.
+
+Recommendation
+
+The committee recommends that the provision should make it mandatory and unlawful for a person to grant access to information other than in the prescribed manner.
+
+Authorised officer
+
+The committee observed in Section 84(1) that the requirement for the minister’s authority is not necessary as Police officers are constitutionally-mandated to investigate and enforce penal provisions under the law.
+
+Recommendation
+
+The committee recommends that the provision be changed by omitting the requirement for the minister’s authority under this section.
+
+List of things seized
+
+The committee observed that the provision in Section 89(2) is likely to be abused if the officer merely has to post a list on the building.
+
+Recommendation
+
+The committee recommends that the officer should always post the list and give a copy to the local authorities. Involving the local authorities will ensure accountability and integrity of the process. There should be no exceptions or room for discretionary actions of the officer.
+
+Territorial jurisdiction
+
+The committee observed that there are no provisions in the Bill to give our courts extra-territorial jurisdiction.
+
+Recommendation
+The committee recommends that such a provision be included to cater for offences committed by any person in any place outside Uganda to be dealt with as if the offence had been committed in Uganda.
+
+Jurisdiction of courts
+
+The committee noted that there are no provisions in the Bill in respect of jurisdiction of courts.
+
+Recommendation
+
+The committee recommended that such a provision should be included to ensure that a court presided over by a Chief Magistrate or Grade 1 Magistrate has jurisdiction to hear and determine all offences in this Act and, notwithstanding anything to the contrary in any written law, has power to impose the full penalty or punishment in respect of any offence under this Act.
+
+Compensation 
+
+The committee observed that there is no provision for compensation in the Bill.
+
+Recommendation
+
+The committee recommended a compensation clause to ensure that where a person is convicted under this Act, the court shall, in addition to the punishment provided therein, order such a person to pay by way of compensation to the aggrieved party, such sum as is in the opinion of the court, having regard to the loss suffered by the aggrieved party.
+
+Conclusion
+
+Mr Speaker and hon. Members, the committee has proposed a number of amendments (as attached) and requests that at an appropriate time, the House considers these amendments to form part of the Bill.
+
+The proposed Bill when passed into law with the proposed amendments will make provisions for and regulate the use of electronic signatures, criminalisation of unauthorised access and modification of electronic signatures, determination of minimum requirements for functional equivalence of electronic signatures, modernisation and harmonisation of the laws relating to computer-generated evidence and amendments of the current laws to provide for admissibility and evidential weight of electronic communications.
+
+The stakeholders’ comments, observations, proposed amendments and recommendations to the Bill have also been attached to this report for further review by interested Members.
+
+The committee recommends that subject to the proposed amendments, the Electronic Signatures Bill, 2008 be passed into law.
+
+I beg to move Mr Speaker.
+
+THE SPEAKER: Thank you very much chairman and the committee for the report. Hon. Members, debate is open. (Laughter) 
+Well hon. Members, the motion is that a bill entitled, “The Electronic Signatures Bill, 2009” be read the second time.
+
+(Question put and agreed to.)
+
+BILLS
+COMMITTEE STAGE
+
+THE ELECTRONIC SIGNATURES BILL, 2009
+
+Clause 1
+
+THE CHAIRMAN: Hon. Members I propose that clause 1 stand part of the bill. I put the question.
+
+(Question put and agreed to.)
+
+Clause 2
+
+THE CHAIRPERSON, COMMITTEE ON INFORMATION & COMMUNICATION TECHNOLOGY (Mr Nathan Nabeta): Mr Chairman, Clause 2: Interpretation of “advanced electronic signature”. Delete the words “under his sole control” appearing at the end of paragraph (c). Justification is, it is difficult to prove in court.
+
+Interpretation of the word “certificate”. Rephrase the definition of certificate to read as follows: “Certificate means a data message or other records confirming the link between a signatory and a signature creation data”. Justification is, for consistency with the UNCITRAL Model Law on e-signature.
+
+Delete the interpretation of the phrase “certification authority” because it has been substituted with the phrase “certification service provider” in the bill.
+
+Insert the definition of the phrase “certification service provider” immediately after the definition of the phrase “certification practice statement”. “‘Certification service provider’ means a person that issues certificates and may provide other services related to electronic signatures”.
+
+Justification is, for consistency with the UNCITRAL Model Law on e-signature.
+
+Interpretation of the word “controller”. Rephrase the definition of “controller” to read as follows: “Controller” means National Information Technology Authority – Uganda. Justification is for consistency with the National Information Technology Authority – Uganda Act, 2009.
+
+Interpretation of the phrase “electronic signature”. Rephrase the definition of the phrase “electronic signature” to read as follows:  “electronic signature” means data in electronic form affixed to or logically associated with a data message, which may be used to identify the signatory in relation to the data message and indicate the signatory’s approval of the information contained in the data message; and includes an advanced electronic signature and the secure signature.
+
+Justification is, to correct the grammatical error.
+
+Interpretation of the word “person”. Rephrase the definition of the word “person” to read as follows: “Person” includes any company or association or body of persons corporate or un-incorporate. This is for consistency with the Interpretation Act, Cap 2.
+
+Insert the definition of the phrase “relying party” immediately after the definition of the phrase “recommended reliance limit”. “relying party”  means a person that may act on the basis of a certificate or an electronic signature. This is for clarity.
+
+MR KYANJO: Thank you, Mr Chairman. I have queries on 1(a) and (f). I do not know what the chair of the committee envisaged in saying that it is…in his justification, he says “difficult to prove in court”. I do not know which other is easy to prove in court by way of electronic signature. I am sure everything is difficult and this one was making it even safer. So, if you say “under his sole control” should be removed, are you making it easier to be understood by court or what?
+
+Then in (f), the definition has a problem; in my view, where he says, “‘electronic signature’ means data in electronic form affixed to or” – that is where I have a problem - “logically associated”. This is a broader statement; “logically associated”. Logic will run into the discretion of the judge or that of the user. What do you mean?
+
+MR NABETA: Mr Chairman, I did not get the second one. Our amendment in (f) is just grammatical and we were correcting. But on the interpretation of “advanced electronic signature”, we amended it, saying it is difficult to prove in court, because it is very difficult to prove that someone had the sole control. Some of these are publicly issued keys and it is difficult to prove that it is actually maintained under sole control. Therefore we wanted to make it broader for the judge’s discretion to look at the evidence to ascertain that.
+
+MR KYANJO: Mr Chairman, if someone has no control – personally – now, what are we protecting? What does the law intend to protect? ... No, the user is not protected. I do not think that justification is valid enough and I do not know whether this argument is understood by every Member. If you say “under his sole control” is away from this justification, from the phrases you want to keep… Just because you want to prove in court, then the user is not protected. I think he is not.
+
+MR NABETA: We are defining “advanced electronic signature” as:
+
+(a)	Uniquely linked to a signatory,
+(b)	Reliably capable of identifying the signatory and,
+(c)	Created using a secure signature creation device that the signatory can maintain under his sole control.
+
+The problem here is that, sometimes because of electronic signatures, you may not actually have it under your own control. You may go to a certification authority to issue an electronic signature and then you use it remotely from your office, not necessarily from your hands. So, we are leaving it for the judge to look at the evidence, to see whether when you sent the electronic signature, it was under your control or somebody else’s control. It is up to the evidence to determine that.
+
+MR KYANJO: Mr Chairman, we are just defeating ourselves if we remove this. If, by extension, you have allowed users to use your signature on your behalf, it is still within your own control. You should be able to stand in court and say, “I authorized them.” But if you remove it, then every other person can use it and this law will just be doing nothing.
+
+MR NABETA: Yes, you could authorise someone else to use your key to carry out some transaction, but they may decide to do other things which are not necessarily what you approved. Therefore, the judge will look at that and say, “Actually, that is your key but someone else was using it illegally.”
+
+THE CHAIRMAN: But hon. Members do you need more time…? Because this bill… Let us just clear it? (Laughter) Okay. I put the question on the proposed amendment by the committee or by the chairperson of the committee.
+
+(Question put and agreed to.)
+
+Clause 2, as amended, agreed to.
+
+Clause 3
+
+(Question put and agreed to.)
+
+Clause 3, agreed to.
+
+Clause 4
+
+(Question put and agreed to.)
+
+Clause 4, agreed to.
+
+Clause 5
+
+(Question put and agreed to.)
+
+Clause 5, agreed to.
+
+Clause 6
+
+(Question put and agreed to.)
+
+Clause 6, agreed to.
+
+Clause 7
+
+(Question put and agreed to.)
+
+Clause 7, agreed to.
+Clause 8
+
+(Question put and agreed to.)
+
+Clause 8, agreed to.
+
+Clause 9
+
+(Question put and agreed to.)
+
+THE CHAIRMAN: I put the question that Clause 9 stand part of the Bill.
+
+(Question put and agreed to.)
+
+Clause 9, agreed to.
+
+Clause 10
+
+THE CHAIRMAN: I put the question that Clause 10 stand part of the Bill.
+
+(Question put and agreed to.)
+
+Clause 10, agreed to.
+
+Clause 11, agreed to.
+
+Clause 12, agreed to.
+
+
+Clause 13
+MR NABETA: Mr Chairman, in Clause 13(b)(1), the committee proposes that we substitute for the words “certification authority” appearing in paragraph one with the words “certification service provider” and wherever those words appear in the Bill. The justification is for consistency with the UNCITRAL Model Law on e-commerce.
+
+THE CHAIRMAN: I put the question to the amendment as proposed by the committee chairperson.
+
+(Question put and agreed to.)
+
+
+Clause 13, as amended.
+
+THE CHAIRMAN: I put the question that Clause 13, as amended, stand part of the Bill.
+
+(Question put and agreed to.)
+
+Clause 13, as amended, agreed to.
+
+Clause 14
+
+THE CHAIRMAN: I put the question that Clause 14 stand part of the Bill.
+
+(Question put and agreed to.)
+
+Clause 14, agreed to.
+
+Clause 15, agreed to.
+
+Clause 16, agreed to.
+
+Clause 17, agreed to.
+
+Clause 18, agreed to.
+
+Clause 19, agreed to.
+
+Clause 20, agreed to.
+Clause 21
+
+MR NABETA: Mr Chairman, in Clause 21, the committee proposes that we delete the words “and other staff” appearing in the heading of sub clause (1).  The justification is that since the National Information Technology Authority Uganda under the NITA Act is mandated to regulate the Electronic Signatures Infrastructure in Uganda, the sub-clause is redundant.
+
+The committee also proposes that we delete the entire Clause 21 (3). The justification is that with the amendment made to the definition of controller, this sub-clause becomes redundant. 
+
+Lastly, we propose that Clause 21(4) be rephrased as follows: “The controller shall exercise its functions under this Act subject to such directions as to the general policy guidelines as maybe given by the minister.” This is done for the harmonisation with the NITA Act of Uganda, 2009.
+
+THE CHAIRMAN: I put the question to the amendment.
+
+(Question put and agreed to.)
+
+Clause 22, as amended
+
+THE CHAIRMAN: I put the question that Clause 22, as amended, stand part of the Bill.
+
+(Question put and agreed to.)
+
+Clause 21, as amended, agreed to.
+
+
+Clause 22
+
+MR NABETA: In Clause 22, the committee proposes that we substitute for the words “seventy two” appearing in sentence two, with the words “two hundred and forty” and for the word “three” appearing in sentence three with the words “ten respectively” to make the punishment more deterrent.
+
+THE CHAIRMAN: I now put the question to the amendment.
+
+(Question put and agreed to.)
+
+
+Clause 22, as amended.
+
+THE CHAIRMAN: I put the question that Clause 22, as amended, stand part of the Bill.
+
+(Question put and agreed to.)
+
+Clause 22, as amended, agreed to.
+
+Clause 23
+
+MR NABETA: Mr Chairman, in Clause 23(1), the committee proposes that we insert the words “in consultation with NITA-Uganda” immediately after the word “minister” appearing in sentence one. The justification is for technical input. And in Clause 23(2), we insert the words “in consultation with the National Information Technology Authority Uganda” immediately after the word “minister” appearing in sentence one. This is just for harmonization with the objectives of the NITA Act, 2009.
+
+THE CHAIRMAN: I now put the question to the amendment.
+
+(Question put and agreed to.)
+
+Clause 23, as amended
+
+THE CHAIRMAN: I put the question that Clause 23, as amended, stand part of the Bill.
+
+(Question put and agreed to.)
+
+Clause 23, as amended, agreed to.
+
+Clause 24
+
+THE CHAIRMAN: I put the question that Clause 24 stand part of the Bill.
+
+(Question put and agreed to.)
+
+Clause 24, agreed to.
+
+Clause 25, agreed to.
+
+Clause 26
+
+MR NABETA: Mr Chairman, in Clause 26(3), the committee proposes that we substitute the words “just cause” immediately after the word “valid” appearing in sentence two, with the words “to ensure that justice is done before the license is varied or amended.”
+
+THE CHAIRMAN: I now put the question to the amendment.
+
+(Question put and agreed to.)
+
+Clause 26, as amended.
+
+THE CHAIRMAN: I put the question that Clause 26, as amended, stand part of the Bill.
+
+(Question put and agreed to.)
+
+Clause 26, as amended, agreed to.
+
+Clause 27
+
+MR NABETA: Mr Chairman, in Clause 27(6), the committee proposes that we substitute for the words “seventy two” appearing in lines two and three with the words, “two hundred fourthy” and for the word “three” appearing in line three with the word “ten” to make the sentence more deterrent.
+
+THE CHAIRMAN: I now put the question to the amendment.
+
+(Question put and agreed to.)
+
+Clause 27, as amended.
+
+THE CHAIRMAN: I put the question that Clause 27, as amended, stand part of the Bill.
+
+(Question put and agreed to.)
+
+Clause 27, as amended, agreed to.
+
+Clause 28
+
+MR NABETA: Mr Chairman, in this clause, the committee proposes that the entire clause be rephrased to read as follows: “A person who is aggrieved by the refusal of the controller to license a certification service provider under Section 26, or to renew a license under Section 35, or (b) the revocation of a license under Section 27, may appeal, in writing, to the minister within 30 days from the date on which the notice of the refusal or revocation is served on that person. The minister shall, upon receipt of the appeal, respond within 30 days. And (3), a person not satisfied with the minister’s decision may appeal to the high court to provide a quick redress and due justice.”
+
+MR KYANJO: Thank you, Mr Chairman. I would like to object to the proposal that an appeal goes through the minister. My suggestion is that the complainant goes straight to the high court because if there occurs any connivance and collaboration with the minister in this regard and they stifle – this is business. Also, the 30 days you have indicated are too many, especially if there are issues to take the complainant to appeal court –(Interjections)– yes, but within does not mean if I wait up to 30 days, I cannot –(Interruption)
+
+MR ALINTUMA: Mr Chairman, it is not that the minister would wait until the 30 days elapse to act. The 30 days are for the person appealing; if he does not appeal within 30 days that appeal would not be valid. Basically, that is what it means.
+
+Also, I would like to say that realistically speaking, cases involving courts normally take long, yet there are certain things to do with electronics where the minister should be mandated to act quickly without any court procedures. If you do that, it does not serve the purpose as you may want it.
+
+If, for example, there are computers that have been attacked by a virus and you wait to go to the minister to apprehend the person involved, by the time the court proceedings are ended and action is taken, the whole country would be already infected with this virus. 
+
+In this case it is justifiable to say that the minister should be mandated to act quickly. It is only in certain situations where the case becomes too big - that is when one can opt for the high court.
+
+MR KYANJO: Mr Chairman, we are not in Utopia; we are in Uganda and I am very sure that ministers also engage in business. My fear is that the minister can connive with the authorities that be to stifle my business, for example. So, why don’t you allow me to go to court? If the court delays me, that is a different matter –(Interjections)– that is after the elapse of so many days.
+
+MR NABETA: No, actually, it is more to do with catering for small administrative issues. If you look at it in Clause 25 - on the application of a license, granting or refusal of a license, revocation of the license - we are looking at stages where there might be some bureaucratic issues that the minister can be able to address in a short time. Definitely in 30 days, if the minister is one of those, then you can go to court, but we are allowing the minister to handle the small administrative issues that could easily come up, and that is why we put a limit of 30 days; that he must respond within 30 days or else you go to court.
+
+MR KYANJO: Mr Chairman, what is the fear of allowing me to go to court?  Mr Chairman, I am addressing myself to you. What is the fear of the chairman of the committee in allowing me to go to court right away instead of going through the minister who has a whole 30 days to respond to me? To go to a minister who might be equally interested in a business I am transacting? What is the worry?
+
+MR BYANDALA: Mr Chairman, I want to appeal to my colleague, hon. Kyanjo. You know there is what we call procedure. This is administrative and that is why ministers are there; that is why this authorising officer is there. If you are not satisfied, they are not locking you out. They say okay you are not satisfied with us, go to court but why are you rushing? Why don’t you have confidence in your ministers? Why don’t you have confidence in the technical officers handling this? Nobody is stopping you and this is normal procedure, hon. Kyanjo.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 28, as amended, agreed to.
+
+Clause 29
+
+MR NABETA: Mr Chairman, in Clause 29(3) substitute the word “three” appearing in line five with the word “five” for a wider coverage.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 29, as amended, agreed to.
+
+Clause 30
+
+MR NABETA: Mr Chairman, in Clause 30(4) substitute the words “seventy two” appearing in line two with the words “two hundred and forty” and for the word “three” appearing in line three, the word “ten” respectively. This is to make the sentence more deterrent.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 30, as amended, agreed to.
+
+Clause 31, agreed to.
+
+Clause 32
+
+MR NABETA: Mr Chairman, in Clause 32(2) substitute for the words “forty eight” appearing in line two, the words “seventy two”; and for the word “two” appearing in line three, the word “three”; and for the words “two and a half” appearing in line five, the word “five” respectively, to make the sentence more deterrent.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 32, as amended, agreed to.
+
+Clause 33, agreed to.
+
+Clause 34
+
+MR NABETA: Mr Chairman, in Clause 34(2) substitute for the words “ninety six” appearing in line two, the words “one hundred and sixty eight” and for the word “four” appearing in line three the word “seventy” respectively. This is consequential to make the sentence more deterrent.
+
+MR BYANDALA: Mr Chairman, unfortunately I don’t have the Bill, but I am just wondering whether these changes in the fines are corresponding with the prison terms.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 34, as amended, agreed to.
+
+Clause 35
+
+MR NABETA: Mr Chairman, in Clause 35(3) substitute for the word “consequential” appearing in line six the word “five”. This is a consequential amendment.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 35, as amended, agreed to.
+
+Clause 36, agreed to.
+
+Clause 37, agreed to.
+
+Clause 38, agreed to.
+
+Clause 39, agreed to.
+
+Clause 40, agreed to.
+
+Clause 41
+
+MR NABETA: Mr Chairman, in Clause 41(2) rephrase the entire sub-clause to read as follows: “A person who contravenes sub-section (1) commits an offence and is liable upon conviction to a fine not exceeding twenty-four currency points or imprisonment not exceeding one year, or both, and in case of a continuing offence, shall in addition, be liable to a daily fine not exceeding two currency points for each day the offence continues”. This is to make the sentence more deterrent.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 41 as amended, agreed to.
+
+Clause 42, agreed to.
+
+Clause 43, agreed to.
+
+Clause 44
+
+MR NABETA: Mr Chairman, in Clause 44(2) substitute for the word “affecting” appearing in line three the word “effecting”. This is to correct a typographical error.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 44, as amended, agreed to.
+
+Clause 45, agreed to.
+
+Clause 46, agreed to.
+
+Clause 47, agreed to.
+
+Clause 48, agreed to.
+
+Clause 49, agreed to.
+
+Clause 50
+
+MR NABETA: Mr Chairman, in Clause 50(1), insert (c) following paragraph (b) for chronological numbering.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 50, as amended, agreed to.
+
+Clause 51, agreed to.
+
+Clause 52, agreed to.
+
+Clause 53, agreed to.
+
+Clause 54, agreed to.
+
+Clause 55, agreed to.
+
+Clause 56
+
+MR NABETA: Mr Chairman, substitute the word “chapter” appearing in line two with the word “part”. This is for consistency with the arrangement of clauses in the Bill.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 56, as amended, agreed to.
+
+Clause 57, agreed to.
+
+Clause 58, agreed to.
+
+Clause 59, agreed to.
+
+Clause 60, agreed to.
+
+Clause 61, agreed to.
+
+Clause 62, agreed to.
+
+  Clause 63, agreed to.
+
+Clause 64, agreed to.
+
+Clause 65, agreed to.
+
+Clause 66, agreed to.
+
+Clause 67, agreed to.
+
+Clause 68, agreed to.
+
+Clause 69, agreed to.
+
+Clause 70, agreed to.
+
+Clause 71, agreed to.
+
+Clause 72, agreed to.
+
+Clause 73, agreed to.
+
+Clause 74, agreed to.
+
+Clause 75, agreed to.
+
+Clause 76, agreed to.
+
+Clause 77, agreed to.
+
+Clause 78, agreed to.
+
+Clause 79, agreed to.
+
+Clause 80, agreed to.
+
+Clause 81
+
+MR NABETA: Mr Chairman, in Clause 81 we replace the word, “may” with “shall” and rephrase the whole sub-clause to read as follows: “Except for the purpose of this Act or for any prosecution for an offence under any written law or under an order of court, a person under any powers conferred under this Act shall not obtain access to any electronic record, book, register, correspondence, information, document, other material or grant access to any other person.” The justification is that the word, “shall” makes it mandatory thus making it certain. 
+
+THE CHAIRMAN: I put the question.
+   
+(Question put and agreed to.)
+
+Clause 81, as amended, agreed to.
+
+Clause 82
+
+MR NABETA: Mr Chairman, Clause 82 was consequential. Insert the word “knowingly” between the words “who” and “makes” appearing in line one. The justification is to provide for requisite knowledge. And substitute the word “inaccurate” appearing in line three with the word, “false.” The justification is for precision. 
+
+THE CHAIRMAN: I put the question.
+
+   (Question put and agreed to.
+
+Clause 82, as amended, agreed to.
+
+Clause 83, agreed to.
+
+Clause 84
+
+MR NABETA: Mr Chairman, Clause 84(1) rephrase the entire sub-clause to read as follows: “An authorised officer may exercise the powers of enforcement under this Act.” The justification is that it is the requirement of the minister’s authority is not necessary as Police officers are continuously mandated to investigate and enforce the Penal Code provisions.
+
+Clause 84(2) delete the entire sub-clause. It is redundant.
+ 
+THE CHAIRMAN: I put the question.
+
+   (Question put and agreed to.)
+
+Clause 84, as amended, agreed to.
+
+Clause 85
+
+MR NABETA: Mr Chairman, Clause 85(3) substitute the word, “sizeable” appearing in line four with the word, “all.” It is ambiguous.   
+
+THE CHAIRMAN: I put the question.
+
+   Question put and agreed to.
+
+Clause 85, as amended, agreed to.
+
+Clause 86
+
+MR NABETA: Mr Chairman, Clause 86(1) substitute the word, “inspector” appearing in line one with the word, “sergeant” for consistency with the provisions of the Police Act and in some parts of the country, officers at the level of inspector are few and this may hamper enforcement. 
+
+THE CHAIRMAN: I put the question.
+
+   Question put and agreed to.
+
+Clause 86, as amended, agreed to.
+
+Clause 87, agreed to.
+
+Clause 88
+
+MR NABETA: Mr Chairman, Clause 88(1) insert the word, “unlimited” between the words “give” and “access” appearing in line three. There is need to qualify access. 
+
+THE CHAIRMAN: I put the question.
+
+   Question put and agreed to.
+
+Clause 88, as amended, agreed to.
+
+Clause 89
+
+MR NABETA: Mr Chairman, Clause 89(2), rephrase the entire sub-clause to read as follows: “Where the premises are unoccupied, the phasing officer shall post a list of things phased conspicuously on the premises and leave a copy with the local authorities.” The justification is to ensure accountability and integrity of the process.  
+
+THE CHAIRMAN: I put the question.
+
+   (Question put and agreed to.)
+
+Clause 89, as amended, agreed to.
+
+Clause 90
+
+MR NABETA: Mr Chairman, Clause 90, insert the words, “in any way” between the words, “interferes” and “with” appearing in line one. The justification is that there are many ways in which an officer may be interfered with.
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 90, as amended, agreed to.
+
+Clause 91, agreed to.
+
+Clause 92, agreed to.
+
+Clause 93
+
+MR NABETA: Mr Chairman, in Clause 93(1), rephrase the entire sub-clause to read as follows: “A prosecution under this Act shall not be instituted except by or with the consent of the Director of Public Prosecution, but a person charged with such an offence may be arrested or a warrant for his or her arrest issued and executed and the person may be detained or released on Police bond notwithstanding that the consent of the DPP to the institution of a prosecution for the offence has not yet been obtained, but no further or other processes shall be taken until that consent has been obtained.” The justification is that it is for clarity. 
+
+THE CHAIRMAN: I put the question.
+
+(Question put and agreed to.)
+
+Clause 93, as amended, agreed to.
+
+Clause 94, agreed to.
+Clause 95
+
+MR NABETA: Mr Chairman, in Clause 95(b) delete the entire sub-clause because it is redundant.
+
+THE CHAIRMAN: I put the question.
+   (Question put and agreed to.)
+
+Clause 95, as amended, agreed to.
+
+Clause 96, agreed to.
+
+Clause 97
+
+MR NABETA: Mr Chairman, this is a consequential amendment. Substitute for the words, “twenty-four” with the words, “seventy-two” and “one year” with the words, “three years.” 
+
+THE CHAIRMAN: I put the question.
+
+   (Question put and agreed to.)
+
+Clause 97, as amended, agreed to.
+
+MR NABETA: Mr Chairman, before Clause 98, we wanted to insert a new clause, which reads as follows: “While a person is convicted under this Act, the court shall in addition to the punishment provided therein order such a person to pay by way of compensation to the aggrieved party such sum as in the opinion of the court just having regard to the loss suffered by the aggrieved and such order shall be a decree under the provisions of the civil procedures Act and shall be executed in the manner provided under this Act.”
+
+THE CHAIRMAN: This is to provide a new clause for compensation? I put the question to the amendment.
+
+(Question put and agreed to.)
+
+Clause 98, agreed to.
+
+Clause 99, agreed to.
+
+The Schedule, agreed to.
+
+The Title agreed to.
+
+MOTION FOR THE HOUSE TO RESUME
+
+4.10
+THE MINISTER OF STATE FOR INFORMATION COMMUNICATION TECHNOLOGY (Mr Alintuma Nsambu): Mr Chairman, I beg to move that the House do resume and the Committee of the Whole House reports thereto.
+
+THE CHAIRMAN: I put the question to the Motion.
+
+(Question put and agreed to.)
+
+(The House resumed and the Speaker presiding_)
+
+REPORT FROM THE COMMITTEE OF THE WHOLE HOUSE
+4.10
+THE MINISTER OF STATE FOR INFORMATION COMMUNICATION TECHNOLOGY (Mr Alintuma Nsambu):  Mr Speaker, I beg to report that the Committee of the Whole House has considered the Bill entitled, “The Electronic Signatures Bill, 2008” and passed it with amendments.
+
+MOTION FOR ADOPTION OF THE REPORT FROM THE COMMITTEE OF THE WHOLE HOUSE
+
+4.11
+THE MINISTER OF STATE FOR INFORMATION COMMUNICATION TECHNOLOGY (Mr Alintuma Nsambu): Mr Speaker, I beg to move that the report from the Committee of the Whole House be adopted.
+
+THE SPEAKER: I put the question to the Motion.
+
+(Question put and agreed to.)
+
+Report adopted.
+
+BILLS 
+THIRD READING 
+
+THE ELECTRONIC SIGNATURES BILL, 2009
+
+4.11
+THE MINISTER OF STATE FOR INFORMATION COMMUNICATION TECHNOLOGY (Mr Alintuma Nsambu): Mr Speaker, I beg to move that the Bill entitled, “The Electronic Signatures Bill, 2009” be read the third time and do pass.
+
+THE SPEAKER: I now put the question to the Motion.
+
+(Question put and agreed to.)
+
+A BILL FOR AN ACT ENTITLED, “THE ELECTRONIC SIGNATURES ACT 2010”
+
+THE SPEAKER: We have received sad news about the demise of our colleague in the last Parliament, Mr Omodi Okot, who died last night. The details of the burial will be given to you. I propose we observe a moment of silence.
+
+(The Members stood and observed a moment of silence.)
+
+THE SPEAKER: The good news is that last night we were able to get a Gold Medal through our son Kipsiro. We hope that we shall get more. (Applause)
+
+This is to remind you that this year’s National Prayer Breakfast will be held tomorrow at Imperial Royale, Primrose Hall, at 7.30 a.m. The Guest Speaker will be Professor Piet Naude, the Chief Guest will be the President of Burundi Pierre Nkuruziza, and the chief host will be His Excellency, Yoweri Kaguta Museveni. You are encouraged to attend the prayers in the spirit of our motto, “For God and My Country”.
+
+(The House rose at 4.15 p.m. and adjourned until Tuesday, 12 October 2010 at 2.00 p.m.) 
+
+
