@@ -1,4 +1,4 @@
-﻿
+
 PARLIAMENT OF UGANDA
 
 Tuesday, 5 July 2022
@@ -21,19 +21,19 @@ As you are aware, as legislators, we are the voice of the voiceless. We are the 
 
 Honourable members, today is the Third Sitting of the Second Session of the 11th Parliament of Uganda. As I said in the last sitting of the First Session, on 20 May 2022, we should strive to achieve even better than what we achieved in the previous Parliament. And, if we are to attain this, we have to be cognisant of the following pre-conditions:
 
-    1. Adequate preparation for committee and plenary business;
+Adequate preparation for committee and plenary business;
 
-    2. Dedication and commitment to all parliamentary activities in communities and in the House;
+Dedication and commitment to all parliamentary activities in communities and in the House;
 
-    3. Actual participation in committees and in the House. Some of you end in the committee and do not come to the House; you forget that we have a rule that if you miss 15 times, we can take you out of the House. So, you need to participate. 
+Actual participation in committees and in the House. Some of you end in the committee and do not come to the House; you forget that we have a rule that if you miss 15 times, we can take you out of the House. So, you need to participate. 
 
 I do not believe in the analysis that was done on the performance of Members of Parliament; it is not only about speaking in the House. Members of Parliament have four roles, and I do not even know where they got that information from. My Members of Parliament are working. I do not want to say they did not work simply because they did not speak. One may be speaking, but speaking nothing. Actual participation is at the committee level and in the House; that is what you were elected for. Come and participate in the House and in the committee. Do your oversight role; appropriation - I was surprised that during appropriation, we had a few people, yet that is your core role as Members of Parliament. You should know that it is going to your constituency, so, you should follow it up.
 
-    4. Effective evaluation of evidence in committees and the House: Let us have evidence-based debates in the House. Let us not just come in and say, “In Nakaseke this and this is happening”. What analysis have you done? Do you have empirical evidence to that effect? We should have both quantitative and qualitative research done. Let us be legislators;
+Effective evaluation of evidence in committees and the House: Let us have evidence-based debates in the House. Let us not just come in and say, “In Nakaseke this and this is happening”. What analysis have you done? Do you have empirical evidence to that effect? We should have both quantitative and qualitative research done. Let us be legislators;
 
-    5. Continuous engagement and responsiveness to the will of the populace: We have been having Members in the public demonstrating that kind of thing. We have to be involved;
+Continuous engagement and responsiveness to the will of the populace: We have been having Members in the public demonstrating that kind of thing. We have to be involved;
 
-    6. Ethical conduct and behaviour: When you are out there, you are honourable, whether in the morning or in the evening, whatever the time, you are honourable. You must maintain that conduct. 
+Ethical conduct and behaviour: When you are out there, you are honourable, whether in the morning or in the evening, whatever the time, you are honourable. You must maintain that conduct. 
 
 In the same vein, I urge the Executive - in the last meeting we held with the President, we agreed that at any one time of a sitting, we should have at least 30 per cent of the Executive in the House. I do not know whether we still respect the decision. 
 
@@ -142,18 +142,18 @@ THE SPEAKER: Thank you. We shall be waiting for your Bill at an appropriate time
 
 We have:
 
-    1. Hon. Moses Moyo, the Second Deputy Speaker;
-    2. Hon. Princess Kasune, the Deputy Government Chief Whip;
-    3. Hon. Mulambo Haimbe, the Minister for Justice;
-    4. Hon. Joel Chibuye;
-    5. Hon. Saiti Michelo;
-    6. Hon. Mutotwe;
-    7. Hon. Elias Musonda;
-    8. Hon. Marjorie Nakaponda;
-    9. Mr Kasanga;
-    10. Mr Katesi;
-    11. Mr Chirwa;
-    12. Mr Lombe Musonda. 
+Hon. Moses Moyo, the Second Deputy Speaker;
+Hon. Princess Kasune, the Deputy Government Chief Whip;
+Hon. Mulambo Haimbe, the Minister for Justice;
+Hon. Joel Chibuye;
+Hon. Saiti Michelo;
+Hon. Mutotwe;
+Hon. Elias Musonda;
+Hon. Marjorie Nakaponda;
+Mr Kasanga;
+Mr Katesi;
+Mr Chirwa;
+Mr Lombe Musonda. 
 
 You are all welcome. (Applause)
 
@@ -191,7 +191,7 @@ Members, can we have a very important thing that you need today – you need com
 BILLS
 FIRST READING
 
-    I) THE UGANDA HUMAN ORGAN DONATION AND TRANSPLANT BILL, 2021
+THE UGANDA HUMAN ORGAN DONATION AND TRANSPLANT BILL, 2021
 
 THE SPEAKER: Honourable members, as you may recall, this matter of organ transplant and donation has been a topical issue in the country for a while. More recently, we had debates about this issue of organ harvesting. We need a legal document to that effect for it to be effective and to avoid other implications. Having a legal regime will help this country. This was brought in the House and now it is coming for the first reading. Honourable minister?
 
@@ -204,7 +204,7 @@ I beg to lay.
 
 THE SPEAKER: Thank you, honourable minister. The Bill, is accordingly referred to the Committee on Health pursuant to rule 129 and the 45 days prescribed under rule 129(2). However, if we can have it even in 10 days, that will be better.
 
-    II) THE CONSTITUTION (AMENDMENT) BILL, 2022
+THE CONSTITUTION (AMENDMENT) BILL, 2022
 
 THE SPEAKER: Honourable members, on 11 November 2021, the House granted leave to Hon. Karubanga Jacob Ateenyi, MP Kibanda South County, to introduce the Constitution (Amendment) Bill, 2022. The Member duly obtained the Certificate of Financial Implications pursuant to Section 79 of the Public Finance Management Act, 2015. I now invite the Member to table his Bill for the first reading.
 
@@ -312,7 +312,7 @@ THE SPEAKER: Honourable members, that was a commercial break. (Laughter) Hon. At
 
 LAYING OF PAPERS
 
-    A) PETROLEUM FUND SEMI-ANNUAL REPORT ON INFLOWS, OUTFLOWS 
+PETROLEUM FUND SEMI-ANNUAL REPORT ON INFLOWS, OUTFLOWS 
 AND ASSETS FOR THE PERIOD ENDED 31ST DECEMBER 2021
 
 3.01
@@ -329,11 +329,11 @@ MR SOLOMON SILWANY (NRM, Bukooli County Central, Bugiri): Madam Speaker, because
 
 Madam Speaker, I beg to lay the report of the Auditor-General on the value-for-money audit and assessment of infrastructure projects implemented by local governments under the Uganda Inter-governmental Fiscal Transfers (UGIFT) Programme in the education and health sectors for October 2021 for the following districts:
 
-    1. Kapchorwa District Local Government;  
-    2. Kamuli District Local Government;
-    3. Lyantonde District Local Government;
-    4. Agago District Local Government; and
-    5. Kakumiro District Local Government.
+Kapchorwa District Local Government;  
+Kamuli District Local Government;
+Lyantonde District Local Government;
+Agago District Local Government; and
+Kakumiro District Local Government.
 
 Madam Speaker, I am being guided by one of my senior brothers that we lay one by one. I seek your indulgence.
 
@@ -341,29 +341,29 @@ THE SPEAKER: Can you read the document?
 
 MR SILWANY: Okay.
 
-    1. Kiruhura District Local Government;
-    2. Apac District Local Government;
-    3. Bukedea District Local Government;
-    4. Bugiri Municipal Council;
-    5. Buhweju District Local Government;
-    6. Alebtong District Local Government;
-    7. Bushenyi District Local Government;
-    8. Butambala District Local Government;
-    9. Serere District Local Government;
-    10. Sheema Municipal Council Local Government;
-    11. Sheema District Local Government;
-    12. Kiboga District Local Government;
-    13. Kibuuku District Local Government;
-    14. Kapchorwa Municipal Council;
-    15. Bugiri District Local Government;
-    16. Amolatar District Local Government;
-    17. Budaka District Local Government;
-    18. Dokolo District Local Government;
-    19. Mbarara Municipal Council;
-    20. Masaka District Local Government;
-    21. Kalungu District Local Government;
-    22. Mbarara District Local Government; and
-    23. Mitooma District Local Government.
+Kiruhura District Local Government;
+Apac District Local Government;
+Bukedea District Local Government;
+Bugiri Municipal Council;
+Buhweju District Local Government;
+Alebtong District Local Government;
+Bushenyi District Local Government;
+Butambala District Local Government;
+Serere District Local Government;
+Sheema Municipal Council Local Government;
+Sheema District Local Government;
+Kiboga District Local Government;
+Kibuuku District Local Government;
+Kapchorwa Municipal Council;
+Bugiri District Local Government;
+Amolatar District Local Government;
+Budaka District Local Government;
+Dokolo District Local Government;
+Mbarara Municipal Council;
+Masaka District Local Government;
+Kalungu District Local Government;
+Mbarara District Local Government; and
+Mitooma District Local Government.
 
 Madam Speaker, I beg to lay. 
 
@@ -374,37 +374,37 @@ MR SILWANY: May I invite the honourable commissioner to come and support me to l
 3.05
 MS ESTHER AFOYOCHAN (NRM, Woman Representative, Zombo): Madam Speaker, I beg to lay the report of the Auditor-General on the value-for-money audit and assessment of infrastructure projects implemented by local governments under the Uganda Inter-governmental Fiscal Transfers (UGIFT) Programme in the education and health sectors for October 2021 for the following entities:
 
-    1. Luweero District Local Government;
-    2. Butebo District Local Government;
-    3. Ibanda District Local Government;
-    4. Namayingo District Local Government;
-    5. Masindi District Local Government;
-    6. Gomba District Local Government;
-    7. Pader District Local Government;
-    8. Sironko District Local Government;
-    9. Mityana District Local Government;
-    10. Otuke District Local Government;
-    11. Kabarole District Local Government;
-    12. Kagadi District Local Government;
-    13. Masaka Municipal Council;
-    14. Sembabule District Local Government;  
-    15. Kabale District Local Government;
-    16. Kyankwanzi District Local Government;
-    17. Kole District Local Government;
-    18. Mubende Municipal Council; 
-    19. Mubende District Local Government;
-    20. Kamwenge District Local Government; 
-    21. Bulambuli District Local Government; 
-    22. Bunyangabo District Local Government;
-    23. Luuka District Local Government;
-    24. Pallisa District Local Government;
-    25. Bugweri District Local Government;
-    26. Nakaseke District Local Government;
-    27. Omoro District Local Government; 
-    28. Kyegegwa District Local Government;
-    29. Kamuli Municipal Council;
-    30. Katakwi District Local Government; and
-    31. Kassanda District Local Government.
+Luweero District Local Government;
+Butebo District Local Government;
+Ibanda District Local Government;
+Namayingo District Local Government;
+Masindi District Local Government;
+Gomba District Local Government;
+Pader District Local Government;
+Sironko District Local Government;
+Mityana District Local Government;
+Otuke District Local Government;
+Kabarole District Local Government;
+Kagadi District Local Government;
+Masaka Municipal Council;
+Sembabule District Local Government;  
+Kabale District Local Government;
+Kyankwanzi District Local Government;
+Kole District Local Government;
+Mubende Municipal Council; 
+Mubende District Local Government;
+Kamwenge District Local Government; 
+Bulambuli District Local Government; 
+Bunyangabo District Local Government;
+Luuka District Local Government;
+Pallisa District Local Government;
+Bugweri District Local Government;
+Nakaseke District Local Government;
+Omoro District Local Government; 
+Kyegegwa District Local Government;
+Kamuli Municipal Council;
+Katakwi District Local Government; and
+Kassanda District Local Government.
 
 Madam Speaker, I beg to lay.
 
@@ -503,25 +503,25 @@ MS NAKADAMA: Thank you. I was thanking the Members who joined ministers to go ar
 
 Madam Speaker, I start with the Committee on Agriculture, Animal Industry and Fisheries. On this committee, the Government side has designated the following Members:
 
-    1. Hon. Okori-Moe Janet	-	Chairperson 
-    2. Hon. Dr Agnes Atim	-	Vice-Chairperson
-    3. Hon. Aber Lillian
-    4. Hon. Akello Christine
-    5. Hon. Driwaru Jennifer 
-    6. Hon. Lokii John Baptist
-    7. Hon. Nyongore Enock
-    8. Hon. Kamukama Davis
-    9. Hon. Kabuura Derrick
-    10. Hon. Komol Joseph
-    11. Hon. Kesande Grace Bataringaya
-    12. Hon. Wakabi Pius
-    13. Hon. Magoola Rachel 
-    14. Hon. Migadde Robert Ndugwa
-    15. Hon. Muhumuza David
-    16. Hon. Begumisa Mary
-    17. Hon. Okumu Gabriel
-    18. Hon. Okot John Amos
-    19. Hon. Anywar Ricky Richard
+Hon. Okori-Moe Janet	-	Chairperson 
+Hon. Dr Agnes Atim	-	Vice-Chairperson
+Hon. Aber Lillian
+Hon. Akello Christine
+Hon. Driwaru Jennifer 
+Hon. Lokii John Baptist
+Hon. Nyongore Enock
+Hon. Kamukama Davis
+Hon. Kabuura Derrick
+Hon. Komol Joseph
+Hon. Kesande Grace Bataringaya
+Hon. Wakabi Pius
+Hon. Magoola Rachel 
+Hon. Migadde Robert Ndugwa
+Hon. Muhumuza David
+Hon. Begumisa Mary
+Hon. Okumu Gabriel
+Hon. Okot John Amos
+Hon. Anywar Ricky Richard
 
 Madam Speaker, I beg to designate.
 
@@ -542,24 +542,24 @@ THE SPEAKER: I thought we are on agriculture.
 
 MR NAMBESHE: Let me deal with agriculture. On the Committee on Agriculture, Animal Industry and Fisheries, for National Unity Platform, these are the Members.
 
-    1. Hon. Bwanika Abed
-    2. Hon. Mugabi Susan
-    3. Hon. Kyebakutika Manjeri
-    4. Hon. Matovu Charles
-    5. Hon. Nanyondo Veronica
+Hon. Bwanika Abed
+Hon. Mugabi Susan
+Hon. Kyebakutika Manjeri
+Hon. Matovu Charles
+Hon. Nanyondo Veronica
 
 Uganda People’s Congress 
 
-    1. Hon. Akora Maxwell
+Hon. Akora Maxwell
 
 Forum for Democratic Change
 
-    1. Hon. Apolot Stella Isodo
-    2. Hon. Ekanya Geofrey
+Hon. Apolot Stella Isodo
+Hon. Ekanya Geofrey
 
 Democratic Party 
 
-    1. Hon. Lukwago John Paul M.
+Hon. Lukwago John Paul M.
 
 I beg to designate, Madam Speaker.
 
@@ -589,11 +589,11 @@ THE SPEAKER: Independents.
 3.38
 MR DAVID ZIJJAN (Independent, Butembe County, Jinja): Thank you, Madam Speaker. For the record I am Zijjan David Livingstone, the Dean of Independents. To the Committee on Agriculture, Animal Industry and Fisheries, I propose to designate the following Members:
 
-    1. Hon. Moses Walyomu Muwanika of Kagoma County;
-    2. Hon. Julius Tusiime Karuhanga of Rwampara East County;
-    3. Hon. Martin Ojara Mapenduzi of Bardege-Layibi Division;
-    4. Hon. Julius Mukasa Opondo of Bujjumba; and
-    5. Hon. Baroda Kayanga of Kamuli Municipality. 
+Hon. Moses Walyomu Muwanika of Kagoma County;
+Hon. Julius Tusiime Karuhanga of Rwampara East County;
+Hon. Martin Ojara Mapenduzi of Bardege-Layibi Division;
+Hon. Julius Mukasa Opondo of Bujjumba; and
+Hon. Baroda Kayanga of Kamuli Municipality. 
 
 I beg to designate.
 
@@ -606,28 +606,28 @@ Committee on Defence and Internal Affairs
 3.40
 THE THIRD DEPUTY PRIME MINISTER AND MINISTER WITHOUT PORTFOLIO (Ms Rukia Nakadama): Madam Speaker, on the Committee on Defence and Internal Affairs, the Government side proposes to designate the following Members:
 
-    1. Hon. Rose Mary Nyakikongoro, the Chairperson; and
-    2. Hon. Milton Muwuma, the Deputy Chairperson.
+Hon. Rose Mary Nyakikongoro, the Chairperson; and
+Hon. Milton Muwuma, the Deputy Chairperson.
 
 Members include:
 
-    1. Hon. Godfrey Wakholi;
-    2. Hon. Jimbricky Noman Ochero;
-    3. Hon. Alex Niyonsaba;
-    4. Hon. Simon Peter Opolot;
-    5. Hon. Patrick Aeku;
-    6. Hon. Christine Nakwaga Tubo;
-    7. Hon. Peter Okeyoh;
-    8. Hon. Nuru Byamukama Joseph;
-    9. Hon. Donozio Mugabe;
-    10. Hon. Sauda Kawuma;
-    11. Hon. Alex Brandon Kintu;
-    12. Hon. Ibrahim Kyoto;
-    13. Hon. Bashir Lubega;
-    14. Hon. Peter Lokii Abrahams;
-    15. Hon. Robert Mwesigwa Rukaari;
-    16. Hon. John Bosco Ikojo; and
-    17. Hon. Agnes Acibu.
+Hon. Godfrey Wakholi;
+Hon. Jimbricky Noman Ochero;
+Hon. Alex Niyonsaba;
+Hon. Simon Peter Opolot;
+Hon. Patrick Aeku;
+Hon. Christine Nakwaga Tubo;
+Hon. Peter Okeyoh;
+Hon. Nuru Byamukama Joseph;
+Hon. Donozio Mugabe;
+Hon. Sauda Kawuma;
+Hon. Alex Brandon Kintu;
+Hon. Ibrahim Kyoto;
+Hon. Bashir Lubega;
+Hon. Peter Lokii Abrahams;
+Hon. Robert Mwesigwa Rukaari;
+Hon. John Bosco Ikojo; and
+Hon. Agnes Acibu.
 
 I beg to designate.
 
@@ -636,8 +636,8 @@ THE SPEAKER: Have you read hon. Mwesigwa Robert Rukaari? Okay. Thank you.
 3.41
 THE OPPOSITION CHIEF WHIP (MR JOHN BAPTIST NAMBESHE): Madam Speaker, on the Committee of Defence and Internal Affairs, I propose to designate:
 
-    1. Hon. Naboth Namanya of Rubabo County; and
-    2. Hon. Moses Okot Junior Bitek of Kioga. These are all on FDC tickets.
+Hon. Naboth Namanya of Rubabo County; and
+Hon. Moses Okot Junior Bitek of Kioga. These are all on FDC tickets.
 
 On the UPC ticket, we have hon. Jonathan Odur and on the National Unity Platform, we have hon. Francis Katabazi of Kalungu East, hon. Abdullah Kiwanuka of Mukono County North and hon. Betty Bakileke Nambooze of Mukono Municipality.
 
@@ -653,10 +653,10 @@ THE SPEAKER: Thank you. The Independents -
 3.43
 MR DAVID ZIJJAN (Independent, Butembe County, Jinja): Regarding the Independents to the Committee on Defence and Internal Affairs, Madam Speaker, I propose to designate:
 
-    1. Hon. William Museveni of Buwekula;
-    2. Hon. Stephen Kangwagye Rwakanuma of Bukanga;
-    3. Hon. Rauben Arinaitwe of Isingiro West; and 
-    4. Hon. Margret Lamwaka of Chua East.
+Hon. William Museveni of Buwekula;
+Hon. Stephen Kangwagye Rwakanuma of Bukanga;
+Hon. Rauben Arinaitwe of Isingiro West; and 
+Hon. Margret Lamwaka of Chua East.
 
 I beg to designate.
 
@@ -671,23 +671,23 @@ THE THIRD DEPUTY PRIME MINISTER AND MINISTER WITHOUT PORTFOLIO (Ms Rukia Nakadam
 
 The members include:
 
-    1. Hon. Lamwo Ismail Mohammed; 
-    2. Hon. Apollo Masika;
-    3. Hon. John Bosco Ngoya;
-    4. Hon. Sarah Kayagi Netalisire; 
-    5. Hon. Moses Ogwal Goli;
-    6. Hon. Jallon Anthony Okullo Aabuka;
-    7. Hon. Hellen Kahunde;
-    8. Hon. John Kamara Nzeyimana;
-    9. Hon. Anthony Esenu;
-    10. Hon. James Baba Boliba;
-    11. Hon. David Wakikona;
-    12. Hon. Tom Alero Aza;
-    13. Hon. Joel Leku;
-    14. Hon. Luke Kyobe Nnesinko;
-    15. Hon. Remigio Achia;
-    16. Hon. Jancinta Atuto; and
-    17. Hon. Michael Mawanda Maranga.
+Hon. Lamwo Ismail Mohammed; 
+Hon. Apollo Masika;
+Hon. John Bosco Ngoya;
+Hon. Sarah Kayagi Netalisire; 
+Hon. Moses Ogwal Goli;
+Hon. Jallon Anthony Okullo Aabuka;
+Hon. Hellen Kahunde;
+Hon. John Kamara Nzeyimana;
+Hon. Anthony Esenu;
+Hon. James Baba Boliba;
+Hon. David Wakikona;
+Hon. Tom Alero Aza;
+Hon. Joel Leku;
+Hon. Luke Kyobe Nnesinko;
+Hon. Remigio Achia;
+Hon. Jancinta Atuto; and
+Hon. Michael Mawanda Maranga.
 
 I beg to designate, Madam Speaker. 
 
@@ -696,13 +696,13 @@ THE SPEAKER: Did I hear hon. Kibalya on your list? Okay. Yes, the Opposition.
 3.46
 THE OPPOSITION CHIEF WHIP (Mr John Baptist Nambeshe): Madam Speaker, on the Committee on East African Community Affairs, I have:
 
-    1. Hon. Gilbert Olanya of Kilak South (FDC); and
-    2. Hon. Tom Ekudo Julius of Kwani (FDC). 
+Hon. Gilbert Olanya of Kilak South (FDC); and
+Hon. Tom Ekudo Julius of Kwani (FDC). 
 
 On National Unity Platform we have:
 
-    3. Hon. Aloysius Mukasa Talton of Lubaga South; and 
-    4. Hon. Paul Nsubuga of Busiro North.
+Hon. Aloysius Mukasa Talton of Lubaga South; and 
+Hon. Paul Nsubuga of Busiro North.
 
 I beg to designate, Madam Speaker.
 
@@ -711,10 +711,10 @@ THE SPEAKER: Thank you. Independents, please give us your members.
 3.46
 MR DAVID ZIJJAN (Independent, Butembe County, Jinja): Thank you, Madam Speaker. To the Committee on East African Community Affairs, I designate:
 
-    1. Hon. Idah Nantaba Erios District Woman Representative Kayunga;
-    2. Hon. John Musila of Bubulo East;
-    3. Hon. Connie Nakayenze Galiwango,  Woman Representative for Mbale City; and 
-    4. Hon. Agnes Ameede, Woman Representative for Butebo.
+Hon. Idah Nantaba Erios District Woman Representative Kayunga;
+Hon. John Musila of Bubulo East;
+Hon. Connie Nakayenze Galiwango,  Woman Representative for Mbale City; and 
+Hon. Agnes Ameede, Woman Representative for Butebo.
 
 I beg to designate. 
 
@@ -732,37 +732,37 @@ THE SPEAKER: Education and Sports -
 3.48
 THE THIRD DEPUTY PRIME MINISTER AND MINISTER WITHOUT PORTFOLIO (Ms Rukia Nakadama):  On the Committee on Education and Sports, the Government side has:
 
-    1. Hon. John Twesigye Ntamuhiira – Chairperson
-    2. Hon. Eng. Cuthbert Abigaba Mirembe – Vice-Chairperson
-    3. Hon. Molly Asimwe Musiime – Member
-    4. Hon. Dorothy Nyakato – Member
-    5. Hon. Phiona Nyamutoro – Member
-    6. Hon. Jane Awich – Member
-    7. Hon. Josyline Kamateneti – Member
-    8. Hon. James Kubeketerya – Member
-    9. Hon. Phillips Lokwang Ilukol – Member
-    10. Hon. Abdul Mutumba – Member
-    11. Hon. Isaac Etuka – Member
-    12. Hon. Sharifah Taban – Member
-    13. Hon. Lillian Paparu Obiale – Member
-    14. Hon. Annet Katusiime Mugisha – Member
-    15. Hon. Joram Tibasiimwa Ruranga – Member
-    16. Hon. Aggrey Henry Bagiire – Member
-    17. Hon. Beatrice Akello – Member
-    18. Hon. Catherine Akumu Mavenjina – Member
-    19. Hon. Patrick Bingi Nyanzi – Member
+Hon. John Twesigye Ntamuhiira – Chairperson
+Hon. Eng. Cuthbert Abigaba Mirembe – Vice-Chairperson
+Hon. Molly Asimwe Musiime – Member
+Hon. Dorothy Nyakato – Member
+Hon. Phiona Nyamutoro – Member
+Hon. Jane Awich – Member
+Hon. Josyline Kamateneti – Member
+Hon. James Kubeketerya – Member
+Hon. Phillips Lokwang Ilukol – Member
+Hon. Abdul Mutumba – Member
+Hon. Isaac Etuka – Member
+Hon. Sharifah Taban – Member
+Hon. Lillian Paparu Obiale – Member
+Hon. Annet Katusiime Mugisha – Member
+Hon. Joram Tibasiimwa Ruranga – Member
+Hon. Aggrey Henry Bagiire – Member
+Hon. Beatrice Akello – Member
+Hon. Catherine Akumu Mavenjina – Member
+Hon. Patrick Bingi Nyanzi – Member
 
 Madam Speaker, I beg to designate.
 
 3.49
 The chief opposition whip (Mr John Baptist Nambeshe): On the Committee on Education and Sports, we have:
 
-    1. Hon. Emmanuel Ongiertho, Jonam County (FDC)
-    2. Hon. Denis Oguzu Lee, Maracha County (FDC)
-    3. Hon. Brenda Nabukenya, Luwero District (NUP)
-    4. Hon. Joseph Ssewungu, Kalungu West (NUP)
-    5. Hon. Patrick Nsamba Oshabe, Kassanda County North (NUP)
-    6. Hon. Michael Kekembo, Entebbe Municipality (NUP)
+Hon. Emmanuel Ongiertho, Jonam County (FDC)
+Hon. Denis Oguzu Lee, Maracha County (FDC)
+Hon. Brenda Nabukenya, Luwero District (NUP)
+Hon. Joseph Ssewungu, Kalungu West (NUP)
+Hon. Patrick Nsamba Oshabe, Kassanda County North (NUP)
+Hon. Michael Kekembo, Entebbe Municipality (NUP)
 
 I beg to designate.
 
@@ -771,11 +771,11 @@ The Speaker: Independents?
 3.50
 Mr david zijjan (Independent, Butembe County, Jinja): On the Committee on Education and Sports, we have:
 
-    1. Hon. Rev. Fr. Charles Onen, Laroo-Pece Division
-    2. Hon. Geoffrey Macho, Busia Municipality
-    3. Hon. Silas Aogon, Kumi Municipality
-    4. Hon. Ronald Aled Akugizibwe, Buruli County
-    5. Hon. Jonathan Ebwalu, Soroti West Division.
+Hon. Rev. Fr. Charles Onen, Laroo-Pece Division
+Hon. Geoffrey Macho, Busia Municipality
+Hon. Silas Aogon, Kumi Municipality
+Hon. Ronald Aled Akugizibwe, Buruli County
+Hon. Jonathan Ebwalu, Soroti West Division.
 
 I beg to designate.
 
@@ -793,39 +793,39 @@ The Speaker: The Committee on Finance, Planning and Economic Development.
 3.52
 The third deputy prime minister and minister without portfolio (Ms Rukia Nakadama): On the Committee on Finance, Planning and Economic Development, the Government side designates:
 
-    1. Dr Keefa Kiwanuka – Chairperson
-    2. Hon. Jane Avur Pacuto – Vice-Chairperson
-    3. Hon. Ignatius Womakuyu Mudimi – Member 
-    4. Hon. Amos Kankunda Kibwika – Member
-    5. Hon. Jackson Atima Lee Buti – Member
-    6. Hon. Basil Bataringaya Rwankwene – Member
-    7. Hon. Enos K. Asiimwe – Member
-    8. Hon. Moses Aleper - Member
-    9. Hon. Isaac Ssejjoba – Member
-    10. Hon. Herbert Tayebwa Musasizi – Member
-    11. Hon. John Lematia – Member
-    12. Hon. Xavier Kyooma Akampurira – Member
-    13. Hon. Faith Nakut Loru – Member
-    14. Hon. Gerald Nangoli – Member
-    15. Hon. Loy Katali – Member
-    16. Hon. Maxmus Ochai – Member
-    17. Hon. Opolot Isiagi Patrick – Member
-    18. Hon. Richard Wanda – Member
-    19. Hon. Samuel Okwir – Member
+Dr Keefa Kiwanuka – Chairperson
+Hon. Jane Avur Pacuto – Vice-Chairperson
+Hon. Ignatius Womakuyu Mudimi – Member 
+Hon. Amos Kankunda Kibwika – Member
+Hon. Jackson Atima Lee Buti – Member
+Hon. Basil Bataringaya Rwankwene – Member
+Hon. Enos K. Asiimwe – Member
+Hon. Moses Aleper - Member
+Hon. Isaac Ssejjoba – Member
+Hon. Herbert Tayebwa Musasizi – Member
+Hon. John Lematia – Member
+Hon. Xavier Kyooma Akampurira – Member
+Hon. Faith Nakut Loru – Member
+Hon. Gerald Nangoli – Member
+Hon. Loy Katali – Member
+Hon. Maxmus Ochai – Member
+Hon. Opolot Isiagi Patrick – Member
+Hon. Richard Wanda – Member
+Hon. Samuel Okwir – Member
 
 I beg to designate.  
 
 3.53
 The chief opposition whip (Mr John Baptist Nambeshe): Madam Speaker, on the Committee on Finance, Planning and Economic Development, we designate are:
 
-    1. Hon. Patrick Ocan, Apac Municipality (UPC)
-    2. Hon. Luttamaguzi Semakula, Nakaseke South (DP)
-    3. Hon. Nandala-Mafabi, Budadiri County West (FDC)
-    4. Hon. Anthony Akol, Kilak North (FDC)
-    5. Hon. Hanifa Nabukeera, Mukono District (NUP)
-    6. Hon. Muwanga Kivumbi, Butambala County (NUP)
-    7. Hon. Joel Ssenyonyi, Nakawa Division West (NUP)
-    8. Hon. Flavia Kalule Nabagabe, Kassanda District (NUP)
+Hon. Patrick Ocan, Apac Municipality (UPC)
+Hon. Luttamaguzi Semakula, Nakaseke South (DP)
+Hon. Nandala-Mafabi, Budadiri County West (FDC)
+Hon. Anthony Akol, Kilak North (FDC)
+Hon. Hanifa Nabukeera, Mukono District (NUP)
+Hon. Muwanga Kivumbi, Butambala County (NUP)
+Hon. Joel Ssenyonyi, Nakawa Division West (NUP)
+Hon. Flavia Kalule Nabagabe, Kassanda District (NUP)
 
 I beg to designate. 
 
@@ -839,11 +839,11 @@ The speaker: Independents?
 3.55
 Mr david zijjan (Independent, Butembe County, Jinja): On the Committee on Finance, Planning and Economic Development, the Independents designate:
 
-    1. Hon. Paul Omara, Otuke County
-    2. Hon. Muhammad Nsereko, Kampala Central Division
-    3. Hon. Paska Aciro Menya, Pader District
-    4. Hon. Juliet Kinyamatama Suubi, Rakai District
-    5. Hon. Karim Masaba, Industrial Division, Mbale 
+Hon. Paul Omara, Otuke County
+Hon. Muhammad Nsereko, Kampala Central Division
+Hon. Paska Aciro Menya, Pader District
+Hon. Juliet Kinyamatama Suubi, Rakai District
+Hon. Karim Masaba, Industrial Division, Mbale 
 
 I beg to designate.
 
@@ -856,37 +856,37 @@ The Speaker: Committee on Foreign Affairs.
 3.56 
 The third deputy prime minister and minister without portfolio (Ms Rukia Nakadama): Madam Speaker, on the Committee on Foreign Affairs, the Government side designates:
 
-    1. Hon. Norah Bigirwa Nyendwoha – Chairperson
-    2. Hon. Boaz Ninsiima Kasirabo – Vice-Chairperson
-    3. Hon. Judith Peace Achan – Member
-    4. Hon. Sulaiman Hashim – Member
-    5. Hon. Yona Kayogera – Member
-    6. Hon. Boniface Henry Okot – Member
-    7. Hon. Noah Mutebi Wanzala – Member
-    8. Hon. Patrick Mutono Lodoi – Member
-    9. Hon. Stephen B. Kisa – Member
-    10. Hon. Zumura Maneno – Member
-    11. Hon. Muhammed Kato – Member
-    12. Hon. Jenifer Muheesi Abaho – Member
-    13. Hon. Abraham Isamat – Member
-    14. Hon. Fred Opolot – Member
-    15. Hon. Patience Kinshaba Nkunda – Member 
-    16. Hon. Prossy Akampurira – Member
-    17. Hon. Felix Okot-Ogong – Member
-    18. Hon. James Olobo - Member 
+Hon. Norah Bigirwa Nyendwoha – Chairperson
+Hon. Boaz Ninsiima Kasirabo – Vice-Chairperson
+Hon. Judith Peace Achan – Member
+Hon. Sulaiman Hashim – Member
+Hon. Yona Kayogera – Member
+Hon. Boniface Henry Okot – Member
+Hon. Noah Mutebi Wanzala – Member
+Hon. Patrick Mutono Lodoi – Member
+Hon. Stephen B. Kisa – Member
+Hon. Zumura Maneno – Member
+Hon. Muhammed Kato – Member
+Hon. Jenifer Muheesi Abaho – Member
+Hon. Abraham Isamat – Member
+Hon. Fred Opolot – Member
+Hon. Patience Kinshaba Nkunda – Member 
+Hon. Prossy Akampurira – Member
+Hon. Felix Okot-Ogong – Member
+Hon. James Olobo - Member 
 
 Madam Speaker, I beg to designate. 
 
 3.58
 THE CHIEF OPPOSITION WHIP (Mr John Baptist Nambeshe): Madam Speaker, on the Committee on Foreign Affairs, the Opposition designates the following: 
 
-    1. Hon. Bob Okae – Kwania North (UPC) 
-    2. Hon. Richard Lumu – Mityana North (DP) 
-    3. Hon. Okin P.P. Ojara – Chua West County (FDC) 
-    4. Hon. Lucy Akello – Amuru (FDC) 
-    5. Hon. Muwada Nkunyingi – Kyadondo County West (NUP)
-    6. Hon. Allan Ssewanyana – Makindye Division West (NUP)
-    7. Hon. Stephen Sserubula – Lugazi Municipality (NUP)
+Hon. Bob Okae – Kwania North (UPC) 
+Hon. Richard Lumu – Mityana North (DP) 
+Hon. Okin P.P. Ojara – Chua West County (FDC) 
+Hon. Lucy Akello – Amuru (FDC) 
+Hon. Muwada Nkunyingi – Kyadondo County West (NUP)
+Hon. Allan Ssewanyana – Makindye Division West (NUP)
+Hon. Stephen Sserubula – Lugazi Municipality (NUP)
 
 I beg to designate, Madam Speaker. 
 
@@ -896,11 +896,11 @@ COL. VICTOR NEKESA (UPDF Representative): Madam Speaker, for the Committee on Fo
 4.00
 MR DAVID ZIJJAN (Independent, Butembe County, Jinja): To the Committee on Foreign Affairs, the Independents designate the following: 
 
-    1. Hon. Allan Atugonza – Buliisa County 
-    2. Hon. Peter Ochen – Kole South
-    3. Hon. Vincent Obong – Lira West Division 
-    4. Hon. Christopher Komakech – Aruu County 
-    5. Hon. Nathan Twesigye – Kashari South County 
+Hon. Allan Atugonza – Buliisa County 
+Hon. Peter Ochen – Kole South
+Hon. Vincent Obong – Lira West Division 
+Hon. Christopher Komakech – Aruu County 
+Hon. Nathan Twesigye – Kashari South County 
 
 THE SPEAKER: Thank you. I put a question that the Committee on Foreign Affairs be constituted as proposed. 
 
@@ -910,37 +910,37 @@ COMMITTEE ON GENDER, LABOUR AND SOCIAL DEVELOPMENT
 4.02 
 THE THIRD DEPUTY PRIME MINISTER AND MINISTER WITHOUT PORTFOLIO (Ms Rukia Nakadama): On behalf of the Government side, I beg to designate the following honourable members to the Committee on Gender, Labour and Social Development:
 
-    1. Hon. Flavia Kabahenda – Chairperson
-    2. Hon. Sarah Najjuma – Vice-Chairperson 
-    3. Hon. Linda Irene – Member 
-    4. Hon. Charles Bakkabulindi – Member  
-    5. Hon. Dorcas Acen – Member  
-    6. Hon. Melsa Avako – Member
-    7. Hon. Laura Kanushu – Member
-    8. Hon. Kevin Kaala Ojinga – Member
-    9. Hon. Jeniffer Ayo – Member  
-    10. Hon. Peterkhen Locap – Member
-    11. Hon. Iddi Isabirye – Member  
-    12. Hon. Pamela Kamugo – Member 
-    13. Hon. Tonny Ayoo – Member 
-    14. Hon. Linos Ngompek – Member
-    15. Hon. Arinaitwe Rwakajara – Member
-    16. Hon. Peggy Waako – Member  
-    17. Hon. Florence Asiimwe – Member 
-    18. Hon. Yona Musinguzi - Member 
-    19. Hon. William Chemonges - Member
+Hon. Flavia Kabahenda – Chairperson
+Hon. Sarah Najjuma – Vice-Chairperson 
+Hon. Linda Irene – Member 
+Hon. Charles Bakkabulindi – Member  
+Hon. Dorcas Acen – Member  
+Hon. Melsa Avako – Member
+Hon. Laura Kanushu – Member
+Hon. Kevin Kaala Ojinga – Member
+Hon. Jeniffer Ayo – Member  
+Hon. Peterkhen Locap – Member
+Hon. Iddi Isabirye – Member  
+Hon. Pamela Kamugo – Member 
+Hon. Tonny Ayoo – Member 
+Hon. Linos Ngompek – Member
+Hon. Arinaitwe Rwakajara – Member
+Hon. Peggy Waako – Member  
+Hon. Florence Asiimwe – Member 
+Hon. Yona Musinguzi - Member 
+Hon. William Chemonges - Member
 
 Madam Speaker, I beg to designate. 
 
 4.04
 THE CHIEF OPPOSITION WHIP (Mr John Baptist Nambeshe): On the Committee on Gender, Labour and Social Development, the Opposition designates the following: 
 
-    1. Hon. Joab Businge – Masindi Municipality (FDC)
-    2. Hon. Harold Muhindo – Bukono County East (FDC)
-    3. Hon. Fortunate Nantongo – Kyotera (DP)
-    4. Hon. Frank Kabuye – Kassanda County South (NUP) 
-    5.  Hon. Hillary Kiyaga – Mawokota County North (NUP)
-    6.  Hon. Allan Mayanja – Nakaseke Central County (NUP)
+Hon. Joab Businge – Masindi Municipality (FDC)
+Hon. Harold Muhindo – Bukono County East (FDC)
+Hon. Fortunate Nantongo – Kyotera (DP)
+Hon. Frank Kabuye – Kassanda County South (NUP) 
+ Hon. Hillary Kiyaga – Mawokota County North (NUP)
+ Hon. Allan Mayanja – Nakaseke Central County (NUP)
 
 I beg to designate, Madam Speaker. 
 
@@ -950,10 +950,10 @@ COL VICTOR NEKESA (UPDF Representative): Madam Speaker, there is no Member desig
 4.06 
 MR DAVID ZIJJAN (Independent, Butembe County, Jinja): On the Committee on Gender, Labour and Social Development, the Independents designate the following Members: 
 
-    1. Hon. Arthur Waako – Budaka County
-    2. Hon. Abdulhu Byakatonda – Workers’ Representative
-    3. Hon. Miriam Mukhaye – Woman Representative, Mbale 
-    4. Hon. Margaret Rwabushaija – Workers’ Representative
+Hon. Arthur Waako – Budaka County
+Hon. Abdulhu Byakatonda – Workers’ Representative
+Hon. Miriam Mukhaye – Woman Representative, Mbale 
+Hon. Margaret Rwabushaija – Workers’ Representative
 
 I beg to designate. 
 
@@ -965,38 +965,38 @@ COMMITTEE ON HEALTH
 4.07
 THE THIRD DEPUTY PRIME MINISTER AND MINISTER WITHOUT PORTFOLIO (Ms Rukia Nakadama): On the Committee on Health, the Government side designates the following Members: 
 
-    1. Hon. Charles Ayume – Chairperson 
-    2. Hon. Yoweri Ssebikaali – Vice-chairperson 
-    3. Hon. John Ninkusiima – Member 
-    4. Hon. Brenda Namukuta – Member
-    5. Hon. Hope Nakazibwe – Member 
-    6. Hon. Ruth Lematia – Member  
-    7. Hon. Sharon Balmoyi - Member 
-    8. Hon. Josephine Bebona – Member 
-    9. Hon. Betty Chelain – Member  
-    10. Hon. George Bhoka – Member 
-    11. Hon. Dan Atwijukire – Member 
-    12. Hon. Isaac Otim – Member 
-    13. Hon. Margaret Ayebare - Member 
-    14. Hon. Erisa Rutahigwa – Member
-    15. Hon. Joseph Ruyonga – Member
-    16. Hon. Bernard Sekyanzi - Member 
-    17. Hon. Irene Muloni – Member
-    18. Hon. Esther Mbayo - Member 
-    19. Hon. Tarsis Rwabuirindore - Member 
+Hon. Charles Ayume – Chairperson 
+Hon. Yoweri Ssebikaali – Vice-chairperson 
+Hon. John Ninkusiima – Member 
+Hon. Brenda Namukuta – Member
+Hon. Hope Nakazibwe – Member 
+Hon. Ruth Lematia – Member  
+Hon. Sharon Balmoyi - Member 
+Hon. Josephine Bebona – Member 
+Hon. Betty Chelain – Member  
+Hon. George Bhoka – Member 
+Hon. Dan Atwijukire – Member 
+Hon. Isaac Otim – Member 
+Hon. Margaret Ayebare - Member 
+Hon. Erisa Rutahigwa – Member
+Hon. Joseph Ruyonga – Member
+Hon. Bernard Sekyanzi - Member 
+Hon. Irene Muloni – Member
+Hon. Esther Mbayo - Member 
+Hon. Tarsis Rwabuirindore - Member 
 
 I beg to designate. 
 
 4.08
 THE CHIEF OPPOSITION WHIP (Mr John Baptist Nambeshe): For the Committee on Health, the Opposition designates the following: 
 
-    1. Hon. Kenny Auma – Kwania (UPC)
-    2. Hon. Michael Lulume Bayigga - Buikwe (DP)
-    3. Hon. Christine Nandagire – Bukomansimbi (NUP) 
-    4. Hon. Twaha Kagabo – Bukoto County South (NUP) 
-    5. Hon. Francis Zaake – Mityana Municipality (NUP) 
-    6. Hon. Nicholas Kamara – Kabale Municipality (FDC)
-    7. Hon. Timothy Batuwa – Jinja South Division West (FDC)
+Hon. Kenny Auma – Kwania (UPC)
+Hon. Michael Lulume Bayigga - Buikwe (DP)
+Hon. Christine Nandagire – Bukomansimbi (NUP) 
+Hon. Twaha Kagabo – Bukoto County South (NUP) 
+Hon. Francis Zaake – Mityana Municipality (NUP) 
+Hon. Nicholas Kamara – Kabale Municipality (FDC)
+Hon. Timothy Batuwa – Jinja South Division West (FDC)
 
 I beg to designate, Madam Speaker.
 
@@ -1010,11 +1010,11 @@ THE SPEAKER: Thank you. Independents?
 4.09
 MR DAVID ZIJJAN (Independent, Butembe County, Jinja): To the Committee on Health, Madam Speaker, the Independents designate:
 
-    1. Hon. Margaret Makhoha - Woman Representative, Namayingo; 
-    2. Hon. Mary Nakato - Woman Representative, Buyende; 
-    3. Hon. Samuel Opio - Kole North County;
-    4. Hon. Sylvia Bahireira - Woman Representative, Kamwenge; and 
-    5. Hon. Victorious Zawedde - Woman Representative, Nakasongola. 
+Hon. Margaret Makhoha - Woman Representative, Namayingo; 
+Hon. Mary Nakato - Woman Representative, Buyende; 
+Hon. Samuel Opio - Kole North County;
+Hon. Sylvia Bahireira - Woman Representative, Kamwenge; and 
+Hon. Victorious Zawedde - Woman Representative, Nakasongola. 
 
 I beg to designate.
 
@@ -1027,28 +1027,28 @@ THE SPEAKER: Committee on Information, Communication Technology (ICT) and Nation
 4.10
 THE THIRD DEPUTY PRIME MINISTER AND MINISTER WITHOUT PORTFOLIO (Ms Rukia Nakadama): Under the Committee on Information, Communication Technology (ICT)  and National Guidance, the Government side designates:
 
-    1. Hon. Moses Magogo - Chairperson 
-    2. Hon. Nathan Nabeta-Igeme - Vice-Chairperson.
+Hon. Moses Magogo - Chairperson 
+Hon. Nathan Nabeta-Igeme - Vice-Chairperson.
 
 Other Members, we have are:
 
-    3. Hon. Cosmas Elotu;
-    4. Hon. Barnabas Tinkasiimire;
-    5. Hon. Alex Ndeezi;
-    6. Hon. Phyllis Chemutai;
-    7. Hon. Ferigo Kambale;
-    8. Hon. Julius Acon;
-    9. Hon. Lolem Micah;
-    10. Hon. Geofrey Mutiwa;
-    11. Hon. Solomon Alinga;
-    12. Hon. Edson Rugumayo;
-    13. Hon. Caroline Kamusiime;
-    14. Hon. Herbert Kinobere;
-    15. Hon. Feta Geofrey;
-    16. Hon. Esther Afoyochan;
-    17. Hon. Anne Tumwine;
-    18. Hon. Jane Bainomugisha; and
-    19. Hon. Ojok Andrew Oulanyah.
+Hon. Cosmas Elotu;
+Hon. Barnabas Tinkasiimire;
+Hon. Alex Ndeezi;
+Hon. Phyllis Chemutai;
+Hon. Ferigo Kambale;
+Hon. Julius Acon;
+Hon. Lolem Micah;
+Hon. Geofrey Mutiwa;
+Hon. Solomon Alinga;
+Hon. Edson Rugumayo;
+Hon. Caroline Kamusiime;
+Hon. Herbert Kinobere;
+Hon. Feta Geofrey;
+Hon. Esther Afoyochan;
+Hon. Anne Tumwine;
+Hon. Jane Bainomugisha; and
+Hon. Ojok Andrew Oulanyah.
 
 Madam Speaker, I beg to designate.
 
@@ -1057,14 +1057,14 @@ THE SPEAKER: Thank you.
 4.11
 THE CHIEF OPPOSITION WHIP (Mr John Baptist Nambeshe): Madam Speaker, on the Committee on Information, Communication Technology (ICT) and National Guidance, on the Forum for Democratic Change, (FDC) ticket, we have:
 
-    1. Hon. Florence Kabugho –Woman Representative, Kasese; and 
-    2. Hon. David Isabirye - Jinja North Division, Jinja City. 
+Hon. Florence Kabugho –Woman Representative, Kasese; and 
+Hon. David Isabirye - Jinja North Division, Jinja City. 
 
 National Unity Platform (NUP), we have:
 
-    1. Hon. Joyce Bagala -Woman Representative, Mityana 
-    2. Hon. Gorreth Namugga - Mawogola County South, Ssembabule; 
-    3. Hon. Bashir Kazibwe - Kawempe Division South, Kampala City. 
+Hon. Joyce Bagala -Woman Representative, Mityana 
+Hon. Gorreth Namugga - Mawogola County South, Ssembabule; 
+Hon. Bashir Kazibwe - Kawempe Division South, Kampala City. 
 
 I beg to designate, Madam Speaker.
 
@@ -1078,10 +1078,10 @@ THE SPEAKER: Thank you. Independents?
 4.12
 MR DAVID ZIJJAN (Independent, Butembe County, Jinja): On the Committee on Information, Communication Technology (ICT) and National Guidance, Madam Speaker, the Independents designate:
 
-    1. Hon. Bumali Mpindi - PWD Representative; 
-    2. Hon. Susan Abeja - Woman Representative, Otuke; 
-    3. Hon. Noah Musa - Koboko North County; and 
-    4. Hon. Kenneth Kiiza -   Bujenje County. 
+Hon. Bumali Mpindi - PWD Representative; 
+Hon. Susan Abeja - Woman Representative, Otuke; 
+Hon. Noah Musa - Koboko North County; and 
+Hon. Kenneth Kiiza -   Bujenje County. 
 
 I beg to designate.
 
@@ -1094,28 +1094,28 @@ THE SPEAKER: Committee on Legal and Parliamentary Affairs?
 4.13
 THE THIRD DEPUTY PRIME MINISTER AND MINISTER WITHOUT PORTFOLIO (Ms Rukia Nakadama): Madam Speaker, on the Committee on Legal and Parliamentary Affairs, the Government side designates:
 
-    1. Hon. Robinah Rwakoojo – Chairperson; 
-    2. Hon. Yusuf Mutembuli – Vice-Chairperson.
+Hon. Robinah Rwakoojo – Chairperson; 
+Hon. Yusuf Mutembuli – Vice-Chairperson.
 
 Other Members, are:
 
-    3. Hon. Bosco Okiror;
-    4. Hon. Nkwasiibwe Zinkuratire;
-    5. Hon. Bernard Odoi;
-    6. Hon. Fox Odoi-Oywelowo;
-    7. Hon. Richard Oseku;
-    8. Hon. Stephen Baka;
-    9. Hon. Emma Cherukut;
-    10. Hon. Wilson Kajwengye;
-    11. Hon. Joanne Aniku;
-    12. Hon. Rose Obigah;
-    13. Hon. Juliet Achayo;
-    14. Hon. Stephen Kasaija;
-    15. Hon. John Teira;
-    16. Hon. Theodore Ssekikubo;
-    17. Hon. Paul Kwezira;
-    18. Hon. Peter Werikhe; and 
-    19. Hon. Solomon Silwany. 
+Hon. Bosco Okiror;
+Hon. Nkwasiibwe Zinkuratire;
+Hon. Bernard Odoi;
+Hon. Fox Odoi-Oywelowo;
+Hon. Richard Oseku;
+Hon. Stephen Baka;
+Hon. Emma Cherukut;
+Hon. Wilson Kajwengye;
+Hon. Joanne Aniku;
+Hon. Rose Obigah;
+Hon. Juliet Achayo;
+Hon. Stephen Kasaija;
+Hon. John Teira;
+Hon. Theodore Ssekikubo;
+Hon. Paul Kwezira;
+Hon. Peter Werikhe; and 
+Hon. Solomon Silwany. 
 
 Madam Speaker, I beg to designate.
 
@@ -1124,16 +1124,16 @@ THE SPEAKER: Thank you. Opposition?
 4.15
 THE CHIEF OPPOSITION WHIP (Mr John Baptist Nambeshe): On the Committee on Legal and Parliamentary Affairs, Madam Speaker, we have:
 
-    1. Hon. Santa Alum (UPC);
-    2. Hon. Ibrahim Ssemujju  (FDC);
-    3. Hon. Anna Adeke (FDC); and
-    4. Hon. Asuman Basalirwa (JEEMA).
+Hon. Santa Alum (UPC);
+Hon. Ibrahim Ssemujju  (FDC);
+Hon. Anna Adeke (FDC); and
+Hon. Asuman Basalirwa (JEEMA).
 
 Under NUP, we have:
 
-    5. Hon. Shamim Malende - Woman Representative, Kampala;
-    6. Hon. Medard Sseggona – Busiro County East; and
-    7. Hon. Robert Ssekitoleeko - Bamunanika County. 
+Hon. Shamim Malende - Woman Representative, Kampala;
+Hon. Medard Sseggona – Busiro County East; and
+Hon. Robert Ssekitoleeko - Bamunanika County. 
 
 I beg to designate, Madam Speaker.
 
@@ -1147,10 +1147,10 @@ THE SPEAKER: Thank you. Independents?
 4.16
 MR DAVID ZIJJAN (Independent, Butembe County, Jinja): On the Committee on Legal and Parliamentary Affairs, Madam Speaker, the Independents designate:
 
-    1. Hon. Shartsi Musherure - Mawogoola North County;
-    2. Hon. Abdu Katuntu - Bugweri County;
-    3. Hon. Acrobert Kiiza - Bughendera County; and 
-    4. Hon. Wilfred Niwagaba - Ndorwa County East. 
+Hon. Shartsi Musherure - Mawogoola North County;
+Hon. Abdu Katuntu - Bugweri County;
+Hon. Acrobert Kiiza - Bughendera County; and 
+Hon. Wilfred Niwagaba - Ndorwa County East. 
 
 I beg to designate.
 
@@ -1163,28 +1163,28 @@ THE SPEAKER: Committee on Environment and Natural Resources?
 4.17
 THE THIRD DEPUTY PRIME MINISTER AND MINISTER WITHOUT PORTFOLIO (Ms Rukia Nakadama): Madam Speaker, on the Committee on Environment and Natural Resources, the Government side designates: 
 
-    1. Hon. Dr Otiam Emmanuel Otaala as the Chairperson; and
-    2. Hon. Kugonza Emely as the Vice-Chairperson.
+Hon. Dr Otiam Emmanuel Otaala as the Chairperson; and
+Hon. Kugonza Emely as the Vice-Chairperson.
 
 The members include: 
 
-    1. Hon. Biyika Lawrence Songa; 
-    2. Hon. Dickson Kateshumbwa; 
-    3. Hon. Seith Wambede; 
-    4. Hon. Juliet Bashiisha Agasha; 
-    5. Hon. Joshephat Tumwesigye; 
-    6. Hon. Sendawula Christine Bukenya; 
-    7. Hon. Paul Akamba; 
-    8. Hon. Clare Mugumya; 
-    9. Hon. Flora Natumanya; 
-    10. Hon. Alioni Yorke Odria; 
-    11. Hon. Alex Ruhunda; 
-    12. Hon. John Faith Magolo; 
-    13. Hon. Apollo Yeri Ofwono; 
-    14. Hon. Francis Kazini Twinomujuni; 
-    15. Hon. Sam Otukol; 
-    16. Hon. Fredrick Angura; and 
-    17. Hon. Katalihwa Donald Byabazaire.
+Hon. Biyika Lawrence Songa; 
+Hon. Dickson Kateshumbwa; 
+Hon. Seith Wambede; 
+Hon. Juliet Bashiisha Agasha; 
+Hon. Joshephat Tumwesigye; 
+Hon. Sendawula Christine Bukenya; 
+Hon. Paul Akamba; 
+Hon. Clare Mugumya; 
+Hon. Flora Natumanya; 
+Hon. Alioni Yorke Odria; 
+Hon. Alex Ruhunda; 
+Hon. John Faith Magolo; 
+Hon. Apollo Yeri Ofwono; 
+Hon. Francis Kazini Twinomujuni; 
+Hon. Sam Otukol; 
+Hon. Fredrick Angura; and 
+Hon. Katalihwa Donald Byabazaire.
 
 Madam Speaker, I beg to designate.
 
@@ -1210,14 +1210,14 @@ THE SPEAKER: It is a different Kwizera.
 
 THE CHIEF OPPOSITION WHIP (Mr John Baptist Nambeshe): Madam Speaker, on the Committee of Natural Resources I propose to designate the following Members: 
 
-    1. Hon. Fred Kayondo of the Democratic Party;
-    2. Hon. Jimmy James Akena of UPC representing Lira City East; 
-    3. Hon. Betty Aol Ocan of Gulu City;
-    4. Hon. Asinansi Nyakato of Hoima City from the FDC;
-    5. Hon. Kaya Christine Nakimwero of Kiboga;
-    6. Hon. Ronald Evans Kanyike of Bukoto East;
-    7. Hon. Charles Tebandeke of Bale County; and
-    8. Hon. Aisha Nalule Kabanda of Butambala.
+Hon. Fred Kayondo of the Democratic Party;
+Hon. Jimmy James Akena of UPC representing Lira City East; 
+Hon. Betty Aol Ocan of Gulu City;
+Hon. Asinansi Nyakato of Hoima City from the FDC;
+Hon. Kaya Christine Nakimwero of Kiboga;
+Hon. Ronald Evans Kanyike of Bukoto East;
+Hon. Charles Tebandeke of Bale County; and
+Hon. Aisha Nalule Kabanda of Butambala.
 
 I beg to designate, Madam Speaker.
 
@@ -1230,10 +1230,10 @@ THE SPEAKER: Thank you. Yes, Independents?
 
 MR DAVID ZIJJAN (Independent, Butembe County, Jinja): Madam Speaker, on the Committee on Environment and Natural Resources, I propose to designate the following Members:
 
-    1. Hon. Abdu Adidwa of Bukhooli County South;
-    2. Hon. Moses Kamuntu of Rubanda County;
-    3. Hon. Agnes Auma Linda, District Woman Representative Lira City; and
-    4. Hon. Eric Musana of Buyaga East County.
+Hon. Abdu Adidwa of Bukhooli County South;
+Hon. Moses Kamuntu of Rubanda County;
+Hon. Agnes Auma Linda, District Woman Representative Lira City; and
+Hon. Eric Musana of Buyaga East County.
 
 I so designate.
 
@@ -1249,23 +1249,23 @@ Hon. David Karubanga as the Chairperson and Hon. Robert Kasolo, from Iki-Iki Cou
 
 The members are: 
 
-    1. Hon. Sarah Opendi; 
-    2. Hon. Nsegumire Mohammad Kibedi; 
-    3. Hon. Hillary Lokwang; 
-    4. Hon. Henry Maurice Kibalya; 
-    5. Hon. Asaba Paul Nsabimana, 
-    6. Hon. Michael Bukenya Iga; 
-    7. Hon. Nathan Byanyima; 
-    8. Hon. Aisa Agaba; 
-    9. Hon. Pascal Mbabazi; 
-    10. Hon. Stella Atyang; 
-    11. Hon. David Kabanda; 
-    12. Hon. Cissy Namujju; 
-    13. Hon. Sylvia Vicky Awas; 
-    14. Hon. Semwanga Gyaviira; 
-    15. Hon. Mariam Naigaga; 
-    16. Hon. Atwakire Catheline Ndamira; and 
-    17. Hon. James Niringiyimana.
+Hon. Sarah Opendi; 
+Hon. Nsegumire Mohammad Kibedi; 
+Hon. Hillary Lokwang; 
+Hon. Henry Maurice Kibalya; 
+Hon. Asaba Paul Nsabimana, 
+Hon. Michael Bukenya Iga; 
+Hon. Nathan Byanyima; 
+Hon. Aisa Agaba; 
+Hon. Pascal Mbabazi; 
+Hon. Stella Atyang; 
+Hon. David Kabanda; 
+Hon. Cissy Namujju; 
+Hon. Sylvia Vicky Awas; 
+Hon. Semwanga Gyaviira; 
+Hon. Mariam Naigaga; 
+Hon. Atwakire Catheline Ndamira; and 
+Hon. James Niringiyimana.
 
 Madam Speaker, I beg to designate.
 
@@ -1274,18 +1274,18 @@ Honourable Members, if Members are coming to the House, come to the House; stop 
 
 THE CHIEF OPPOSITION WHIP (Mr John Baptist Nambeshe): Thank you, Madam Speaker. The Opposition wishes to propose the following designations to the Committee on Physical Infrastructure:
 
-    1. Hon. Richard Sebamala of the Democratic Party; 
-    2. Hon. Nelson Okello of Maruzi North from UPC;
-    3. Hon. Moses Kabusu of Kyamunswa;
-    4. Hon. Yusuf Nsibambi of Mawokota South; and
-    5. Hon. Alobo Joan Okong of Soroti City. 
+Hon. Richard Sebamala of the Democratic Party; 
+Hon. Nelson Okello of Maruzi North from UPC;
+Hon. Moses Kabusu of Kyamunswa;
+Hon. Yusuf Nsibambi of Mawokota South; and
+Hon. Alobo Joan Okong of Soroti City. 
 
 And, from NUP we have: 
 
-    1. Hon. Godfrey Saazi of Gomba East; 
-    2. Hon. Denes Sekabira of Katikamu North; 
-    3. Hon. Nambeshe John Baptist of Manjiya County; and 
-    4. Hon. Balimwezo Ronald of Nakawa East.
+Hon. Godfrey Saazi of Gomba East; 
+Hon. Denes Sekabira of Katikamu North; 
+Hon. Nambeshe John Baptist of Manjiya County; and 
+Hon. Balimwezo Ronald of Nakawa East.
 
 I beg to designate, Madam Speaker. 
 
@@ -1315,23 +1315,23 @@ THE THIRD DEPUTY PRIME MINISTER AND MINISTER WITHOUT PORTFOLIO (Ms Rukia Nakadam
 
 The members on the committee include:  
 
-    1. Hon. Francis Adome Lorika
-    2. Hon. Agnes Taaka 
-    3. Hon. Naome Kibaaju
-    4. Hon. James Mamawi
-    5. Hon. Judith Alyek 
-    6. Hon. Hellen Auma Wandera
-    7. Hon. Tony Awany
-    8. Hon. David Lagen 
-    9. Hon. Janepher Kyomuhendo Mbabazi
-    10. Hon. Albert Lokoru
-    11. Hon. Jacob Karubanga 
-    12. Hon. Fadil Twalla
-    13. Hon. Brahan Ezama Siraji
-    14. Hon. James Buturo Nsaba
-    15. Hon. Faith Philo Kunihira
-    16. Hon. Peninah Busingye 
-    17. Hon. Benjamin Kamukama.
+Hon. Francis Adome Lorika
+Hon. Agnes Taaka 
+Hon. Naome Kibaaju
+Hon. James Mamawi
+Hon. Judith Alyek 
+Hon. Hellen Auma Wandera
+Hon. Tony Awany
+Hon. David Lagen 
+Hon. Janepher Kyomuhendo Mbabazi
+Hon. Albert Lokoru
+Hon. Jacob Karubanga 
+Hon. Fadil Twalla
+Hon. Brahan Ezama Siraji
+Hon. James Buturo Nsaba
+Hon. Faith Philo Kunihira
+Hon. Peninah Busingye 
+Hon. Benjamin Kamukama.
 
 I beg to designate.
 
@@ -1340,12 +1340,12 @@ THE SPEAKER: Thank you.
 4.29
 THE CHIEF OPPOSITION WHIP (Mr John Baptist Nambeshe): Madam Speaker, on the Committee on Presidential Affairs, we have:
 
-    1. Hon. Isaias Johny Ssasaga, Budadiri County East (FDC)
-    2. Hon. Denis Onekalit Amere, Kitgum Municipality (FDC)
-    3. Hon. Peter Okot (DP)
-    4. Hon. Derrick Nyeko, Makindye Division East (NUP)
-    5. Hon. Muhammad Ssegirinya, Kawempe Division North (NUP)
-    6. Hon. Abubaker Kawalya, Rubaga Division North (NUP).
+Hon. Isaias Johny Ssasaga, Budadiri County East (FDC)
+Hon. Denis Onekalit Amere, Kitgum Municipality (FDC)
+Hon. Peter Okot (DP)
+Hon. Derrick Nyeko, Makindye Division East (NUP)
+Hon. Muhammad Ssegirinya, Kawempe Division North (NUP)
+Hon. Abubaker Kawalya, Rubaga Division North (NUP).
 
 I beg to designate.
 
@@ -1359,7 +1359,7 @@ THE SPEAKER: Independents?
 4.31
 MR DAVID ZIJJAN (Independent, Butembe County Jinja): To the Committee on Presidential Affairs, the Independents designate:
 
-    1. Hon. Naome Kabasharira, Rushenyi County – (Interjection) - Yes, she is an Independent.
+Hon. Naome Kabasharira, Rushenyi County – (Interjection) - Yes, she is an Independent.
 
 THE SPEAKER: He is right. That is his Member, not yours.
 
@@ -1387,35 +1387,35 @@ THE THIRD DEPUTY PRIME MINISTER AND MINISTER WITHOUT PORTFOLIO (Ms Rukia Nakadam
 
 The members include:
 
-    1. Hon. Midius Natukunda
-    2. Hon. Reuben Paul Chelimo
-    3. Hon. Agnes Kunihira Abwoli
-    4. Hon. Isaac Modoi
-    5. Hon. Jovanice Twinobusingye
-    6. Hon. Sanon Bwiire
-    7. Hon. Yovan Adriko
-    8. Hon. Joyce Acan Okeny
-    9. Hon. Sowedi Kitanywa
-    10. Hon. Martin Mugabi Muzaale
-    11. Hon. Alex Byarugaba Bakunda
-    12. Hon. Baatom Koryang
-    13. Hon. Ephraim Biraaro Gashanga
-    14. Hon. Michael Wanyama
-    15. Hon. Robert Wandwasi
-    16. Hon. Simon Peter Wokorach
-    17. Hon. Florence Nebanda Andiru.
+Hon. Midius Natukunda
+Hon. Reuben Paul Chelimo
+Hon. Agnes Kunihira Abwoli
+Hon. Isaac Modoi
+Hon. Jovanice Twinobusingye
+Hon. Sanon Bwiire
+Hon. Yovan Adriko
+Hon. Joyce Acan Okeny
+Hon. Sowedi Kitanywa
+Hon. Martin Mugabi Muzaale
+Hon. Alex Byarugaba Bakunda
+Hon. Baatom Koryang
+Hon. Ephraim Biraaro Gashanga
+Hon. Michael Wanyama
+Hon. Robert Wandwasi
+Hon. Simon Peter Wokorach
+Hon. Florence Nebanda Andiru.
 
 I beg to designate.
 
 4.35
 THE CHIEF OPPOSITION WHIP (Mr John Baptist Nambeshe): Madam Speaker, to the Committee on Public Service and Local Government, the designation is as follows:
 
-    1. Hon. Atkins Katusabe, Bukonjo County West (FDC)
-    2. Hon. Julius Emigu Ochero (FDC)
-    3. Hon. Betty Ethel Naluyima, Wakiso District (NUP)
-    4. Hon. Jimmy Lwanga, Njeru Municipality (NUP)
-    5. Hon. Teddy Nambooze, Mpigi District (NUP)
-    6. Hon. Juliet Nakabuye Kakande, Masaka City (NUP)
+Hon. Atkins Katusabe, Bukonjo County West (FDC)
+Hon. Julius Emigu Ochero (FDC)
+Hon. Betty Ethel Naluyima, Wakiso District (NUP)
+Hon. Jimmy Lwanga, Njeru Municipality (NUP)
+Hon. Teddy Nambooze, Mpigi District (NUP)
+Hon. Juliet Nakabuye Kakande, Masaka City (NUP)
 
 I beg to designate.
 
@@ -1429,11 +1429,11 @@ THE SPEAKER: Thank you. Independents?
 4.36
 MR DAVID ZIJJAN (Independent, Butembe County Jinja): To the Committee on Public Service and Local Government, the Independents designate:
 
-    1. Hon. Denis Nyangweso, Samia Bugwe Central County
-    2. Hon. Patrick Okabe, Serere County
-    3. Hon. Patrick Isingoma Mwesigwa, Hoima East Division
-    4. Hon. Emmanuel Komol, Dodoth East County
-    5. Hon. Joan Namutaawe, Masaka District
+Hon. Denis Nyangweso, Samia Bugwe Central County
+Hon. Patrick Okabe, Serere County
+Hon. Patrick Isingoma Mwesigwa, Hoima East Division
+Hon. Emmanuel Komol, Dodoth East County
+Hon. Joan Namutaawe, Masaka District
 
 I beg to designate.
 
@@ -1448,29 +1448,29 @@ THE THIRD DEPUTY PRIME MINISTER AND MINISTER WITHOUT PORTFOLIO (Ms Rukia Nakadam
 
 Members include:
 
-    1. Hon. Mugole Mauku –
+Hon. Mugole Mauku –
 
 THE SPEAKER: All the members of the tourism committee are there; they are not going anywhere. (Applause)
 
 MS NAKADAMA: Yes.
 
-    1. Hon. Mugole Mauku David Stephen
-    2. Hon. Mbwatekamwa Gaffa 
-    3. Hon. Timuzigu Kamugisha Michael
-    4. Hon. Afidra Olema Ronald
-    5. Hon. Kemirembe Pauline Kyaka
-    6. Hon. Aleper Margaret Achilla
-    7. Hon. Amooti Bright Tom
-    8. Hon. Awor Betty Engola 
-    9. Hon. Busingye Harriet Mugyenyi 
-    10. Hon. Edakasi Alfred Elalu
-    11. Hon. Nayebale Sylvia
-    12. Hon. Kirabo Agnes
-    13. Hon. Katwesigye Oliver Koyekyenga
-    14. Hon. Osoru Mourine
-    15. Hon. Ssentayi Muhamad
-    16. Hon. Gafabusa Richard Muhumuza
-    17. Hon. Wanyama Michael
+Hon. Mugole Mauku David Stephen
+Hon. Mbwatekamwa Gaffa 
+Hon. Timuzigu Kamugisha Michael
+Hon. Afidra Olema Ronald
+Hon. Kemirembe Pauline Kyaka
+Hon. Aleper Margaret Achilla
+Hon. Amooti Bright Tom
+Hon. Awor Betty Engola 
+Hon. Busingye Harriet Mugyenyi 
+Hon. Edakasi Alfred Elalu
+Hon. Nayebale Sylvia
+Hon. Kirabo Agnes
+Hon. Katwesigye Oliver Koyekyenga
+Hon. Osoru Mourine
+Hon. Ssentayi Muhamad
+Hon. Gafabusa Richard Muhumuza
+Hon. Wanyama Michael
 
 Madam Speaker, I beg to designate.
 
@@ -1479,17 +1479,17 @@ THE SPEAKER: Thank you. Opposition?
 4.39
 THE CHIEF OPPOSITION WHIP (Mr John Baptist Nambeshe): On the Committee on Tourism, Trade and Industry we have:
 
-    1. Hon. Atim Ogwal Cecilia (FDC); and
-    2. Hon. Francis Mwijukye (FDC)
-    3. Hon. Okello Geoffrey from the Democratic Party.		
+Hon. Atim Ogwal Cecilia (FDC); and
+Hon. Francis Mwijukye (FDC)
+Hon. Okello Geoffrey from the Democratic Party.		
 
 From NUP:
 
-    1. Hon. Ssimbwa Fred				
-    2. Hon. Kalwanga David
-    3. Hon. Kayemba-Ssolo Geofrey	
-    4. Hon. Lutaaya Geoffrey
-    5. Hon. Wakayima Musoke
+Hon. Ssimbwa Fred				
+Hon. Kalwanga David
+Hon. Kayemba-Ssolo Geofrey	
+Hon. Lutaaya Geoffrey
+Hon. Wakayima Musoke
 
 I beg to designate, Madam Speaker. (Applause)
 
@@ -1511,11 +1511,11 @@ THE SPEAKER: We are talking about Tourism, Trade and Industry.
 
 MR ZIJJAN: Much obliged, Madam Speaker. On the Committee on Tourism, Trade and Industry, we designate:
 
-    1. Hon. Koluo Joseph Andrew  
-    2. Hon. Atukwasa Rita
-    3. Hon. Were Godfrey Odero
-    4. Hon. Mushemeza Elijah Dickens
-    5. Hon. Amero Susan
+Hon. Koluo Joseph Andrew  
+Hon. Atukwasa Rita
+Hon. Were Godfrey Odero
+Hon. Mushemeza Elijah Dickens
+Hon. Amero Susan
 
 Madam Speaker, I beg to designate.
 
@@ -1583,4 +1583,3 @@ THE SPEAKER: Hon. Sarah, there was an amendment on the Committee on Science, Tec
 Honourable members, I would like to thank you for today. I am not going to be sitting in the House like the world is ending tomorrow. I am adjourning the House to 2.00 p.m. tomorrow.
  
 (The House rose at 4.54 p.m. and adjourned until Wednesday, 6 July 2022 at 2.00 p.m.) 
-

@@ -1,4 +1,4 @@
-﻿
+
 
 
 Wednesday, 28 June 2017
@@ -336,9 +336,9 @@ The Government of Uganda received credit from the International Development Asso
 
 The breakdown of this medical equipment is as follows: 
 
-    i) Emergency obstetric and pre-natal care equipment $4.3 million. This was distributed to 65 hospitals and 165 health centres IV country wide.
-    ii) Nineteen hospitals and 27 Health Centres IV supported by the project received general equipment and this came to a total of $.14 million.
-    iii) Medical instruments and specialised equipment and medical furniture were also procured under this project.
+Emergency obstetric and pre-natal care equipment $4.3 million. This was distributed to 65 hospitals and 165 health centres IV country wide.
+Nineteen hospitals and 27 Health Centres IV supported by the project received general equipment and this came to a total of $.14 million.
+Medical instruments and specialised equipment and medical furniture were also procured under this project.
 
 The procurement of the above equipment started in 2012 and was completed in 2014. Nineteen hospitals received x-rays worth $2.89 million, dental equipment and laundry equipment. This equipment required pre-installation works and this procurement started in 2015. The installation was completed between March and June 2017.
 
@@ -362,10 +362,10 @@ Well aware of the use of some of the equipment in health facilities, we commissi
 
 The key categories of the equipment affected are the ventilators, the defibrillators and anaesthetic machines. The main reasons for some equipment not being put to effective use are: 
 
-    i) The absence of anaesthetic officers in some health facilities; this is major challenge. We do not have many officers available to work in the public health facilities.
-    ii) Lack of reliable supply of oxygen for these ventilators.
-    iii) General lack of skilled personnel to operate the equipment. 
-    iv) Lack of adequate user-training and intermittent power connectivity.
+The absence of anaesthetic officers in some health facilities; this is major challenge. We do not have many officers available to work in the public health facilities.
+Lack of reliable supply of oxygen for these ventilators.
+General lack of skilled personnel to operate the equipment. 
+Lack of adequate user-training and intermittent power connectivity.
 
 We, therefore, plan to avoid the supply of sub-standard equipment and also utilisation of equipment should not be taken to health facilities where we do not have the staff to operate them. This is what we are now trying to tackle.
 
@@ -1014,15 +1014,15 @@ MR KAFEERO: Thank you, Madam Speaker, for the wise ruling. On the 15th of July 2
 
 The Bill is intended to provide a regulatory framework that facilitates the safe development and application of modern biotechnology in Uganda –
 
-    a) designating a national focal point and a competent authority;
-    b) establishing a national biosafety committee and institutional biosafety committees; and 
+designating a national focal point and a competent authority;
+establishing a national biosafety committee and institutional biosafety committees; and 
 (c) 	providing mechanisms to regulate research, development and release genetically modified organisms.
 
 It should be remembered that Uganda does not have a specific law regulating the development and use of modern biotechnology. It should also be remembered that the Republic of Uganda ratified a number of protocols which include a Convention on Biological Diversities in 1993, the Cartagena Protocol in 2001, the Nagoya-Kuala Lumpur Supplementary Protocol in 2014. 
 
 Madam Speaker, if we may go straight to the findings and observations on page 4. 
 
-    1. The committee learnt that biotechnology is broadly divided into four sectors namely: medical, agricultural, industrial and environmental biotechnology. 
+The committee learnt that biotechnology is broadly divided into four sectors namely: medical, agricultural, industrial and environmental biotechnology. 
 
 The biotechnology industry is fast growing with over 1,200 biotech industries, institutions and colleges from over 30 countries. 
 
@@ -1032,7 +1032,7 @@ The committee observed, however, that the Bill did not adequately deal with all 
 
 In regard to medical biotechnology, we have recommendations on page 8 of the report; the committee recommends that the Ministry of Health, Ministry of Science, Technology and Innovation and the Ministry of Agriculture, Animal Industry and Fisheries should jointly prepare and build capacity to be able to prevent, detect and respond to epidemics and hazardous substances.
 
-    2. In response to the exponential increase of international travel and trade and emergences and re-emergences of international disease, it is now time that the Government of Uganda should implement the international health regulations, which binding instrument Uganda entered into with other 195 countries in 2007.
+In response to the exponential increase of international travel and trade and emergences and re-emergences of international disease, it is now time that the Government of Uganda should implement the international health regulations, which binding instrument Uganda entered into with other 195 countries in 2007.
 
 This may help to prevent, protect against, control and provide a public health response to the international spread of diseases in ways that are commensurate with the restricted to public health risks and which avoid unnecessary interference with international traffic and trade.
 
@@ -1041,22 +1041,22 @@ This may help to prevent, protect against, control and provide a public health r
 4. 	All Government departments should make collaborative effort to share information pertaining to bio-security.
 5. 	By way of responding to some of the medical biotechnology portion, the committee has ensured that in its proposed amendments to the Bill, it has provided for the following which are recommended for approval:
 
-    1. Modern biotechnology risk management.
-    2. Promotion of public training and educational outreach to promote a shared culture of responsibility.
-    3. Mitigation of biological proliferation.
-    4. Safe procedures of transfer, handling application and utilisation of biological agents, GMOs and GMO products.
-    5. Establishment of laboratories licencing.
+Modern biotechnology risk management.
+Promotion of public training and educational outreach to promote a shared culture of responsibility.
+Mitigation of biological proliferation.
+Safe procedures of transfer, handling application and utilisation of biological agents, GMOs and GMO products.
+Establishment of laboratories licencing.
 
 Madam Speaker, in regard to agricultural biotechnology, the committee learnt that some of the common genetically modified items include corn, well-known as maize here, soy bean, cotton, squash, papaya, tomatoes, sugar beets, potatoes, flax, rice, canola, baby foods, bakery product, confectionary, meat and meat products, soup, fruits and vegetables. 
 
 Agricultural biotechnology helps to, among others – 
 
-    a) develop animal and plants with greater resistance to pests and diseases;
-    b) create animals or plants with capabilities of producing higher yields in order to address food security issues;
-    c) create raw materials that can be produced in larger quantities;
-    d) create products that can enhance growth such as production of growth hormones to increase milk production in dairy cows;
-    e) develop plant materials with earthnetic features, such as developing a rose flower with a green colour;
-    f)  enhance nutrition.
+develop animal and plants with greater resistance to pests and diseases;
+create animals or plants with capabilities of producing higher yields in order to address food security issues;
+create raw materials that can be produced in larger quantities;
+create products that can enhance growth such as production of growth hormones to increase milk production in dairy cows;
+develop plant materials with earthnetic features, such as developing a rose flower with a green colour;
+ enhance nutrition.
 
 It is thus no longer a secret that genetically modified plants and animals are already part of the food chain in the world, including Uganda. 
 

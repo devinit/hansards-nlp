@@ -1,4 +1,4 @@
-﻿
+
 Wednesday, 13 May 2015
 
 Parliament met at 2.07 P.m. in Parliament House, Kampala.
@@ -87,11 +87,11 @@ The Bill stands committed to the appropriate Committee on Defence and Internal A
 
 LAYING OF PAPERS
 
-    A) PUBLIC SERVICE COMMISSION ANNUAL REPORT (1 JULY 2013 – 30 JUNE 2014)
+PUBLIC SERVICE COMMISSION ANNUAL REPORT (1 JULY 2013 – 30 JUNE 2014)
 
 THE DEPUTY SPEAKER: Who is laying this document from the Parliamentary Commission? Parliamentary Commission? Can any Member lay this document? The papers should be here. They are not there? They have denied this opportunity to honourable members. Okay, we stay on that When they get the papers, they will be laid accordingly.
 
-    B) RESPONSE TO THE RECOMMENDATIONS OF PARLIAMENT ON THE NATIONAL BUDGET FRAMEWORK PAPER FOR FINANCIAL YEAR 2015/2016 AND OTHER BUDGET RELATED DOCUMENTS
+RESPONSE TO THE RECOMMENDATIONS OF PARLIAMENT ON THE NATIONAL BUDGET FRAMEWORK PAPER FOR FINANCIAL YEAR 2015/2016 AND OTHER BUDGET RELATED DOCUMENTS
 
 2.23
 THE MINISTER OF STATE FOR FINANCE (PLANNING) (Mr David Bahati): Thank you, Mr Speaker. I beg to lay the responses on the recommendations of Parliament to the National Budget Framework Paper for financial year 2015/2016.
@@ -775,9 +775,9 @@ THE INCOME TAX (AMENDMENT) BILL, 2015
 THE DEPUTY SPEAKER: I am advised that the committee report is not yet signed; so, we cannot proceed with that.
 
 MOTION THAT PARLIAMENT DO RESOLVE ITSELF INTO A COMMITTEE OF SUPPLY FOR CONSIDERATION AND APPROVAL OF THE FOLOWING:
-        I) THE REVISED REVENUE AND EXPENDITURE ESTIMATES FOR THE FISCAL YEAR 2014/2015
+THE REVISED REVENUE AND EXPENDITURE ESTIMATES FOR THE FISCAL YEAR 2014/2015
 
-        II) THE BUDGETARY PROPOSALS FOR THE ESTIMATES OF REVENUE AND EXPENDITURE FOR THE FISCAL YEAR 2015/16
+THE BUDGETARY PROPOSALS FOR THE ESTIMATES OF REVENUE AND EXPENDITURE FOR THE FISCAL YEAR 2015/16
 
 PRESENTATION, CONSIDERATION AND ADOPTION OF THE REPORT OF THE COMMITTEE ON PUBLIC SERVICE AND LOCAL GOVERNMENT ON THE MINISTERIAL POLICY STATEMENT AND BUDGET ESTIMATES FOR FINANCIAL YEAR 2015/2016
 
@@ -1093,11 +1093,11 @@ The committee observed that the proportion of the development budget has remaine
 The committee recommends that Government should source for funds for supporting development programmes in the local governments.
 
 Lastly, I would like to read the budget proposal for the Financial Year 2015/2016 in Uganda shillings as follows:
-    a) Vote 005, Ministry of Public Service: The proposed budget is Shs 21,886,000,000.
-    b) Vote 145, Public Service Commission: The total budget is Shs 4,937,000,000.
-    c) Vote 011, Ministry of Local Government: The total budget is Shs 115,457,000,000. In the report, there is an extra zero at the end; so just cross one zero to make that figure.
-    d) Vote 147, Local Government Finance Commission: The proposed budget is Shs 4,984,000,000.
-    e) Votes 501-778, all local governments: The total budget is Shs 2,321,790,000,000.
+Vote 005, Ministry of Public Service: The proposed budget is Shs 21,886,000,000.
+Vote 145, Public Service Commission: The total budget is Shs 4,937,000,000.
+Vote 011, Ministry of Local Government: The total budget is Shs 115,457,000,000. In the report, there is an extra zero at the end; so just cross one zero to make that figure.
+Vote 147, Local Government Finance Commission: The proposed budget is Shs 4,984,000,000.
+Votes 501-778, all local governments: The total budget is Shs 2,321,790,000,000.
 
 In total, this sector is asking for Shs 2,469,054,000,000. Mr Speaker and honourable members, I beg to report.
 
@@ -1475,7 +1475,6 @@ Report adopted.
 THE DEPUTY SPEAKER: Congratulations, Madam Chairperson and the committee members and honourable members, for pushing it this far. I congratulate and thank you very much. This should be the spirit and I am happy. House adjourned to tomorrow at 2.00 p.m.
 
 (The House rose at 7.04 p.m. and adjourned until Thursday, 14 May 2015 at 2.00 p.m.)
-
 
 
 

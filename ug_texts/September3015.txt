@@ -1,4 +1,4 @@
-﻿Wednesday, 30 September 2015
+Wednesday, 30 September 2015
 
 Parliament met at 2.14 p.m. in Parliament House, Kampala.
 
@@ -164,8 +164,8 @@ THE DEPUTY ATTORNEY-GENERAL (Mr Mwesigwa-Rukutana): Thank you, Mr Speaker. It is
 Yesterday, 29 September 2015, the Constitutional Court of the Republic of Uganda delivered judgments in three consolidated Constitutional Petitions. That is: Constitutional Petition number 37 of 2010, number 40 of 2010, number 48 of 2010. These were filed in 2010 challenging the laws governing the elections of Members of Parliament representing special interest groups: the Workers, Youth, Army and Persons with Disabilities.
 
 The specific laws affected by the decisions of the Constitutional Court are the following:
-    1. The Parliamentary Elections (Special Interest Groups) Regulations Statutory Instrument number 31 of 2001 as amended by Statutory Instrument number 6 of 2011.
-    2. The Regulations Governing Election of Parliamentary Representative under the Army Council.
+The Parliamentary Elections (Special Interest Groups) Regulations Statutory Instrument number 31 of 2001 as amended by Statutory Instrument number 6 of 2011.
+The Regulations Governing Election of Parliamentary Representative under the Army Council.
 
 The gist of the judgment of the Constitutional Court is that under Article 78(4) of the Constitution, “Parliament shall, by law, prescribe the procedure of elections of representatives referred to in clause (1) (b) and (c) of this article.” This implies that Parliament is vested with powers to enact legislation prescribing procedures for election of representatives to Parliament for special interest groups.
 
@@ -301,8 +301,8 @@ If you go to page 2, we indicate the methodology and also report that in the eig
 This analysis will consider the proposed amendments in the Presidential Elections Act 2005; the current provision being amended, a comparative analysis of similar provisions in other jurisdictions, the effect of the amendments if any, the stakeholders’ views on the proposed amendments and the legal analysis of the proposed amendments.
 
 The Presidential Elections Act 2005 is proposed to be amended as follows:
-    1. The long title: An Act to amend the Presidential Elections Act 2005, to revise the nomination fees payable under the Act, to revise the facilitation provided to a presidential candidate under the Act, to remove the requirement for a candidate to campaign in every district of Uganda, to provide for polling to close at 4.00 p.m. on polling day, to require the Electoral Commission to provide for persons engaged in the electoral activities on duty in specific professions or areas to vote and to provide for related matters.
-    2. Stakeholders’ view: The Opposition proposed to have the long title amended as follow: Long title, “An Act to amend the Presidential Elections Act 2005, to increase the nomination days from two to three, harmonise the requirements for the nomination of presidential candidates with Article 103(2) of the Constitution, to provide for a minimum number of districts a candidate is required to campaign in Uganda, to require the Electoral Commission for persons engaged in electoral activities on duty in various professions or people in the diaspora to vote and provide for related matters.”
+The long title: An Act to amend the Presidential Elections Act 2005, to revise the nomination fees payable under the Act, to revise the facilitation provided to a presidential candidate under the Act, to remove the requirement for a candidate to campaign in every district of Uganda, to provide for polling to close at 4.00 p.m. on polling day, to require the Electoral Commission to provide for persons engaged in the electoral activities on duty in specific professions or areas to vote and to provide for related matters.
+Stakeholders’ view: The Opposition proposed to have the long title amended as follow: Long title, “An Act to amend the Presidential Elections Act 2005, to increase the nomination days from two to three, harmonise the requirements for the nomination of presidential candidates with Article 103(2) of the Constitution, to provide for a minimum number of districts a candidate is required to campaign in Uganda, to require the Electoral Commission for persons engaged in electoral activities on duty in various professions or people in the diaspora to vote and provide for related matters.”
 
 Mr Speaker, the committee recommended that any amendments to the long title should be done after Parliament has considered all the proposals during the committee stage and this is because the long title should reflect what has been adopted by the House.
 
@@ -377,10 +377,10 @@ The amendment intends to increase the contribution given to a presidential candi
 
 Stakeholders’ views 
 
-    (a) Opposition political parties
+Opposition political parties
 The Opposition political parties support the proposed amendment. The Opposition believes that being a presidential candidate requires a certain standard that matches with the dignity of such an office. It is an important office where Government should invest in to get maximum alternative policies and views. 
 
-    (b) Electoral Commission
+Electoral Commission
 The Electoral Commission agreed with the proposed amendment.
 
 Analysis
@@ -403,15 +403,15 @@ The amendment proposes that polling to close at 4.00 p.m. on the polling day ins
 
 Stakeholders’ views 
 
-    (a) Opposition Political Parties
+Opposition Political Parties
 
 The Opposition proposes to maintain the status quo as there is no lacuna so far being cured. Ugandan population, according to them, first attends their other activities and report to vote later in the evening. Voting is a fundamental right of an individual that goes to the roots of democracy. It is the legitimate expression of choosing leadership. It will be unrealistic to deny Ugandans a right to vote when the day is still bright. Time of closure for voting should remain at five O’clock.
 
-    (b) The Electoral Commission 
+The Electoral Commission 
 
 The Electoral Commission agreed with the proposed amendment reasoning that it gives them additional time to count, tally, fill the required forms and transmit the results before it gets dark especially in areas that don’t have electricity. 
 
-    (c) Mwijukye, FDC Member and political activist
+Mwijukye, FDC Member and political activist
 
 Mr Mwijukye suggested that the committee rejects government proposal to reduce voting time to 4.00 O’clock because at times in rural areas voting begins late hence reducing the time available for voting. He suggests that instead Government facilitates the Electoral Commission with sources of light like paraffin lanterns and transport to enable them work in the night. He proposed that the status quo remains. 
 
@@ -1701,8 +1701,8 @@ THE DEPUTY CHAIRPERSON: No read sub-section 2
 
 MR RUKUTANA: Now 2, says: “The person referred to in sub-section 1, may be appointed by the Commission whenever a general update of voters register is about to take place and only for such a period and on such terms as the Commission may determine”. Now this was contradictory: 
 
-    1.  Makes it a permanent phenomenon but here the amendment is very clear because it says that there shall be such a number of assistant district election administrators for each electoral district as the Commission shall determine.
-    2. An Assistant election administrator shall be appointed by the Commission for a period and on terms determined by the Commission. This way we avoid the contradiction. Initially there was a contradiction because while section 22 sub section 1 made it a permanent office, here it is clear that the intention is to have them appointed other than when need arises – (Ms Namara and Mr Magyezi rose_) – No, I think I am very clear in my mind that -
+ Makes it a permanent phenomenon but here the amendment is very clear because it says that there shall be such a number of assistant district election administrators for each electoral district as the Commission shall determine.
+An Assistant election administrator shall be appointed by the Commission for a period and on terms determined by the Commission. This way we avoid the contradiction. Initially there was a contradiction because while section 22 sub section 1 made it a permanent office, here it is clear that the intention is to have them appointed other than when need arises – (Ms Namara and Mr Magyezi rose_) – No, I think I am very clear in my mind that -
 
 THE DEPUTY CHAIRPERSON: You are very clear in your mind but your mouth is letting you down.
 
@@ -1725,11 +1725,11 @@ Now when you stop at that level, those are permanent offices. However, when you 
 To me, the amendment was supposed to emphasise on the temporary nature of these assistant district election administrators as opposed to the mandatory provision contained in Section 22(1) of the old law.
 
 MS NAMARA: Thank you very much, Mr Chairman. First of all, I wonder why the Attorney-General was reading piece meals of section 22. Section 22 – in totality – reads;
-    1) For each constituency there shall be -
-    a) An assistant registrar; and
-    b) An appropriate number of register update officers. 
+For each constituency there shall be -
+An assistant registrar; and
+An appropriate number of register update officers. 
 
-    2) The persons referred to in sub-section (1) may be appointed by the commission whenever a general update of voters register is about to take place and only for such a period and on such terms as the Commission may determine.
+The persons referred to in sub-section (1) may be appointed by the commission whenever a general update of voters register is about to take place and only for such a period and on such terms as the Commission may determine.
 
 That does not make them permanent. 
 
@@ -1890,4 +1890,3 @@ It will go down in history that when we were tested, we were not found wanting �
 You go with my prayers and I go with your prayers too, that whatever we are going to do should consolidate the gains we have made as a country. We should not waver when it come to the security and stability of this country; we must not waver but stand firm and do everything possible to guarantee the security of our people and our country. By what we do, say and how we do our mobilization; it should be able to promote unity to the rest of the country. I thank you very much and may the blessings that I cannot give; coming from elsewhere, be upon all of you. This House stands adjourned sine die
 
 (The House rose at 8:36 p.m. and adjourned sine die.) 
-

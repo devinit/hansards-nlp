@@ -1,4 +1,4 @@
-﻿
+
 
 Wednesday, 2 August 2017
 
@@ -616,9 +616,9 @@ MR ONGALO-OBOTE: Rule 197 - Special powers of committees. Replace paragraph (d) 
 
 “Shall have the powers of the High Court for –
 
-    (i) enforcing the attendance of witnesses and examining them on oath, affirmation or otherwise;
-    (ii) compelling the production of documents; and
-    (iii) issuing a commission or request to examine witnesses abroad.”
+enforcing the attendance of witnesses and examining them on oath, affirmation or otherwise;
+compelling the production of documents; and
+issuing a commission or request to examine witnesses abroad.”
 
 The justification is that this is the position provided for under Article 90, subsection (3) (c) of the Constitution.
 
@@ -883,8 +883,8 @@ THE DEPUTY SPEAKER: What about those that were stood over? We stood over two rul
 MR ONGALO-OBOTE: The new rule 167 is to be rephrased as follows: 1. Rephrase subrule (1) (a) and (b) to read as follows: 
 
 “The Committee on Government Assurances and Implementation shall -
-    (a) record and scrutinise the assurances, promises and undertakings given by any minister, Prime Minister, President, Vice-President in the House from time to time;
-    (b) monitor and evaluate the fulfilment of government assurances.”
+record and scrutinise the assurances, promises and undertakings given by any minister, Prime Minister, President, Vice-President in the House from time to time;
+monitor and evaluate the fulfilment of government assurances.”
 
 2. 	Insert the current subrule (2). 
 
@@ -969,27 +969,27 @@ MR FELIX OKOT-OGONG (NRM, Dokolo South County, Dokolo): Mr Speaker, this is a pe
 
 Mr Speaker, this is a humble petition of the following companies:
 
-    a) Ake-Jo Company Limited
-    b) Amos Investments
-    c) Absolute Home Limited
-    d) Benico Investments Limited
-    e) Gunya Company Limited
-    f) JB Trading Agency Limited
-    g) Herbco Colour Printers Limited
-    h) Opentenc Uganda Limited
-    i) Apel Engineering Company Limited
-    j) Menelico Stores; and
-    k) JARUTS. They are represented by hon. Felix Okot-Ogong, MP Dokolo South County.
+Ake-Jo Company Limited
+Amos Investments
+Absolute Home Limited
+Benico Investments Limited
+Gunya Company Limited
+JB Trading Agency Limited
+Herbco Colour Printers Limited
+Opentenc Uganda Limited
+Apel Engineering Company Limited
+Menelico Stores; and
+JARUTS. They are represented by hon. Felix Okot-Ogong, MP Dokolo South County.
 
 The humble petitioners showeth and state thus:
  
-    1. Your humble petitioners are Ugandan traders who supplied goods to the Government of the Republic of South Sudan between 2008 and 2010 but were never paid.
+Your humble petitioners are Ugandan traders who supplied goods to the Government of the Republic of South Sudan between 2008 and 2010 but were never paid.
 
-    2. Following a presidential directive to verify all claims against the Government of the Republic of South Sudan, your petitioners’ claims were duly verified and a report was submitted to the Ministry of Finance, Planning and Economic Development.
+Following a presidential directive to verify all claims against the Government of the Republic of South Sudan, your petitioners’ claims were duly verified and a report was submitted to the Ministry of Finance, Planning and Economic Development.
 
-    3. Your petitioners are aware that Government of Uganda entered into a bilateral agreement with the Government of the Republic of South Sudan on the 22nd day of September, 2016 regarding payment of monies owed to Uganda-South Sudan traders by the Government of the Republic of South Sudan.
+Your petitioners are aware that Government of Uganda entered into a bilateral agreement with the Government of the Republic of South Sudan on the 22nd day of September, 2016 regarding payment of monies owed to Uganda-South Sudan traders by the Government of the Republic of South Sudan.
 
-    4. However, under schedule 1 to the agreement, the Government of the Republic of South Sudan has acknowledged debt arising out of only 10 traders without acknowledging the debt it owes your petitioners.
+However, under schedule 1 to the agreement, the Government of the Republic of South Sudan has acknowledged debt arising out of only 10 traders without acknowledging the debt it owes your petitioners.
 
 Now, therefore, your humble petitioners pray thus:
 
@@ -1034,4 +1034,3 @@ On the issue of the statement that was raised yesterday, on the situation that h
 Honourable members, this House stands adjourned sine die. 
 
 (The House rose at 5.11 p.m. and adjourned sine die.) 
-

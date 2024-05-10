@@ -1,4 +1,4 @@
-﻿
+
 
 Wednesday, 9 March 2017
 
@@ -178,7 +178,7 @@ MR SSEKIKUBO: Hon. Chekamondo, we are totally against the principle. The questio
 
 THE CHAIRPERSON: I would like to ask the Ministry of Finance, Planning and Economic Development - how do we activate 3(a)? It reads “a vote, state enterprise or public corporation shall retain revenue collected or received where the revenue is:
 
-    a) In the form of levies, licenses, fees or fines and the vote state enterprise or public corporation is authorised through appropriation by Parliament to retain the same…” 
+In the form of levies, licenses, fees or fines and the vote state enterprise or public corporation is authorised through appropriation by Parliament to retain the same…” 
 
 How do we activate this? At what stage do we appropriate? Do they come and report they have received Shs 1,000,000 and then we say, “Okay, you can retain it?: I would like to understand how we shall effect this because that would mean they would come to Parliament and get authority to retain.
 
@@ -335,20 +335,20 @@ Clause 137, agreed to.
 Clause 2
 
 MR MUSASIZI: Madam Chairperson, we propose to amend clause 2 as follows:
-    i. By deleting the definition of an actuary and substituting the following; actuary means a person who is a member or a fellow of a professional institute, faculty, society or association of actuaries and recognised by the Authority.
+By deleting the definition of an actuary and substituting the following; actuary means a person who is a member or a fellow of a professional institute, faculty, society or association of actuaries and recognised by the Authority.
 
 	Our justification, Madam Chairperson, is that ICP 8 requires both qualified life and non-life actuaries. It is better for the detailed qualifications to be included in the regulations and not in the Act.
 
-    ii. Madam Chairperson, we propose to insert immediately after the definition of commercial bank the following “control in relation to a licensee has the meaning specified in the regulations.” 
+Madam Chairperson, we propose to insert immediately after the definition of commercial bank the following “control in relation to a licensee has the meaning specified in the regulations.” 
 
 Constituting documents means;
-    a) In the case of a company, its memorandum and articles of association and 
-    b) In the case of any other entity, such document or documents that constitute and govern the entity.
+In the case of a company, its memorandum and articles of association and 
+In the case of any other entity, such document or documents that constitute and govern the entity.
 Our justification, Madam Chairperson, is to provide for the definition of control and constituting documents.
 
-    iii. We propose to delete the definition of “director” and substituting it with the following:
+We propose to delete the definition of “director” and substituting it with the following:
 	“Director” means a member of the governing body of a corporate;” 
-    iv. We propose to insert immediately after the definition of “distribution”, the following:
+We propose to insert immediately after the definition of “distribution”, the following:
 “Domestic Supervisory Authority” means an authority in Uganda which performs functions corresponding or similar to those performed by the Authority or regulates or supervises any type of financial service”
  “Financial institution” means a person who carries on or transacts in the business of a bank or a credit institution, as defined in the Financial Institutions Act, 2004.
 
@@ -361,17 +361,17 @@ THE CHAIRPERSON:  I have a problem with that; hon. Attorney–General, I think t
 MR RUKUTANA: Since the clause is already defined in another law, it is sufficient to say, “Financial institution has the same meaning as in this Act.” Do not elaborate. 
 
 MR MUSASIZI: Madam Chairperson, I concede. 
-    v.  By deleting the definition of “foreign insurer” and substituting it with the following-
+ By deleting the definition of “foreign insurer” and substituting it with the following-
 	“A foreign reinsurer is one incorporated and licensed as a reinsurer under the laws of a country other than Uganda except Africa Re and PTA Re”.
 
 	The justification is to provide for clarity.
 
-    vi. By deleting the definition of “foreign supervisory authority” and substituting it with the following:
+By deleting the definition of “foreign supervisory authority” and substituting it with the following:
 	“Foreign Supervisory Authority” means an authority in a jurisdiction outside Uganda which performs functions corresponding or similar to those performed by the Authority or regulates or supervises any type of financial service;”
 
 	The justification is that ICP 3.2.1 permits the Authority to exchange information with foreign supervisors in regard to financial services and not limited to financial institutions only.
 
-    vii. Foreign re-insurer –(Interruption)
+Foreign re-insurer –(Interruption)
 
 MR RUKUTANA: Madam Chairperson, on (vii) “foreign re-insurer”, we cannot have two definitions for the same clause. I think the chairperson should decide on this. You cannot say, foreign insurer means this and then down you say, foreign insurer means something different. It must be one definition. 
 
@@ -379,13 +379,13 @@ THE CHAIRPERSON:  I want to know whether you are dealing with foreign insurer �
 
 MR MUSASIZI: Madam Chairperson, I think the issue of having two definitions is simple to resolve. We take one and eliminate the other. Therefore, on whether we are on foreign insurance or foreign reinsurance, the substance is on reinsurance. Therefore this was a typo. 
 
-    viii. By deleting the definition of “insurance agent” and substituting it with the following: 
+By deleting the definition of “insurance agent” and substituting it with the following: 
 
 “Insurance agent” means a person appointed and authorised by an insurer to solicit for applications for insurance or negotiate insurance coverage on behalf of the insurer or to perform other functions of an insurance nature that may be assigned to him or her by the insurer, and who in consideration of his or her services receives commission or other remuneration from the insurer;”
 
 The justification is to broaden the consideration an insurance agent may receive to include any other remuneration from the insurer.
 
-    ix.  By deleting the definition of “insurance broker” and substituting it with the following:
+ By deleting the definition of “insurance broker” and substituting it with the following:
 
 “Insurance broker” means a person, not being an insurance agent, who acting as an independent contractor for a commission or remuneration-
 
@@ -394,23 +394,23 @@ The justification is to broaden the consideration an insurance agent may receive
 
 The justification is that brokers do more than solicit and negotiate insurance for their clients but also advise.
 
-    x. By deleting the definition of “insurance intermediary” and substituting it with the following-
+By deleting the definition of “insurance intermediary” and substituting it with the following-
 
 “Insurance intermediary” means an insurance agent; an insurance broker; a risk advisor; a loss assessor; a third party administrator; or a reinsurance broker.”
 
 The justification is that the previous definition did not consider services done by intermediaries like loss assessors on intimation of a claim.
 
-    xi. By deleting the definition of “insurer”
+By deleting the definition of “insurer”
 The justification is that it is to be replaced with the word “licensed insurer”.
 
-    xii. By deleting the definition of “internal actuary”
+By deleting the definition of “internal actuary”
 The justification is that the word is not used in the Bill.
 
-    xiii. By inserting immediately after the definition of “licence” the following-
+By inserting immediately after the definition of “licence” the following-
 “Licenced insurer” means a person who holds an insurers licence issued under section 34(1)(a);”
 The justification is to define who a licenced insurer is.
 
-    xiv. By deleting the words “this Act” in the definition of the words “life insurance business, and substitute with the words “the regulations”.
+By deleting the words “this Act” in the definition of the words “life insurance business, and substitute with the words “the regulations”.
 
 The justification is that the classes of life insurance business are to be provided for in the regulations – (Interruption) 
 
@@ -435,8 +435,8 @@ MR MUSASIZI: We propose to retain the provision in the Bill.
 THE CHAIRPERSON: Okay; continue with your proposals.
 
 MR MUSASIZI: There was a suggestion by hon. Niwagaba, which is alright and we should take it. Then there is on (xv) where we propose to delete in the definition of “Loss assessor” and substitute the following: 
-    xv. “Loss assessor” means a person who, by way of business, investigates and negotiates the settlement of claims under insurance contracts solely on behalf of either the insurer or the insured but does not include-
-    (a) an individual who is an employee of an insurer or an insurance agent while acting on behalf of the insurer or insurance agent;
+“Loss assessor” means a person who, by way of business, investigates and negotiates the settlement of claims under insurance contracts solely on behalf of either the insurer or the insured but does not include-
+an individual who is an employee of an insurer or an insurance agent while acting on behalf of the insurer or insurance agent;
 (b) 	An insurance agent who is authorised to settle claims on behalf of the insurer for whom the insurance agent acts as agent; or
 (c) 	a person who, acting as an expert, provides advice to a loss assessor, an insurer or an insured on the circumstances that give rise to the claim, provided that the person does not negotiate the settlement of the claim;”
 
@@ -445,29 +445,29 @@ The justification is to provide for a broader definition of a loss assessor.
 MR RUKUTANA: The formulation as it was in the Bill is, to me, better than trying to describe and exclude because if you are a loss assessor, it is properly explained here. If you are not within the description, then you are not a loss assessor. When you go into defining and eliminating, you clog it and it loses meaning. I suggest that we retain what is in the Bill.  
 
 MR MUSASIZI: Madam Chairperson, I concede.
-    xvi. On (xvi), we propose to delete the definition of “micro insurance” and substitute it with the following:
-    xvii. “Micro insurance contract” means an insurance contract approved by the Authority;”
+On (xvi), we propose to delete the definition of “micro insurance” and substitute it with the following:
+“Micro insurance contract” means an insurance contract approved by the Authority;”
 
 THE CHAIRPERSON: Honourable chairperson, I think you should not interfere with micro insurance because the definition in the Bill states what it means. However, you are now narrowing it to a contract only. The Bill is defining what constitutes micro insurance and you want to just concentrate on a contract.
 
 MR MUSASIZI: Micro insurance means insurance for the protection of low income people against a specific period in exchange of regular premiums, payments proportionate to the likelihood and cost of risk involved. Madam Chairperson, I concede.
 
-    xviii. National Reinsurance Company. We propose to delete the definition of “national reinsurance company” and substitute it with the following:
+National Reinsurance Company. We propose to delete the definition of “national reinsurance company” and substitute it with the following:
 
 “National reinsurance company” means the company approved by the Authority as a national reinsurance company of which more than 51 per cent of the shares of the company are owned by licensees incorporated in Uganda or the decisions of the company are arrived at by the majority who are licensees incorporated in Uganda.”
 
 The justification is to provide for a clearer definition of the words “national reinsurance company”.
 
-    xix. We are also proposing to delete the word “specified” in the definition of the word “non-life insurance business” and substituting it with  the word “prescribed”.
+We are also proposing to delete the word “specified” in the definition of the word “non-life insurance business” and substituting it with  the word “prescribed”.
 
 The justification is that the proper word to use is “prescribed”.
 
-    xx. We propose to delete the definition of “policy holder” and substituting the following:
+We propose to delete the definition of “policy holder” and substituting the following:
 “Policy holder” in relation to an insurance contract or a health benefit plan, means the person who entered into the insurance contract or health benefit plan with the insurer or HMO, if the rights of that person under the contract have been assigned or transferred, the person who has those rights;” 
 
 The justification is to provide for a broader definition covering HMOs as well and assignees. 
 
-    xxi. We propose to insert immediately after the definition of the word “premium”, the following:
+We propose to insert immediately after the definition of the word “premium”, the following:
 “Reinsurance broker is a specialist intermediary involved in the placing of reinsurance” 
 
 
@@ -475,19 +475,19 @@ MR RUKUTANA: Well, the latter proposition may be okay but why not retain the def
 
 MR MUSASIZI: Madam Chairperson, we propose to add a new paragraph (d) immediately after paragraph (c) in the definition of the words “senior manager” to read as follows: 
 
-    xxii. “(d) Hold such other position or undertake such other functions and duties as maybe prescribed by the Authority.” 
+“(d) Hold such other position or undertake such other functions and duties as maybe prescribed by the Authority.” 
 
 The justification is to provide for a broader definition of who can be referred to as a senior manager thus promoting flexibility.
 
-    xxiii. In addition, we propose that the definition of the words “substantial shareholder” should be deleted and replaced with the following: “Significant owner means a person who exercises control over a body corporate within the meaning of the regulations made under this Act.” 
+In addition, we propose that the definition of the words “substantial shareholder” should be deleted and replaced with the following: “Significant owner means a person who exercises control over a body corporate within the meaning of the regulations made under this Act.” 
 
 Our justification is to ensure compliance with ICP 6.1, which provides for a significant owner and not a substantial shareholder.
 
-    xxiv. We also propose to insert, immediately after the definition of “takaful insurance”, the following: “Third party administrator means a person who provides services to an HMO or a licensed insurer in relation to the administration of health benefit plans or health insurance policies.”
+We also propose to insert, immediately after the definition of “takaful insurance”, the following: “Third party administrator means a person who provides services to an HMO or a licensed insurer in relation to the administration of health benefit plans or health insurance policies.”
 
 The justification is that the word is not defined and yet it is used in the Bill in clause 83(1)(h).
 
-    xxv. We also propose to insert, immediately after the definition of “tribunal”, the following: “Valid licence means a licence that authorises the type of activity or business being carried on by the holder of the licence for the particular time period.”
+We also propose to insert, immediately after the definition of “tribunal”, the following: “Valid licence means a licence that authorises the type of activity or business being carried on by the holder of the licence for the particular time period.”
 
 The justification is that ICP 4.1 requires countries to prohibit the carrying on of unauthorised insurance activities and to define the permissible legal forms of domestic insurance legal
 entities. 
@@ -591,5 +591,4 @@ Honourable members, in the meantime, I want to thank you for coming and to say t
 
 (The House rose at 12.18 p.m. and adjourned until Tuesday, 14 March 2017 at 2.00 p.m.)
  
-
 

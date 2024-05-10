@@ -1,4 +1,4 @@
-﻿
+
 
 Tuesday, 18 December 2018
 
@@ -31,12 +31,12 @@ The law which prescribes that is the Administration of Parliament Act, and secti
 On the other hand, the Rules of Procedure of Parliament, especially rule 11, provide as follows:
 
 “(1) The Parliamentary Commission, established by the Constitution and the Administration of Parliament Act, shall be composed of-
-    (a) the Speaker…
-    (b) the Deputy Speaker;
-    (c) the Leader of Government Business…
-    (d) the minister holding the portfolio of finance;
-    (e) the Leader of the Opposition or his or her nominee; and 
-    (f) four Members of Parliament, one of whom shall come from the Opposition and none of whom shall be a minister.
+the Speaker…
+the Deputy Speaker;
+the Leader of Government Business…
+the minister holding the portfolio of finance;
+the Leader of the Opposition or his or her nominee; and 
+four Members of Parliament, one of whom shall come from the Opposition and none of whom shall be a minister.
 
 (2) 	In the absence of the Speaker, the Deputy Speaker shall chair the meetings of the Commission.
 
@@ -58,7 +58,7 @@ In any case, to avoid ambiguity, we shall read the word “designation” to mea
 
 Rule 92 (1) provides thus: “Except as otherwise prescribed by the Constitution or any law consistent with the Constitution, all questions proposed for decision of Parliament shall be determined by a majority of votes of the Members present and voting.” Various modes of voting are stipulated under rule 95 of the Rules of Procedure of Parliament. However, under rule 97 of the same rules, it provides, “There shall be secret voting in the House in respect of- 
 
-    (a) the election or removal of a person holding office under the Constitution or under a law made under the Constitution.”
+the election or removal of a person holding office under the Constitution or under a law made under the Constitution.”
 
 The commission is created by the Constitution and is indeed operationalised by the Administration of Parliament Act, hence making the office bearers electable. It, therefore, goes without saying that by the command of the law, Members elected to serve on the commission are nominated by the Government and the Opposition sides of the House. They are elected by secret vote in the House and serve for two and a half years. 
 
@@ -159,21 +159,21 @@ As at November 2018, 547 pensioners who are alive are receiving monthly pension 
 
 Gratuity/Provident Fund Settlement plus Interest for East Africa General Fund Services
 
-    1. The General Fund Service comprises of 24 departments as contained in the Inter-Ministerial Taskforce Report of 2000; 
-    2. The total number of eligible beneficiaries are 3,373; 
-    3. 227 had been paid gratuity with interest prior to 2000;
-    4. 1,464 had been paid gratuity only prior to 2000;
-    5. 22 had been paid their Provident Fund benefits including interest prior to 2000; 
-    6. 1,660 had not been paid any benefit prior to 2000 but were later settled;
-    7. Overall, Shs 4,192,218,588 had been paid out under General Fund Service and outstanding liability of Shs 14,525,884,738.
+The General Fund Service comprises of 24 departments as contained in the Inter-Ministerial Taskforce Report of 2000; 
+The total number of eligible beneficiaries are 3,373; 
+227 had been paid gratuity with interest prior to 2000;
+1,464 had been paid gratuity only prior to 2000;
+22 had been paid their Provident Fund benefits including interest prior to 2000; 
+1,660 had not been paid any benefit prior to 2000 but were later settled;
+Overall, Shs 4,192,218,588 had been paid out under General Fund Service and outstanding liability of Shs 14,525,884,738.
 
 Under Gratuity, there were- 
 
-    1. 2,522 eligible claimants under East African Posts and Telecommunication (EAPT&C)
-    2. 1,610 were paid Shs 5,917,585,399 prior to 2000;
-    3. 901 had not been paid prior to 2000 but have since been paid;
-    4. The outstanding liabilities by 2000 were Shs 17,213,454,919 which were eventually settled; 
-    5. 38 files were incomplete by 2000 but the claimants later submitted the missing information and the beneficiaries were settled.
+2,522 eligible claimants under East African Posts and Telecommunication (EAPT&C)
+1,610 were paid Shs 5,917,585,399 prior to 2000;
+901 had not been paid prior to 2000 but have since been paid;
+The outstanding liabilities by 2000 were Shs 17,213,454,919 which were eventually settled; 
+38 files were incomplete by 2000 but the claimants later submitted the missing information and the beneficiaries were settled.
 
 THE SPEAKER: Honourable minister, try to wind up.
 
@@ -994,9 +994,9 @@ The Karamoja Roads Development Programme
 
 Under this programme, the following roads and bridges were rehabilitated and constructed: 
 
-    1. Loroo to Katikekile and Moroto to Nakilolo on the Kenya border, 28 kilometres. 
-    2. Girik River-Lokales-Karita, 23 kilometres, and construction of the Girik River Bridge of a 30-metre span. 
-    3. Lokichar-Turutuko-Nyakwae and the construction of Nyakwae Bridge of a 20-metre span. 
+Loroo to Katikekile and Moroto to Nakilolo on the Kenya border, 28 kilometres. 
+Girik River-Lokales-Karita, 23 kilometres, and construction of the Girik River Bridge of a 30-metre span. 
+Lokichar-Turutuko-Nyakwae and the construction of Nyakwae Bridge of a 20-metre span. 
 
 This was a project that was co-funded by the European Union at a cost of about £6 million. It was concluded in 2014. The roads were upgraded to national roads and handed over to UNRA for maintenance and they have been maintained in good condition.
 
@@ -1192,14 +1192,14 @@ As of June this year, the national safe water coverage in rural areas was estima
 
 The challenges in rural water supply and sanitation include poverty and rapid population growth. The constraints to urban water supply and sanitation include: 
 
-    1. Pollution; 
-    2. Depletion of water resources; 
-    3. Unplanned settlement patterns, which lead to difficulty in supply of water and sewerage services; 
-    4. Inadequate institutional capacity; 
-    5. Weak local private sector players; 
-    6. Temporal and spatial variability of water resources leading to high investment costs;
-    7. High energy costs and limited grid power network, leading to use of high cost alternatives; and 
-    8. Low prioritisation of sanitation and hygiene at all levels.
+Pollution; 
+Depletion of water resources; 
+Unplanned settlement patterns, which lead to difficulty in supply of water and sewerage services; 
+Inadequate institutional capacity; 
+Weak local private sector players; 
+Temporal and spatial variability of water resources leading to high investment costs;
+High energy costs and limited grid power network, leading to use of high cost alternatives; and 
+Low prioritisation of sanitation and hygiene at all levels.
 
 Madam Speaker, the performance of the loans in the water and environment sector is covered under table 3.1. The performance, compared to other sectors, has been reasonable because the overall performance stands at 68.71 per cent.
 
@@ -1480,14 +1480,14 @@ Madam Speaker, with regard to the loan and the debt situation of the country, th
 
 On compliance with the approval guidelines, the Committee on National Economy developed the guidelines, which we alluded to in the earlier report. The overall score comes to 85 per cent and it is broken down as follows:  
 
-    1. Performance of previous projects is at 60 per cent.
-    2. Consistency with the National Planning Framework is at 100 per cent.
-    3.  Institutional framework is at 100 per cent.
-    4.  Procurement is 100 per cent because this is advanced procurement.
-    5.  The Resettlement Action Plan is at 100 per cent because the area has already been fully compensated. 
-    6. Budgetary implication is at 67 per cent. 
-    7. Implementation readiness is the lowest with 50 per cent.
-    8.  Financing is at 100 per cent because under this project, we are borrowing 100 per cent and there is no counterpart funding.
+Performance of previous projects is at 60 per cent.
+Consistency with the National Planning Framework is at 100 per cent.
+ Institutional framework is at 100 per cent.
+ Procurement is 100 per cent because this is advanced procurement.
+ The Resettlement Action Plan is at 100 per cent because the area has already been fully compensated. 
+Budgetary implication is at 67 per cent. 
+Implementation readiness is the lowest with 50 per cent.
+ Financing is at 100 per cent because under this project, we are borrowing 100 per cent and there is no counterpart funding.
 
 Due Diligence on the Contractor
 
@@ -1755,21 +1755,21 @@ It is important to note that the seven markets financed under the AfDB were full
 
 Madam Speaker, the key findings, according to the Auditor-General, were:
 
-    1. Delays in commencement of the project caused by delays in loan approval and delays in procurement of contractors. This led to low funds absorption, ranging from 11.83 per cent to 59.21 per cent at the time of audit.
+Delays in commencement of the project caused by delays in loan approval and delays in procurement of contractors. This led to low funds absorption, ranging from 11.83 per cent to 59.21 per cent at the time of audit.
 
-    2. The contract amounts for Hoima and Lira markets were understated by Shs 901,526,519 due to uncorrected errors at bid valuation. This led to omissions of some of the facilities approved in the original designs.
+The contract amounts for Hoima and Lira markets were understated by Shs 901,526,519 due to uncorrected errors at bid valuation. This led to omissions of some of the facilities approved in the original designs.
 
-    3. As a result of inadequacies in bid documents, some costs that were assumed to be covered within the charged out rates were again charged under preliminary and general sections of various bills of quantities resulting into unrealistic amounts for preliminary and general sections. This problem was attributed to the manner in which the bills of quantities were structured in the bid documents. A total of Shs 1.7 billion was paid in this respect.
+As a result of inadequacies in bid documents, some costs that were assumed to be covered within the charged out rates were again charged under preliminary and general sections of various bills of quantities resulting into unrealistic amounts for preliminary and general sections. This problem was attributed to the manner in which the bills of quantities were structured in the bid documents. A total of Shs 1.7 billion was paid in this respect.
 
-    4. The designs of some sections of the redeveloped markets did not address the purpose for which the sections were constructed. For instance, in some markets, a number of facilities such as lock-ups, stalls, cold rooms, restaurants, pharmacies, clinics and banking halls were left out.
+The designs of some sections of the redeveloped markets did not address the purpose for which the sections were constructed. For instance, in some markets, a number of facilities such as lock-ups, stalls, cold rooms, restaurants, pharmacies, clinics and banking halls were left out.
 
-    5. Critical contract supervision staff were absent from some sites whilst critical civil works were going on.
+Critical contract supervision staff were absent from some sites whilst critical civil works were going on.
 
-    6. Government of Uganda counterpart contribution amounting to Shs 8,130,726,581 was not availed to the project. This mainly related to accumulated Value-Added Tax certificates for completed work at the time of the audit.
+Government of Uganda counterpart contribution amounting to Shs 8,130,726,581 was not availed to the project. This mainly related to accumulated Value-Added Tax certificates for completed work at the time of the audit.
 
-    7. Overpayment for works on various markets, amounting to Shs 756,177,398, was made to various contractors by the time of the audit.
+Overpayment for works on various markets, amounting to Shs 756,177,398, was made to various contractors by the time of the audit.
 
-    8. Redevelopment of Hoima Market had exceeded its intended completion date. Besides, lack of proof that liquidated damages amounting to Shs 58,126,196 were charged as required by law.
+Redevelopment of Hoima Market had exceeded its intended completion date. Besides, lack of proof that liquidated damages amounting to Shs 58,126,196 were charged as required by law.
 
 Madam Speaker, the committee made these general observations and recommendations and we actually proposed that these should be taken up by the sectoral Committee on Public and Local Government.
 

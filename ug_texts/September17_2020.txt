@@ -1,4 +1,4 @@
-﻿
+
 
 
 Thursday, 17 September 2020
@@ -438,16 +438,16 @@ MR NDEEZI: Yes, we have an amendment on clause 3. Madam Chairperson, in clause (
 
 (a) 	The fund shall be governed by a stakeholder board of directors appointed by the minister and consisting of:
 
-    a. A chairperson;
-    b. The permanent secretary of the ministry responsible for labour;
-    c. The permanent secretary of the ministry responsible for finance; and
-    d. Four representatives of employers nominated by federations of labour unions.”
+A chairperson;
+The permanent secretary of the ministry responsible for labour;
+The permanent secretary of the ministry responsible for finance; and
+Four representatives of employers nominated by federations of labour unions.”
 
 Madam Chairperson, there was a typing error, which indicated “labour unions” but the right term should have been “federation of labour unions.”
 
 I continue with the same amendment.
 “e.  Two representatives of employers nominated by Federation of Uganda Employers; and
-    e. The managing director who shall be an Ex-officio member without the right to vote.
+The managing director who shall be an Ex-officio member without the right to vote.
 
 (b) By substituting subsection (2) with the following:
 
@@ -504,11 +504,11 @@ THE CHAIRPERSON: Honourable chairperson, do you have any amendment?
 
 MR NDEEZI: Yes, we have an amendment to clause 7. Our amendment is on page 13 of the report. We beg to move that clause 7 is amended as follows:
 
-    i.   In the proposed subsection (2), delete the words, “together with the standard contribution;” and
+  In the proposed subsection (2), delete the words, “together with the standard contribution;” and
 
-    ii. Substitute the proposed subsection (3) with the following: “(3) An employer authorised by an employee under subsection (2), shall, for every month, during which he or she pays wages for the member, pay to the fund, within fifteen days next following the last day of the month for which the relevant wages are paid, the voluntary contribution of the sum agreed.”
+Substitute the proposed subsection (3) with the following: “(3) An employer authorised by an employee under subsection (2), shall, for every month, during which he or she pays wages for the member, pay to the fund, within fifteen days next following the last day of the month for which the relevant wages are paid, the voluntary contribution of the sum agreed.”
 
-    iii. Substitute the proposed subsection (6) with the following: “(6) An employer who deducts a voluntary contribution under subsection (2) and fails to remit the fund commits an offence and is liable, on conviction, to a fine not exceeding one thousand currency points or imprisonment not exceeding three years or both.”
+Substitute the proposed subsection (6) with the following: “(6) An employer who deducts a voluntary contribution under subsection (2) and fails to remit the fund commits an offence and is liable, on conviction, to a fine not exceeding one thousand currency points or imprisonment not exceeding three years or both.”
 
 The justification are as follows:
 
@@ -576,11 +576,11 @@ MR NDEEZI: We have an amendment for clause 10. Insert section 24 (a) to Principa
 
 “24(a) Midterm Access to benefits
 
-    i. A member who has made voluntary contributions to the fund shall be allowed midterm access to his or her benefits on such terms and conditions and in a manner prescribed by the minister.
-    ii. A member who is forty five years and above or has contributed to the Fund for at least ten years, is eligible to mid-term access of a sum not exceeding 20 per cent of his or her available accrued benefits.
-    iii. A member who is a person with disability who ceases to be employed for a period of one year is eligible to mid-term access of a sum not exceeding 75 per cent of his or her available accrued benefits.
-    iv. The minister shall, in consultation with the board, prescribe by statutory instrument the terms and conditions and procedure for accessing accrued benefits under this section.
-    v. The board may, in consultation with the minister, utilise the network, resources, and infrastructure of NSSF to support the provision of or expansion of other social security pillars including health and employment.”
+A member who has made voluntary contributions to the fund shall be allowed midterm access to his or her benefits on such terms and conditions and in a manner prescribed by the minister.
+A member who is forty five years and above or has contributed to the Fund for at least ten years, is eligible to mid-term access of a sum not exceeding 20 per cent of his or her available accrued benefits.
+A member who is a person with disability who ceases to be employed for a period of one year is eligible to mid-term access of a sum not exceeding 75 per cent of his or her available accrued benefits.
+The minister shall, in consultation with the board, prescribe by statutory instrument the terms and conditions and procedure for accessing accrued benefits under this section.
+The board may, in consultation with the minister, utilise the network, resources, and infrastructure of NSSF to support the provision of or expansion of other social security pillars including health and employment.”
 
 The justification is that midterm access is necessary to cater for unexpected challenges in the life of a member who may need to utilize some of his or her savings as bail out of the challenge such include unemployment, illness, mortgage, and others.
 
@@ -690,7 +690,7 @@ THE CHAIRPERSON: Honourable members, the proposal is to delete the phrase, “wh
 
 MS OGWAL: Madam Chair, I do not know whether the chair has directed our attention in the right place. In clause 12(a), they talk of renumbering the current provision:
 
-    1. Substituting the word “minister” for the words “minister responsible for finance”.
+Substituting the word “minister” for the words “minister responsible for finance”.
 
 It has not come out whether we are maintaining it as it is or we are amending it. That is why I subscribe to the position of the minority report where, from a governance perspective, we cannot have NSSF being supervised by two ministries. I would rather that the Ministry of Gender, Labour and Social Development - which is principally responsible for NSSF - remains the principal supervisor and not the Ministry of Finance, Planning and Economic Development. They can have the control through the board but the principal ministry must be known and it must be ministry of gender because that is where the interest of the workers lie. 
 
@@ -1036,31 +1036,31 @@ Madam Speaker, I would like to give a short background and context. The Uganda N
 
 The current distribution of the paved road network and ongoing projects across the country, by region, is as follows:
 
-    1. In central or Buganda region, the total paved national roads are 1,594 kilometres. The ongoing upgrading works are 177 kilometres. 
+In central or Buganda region, the total paved national roads are 1,594 kilometres. The ongoing upgrading works are 177 kilometres. 
 
-    2. In the Rwenzori region, the paved roads are 500 kilometres. We do not have ongoing works.
+In the Rwenzori region, the paved roads are 500 kilometres. We do not have ongoing works.
 
-    3. In Bunyoro subregion, we have 484 kilometres of paved national roads and the ongoing projects are 379 kilometres.
+In Bunyoro subregion, we have 484 kilometres of paved national roads and the ongoing projects are 379 kilometres.
 
-    4. In Ankole region, we have 569 kilometres of paved roads. We do not have any projects going on right now. 
+In Ankole region, we have 569 kilometres of paved roads. We do not have any projects going on right now. 
 
-    5. In Kigezi region, we have 330 kilometres of paved roads and 77 kilometres of projects going on.
+In Kigezi region, we have 330 kilometres of paved roads and 77 kilometres of projects going on.
 
-    6. In Busoga region, we have 254 kilometres of paved roads. We do not have any projects going on right now.
+In Busoga region, we have 254 kilometres of paved roads. We do not have any projects going on right now.
 
-    7. In Elgon region, we have 222 kilometres of paved roads and 205 kilometres of ongoing works.
+In Elgon region, we have 222 kilometres of paved roads and 205 kilometres of ongoing works.
 
-    8. In Bukedi region, we have 179 kilometres of paved roads and 71 kilometres of ongoing projects.
+In Bukedi region, we have 179 kilometres of paved roads and 71 kilometres of ongoing projects.
  
-    9. In Teso, we have 216 kilometres of paved road networks and 26 kilometres of ongoing projects. 
+In Teso, we have 216 kilometres of paved road networks and 26 kilometres of ongoing projects. 
 
-    10. In Lango, we have 151 kilometres of paved roads and 181 kilometres of ongoing projects. 
+In Lango, we have 151 kilometres of paved roads and 181 kilometres of ongoing projects. 
 
-    11. In Acholi subregion, we have 521 kilometres of paved roads. We do not have any ongoing projects right now.
+In Acholi subregion, we have 521 kilometres of paved roads. We do not have any ongoing projects right now.
 
-    12. In Karamoja, we have 163 kilometres of paved roads and 20 kilometres of ongoing projects. 
+In Karamoja, we have 163 kilometres of paved roads and 20 kilometres of ongoing projects. 
 
-    13. In West Nile, we have 214 kilometres of paved roads and 66 kilometres of ongoing projects. 
+In West Nile, we have 214 kilometres of paved roads and 66 kilometres of ongoing projects. 
 
 Madam Speaker, this information is contained in an annex to this statement and I will lay the details on the Table.
 
@@ -1102,9 +1102,9 @@ Assurances 
 
 Madam Speaker, I would like to assure you and all the honourable Members of Parliament that:
 
-    1. The selection process for the national roads project in the five-year programme was based on a scientific and objective analysis, which will ensure the highest return of investment in the national roads network.
+The selection process for the national roads project in the five-year programme was based on a scientific and objective analysis, which will ensure the highest return of investment in the national roads network.
 
-    2. The completion of the roads programme will increase the paved road density across the country to support the primary growth sectors and improve access to currently underserved regions, to promote Government efforts towards balanced development.
+The completion of the roads programme will increase the paved road density across the country to support the primary growth sectors and improve access to currently underserved regions, to promote Government efforts towards balanced development.
 
 In conclusion, my ministry is committed to improve the national roads network by implementing the priority NDP III projects, in support of other Government programmes and facilitate economic activities to ensure the highest returns on investment. 
 

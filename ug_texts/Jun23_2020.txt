@@ -1,4 +1,4 @@
-﻿
+
 
 
 Tuesday, 23 June 2020
@@ -22,11 +22,11 @@ I would like the Minister of Public Service to advise on what he plans to do for
 Secondly, I continue to receive petitions. I have a petition here from the National Union of Drivers, Cyclists and Allied Workers seeking support of this House for them to be able to come back to work, especially the boda boda riders. They say that the absence of boda boda cyclists on the streets has affected other employers like motorcycle dealers, mechanics, spare part sellers and services.
 
 They are saying that that has affected the income of the following companies;
-    1. Verma for Bajaj Motorcycle dealers;
-    2. Simba Automotive;
-    3. TVS Motorcycle dealers;
-    4. Yuvraj Motorcycle dealers;
-    5. Yamaha; to mention but a few.
+Verma for Bajaj Motorcycle dealers;
+Simba Automotive;
+TVS Motorcycle dealers;
+Yuvraj Motorcycle dealers;
+Yamaha; to mention but a few.
 
 They also said that they have already devised a transparent shield screen to put on the motorcycles to protect and separate the rider from the passenger to minimise the spread of the Coronavirus.
 
@@ -449,18 +449,18 @@ Hon. Joshua Anywarach
 I beg to designate.
 
 MR SSEMUJJU: Madam Speaker, on the Committee on East African Community Affairs, I beg to designate: 
-    1. Prof. Morris Ogenga-Latigo
-    2. Hon. Nabilah Naggayi Sempala
+Prof. Morris Ogenga-Latigo
+Hon. Nabilah Naggayi Sempala
 
 MR BARYAYANGA: Madam Speaker, on the Committee on East African Community Affairs, I beg to designate: 
 1. Hon. Veronica Babirye Kadogo
 2. Hon. Gerald Karuhanga
 
 MR SSEMUJJU: Madam Speaker, on the Committee on Tourism, Trade and Industry, I have the following members:
-    1. Hon. Cecilia Ogwal Atim
-    2.  Hon. Mary Kabanda Babirye
-    3. Hon. Samuel Odonga Otto
-    4.  Hon. Centenary Robert Franco
+Hon. Cecilia Ogwal Atim
+ Hon. Mary Kabanda Babirye
+Hon. Samuel Odonga Otto
+ Hon. Centenary Robert Franco
 
 
 
@@ -469,9 +469,9 @@ THE SPEAKER: Thank you. Hon. Aja -
 
 
 MR BARYAYANGA: Madam Speaker, on the Committee on Tourism, Trade and Industry, I beg to designate the following:
-    1. Hon. Jane Nabulindo Kwoba
-    2. Hon. Robert Ntende 
-    3. Hon. David Kalwanga Lukyamuzi
+Hon. Jane Nabulindo Kwoba
+Hon. Robert Ntende 
+Hon. David Kalwanga Lukyamuzi
 
 
 
@@ -480,12 +480,12 @@ THE SPEAKER: Thank you very much. Next -
 
 
 MR SSEMUJJU: Madam Speaker, on the Committee on Legal and Parliamentary Affairs, I have the following:
-    1. Hon. Abdu Katuntu
-    2. Hon. Ibrahim Ssemujju
-    3.  Hon. Medard Sseggona Lubega
-    4.  Hon. Matthias Mpuuga
-    5.  Hon. Paul Mwiru
-    6.  Hon. Asuman Basalirwa.
+Hon. Abdu Katuntu
+Hon. Ibrahim Ssemujju
+ Hon. Medard Sseggona Lubega
+ Hon. Matthias Mpuuga
+ Hon. Paul Mwiru
+ Hon. Asuman Basalirwa.
 
 
 
@@ -494,12 +494,12 @@ THE SPEAKER: Thank you. UPDF none. Hon. Aja -
 
 
 MR BARYAYANGA: Madam Speaker, on the Committee on Legal and Parliamentary Affairs, I beg to designate the following:
-    1. Hon. Jacob Oboth 
-    2. Hon. Paul Akamba
-    3. Hon. Edward Otto Makmot
-    4. Hon. Wilfred Niwagaba
-    5. Hon. Muhammad Nsereko
-    6. Hon. Anna Adeke Ebaju
+Hon. Jacob Oboth 
+Hon. Paul Akamba
+Hon. Edward Otto Makmot
+Hon. Wilfred Niwagaba
+Hon. Muhammad Nsereko
+Hon. Anna Adeke Ebaju
 
 
 
@@ -508,15 +508,15 @@ THE SPEAKER: Thank you. The next one -
 
 
 MR SSEMUJJU: Madam Speaker, on the Committee on Information, Communication and Technology, I have:
-    1. Hon. Lee Oguzu Denis
-    2. Hon. Fred Tumuheirwe Turyamuhweza
-    3. Hon. Maxwell Akora
+Hon. Lee Oguzu Denis
+Hon. Fred Tumuheirwe Turyamuhweza
+Hon. Maxwell Akora
 
 
 
 MR BARYAYANGA: Madam Speaker, on the Committee on Information, Communication and Technology, I have the following:
-    1. Hon. Annet Nyakecho
-    2.  Hon. Bernard Atiku
+Hon. Annet Nyakecho
+ Hon. Bernard Atiku
 
 
 
@@ -529,8 +529,8 @@ THE SPEAKER: Thank you. Next -
 
 
 MR SSEMUJJU: Finally, Madam Speaker, on the Committee on Science and Technology, I have: 
-    1. Hon. Charles Abacacon Angiro Gutomoi 
-    2. Hon. Deogratius Kiyingi
+Hon. Charles Abacacon Angiro Gutomoi 
+Hon. Deogratius Kiyingi
 
 
 
@@ -543,11 +543,11 @@ THE SPEAKER: Thank you. UPDF none. Hon. Aja -
 
 
 MR BARYAYANGA: Madam Speaker, on the Committee on Science and Technology, I have:
-    1. Hon. Rosemary Nauwat
-    2. Hon. Waira Majegere Kyewalabye
-    3. Hon. John Bagoole
-    4. Hon. Jacklet Atuhaire
-    5. Hon. Okin P.P. Ojara 
+Hon. Rosemary Nauwat
+Hon. Waira Majegere Kyewalabye
+Hon. John Bagoole
+Hon. Jacklet Atuhaire
+Hon. Okin P.P. Ojara 
 
 
 
@@ -621,9 +621,9 @@ Accordingly, in December 2018, the Electoral Commission, in preparation for the 
 In March 2020, following the outbreak of COVID-19, Government announced a package of preventive and protective measures to fight and contain the spread of corona virus in the country. The measures included closing of educational institutions, places of worship were affected, banning large political gatherings, cultural groups, large wedding ceremonies and burials, et cetera. 
 
 The outbreak of corona virus led to the suspension of electoral map or electoral-related activities, as was scheduled by the Electoral Commission. Prior to the outbreak, the Electoral Commission had commenced the implementation of the electoral roadmap and had completed activities relating to the following:
-    a. Demarcation of electoral areas and reorganisation of polling stations had been done;
-    b. The compilation of Special Interest Groups (SIGs) registers had been done; 
-    c. The display of the National Voters’ Register and Special Interest Groups registers was done.
+Demarcation of electoral areas and reorganisation of polling stations had been done;
+The compilation of Special Interest Groups (SIGs) registers had been done; 
+The display of the National Voters’ Register and Special Interest Groups registers was done.
 
 Since the outbreak of COVID-19 in the country in March 2020, it has not been possible for the Electoral Commission to proceed with the next scheduled activity on the electoral roadmap. 
 
@@ -657,12 +657,12 @@ Similarly, Article 77(3) of the Constitution establishes the term of Parliament 
 
 Finally, on the legal part, Article 181(4) of the Constitution provides for all local Government councils to be elected every five years. So, the Electoral Commission Act, Cap.140 Section 12(1)(f) and (h), which I quote below, provides that:
 
-    1. The commission shall, subject to and for the purposes of carrying out its functions under Chapter Five of the Constitution and this Act, have the following powers:
+The commission shall, subject to and for the purposes of carrying out its functions under Chapter Five of the Constitution and this Act, have the following powers:
 (f) To take steps to ensure that there are secure conditions necessary for the conduct of any election in accordance with this Act or any other law and 
 h) To ensure that the candidates campaign in an orderly and organised manner.
 
 In addition, Section 50 of the Act provides for special powers of the Commission as follows:
-    1. Where, during the course of an election, it appears to the commission that by reason of any mistake, miscalculation, emergency or unusual or unforeseen circumstances, any of the provisions of this Act or any law relating to the election, other than the Constitution – with the Constition, you cannot do anything about it - does not accord with the exigencies of the situation, the commission may, by particular or general instructions, extend the time for doing any act, increase the number of election officers or polling stations or otherwise adapt – I put an emphasis - any of those provisions as may be required to achieve the purposes of this Act or the law to such extent as the Commission considers necessary to meet the exigencies of the situation.
+Where, during the course of an election, it appears to the commission that by reason of any mistake, miscalculation, emergency or unusual or unforeseen circumstances, any of the provisions of this Act or any law relating to the election, other than the Constitution – with the Constition, you cannot do anything about it - does not accord with the exigencies of the situation, the commission may, by particular or general instructions, extend the time for doing any act, increase the number of election officers or polling stations or otherwise adapt – I put an emphasis - any of those provisions as may be required to achieve the purposes of this Act or the law to such extent as the Commission considers necessary to meet the exigencies of the situation.
 
 Therefore, the Electoral commission is given powers in the Act to take action in unforeseen circumstances that could happen. And this COVID-19 could be one of those circumstances unforeseen.
 
@@ -681,31 +681,31 @@ The Local Governments Act, Cap.243 section 101 of the Act stipulates that “the
 The Electoral Commission has revised the 2020/2021 General Election Roadmap as follows - I beg your indulgence because this is a very important. This piece of information is specific and if you bear with me, I will give it to you in full.
 
 Some of the key dates which are very important in the roadmap in the revised Roadmap are as follows, I want to highlight them:
-    1. Political Party and Organisations to identify, flag bearers for special interest groups. This should have started yesterday, but it will run until 21 July 2020.
-    2. Deadline for resignation by public servants wishing to
+Political Party and Organisations to identify, flag bearers for special interest groups. This should have started yesterday, but it will run until 21 July 2020.
+Deadline for resignation by public servants wishing to
 Participate in Special Interest Groups Committee Elections should tender in their resignation by 29 June 2020.
-    3. Nomination of Village Special Interest Groups, Women Committees Candidates that should be by 5 August 2020.
-    4. Deadline for establishment of academic papers with Electoral Commission by aspiring candidates for Local Government by 5 July 2020, this should be done.
-    5. Deadline for establishment of academic papers with Electoral Commission by those aspiring for Parliamentary Elections should be by 11 August 2020.
-    6. Deadline for establishment of academic papers with Electoral Commission by candidates aspiring for Presidential Elections, if you are aspiring to be President, your papers should be in by 1 September 2020.
-    7. Deadline for resignation- this is also important for public interest- deadline for resignation by public servants aspiring to contest for Parliamentary Elections their papers should be in by 12 July 2020
-    8. Deadline for resignation by public servants aspiring to contest for Local Government Councils Elections should have their papers in by 6 August 2020.
-    9. Deadline for resignation by public servants aspiring to contest for Special Interest Groups representatives to Parliament should have submitted their papers by 7 August 2020.
-    10. Deadline for resignation by public servants aspiring to contest for Presidential Elections - if any public servant wants to become a President, he should have tendered in resignation by 31 October 2020.
-    11. Period for nomination of candidates for Local Governments, including Special Interest Groups, it is going to run between 7th to l7 September 2020.
-    12. Nomination of Candidates- this affects you- nomination of candidates for Parliamentary Elections is between 12 and 13 October 2020.
-    13. Nomination of Candidates for Presidential Elections is between 2nd and 3 November 2020.
-    14. Harmonisation of Campaign Programme -, there will be harmonisation of campaign programmes for all those contesting by signing a memorandum scheduled between 4th and 9 November 2020.
-    15. Conduct of candidates’ campaigns digitally for Local Government; it is for 28 September 2020 up to 8 January 2021.
-    16. Conduct of candidates’ campaigns digitally for Parliamentary Elections, it will start on 20 October 2020 to 8 January 2021.
-    17. Conduct of candidates’ campaigns digitally for Presidential Elections will start on l0 November 2020 to 8 January 2021.
-    18. Polling period for General Elections- the exact polling dates- friends the exact poling date is not fixed but it will be fixed in the due course.
+Nomination of Village Special Interest Groups, Women Committees Candidates that should be by 5 August 2020.
+Deadline for establishment of academic papers with Electoral Commission by aspiring candidates for Local Government by 5 July 2020, this should be done.
+Deadline for establishment of academic papers with Electoral Commission by those aspiring for Parliamentary Elections should be by 11 August 2020.
+Deadline for establishment of academic papers with Electoral Commission by candidates aspiring for Presidential Elections, if you are aspiring to be President, your papers should be in by 1 September 2020.
+Deadline for resignation- this is also important for public interest- deadline for resignation by public servants aspiring to contest for Parliamentary Elections their papers should be in by 12 July 2020
+Deadline for resignation by public servants aspiring to contest for Local Government Councils Elections should have their papers in by 6 August 2020.
+Deadline for resignation by public servants aspiring to contest for Special Interest Groups representatives to Parliament should have submitted their papers by 7 August 2020.
+Deadline for resignation by public servants aspiring to contest for Presidential Elections - if any public servant wants to become a President, he should have tendered in resignation by 31 October 2020.
+Period for nomination of candidates for Local Governments, including Special Interest Groups, it is going to run between 7th to l7 September 2020.
+Nomination of Candidates- this affects you- nomination of candidates for Parliamentary Elections is between 12 and 13 October 2020.
+Nomination of Candidates for Presidential Elections is between 2nd and 3 November 2020.
+Harmonisation of Campaign Programme -, there will be harmonisation of campaign programmes for all those contesting by signing a memorandum scheduled between 4th and 9 November 2020.
+Conduct of candidates’ campaigns digitally for Local Government; it is for 28 September 2020 up to 8 January 2021.
+Conduct of candidates’ campaigns digitally for Parliamentary Elections, it will start on 20 October 2020 to 8 January 2021.
+Conduct of candidates’ campaigns digitally for Presidential Elections will start on l0 November 2020 to 8 January 2021.
+Polling period for General Elections- the exact polling dates- friends the exact poling date is not fixed but it will be fixed in the due course.
 
 For those who want details because this is a summary; a detailed Roadmap can be obtained from the Electoral Commission website which is www.ec.or.ug or you can go their offices and the offices of political parties and organisations have got this information.
 
 The Basic Considerations in Drawing this Roadmap:
 Madam Speaker, given the impact of corona virus on our economy and our society, three fundamental considerations were taken into account in drawing up the revised electoral roadmap for the next elections. The first consideration, I am sure you will agree was;
-    1. Security and safety concerns of the population; the prevailing health situations in the country, posed a question on how safe it is to hold elections in the usual traditional manner? If you pose that question, there will be people who say “Yes, rain or shine, we must have them conventionally.” 
+Security and safety concerns of the population; the prevailing health situations in the country, posed a question on how safe it is to hold elections in the usual traditional manner? If you pose that question, there will be people who say “Yes, rain or shine, we must have them conventionally.” 
 
 However, you should remember that protecting the lives of the citizens and their property is the first duty of Government. This is a major consideration. According to the Ministry of Health and the scientific advisory committee, the restrictions on political gatherings should be maintained. The situation is not yet normal for normal conventional campaigns.
 
@@ -740,8 +740,8 @@ I am saying this because I have seen the Public Order and Management Act causing
 The Electoral Commission, in consultation with the Ministry of Health, considered and adopted Standard Operating Procedures (SOPs) to facilitate safe and secure participation by all stakeholders in the electoral process. 
 
 The emphasis is on safety practices, which have been customised to elections and they include the following:
-    a. Practicing social distancing; and
-    b. Wearing face masks in public; and – of course I could see some wearing and others not.
+Practicing social distancing; and
+Wearing face masks in public; and – of course I could see some wearing and others not.
 
 Accordingly, Government calls upon all stakeholders in the electoral process - Madam Speaker, this is an appeal - to take note of the various activities that will be conducted under the roadmap and especially the respective timelines for them to participate accordingly, effectively and safely.
 
@@ -1261,4 +1261,3 @@ THE SPEAKER: That is what I had already proposed. I said I was sending this stat
 Honourable members, it is 13 minutes to 6.00 p.m. Should we really continue doing anything? The House is adjourned to tomorrow at 2.00 p.m. 
 
 (The House rose at 5.46 p.m. and adjourned until Wednesday, 24 June 2020 at 2.00p.m.)
-

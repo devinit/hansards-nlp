@@ -1,4 +1,4 @@
-﻿
+
 
 
 Wednesday, 17 August 2022
@@ -15,17 +15,17 @@ ADMINISTRATION OF OATHS
 
 The oaths were administered to:
 
-    1. Mr Eddie Kwizera Wagahungu
-    2. Mr Derrick Orone
+Mr Eddie Kwizera Wagahungu
+Mr Derrick Orone
 
 COMMUNICATION FROM THE CHAIR
 
 THE DEPUTY SPEAKER: Thank you. Honourable Colleagues, I welcome you to today’s Sitting.  In the VIP Gallery this afternoon, we have staff from the National Assembly of Zambia. They include:
 
-    1. Mr Jeffrey Mumbi – Deputy Director, ICT;
-    2. Mr Francis Nguni – Systems and Network Specialist;
-    3. Mr Mulima Chibuye – Systems and Network Specialist; and 
-    4. Ms Victoria Mwaba – ICT Officer.
+Mr Jeffrey Mumbi – Deputy Director, ICT;
+Mr Francis Nguni – Systems and Network Specialist;
+Mr Mulima Chibuye – Systems and Network Specialist; and 
+Ms Victoria Mwaba – ICT Officer.
 
 They are here on a benchmarking visit with the staff of Parliament of Uganda and they are now in the gallery to follow the proceedings of this House. Please, join me in welcoming them. (Applause) 
 
@@ -419,13 +419,13 @@ The current state of the Uganda Heart Institute 
 
 The committee undertook a field visit to the current premises of the Uganda Heart Institute at Mulago National Referral Hospital and observed the following: 
 
-    i) Inadequate space for expansion of services. The current facility is located on level 1, Block C of New Mulago with no room for expansion. For instance, when the committee visited the Uganda Heart Institute, there were equipment lying in the corridors because they could not be installed due to limited space;
+Inadequate space for expansion of services. The current facility is located on level 1, Block C of New Mulago with no room for expansion. For instance, when the committee visited the Uganda Heart Institute, there were equipment lying in the corridors because they could not be installed due to limited space;
 
-    ii) The Uganda Heart Institute has a modern cardiac cathetarisation facility and dedicated cardiac operation theatre with the capacity to handle over 1,000 operations/ procedures per year. However, it is operating below capacity, which is at 45 per cent due to limited supportive space and care services; 
+The Uganda Heart Institute has a modern cardiac cathetarisation facility and dedicated cardiac operation theatre with the capacity to handle over 1,000 operations/ procedures per year. However, it is operating below capacity, which is at 45 per cent due to limited supportive space and care services; 
 
-    iii) Some of the supportive care services are currently undertaken in the staircases and refurbished containers; 
+Some of the supportive care services are currently undertaken in the staircases and refurbished containers; 
 
-    iv) The current infrastructure conditions under which provision of Cardiovascular Medical Services are provided at the Uganda Heart Institute are unacceptable, especially for both the safety of staff and patients and are a gross contravention of medical operational standards. 
+The current infrastructure conditions under which provision of Cardiovascular Medical Services are provided at the Uganda Heart Institute are unacceptable, especially for both the safety of staff and patients and are a gross contravention of medical operational standards. 
 
 The committee recommends that going forward, the Government should immediately address the constraints that is; inadequate working space and medical infrastructure, in order to build a strong foundation for the Uganda Heart Institute for it to become a centre of excellence in cardiovascular medical services.
 
@@ -673,21 +673,21 @@ The Attorney-General's office in a response dated 12 May 2022 advised that both 
 
 A total of 15 special Funds have been created by the various Acts of Parliament. They include the following:
 
-    1. The Uganda Road Fund;
-    2. The Land Fund;
-    3. The Tree Fund;
-    4. The Rural Communication Development Fund;
-    5. The Energy Fund;
-    6. The HIV/AIDS Trust Fund;
-    7. The Business Technical Education and Vocational Training Fund;
-    8. Rural Electrification Fund;
-    9. The National Environment Fund;
-    10. Tourism Development Fund;
-    11. The Immigration Fund;
-    12. The Judiciary Fund;
-    13. Project Preparation Fund;
-    14. The Contingency Fund; and
-    15. Petroleum Fund.
+The Uganda Road Fund;
+The Land Fund;
+The Tree Fund;
+The Rural Communication Development Fund;
+The Energy Fund;
+The HIV/AIDS Trust Fund;
+The Business Technical Education and Vocational Training Fund;
+Rural Electrification Fund;
+The National Environment Fund;
+Tourism Development Fund;
+The Immigration Fund;
+The Judiciary Fund;
+Project Preparation Fund;
+The Contingency Fund; and
+Petroleum Fund.
 
 However, only the Contingency and Petroleum funds have been operationalised. 
 
@@ -699,19 +699,19 @@ Implementation of the Treasury Single Account has improved efficiency and effect
 
 Operationalising these special Funds will, therefore, present the following challenges:
 
-    1. Erode the benefits registered from introduction of the Treasury Single Account of efficient and effective liquidity management.
+Erode the benefits registered from introduction of the Treasury Single Account of efficient and effective liquidity management.
 
-    2. It would lead to unrealistic budgeting and planning by reducing the budget flexibility and fiscal space. Resources are locked up in special Funds, reducing money available for spending by other Government entities that may not have funds at a particular time.
+It would lead to unrealistic budgeting and planning by reducing the budget flexibility and fiscal space. Resources are locked up in special Funds, reducing money available for spending by other Government entities that may not have funds at a particular time.
 
-    3. It undermines the benefits envisaged in the implementation of the Programme Planning Approach under the National Development Plan III as it promotes the silo mentality by scattering resources and could lead to sub-optimal utilisation with the limited Government cash resources.
+It undermines the benefits envisaged in the implementation of the Programme Planning Approach under the National Development Plan III as it promotes the silo mentality by scattering resources and could lead to sub-optimal utilisation with the limited Government cash resources.
 
-    4. It would lead to duplication of the treasury management function coupled with unnecessary Fund management costs and delays because each of these Funds constitute a cost on management.
+It would lead to duplication of the treasury management function coupled with unnecessary Fund management costs and delays because each of these Funds constitute a cost on management.
 
-    5. It is fiduciary risky and poses accountability challenges. For instance, the Uganda Road Fund is not accountable for the funds released to it, but rather, the executing agencies - the local governments.
+It is fiduciary risky and poses accountability challenges. For instance, the Uganda Road Fund is not accountable for the funds released to it, but rather, the executing agencies - the local governments.
 
-    6.  To set a precedent that could trigger demand for full operationalisation of all other Funds leading to the breakup of the Uganda Consolidated Fund into many small Funds, which is unsustainable.
+ To set a precedent that could trigger demand for full operationalisation of all other Funds leading to the breakup of the Uganda Consolidated Fund into many small Funds, which is unsustainable.
 
-    7. To legalise fiscal indiscipline associated with the poor management of special Funds. 
+To legalise fiscal indiscipline associated with the poor management of special Funds. 
 
 Mr Speaker, on the above account, my ministry is in the process of engaging Cabinet to reconsider the operationalisation of special Funds as we assess the benefits accruing from implementation of the Treasury Single Account. We shall inform this august House as soon as Cabinet provides us with guidance on how to proceed.
 
@@ -968,11 +968,11 @@ The lack of these reliable statistics is also an indictment against the Governme
 
 Our recommendation on above is as follows: 
 
-    (i) The Ministry of Gender, Labour and Social Development and the Uganda National Bureau of Statistics should carry out an audit of all street children in the country periodically, starting from within 12 months from the date of the adoption of this report. 
+The Ministry of Gender, Labour and Social Development and the Uganda National Bureau of Statistics should carry out an audit of all street children in the country periodically, starting from within 12 months from the date of the adoption of this report. 
 
-    (ii) The Ministry of Internal Affairs, through the police, should investigate, arrest and prosecute child traffickers. 
+The Ministry of Internal Affairs, through the police, should investigate, arrest and prosecute child traffickers. 
 
-    (iii) The Ministry of Internal Affairs and the National Identification and Registration Authority should put in place measures to ease the process of acquiring birth certificates as a means of identity, nationality and citizenship. 
+The Ministry of Internal Affairs and the National Identification and Registration Authority should put in place measures to ease the process of acquiring birth certificates as a means of identity, nationality and citizenship. 
 
 We established the factors responsible for the presence of children on the street and noted that the phenomenon of migration from Karamoja was not a new one; over the years Karimojong have removed - (Interruption)
 
@@ -1010,4 +1010,3 @@ I have a few notices from ministers who would not be here, but in line with the 
 So, House is adjourned to tomorrow at 2 o’clock. and Rt Hon. Prime Minister, we shall have a meeting over this matter.
 
 (House rose at 5.01 p.m. and adjourned until Thursday, 18 August 2022 at 2.00 p.m.) 
-

@@ -1,4 +1,4 @@
-﻿
+
 
 Wednesday, 10 February 2021
 
@@ -16,25 +16,25 @@ THE SPEAKER: Honourable members, I welcome you to this morning’s Special Sitti
 
 We have in the Gallery, members of the Inzu ya Masaba Cultural Institution, who have come to join us to pay respect to His Royal Highness, Saul Kipiro Bob Mushikori Umukuuka II We Bamasaba. Those present are:
 
-    1. Mr Geoffrey Wilson Wepondi, the Prime Minister
-    2. Mr Omar Njofu, Head of the Kenya Chapter
-    3. Mr Alfred Wamurubu, the Minister of Finance
-    4. Mr David Waniala, Minister of Foreign Affairs, and
-    5. Mr George William Alenyo, the Legal Officer. You are all welcome. 
+Mr Geoffrey Wilson Wepondi, the Prime Minister
+Mr Omar Njofu, Head of the Kenya Chapter
+Mr Alfred Wamurubu, the Minister of Finance
+Mr David Waniala, Minister of Foreign Affairs, and
+Mr George William Alenyo, the Legal Officer. You are all welcome. 
 
 We also have members of the Unity Church in Muhorro Town Council who are here to join Parliament of Uganda as we pay last respects to the late Omukama Ruhanga Owobusobozi Desteo Bisaka, the founder and leader of the Unity Church in Muhorro Town Council in Kagadi District. They are:
 
-    1. Omukwenda Amulika 
-    2. Omukwenda Musimbi Bisaka
-    3. Omukwenda Saboomu Walugembe
-    4. Omukwenda Tibahwerwayo
-    5. Omukwenda Mugisha Mbabazi
-    6. Col Ndahura Atwooki
-    7. Muhumuza David, MP elect of Mwenge
-    8. Omuhereza Mugisha, RDC
-    9. Omuhereza Arinda Akugizibwe
-    10. Omuhereza Munyankore Atukunda, and
-    11. Omuhereza Musiime Sanyu.
+Omukwenda Amulika 
+Omukwenda Musimbi Bisaka
+Omukwenda Saboomu Walugembe
+Omukwenda Tibahwerwayo
+Omukwenda Mugisha Mbabazi
+Col Ndahura Atwooki
+Muhumuza David, MP elect of Mwenge
+Omuhereza Mugisha, RDC
+Omuhereza Arinda Akugizibwe
+Omuhereza Munyankore Atukunda, and
+Omuhereza Musiime Sanyu.
 
 You are all welcome. 
 
@@ -53,11 +53,11 @@ WHEREAS that His Royal Highness Saul Kipiro Bob Mushikori Umukuuka II We Bamasab
 
 RECOGNISING that His Royal Highness Saul Kipiro Bob Mushikori Umukuuka II We Bamasaba has made immeasurable contribution to the country in general and Bamasaba Sub Region in particular and is credited for having-
 
-    (a) developed the Bamasaba cultural anthem, a symbol of unity for Bamasaba and East Africa;
-    (b) introduced the cultural football competitions in Masaba land for social development;
-    (c) diligently presided over the North American Masaba Cultural Association and Organisation that fostered unity among the Bamasaba in the diaspora;
-    (d) advocated for unity between Bamasaba and other people in Uganda; and
-    (e) encouraged and united the Bamasaba in enhancing the actualisation of the East African Community;
+developed the Bamasaba cultural anthem, a symbol of unity for Bamasaba and East Africa;
+introduced the cultural football competitions in Masaba land for social development;
+diligently presided over the North American Masaba Cultural Association and Organisation that fostered unity among the Bamasaba in the diaspora;
+advocated for unity between Bamasaba and other people in Uganda; and
+encouraged and united the Bamasaba in enhancing the actualisation of the East African Community;
 
 APPRECIATING that His Royal Highness Saul Kipiro Bob Mushikori Umukuuka II We Bamasaba was a diligent leader who initiated social, economic and cultural transformation of the Bamasaba and the people of Uganda through various educational, health, environmental, social, cultural and economic programmes and has served Uganda with dedication and patriotism.
 
@@ -244,13 +244,13 @@ The Government went ahead to make a contribution towards burial arrangements and
 
 In view of the COVID-19 situation, Government gave guidance to ensure that the Ministry of Health’s COVID-19 SOPs were strictly adhered to during the burial process. In accordance with the guidelines for official burial, the following ceremonies were performed before and during the burial of His Royal Highness Saul Kipiro Bob Mushikori, the Umukuuka II we Bamasaba: 
 
-    1. An official statement was aired on TV and other electronic media. The Office of the President prepared the statement. 
+An official statement was aired on TV and other electronic media. The Office of the President prepared the statement. 
 
-    2. The procession was escorted by Uganda Police. The casket was carried by uniformed pallbearers drawn from the police. 
+The procession was escorted by Uganda Police. The casket was carried by uniformed pallbearers drawn from the police. 
 
-    3. A funeral service for the deceased was held at St Andrew’s Church of Uganda, Mbale, and the body was transported in an official hearse to the point of burial. The burial place was Shisabasi Village, Busai Parish, Bududa Sub County, Bududa District. 
+A funeral service for the deceased was held at St Andrew’s Church of Uganda, Mbale, and the body was transported in an official hearse to the point of burial. The burial place was Shisabasi Village, Busai Parish, Bududa Sub County, Bududa District. 
 
-    4. The chief mourner at the burial of His Royal Highness Saul Kipiro Bob Mushikori, Umukuuka II we Bamasaba was His Excellency the President of the Republic of Uganda, Gen. Yoweri Kaguta Museveni, who was represented by hon. Mary Goretti Kitutu, Minister of Energy and Mineral Development. 
+The chief mourner at the burial of His Royal Highness Saul Kipiro Bob Mushikori, Umukuuka II we Bamasaba was His Excellency the President of the Republic of Uganda, Gen. Yoweri Kaguta Museveni, who was represented by hon. Mary Goretti Kitutu, Minister of Energy and Mineral Development. 
 
 As I conclude, honourable members of the august House should note that the contribution of the late has already been mentioned by everybody. The official burial was done by Government. May his soul rest in eternal peace.
 
@@ -452,7 +452,7 @@ AWARE THAT hon. Sarah Ntiro Nyendwoha was the first woman university graduate in
 
 RECOGNISING THAT hon. Sarah Ntiro Nyendwoha diligently served Uganda in several key positions, including the following-
 
-    (a) Teacher at King's College Buddo in 1971, Duhaga Junior Secondary School in Hoima in 1958, Gayaza High School in 1955 and Kyebambe Girls' Secondary School in Fort Portal in l954;
+Teacher at King's College Buddo in 1971, Duhaga Junior Secondary School in Hoima in 1958, Gayaza High School in 1955 and Kyebambe Girls' Secondary School in Fort Portal in l954;
 
 (b)	 Joint administrator of the Faculty of Arts and the Faculty of Social Sciences (1976-1978);
 

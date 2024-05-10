@@ -1,4 +1,4 @@
-﻿
+
 PARLIAMENT OF UGANDA
 
 Tuesday, 15 March 2022
@@ -60,29 +60,29 @@ Honourable members, in the public gallery this afternoon, we have a delegation f
 
 We have:
 
-    1. Innocent Nyeko
-    2. Emmanuel Lapyem
-    3. Richard Onen
-    4. Jacky Abalo
-    5. Simon Kidega
-    6. Beatrice Aparo
-    7. Christine Ayaa
-    8. Pope Ocheng
-    9. Richard Nyeka
-    10. Ronald Komakech
-    11. Richard Kimala
-    12. John Bosco Ochola
-    13. Jean Odong
-    14. Doreen Pido
-    15. Jallon Banya
-    16. Doreen Ayoo
-    17. Jackson Alworo
-    18. Jackline Anek
-    19. Noel Opoka
-    20. Sara Aber
-    21. Vicky Acayo
-    22. Hellen Oryemo, and
-    23. Joyce Alwoch.
+Innocent Nyeko
+Emmanuel Lapyem
+Richard Onen
+Jacky Abalo
+Simon Kidega
+Beatrice Aparo
+Christine Ayaa
+Pope Ocheng
+Richard Nyeka
+Ronald Komakech
+Richard Kimala
+John Bosco Ochola
+Jean Odong
+Doreen Pido
+Jallon Banya
+Doreen Ayoo
+Jackson Alworo
+Jackline Anek
+Noel Opoka
+Sara Aber
+Vicky Acayo
+Hellen Oryemo, and
+Joyce Alwoch.
 
 Still in the public gallery this afternoon, we have a delegation of teachers and students of the debating and public speaking club of Kololo Senior Secondary School. They are represented by Hon. Mohammad Nsereko and Hon. Shamim Malende. You are most welcome. Where are you? Your Member of Parliament is here and we welcome you to the Parliament of Uganda. We wish you good luck. Thank you.
 
@@ -178,13 +178,13 @@ THE DEPUTY SPEAKER: Honourable minister, I have not heard what you have said. Do
 
 MS BABIRYE: In accordance with section 13(13) of the Public Finance Management Act (Amended) 2015, I have the honour to lay on the Table the Ministerial Policy Statement and Budget Estimates for the Office of the President, which includes the following votes:
 
-    1. Vote 001 – Office of the President.
-    2. Vote 002 – State House.
-    3. Vote 023 – Ministry of Kampala Capital City and Metropolitan Affairs.
-    4. Vote 017 – Uganda AIDS Commission.
-    5. Vote 112 – Ethics and Integrity.
-    6. Vote 158 – Internal Security Organisation; and 
-    7. Vote 159 – External Security Organisation. I beg to lay. (Applause)
+Vote 001 – Office of the President.
+Vote 002 – State House.
+Vote 023 – Ministry of Kampala Capital City and Metropolitan Affairs.
+Vote 017 – Uganda AIDS Commission.
+Vote 112 – Ethics and Integrity.
+Vote 158 – Internal Security Organisation; and 
+Vote 159 – External Security Organisation. I beg to lay. (Applause)
 
 THE DEPUTY SPEAKER: Thank you. The policy statement stands referred to the Committee on Presidential Affairs. 
 
@@ -351,5 +351,4 @@ THE DEPUTY SPEAKER: Thank you, Members. The ministerial statements are here; get
 Based on that, I adjourn the House sine die.
 
 (The House rose at 2.50 p.m. and adjourned sine die.)
-
 

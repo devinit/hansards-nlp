@@ -1,4 +1,4 @@
-﻿ 
+ 
 
 
 Wednesday, 3 February 2021
@@ -60,8 +60,8 @@ The framework for the Government to provide a 70 per cent contribution to the ne
 
 Over time, Umeme Investments new connections grew to a level, which could not be sustained in the tariff. To mitigate the escalating tariffs, in 2018 the Electricity Regulatory Authority (ERA) conducted a cost of service study to determine, among others, the competitive cost recovery cost of new connections. The above study’s results informed the cost of new connections as summarised below:
 
-    1. Shs 610,918 for no-pole single phase connection.
-    2. Shs 2,323,041 for one-pole single phase connection.
+Shs 610,918 for no-pole single phase connection.
+Shs 2,323,041 for one-pole single phase connection.
 
 The above costs are all net of any applicable tax.
 
@@ -243,35 +243,35 @@ THE SPEAKER: Can I ask Commissioner Bahati to help us lay the papers?
 
 3.35
 THE MINISTER OF STATE FOR FINANCE, PLANNING AND ECONOMIC DEVELOPMENT (PLANNING) (Mr David Bahati): Madam Speaker, I beg to lay on the Table the following reports in accordance with rule 31 of the Rules of Procedure. The reports of the Auditor-General on the financial statements for the year ended 30 June 2014 of:
-    i. Lobalangit Sub-county, Kaabong District;
-    ii. Kigorobya Sub-county, Hoima District;
-    iii. Aliba Sub-county, Moyo District;
-    iv. Bumasikye Sub-county, Mbale District;
-    v. Bahanika Sub-county, Hoima District;
-    vi. Kaabong East Sub-county, Kaabong District; 
-    vii. Abim Sub-county, Abim District;
-    viii. Tubur Sub-county, Soroti District;
-    ix. Karambi Sub-county, Kabarole District;
-    x. Kamuda Sub-county, Soroti District;
-    xi. Abok Sub-county, Oyam District;
-    xii. Buwalasi Sub-county, Sironko District;
-    xiii. Zesui Sub-county, Sironko District;
-    xiv. Moyo Sub-county, Moyo District;
-    xv. Busoro Sub-County, Kabarole District;
-    xvi. Buheesi Sub-county, Kabarole District;
-    xvii. Rwimi Sub-county, Kabarole District;
-    xviii. Drajini Sub-county, Yumbe District;
-    xix. Omiya Pacwa Sub-county, Agago District;
-    xx. Pallisa Sub-county, Pallisa District;
-    xxi. Aduku Sub-county, Apac District;
-    xxii. Chelekura Sub-county, Pallisa District;
-    xxiii. Kasodo Sub-County, Pallisa District;
-    xxiv. Lopeei Sub-county, Napak District;
-    xxv. Unyama Sub-county; Gulu District;
-    xxvi. Loro Sub-county, Oyam District;
-    xxvii. Buhimba Sub-county, Hoima District;
-    xxviii. Matany Sub-county, Napak District and
-    xxix. Kitoba Sub-county, Hoima District.
+Lobalangit Sub-county, Kaabong District;
+Kigorobya Sub-county, Hoima District;
+Aliba Sub-county, Moyo District;
+Bumasikye Sub-county, Mbale District;
+Bahanika Sub-county, Hoima District;
+Kaabong East Sub-county, Kaabong District; 
+Abim Sub-county, Abim District;
+Tubur Sub-county, Soroti District;
+Karambi Sub-county, Kabarole District;
+Kamuda Sub-county, Soroti District;
+Abok Sub-county, Oyam District;
+Buwalasi Sub-county, Sironko District;
+Zesui Sub-county, Sironko District;
+Moyo Sub-county, Moyo District;
+Busoro Sub-County, Kabarole District;
+Buheesi Sub-county, Kabarole District;
+Rwimi Sub-county, Kabarole District;
+Drajini Sub-county, Yumbe District;
+Omiya Pacwa Sub-county, Agago District;
+Pallisa Sub-county, Pallisa District;
+Aduku Sub-county, Apac District;
+Chelekura Sub-county, Pallisa District;
+Kasodo Sub-County, Pallisa District;
+Lopeei Sub-county, Napak District;
+Unyama Sub-county; Gulu District;
+Loro Sub-county, Oyam District;
+Buhimba Sub-county, Hoima District;
+Matany Sub-county, Napak District and
+Kitoba Sub-county, Hoima District.
 
 I beg to lay.
 
@@ -369,14 +369,14 @@ MS KYAMBADDE: Thank you. Let me go right to justification.
 
 The reason I am bringing this law is to highlight the benefits of accreditation services for our economy. Internationally, there is only standard for establishment and operation of accreditation services. So, what this is going to do, once we have this law:
 
-    1. It will simplify international trade through harmonisation of procedures.
-    2. It will enhance quality to safety, and effective service delivery.
-    3. It will increase confidence in public service system.
-    4. It will demonstrate due diligence in an event of legal action.
-    5. These services will reduce the cost of doing business through elimination of re-testing and re-inspection.
-    6. The services will minimise risk of consumption.
-    7. They will protect health and safety. 
-    8. It will also reduce on the cost that we currently encounter by hiring services from Kenya and South Africa. 
+It will simplify international trade through harmonisation of procedures.
+It will enhance quality to safety, and effective service delivery.
+It will increase confidence in public service system.
+It will demonstrate due diligence in an event of legal action.
+These services will reduce the cost of doing business through elimination of re-testing and re-inspection.
+The services will minimise risk of consumption.
+They will protect health and safety. 
+It will also reduce on the cost that we currently encounter by hiring services from Kenya and South Africa. 
 
 I would like to state that at the moment, Uganda is undertaking a lot of investment in infrastructure - in the areas of roads, energy and ICT. Most of the service providers are from foreign countries, which will require this regulatory framework to support their investments. It is important to note that no country has achieved a middle income status without robust national quality infrastructure and accreditation.
 
@@ -444,15 +444,15 @@ Madam Speaker, 4.0 is on stakeholders and their views as far as the amendment of
 
 Maybe, let me just run through. We had presentations from:
 
-    i)  the Ministry of Education and Sports, 
-    ii) The NCDC itself, 
-    iii) Uganda National Examinations Board, 
-    iv) Federation of Uganda Employers, 
-    v) Uganda Business and Technical Examinations Board (UBTEB),
-    vi) National Council for Higher Education (NCHE),
-    vii) Vice Chancellors’ Forum,
-    viii) Association of Uganda Secondary School Headteachers,
-    ix)  Institute of Certified Public Accountants of Uganda.
+ the Ministry of Education and Sports, 
+The NCDC itself, 
+Uganda National Examinations Board, 
+Federation of Uganda Employers, 
+Uganda Business and Technical Examinations Board (UBTEB),
+National Council for Higher Education (NCHE),
+Vice Chancellors’ Forum,
+Association of Uganda Secondary School Headteachers,
+ Institute of Certified Public Accountants of Uganda.
 
 Those are the stakeholders. Of course, there are those from outside that circle, who made proposals as well. We also had Education Accelerators Limited. This is a group of people providing international education.
 
@@ -460,13 +460,13 @@ I would like to get to the observations and recommendations in 5.0.
 
 The committee observed that:
 
-    a) The proposed new function under Clause 2(b), j(b) suggests originality, expertise and indisputable process flows in curricular design with NCDC involvement only limited to vetting and approval. Yet, such curricular requires further scrutiny to ascertain their relevance in education skills development and values required for an effective and efficient human resource in Uganda.
+The proposed new function under Clause 2(b), j(b) suggests originality, expertise and indisputable process flows in curricular design with NCDC involvement only limited to vetting and approval. Yet, such curricular requires further scrutiny to ascertain their relevance in education skills development and values required for an effective and efficient human resource in Uganda.
 
-    b) Whereas NCDC may not have the mandate to assess alternative curricular to ascertain whether or not they match national education system requirement, it could still as a Government Agency provide guidance on how to regulate operations of international schools. The committee believes that NCDC has powers to influence the Ministry of Education and Sports to vet and approve implementation of international curricular before the ministry can license such operations in the country.
+Whereas NCDC may not have the mandate to assess alternative curricular to ascertain whether or not they match national education system requirement, it could still as a Government Agency provide guidance on how to regulate operations of international schools. The committee believes that NCDC has powers to influence the Ministry of Education and Sports to vet and approve implementation of international curricular before the ministry can license such operations in the country.
 
 The committee recommends that NCDC should vet all alternative curricular and issue certificates of approval before the Ministry of Education and Sports can license such schools that use alternative curricular. 
 
-    c) Another observation is that NCDC has not been at the helm and epitome of executing its responsibilities as enshrined in section III of the NCDC Act, especially, in relation to alternative curricular and curricular developed by post-secondary education institutions without due diligence and consultations made with NCDC. 
+Another observation is that NCDC has not been at the helm and epitome of executing its responsibilities as enshrined in section III of the NCDC Act, especially, in relation to alternative curricular and curricular developed by post-secondary education institutions without due diligence and consultations made with NCDC. 
 
 The committee was informed by NCDC that universities were considered to have the highest concentration of knowledge and skills required to develop and teach their own curricular.
 
@@ -476,12 +476,12 @@ The committee therefore recommends that all other education institutions offerin
 
 However, all curricular for diploma and certificate courses should be developed in consultation and approval with NCDC.
 
-    d) Whereas Government liberalised the education sector, the Bill under Clause (3) presents limitations on representation on the NCDC Council in a sense that it does not make express provision for private sector involvement as a key stakeholder in the delivery of quality education services in the country. 
+Whereas Government liberalised the education sector, the Bill under Clause (3) presents limitations on representation on the NCDC Council in a sense that it does not make express provision for private sector involvement as a key stakeholder in the delivery of quality education services in the country. 
 
 The committee recommends that: 
-    i) - The governing council of the centre should be mindful of the different key stakeholders in curriculum development.
+- The governing council of the centre should be mindful of the different key stakeholders in curriculum development.
 
-    ii) the committee further recommends that interests of non-state education actors should be represented on the centres’ governing council
+the committee further recommends that interests of non-state education actors should be represented on the centres’ governing council
 
 The committee also observed that there is existence of role conflicts between NCDC and National Council for Higher Education in as far as curricular development for certificate and diploma courses is concerned.
 
@@ -489,9 +489,9 @@ The committee further observes that section 5(1) of the Universities and other T
 
 Recommendations:
 
-    i) The committee recommends that NCDC should be the lead Government Agency in curriculum development and review all activities related to curriculum development and this should be done in consultation with NCDC.
+The committee recommends that NCDC should be the lead Government Agency in curriculum development and review all activities related to curriculum development and this should be done in consultation with NCDC.
 
-    ii) The committee further recommends that the Minister of Education and Sports should table a Bill seeking to amend the Universities and other Tertiary Institutions Act with the primary object of prescribing that universities should only develop curricular for under-graduate and post-graduate courses of study. This would resolve the current impasse between NCDC and NCHE in curriculum development for certificates and diploma courses and would also strengthen NCDC’s mandate to develop curricular for tertiary levels of education.
+The committee further recommends that the Minister of Education and Sports should table a Bill seeking to amend the Universities and other Tertiary Institutions Act with the primary object of prescribing that universities should only develop curricular for under-graduate and post-graduate courses of study. This would resolve the current impasse between NCDC and NCHE in curriculum development for certificates and diploma courses and would also strengthen NCDC’s mandate to develop curricular for tertiary levels of education.
 
 In conclusion, the committee proposes that the National Curriculum Development Centre (Amendment) Bill, 2020 be passed into law, subject to the proposed amendments. I beg to report.
 
@@ -606,19 +606,19 @@ Section 7 of the principal Act is substituted with the following:
  
 ‘7. Membership of the council
 (1) The governing body of the centre shall be the council consisting of the following members –
-    (a) The permanent secretary of the ministry responsible for education or his or her representative at the rank of principal officer or above;
-    (b) The permanent secretary of the ministry responsible for finance or his or her representative at the rank of principal officer or above;
-    (c) The permanent secretary of the ministry responsible for labour or his or her representative at the rank of principal officer of above;
-    (d) One representative of the national examination bodies appointed by the minister;
-    (e) The Executive Director of the National Council for Higher Education or his or her representative;
-    (f) The director of basic and secondary education or his or her representative at the rank of principal officer or above;
-    (g) The director of education standards or his or her representative at the rank of principal officer or above;
-    (h) A representative of the Private Sector Foundation;
-    (i) The Director of the Federation of Uganda Employers or his or her representative;
-    (j) The Director of the National Union of Disabled Persons of Uganda or his or her representative; 
-    (k) The Chairperson of the Vice Chancellors’ Forum or his or her representative; 
-    (l) A representative of private schools and private education institutions who shall be recommended, subject to approval of the minister; and
-    (m) Not more than three other members appointed by the minister, who shall be persons qualified as having experience in the practice and administration of education.
+The permanent secretary of the ministry responsible for education or his or her representative at the rank of principal officer or above;
+The permanent secretary of the ministry responsible for finance or his or her representative at the rank of principal officer or above;
+The permanent secretary of the ministry responsible for labour or his or her representative at the rank of principal officer of above;
+One representative of the national examination bodies appointed by the minister;
+The Executive Director of the National Council for Higher Education or his or her representative;
+The director of basic and secondary education or his or her representative at the rank of principal officer or above;
+The director of education standards or his or her representative at the rank of principal officer or above;
+A representative of the Private Sector Foundation;
+The Director of the Federation of Uganda Employers or his or her representative;
+The Director of the National Union of Disabled Persons of Uganda or his or her representative; 
+The Chairperson of the Vice Chancellors’ Forum or his or her representative; 
+A representative of private schools and private education institutions who shall be recommended, subject to approval of the minister; and
+Not more than three other members appointed by the minister, who shall be persons qualified as having experience in the practice and administration of education.
 
 (2) 	At least a third of the members appointed by the minister shall be women. 
 
@@ -727,19 +727,19 @@ Clause 7, as amended, agreed to.
 Clause 8
 
 MR JACOB OPOLOT: The committee proposes an amendment on clause 8:
-    i. By replacing paragraph (d) with the following:
+By replacing paragraph (d) with the following:
 “(d) A Dean of Faculty of Education of a university appointed by the minister.”
-    ii. Also, by substituting paragraph (e) with the following:
+Also, by substituting paragraph (e) with the following:
 “The heads of the academic departments of the centre.”
 
-    iii. Amend paragraph (f), by replacing the entire paragraph with the following:
+Amend paragraph (f), by replacing the entire paragraph with the following:
 “
-    1. One representative of each of the national examination bodies.”
+One representative of each of the national examination bodies.”
 
 The justification is two-fold:
 
-    1. Amendment in paragraph (d) is to provide for the appointing authority, of a representative of the Dean of the Faculty of Education of any university, whether private or public.
-    2. The amendment in paragraph (e) is to provide for a representative of each of the national examination bodies.
+Amendment in paragraph (d) is to provide for the appointing authority, of a representative of the Dean of the Faculty of Education of any university, whether private or public.
+The amendment in paragraph (e) is to provide for a representative of each of the national examination bodies.
 
 THE CHAIRPERSON: Honourable Minister, you have no problem? Honourable members, the question is that clause 8 be amended, as proposed. I now put the question that clause 8, as amended, do stand part of the Bill.
 
@@ -750,15 +750,15 @@ Clause 8, as amended, agreed to.
 Clause 9
 
 MR JACOB OPOLOT: Clause 9; amendment of Section 8 of the principal Act. Clause 9 is amended:
-    a. In paragraph (a) by replacing sub-section (4) (c) of the principal Act with the following:
+In paragraph (a) by replacing sub-section (4) (c) of the principal Act with the following:
 “i. 	Education practitioners at the pre-primary, primary, secondary, tertiary and higher levels of education” and also by deleting sub-section (4) (d) of the principal Act.
-    b. In paragraph (b) by substituting the word “three” with the word “five”.
+In paragraph (b) by substituting the word “three” with the word “five”.
 
 The justification is –
 
-    1. To elaborate the various levels of education in Uganda, so as to avoid misinterpretation of the law.  
-    2. It is a consequential amendment, arising from amendment of Sub-section (4)(c) of the principal Act, and
-    3. The amendment in paragraph (b) is to increase the period of service of a subject panel from “three” to “five” years.
+To elaborate the various levels of education in Uganda, so as to avoid misinterpretation of the law.  
+It is a consequential amendment, arising from amendment of Sub-section (4)(c) of the principal Act, and
+The amendment in paragraph (b) is to increase the period of service of a subject panel from “three” to “five” years.
 
 
 THE CHAIRPERSON: Honourable members, I put the question that clause 9 be amended as proposed. 
@@ -909,12 +909,12 @@ THE SPEAKER: Is it seconded?
 
 DR MUYINGO: Madam Speaker, the objectives of the Uganda National Examinations Board Bill, 2020 are the following:
 
-    a) To provide for Uganda National Examinations Board to regulate and oversee the national examinations.
-    b) To harmonise the Uganda National Examinations Board Act with other existing government policies and laws.
-    c) To define powers and functions of the Uganda National Examinations Board with regard to preparation, organisation and administration of national examinations.
-    d) Improve the standards and quality of national examinations conducted by the examination board.
-    e) Address new and emerging challenges affecting the administration and management of national examinations.
-    f) Repeal and replace the Uganda National Examinations Board Act Cap 137 which was enacted in 1983.
+To provide for Uganda National Examinations Board to regulate and oversee the national examinations.
+To harmonise the Uganda National Examinations Board Act with other existing government policies and laws.
+To define powers and functions of the Uganda National Examinations Board with regard to preparation, organisation and administration of national examinations.
+Improve the standards and quality of national examinations conducted by the examination board.
+Address new and emerging challenges affecting the administration and management of national examinations.
+Repeal and replace the Uganda National Examinations Board Act Cap 137 which was enacted in 1983.
 
 Madam Speaker, I beg to move.
 
@@ -931,24 +931,24 @@ The honourable minister has already stated the object of the Bill. I will quickl
 
 We also called for submissions on the Uganda National Examinations Board Bill, 2020 through public notice that was placed in the New Vision and Daily Monitor on Monday, 24 August 2020. And we also scrutinised the submissions by the different stakeholders who responded and these are:
 
-    1. Institute of Certified Public Accountants of Uganda. 
-    2. The Initiative of Social and Economic Rights and;
-    3. Mr Jonathan Kivumbi.
+Institute of Certified Public Accountants of Uganda. 
+The Initiative of Social and Economic Rights and;
+Mr Jonathan Kivumbi.
 
 Madam Speaker, the views of the stakeholders are as listed as you will see: 
 
-    1. The Ministry of Education and Sports; 
-    2. The Uganda National Examinations Board;
-    3. The National Council For Higher Education; 
-    4. The National Curriculum Development Centre; 
-    5. The Uganda Allied Examinations Board; 
-    6. The Uganda Business and Technical Examination Board; 
-    7. Education Accelerators Limited; 
-    8. Uganda Police Force; 
-    9. The Universities’ Vice Chancellors’ Forum; 
-    10. The Institute of Certified Public Accountants of Uganda; 
-    11. The Initiative for Social and Economic Rights and; 
-    12. Mr Jonathan Kivumbi.
+The Ministry of Education and Sports; 
+The Uganda National Examinations Board;
+The National Council For Higher Education; 
+The National Curriculum Development Centre; 
+The Uganda Allied Examinations Board; 
+The Uganda Business and Technical Examination Board; 
+Education Accelerators Limited; 
+Uganda Police Force; 
+The Universities’ Vice Chancellors’ Forum; 
+The Institute of Certified Public Accountants of Uganda; 
+The Initiative for Social and Economic Rights and; 
+Mr Jonathan Kivumbi.
 
 Therefore, I implore Members to read their views on your own, in the interest of time.
 
@@ -986,7 +986,7 @@ The committee observes that there are emerging interests from some state and non
 
 The committee received proposals from the following stakeholders to amend Clause (6) to provide for their representation on the Board of Directors of the examinations Board: 
 
-    1. The Uganda Police Force, on account of its outstanding role in not only securing the entire examinations period and related aspects, but also conducts investigation in cases of malpractices as well.
+The Uganda Police Force, on account of its outstanding role in not only securing the entire examinations period and related aspects, but also conducts investigation in cases of malpractices as well.
 
 The committee further observed that in the current UNEB Act Cap. 137, the Uganda Police Force is not represented on the Board of Directors. 
 
@@ -995,22 +995,22 @@ The committee was informed that the Minister of Education and Sports invoked Sec
 Recommendations
 
 The committee recommends that:
-    a) Given the key responsibilities Uganda Police Force has executed over the years in securing the entire examination cycle, they should be represented on the Board of Directors of the examinations Board.
-    b) Other examination assessment bodies like Uganda Business and Technical Examinations Board (UBTEB), Uganda Allied Health Examinations Board (UAHEB) and Uganda Nurses and Midwives Examinations Board (UNMEB) were noted to determine the fate of the interest of students who may wish to join Technical, Vocational, Education and Training (TVET) after completing their Primary Leaving Examinations, Uganda Certificate of Education and Uganda Advanced Certificate of Education. 
+Given the key responsibilities Uganda Police Force has executed over the years in securing the entire examination cycle, they should be represented on the Board of Directors of the examinations Board.
+Other examination assessment bodies like Uganda Business and Technical Examinations Board (UBTEB), Uganda Allied Health Examinations Board (UAHEB) and Uganda Nurses and Midwives Examinations Board (UNMEB) were noted to determine the fate of the interest of students who may wish to join Technical, Vocational, Education and Training (TVET) after completing their Primary Leaving Examinations, Uganda Certificate of Education and Uganda Advanced Certificate of Education. 
 
 The committee recommends that other examinations assessment bodies should be represented on the Board of Directors with a view of promoting institutional linkages and learning.
-    c) The Education Accelerators Limited, an association of schools that use international curricular in observance and recognition of Objective XVIII(iii) of the National Objectives and Directive Principles of State Policy enshrined in the Constitution and as a result of Government’s policy on liberalisation, international schools have established operations in Uganda and attracted interest from a cross sections of parents and guardians opting to enrol their children in such schools. 
+The Education Accelerators Limited, an association of schools that use international curricular in observance and recognition of Objective XVIII(iii) of the National Objectives and Directive Principles of State Policy enshrined in the Constitution and as a result of Government’s policy on liberalisation, international schools have established operations in Uganda and attracted interest from a cross sections of parents and guardians opting to enrol their children in such schools. 
 
 The committee recommends that:
 
-    i) Whereas Government policy on liberalisation of the education sector allowed for operation of private education institutions in the country, adherence to legal and institutional regulatory frameworks would be necessary as opposed to representation on the Board of Directors of the examinations Board.
-    ii) Whereas Clause 4(1e) of the Bill tasks UNEB to upon request by any person, determine equivalence of qualifications awarded by another examining body with corresponding qualifications awarded by the examinations Board, it does not take into account technical limitations UNEB has in equating qualifications awarded by other examinations bodies. 
+Whereas Government policy on liberalisation of the education sector allowed for operation of private education institutions in the country, adherence to legal and institutional regulatory frameworks would be necessary as opposed to representation on the Board of Directors of the examinations Board.
+Whereas Clause 4(1e) of the Bill tasks UNEB to upon request by any person, determine equivalence of qualifications awarded by another examining body with corresponding qualifications awarded by the examinations Board, it does not take into account technical limitations UNEB has in equating qualifications awarded by other examinations bodies. 
 
-    2. The committee received concerns from Uganda Business and Technical Examinations Board (UBTEB), Uganda Allied Health Examinations Board (UAHEB) and Uganda Nurses and Midwives Examinations Board (UNMEB) that the Clause 4(1e) of the Bill undermines their efforts yet they have the required technical skills and capacities to execute this task. 
+The committee received concerns from Uganda Business and Technical Examinations Board (UBTEB), Uganda Allied Health Examinations Board (UAHEB) and Uganda Nurses and Midwives Examinations Board (UNMEB) that the Clause 4(1e) of the Bill undermines their efforts yet they have the required technical skills and capacities to execute this task. 
 
 The committee recommends that UNEB should determine the equivalence of such qualifications only in consultation with the relevant awarding institution or body.
 
-    3. The committee observes that the Bill under Clause 4(1e) presumes that UNEB was privy to curricular design processes undertaken by other examination bodies including foundation bodies of international schools prior to using the same during teaching and administering of examinations, as well as technical capability to synchronise, streamline and corroborate such awards with those issued under the national education system, which may not be the case.
+The committee observes that the Bill under Clause 4(1e) presumes that UNEB was privy to curricular design processes undertaken by other examination bodies including foundation bodies of international schools prior to using the same during teaching and administering of examinations, as well as technical capability to synchronise, streamline and corroborate such awards with those issued under the national education system, which may not be the case.
 
 The committee received a proposal from Education Accelerators Limited to have awards issued to learners who attended training in international schools, to be scrutinised by UNEB in accordance with Clause 4(1e) as a precursor and/or pre-condition for admittance to next levels of education in the national education system.
 

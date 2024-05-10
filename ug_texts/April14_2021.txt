@@ -1,4 +1,4 @@
-﻿
+
 
 
 Wednesday, 14 April, 2021
@@ -27,9 +27,9 @@ In the 12th Sitting of the 3rd Meeting of the 5th Session of the 10th Parliament
 
 The complaints were relating to the following:
 
-    1. The size of the land in question;
-    2. The quantum of the compensation; and
-    3. The fact that beneficiaries in the first payment did not receive their payment.
+The size of the land in question;
+The quantum of the compensation; and
+The fact that beneficiaries in the first payment did not receive their payment.
 
 I undertook to establish an ad hoc committee to investigate those allegations to get the full details and make recommendations accordingly. An ad hoc committee to investigate the alleged irregularities and inflated figures to the land compensation into that supplementary is hereby established.
 
@@ -37,17 +37,17 @@ It will be a small committee of three composed of Hon. Veronica Bichetero as cha
 
 These are the terms of reference:
 
-    1. To investigate the claims that Supplementary Expenditure Schedule No. 4 of Financial Year 2020/2021 contained gross irregularities in respect of the size of the land for compensation and quantum;
+To investigate the claims that Supplementary Expenditure Schedule No. 4 of Financial Year 2020/2021 contained gross irregularities in respect of the size of the land for compensation and quantum;
 
-    2. To investigate the basis for determination of selected beneficiaries and the amounts for compensation contained in the Supplementary Schedule No. 4 for Financial Year 2020/2021;
+To investigate the basis for determination of selected beneficiaries and the amounts for compensation contained in the Supplementary Schedule No. 4 for Financial Year 2020/2021;
 
-    3. To examine whether all the proper and legal procedures under the law of Uganda were followed in the acquisition of the lands in question;
+To examine whether all the proper and legal procedures under the law of Uganda were followed in the acquisition of the lands in question;
 
-    4. To examine any other matters related to the above and make recommendations for the sound management of compensation, following compulsory acquisition of land;
+To examine any other matters related to the above and make recommendations for the sound management of compensation, following compulsory acquisition of land;
 
-    5. Do anything incidental to or pursuant to these terms; and
+Do anything incidental to or pursuant to these terms; and
 
-    6. Report back to the House within two weeks.
+Report back to the House within two weeks.
 
 I have already informed you about the composition of the committee. We ask them to work expeditiously so that we can get the necessary answers.  
 
@@ -92,16 +92,16 @@ RECOGNISING that His Grace Dr Cyprian Kizito Lwanga was ordained priest on 8 Apr
 
 NOTING that His Grace Dr Cyprian Kizito Lwanga served the Church in various capacities including:
 
-    (a) President of Caritas Africa (2006),
-    (b) Member of the Executive Committee of the Uganda Joint Christian Council (UJCC) and Chairman of the Finance and Administrative Committee of UJCC (2001 to 2006),
-    (c) Personal Secretary to Cardinal Wamala, Archbishop of Kampala and President/Founder of the Co-operative for Development,
-    (d) Professor of Canon Law at Ggaba National Major Seminary and at St Mbaaga Major Seminary (1995 to 1996),
-    (e)  Vicar General of the Archdiocese of Kampala (1988 to 1990),
-    (f) Administrator of Ndeeba Parish in the Archdiocese of Kampala (1985 to 1988),
-    (g) Executive Secretary of the National Committee for the celebrations of the Centenary of the Uganda Martyrs of Uganda (1985),
-    (h)  Chancellor of the Archdiocese of Kampala (1984 to 1991),
-    (i) Vice Chancellor and Curate of Nabbingo Parish (I981 to 1984), and
-    (j) Personal Secretary of the Archbishop of Kampala, Cardinal Emmanuel Nsubuga (1978);
+President of Caritas Africa (2006),
+Member of the Executive Committee of the Uganda Joint Christian Council (UJCC) and Chairman of the Finance and Administrative Committee of UJCC (2001 to 2006),
+Personal Secretary to Cardinal Wamala, Archbishop of Kampala and President/Founder of the Co-operative for Development,
+Professor of Canon Law at Ggaba National Major Seminary and at St Mbaaga Major Seminary (1995 to 1996),
+ Vicar General of the Archdiocese of Kampala (1988 to 1990),
+Administrator of Ndeeba Parish in the Archdiocese of Kampala (1985 to 1988),
+Executive Secretary of the National Committee for the celebrations of the Centenary of the Uganda Martyrs of Uganda (1985),
+ Chancellor of the Archdiocese of Kampala (1984 to 1991),
+Vice Chancellor and Curate of Nabbingo Parish (I981 to 1984), and
+Personal Secretary of the Archbishop of Kampala, Cardinal Emmanuel Nsubuga (1978);
 
 APPRECIATING that His Grace Dr Cyprian Kizito Lwanga was a diligent leader who greatly contributed to the growth of the Christian faith in Uganda as well as the development of the Diocese of Kasana-Luweero and the Archdiocese of Kampala; 
 
@@ -786,10 +786,10 @@ Mr Martin Tiffen, the General Manager of the East African Crude Oil Pipeline (EA
 
 The second agreement was the Shareholders Agreement (SHA). The Shareholders Agreement defines the rights and responsibilities of the shareholders in the EACOP Company. The shareholders are:
 
-    1. The Uganda National Oil Company (UNOC) with 15 per cent;
-    2. The Joint Venture Partners - that is Total E&P Uganda Limited with 62 per cent; 
-    3. CNOOC Uganda Limited with eight per cent and 
-    4. Tanzania Petroleum Development Corporation (TPDC). The TPDC will take shareholding of up to 15 per cent. 
+The Uganda National Oil Company (UNOC) with 15 per cent;
+The Joint Venture Partners - that is Total E&P Uganda Limited with 62 per cent; 
+CNOOC Uganda Limited with eight per cent and 
+Tanzania Petroleum Development Corporation (TPDC). The TPDC will take shareholding of up to 15 per cent. 
 
 The SHA is significant because it has constituted the EACOP Company and will now guide the funding of shareholding, finance structure and general governance of the company.
 
@@ -819,7 +819,7 @@ This is in addition to what Government is already investing in the required supp
 
 Some of the specific benefits that will accrue to Ugandans and Ugandan companies from the launch of the projects include the following:
 
-    a) De-risking all the other upcoming projects, including the refinery and the new exploration projects. The development of the upstream projects guarantees the supply of feedstock into the refinery, while the pipeline and the refinery provide evacuation options for future oil discoveries in the new exploration areas.
+De-risking all the other upcoming projects, including the refinery and the new exploration projects. The development of the upstream projects guarantees the supply of feedstock into the refinery, while the pipeline and the refinery provide evacuation options for future oil discoveries in the new exploration areas.
 
 b)	Employment of Ugandans
 
@@ -833,11 +833,11 @@ d)	Currently, contracts worth $167 million, out of the $1.362 billion recommenda
 	This only accounts for 19 out of the over 30 work packages to be awarded by the licensees. However, it is important to note that there will be many more sub-contracts given to Ugandan companies through sub-contracting by the Level-1 contractors.
 
 
-    e) Capacity building and technology transfer through sub-contracting and joint venturing. With the involvement of world-class oil service companies and the expected joint venture and sub-contracting opportunities, Ugandan companies are expected to greatly benefit from the expected partnerships. 
+Capacity building and technology transfer through sub-contracting and joint venturing. With the involvement of world-class oil service companies and the expected joint venture and sub-contracting opportunities, Ugandan companies are expected to greatly benefit from the expected partnerships. 
 
 	As witnessed during the exploration phase, we expect Ugandan companies to progressively gain capabilities to provide technical services that have hitherto been a preserve of the more experienced foreign companies.
 
-    f) In addition, the GDP of the country expected to reach $40 billion in 2020/2021 and it will significantly be boosted through sectoral linkages by close to $9 billion, which is an increase of 22 per cent by the end of the construction phase.
+In addition, the GDP of the country expected to reach $40 billion in 2020/2021 and it will significantly be boosted through sectoral linkages by close to $9 billion, which is an increase of 22 per cent by the end of the construction phase.
 
 In conclusion, Madam Speaker, the conclusion of the oil agreements is a key milestone for the country. Government of Uganda commits to ensuring that processes leading to first oil bring enhanced value for the country, while maintaining a good return on investment for the investors. I beg to move. Thank you.
 
@@ -862,9 +862,9 @@ THE SPEAKER: Thank you very much. I am glad the minister is here. She will respo
 
 RESPONSES BY MINISTERS TO URGENT QUESTIONS ON THE IMPENDING EVICTION OF OVER 30,000 ARTISANAL MINERS FROM KISIITA MINING SITE TO PAVE WAY FOR THE OPERATIONS OF KISIITA MINING COMPANY, ALSO REFERRED TO AS HORIZON MINING COMPANY WITH PRAYERS THAT GOVERNMENT:   
 
-    I. STAYS THE EVICTION OF THE ARTISANAL MINERS PENDING VERIFICATION OF THE CORPORATE ENTITIES INVOLVED; AND 
+STAYS THE EVICTION OF THE ARTISANAL MINERS PENDING VERIFICATION OF THE CORPORATE ENTITIES INVOLVED; AND 
 
-    II. TO INVESTIGATE THE ROLE OF A ONE MR MUSTAFA WHO IS BELIEVED TO BE THE MAJORITY SHAREHOLDER IN KISIITA MINING COMPANY AND AN ALLEGED TURKISH FUGITIVE.
+TO INVESTIGATE THE ROLE OF A ONE MR MUSTAFA WHO IS BELIEVED TO BE THE MAJORITY SHAREHOLDER IN KISIITA MINING COMPANY AND AN ALLEGED TURKISH FUGITIVE.
 
 6.07
 THE MINISTER OF STATE FOR ENERGY AND MINERAL DEVELOPMENT (MINERALS) (Ms Sarah Achieng):  Thank you, Madam Speaker. This was a question raised by hon. Bukenya regarding the eviction of over 30,000 artisanal miners from Kisiita mining site. This is not the first time that I am responding to this matter. It was raised in March and yet, I had just responded to the same from a Member of Parliament from the same district hon. Patrick Nsamba.
@@ -1068,9 +1068,9 @@ MR MUSASIZI: The committee agrees with the President's guidance and proposes thu
 
 Justification
 
-    i) Paragraph (b) amends Section 91b(3) to include to the membership of the Tribunal, “any other relevant profession.” However, since the Tribunal hears complaints on all procurement and disposal processes and the appointment is permanent for a period of four years and not on a case by case basis, determining “a relevant profession” may not be possible; and
+Paragraph (b) amends Section 91b(3) to include to the membership of the Tribunal, “any other relevant profession.” However, since the Tribunal hears complaints on all procurement and disposal processes and the appointment is permanent for a period of four years and not on a case by case basis, determining “a relevant profession” may not be possible; and
 
-    ii) (ii) To provide clarity on the number of women to constitute the Tribunal.
+(ii) To provide clarity on the number of women to constitute the Tribunal.
 
 THE CHAIRPERSON: Honourable members, I put the question that a new clause 35 be amended as proposed.
 
@@ -1184,8 +1184,8 @@ Clause 51
 
 MR MUSASIZI: The committee agrees with the President’s guidance and proposes that paragraph (b) should be substituted with the following;
 
-    i. Substituting for “schedule 1A” where the term appears in the principal Act with “schedule 2.”
-    ii. Inserting immediately after paragraph six of the schedule the following; “(vii)The institute of procurement professionals of Uganda
+Substituting for “schedule 1A” where the term appears in the principal Act with “schedule 2.”
+Inserting immediately after paragraph six of the schedule the following; “(vii)The institute of procurement professionals of Uganda
 (b) Paragraph (f) that was renumbered as (g) should be substituted with the following
  	“(g) Substituting for the word ‘authority’ appearing in the title of part 7(a) section 91 (i)6 and section 91 (l) the term ‘accounting officer’.”
 
@@ -1318,7 +1318,6 @@ THE SPEAKER: Thank you very much. Honourable members, we had wanted to go to the
 Honourable members, House is adjourned to 2.00 p.m. tomorrow.
 
 (The House rose at 6.58 p.m. and adjourned until Thursday, 15 April 2021 at 2.00 p.m.)
-
 
 
 

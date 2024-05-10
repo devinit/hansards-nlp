@@ -1,4 +1,4 @@
-﻿
+
 PARLIAMENT OF UGANDA
 
 Thursday, 17 February 2022
@@ -88,13 +88,13 @@ Honourable members, in the VIP gallery this afternoon is a delegation of senator
 
 The senators include - I may not be able to read all the other names, but I can at least mention some names:
 
-    1. Hon. Pierrot Ukaba - Head of delegation; 
-    2. Hon. Nestor Ngbonda;
-    3. Hon. Tibasima Mbogemu Ateenyi;
-    4. Hon. Jean Pierre;
-    5. Hon. Anita Zeta Bamanyisa;
-    6. Hon. Alphonse Ukeci Muswa Rundi; and
-    7. Amb. Jean Pierre Massala.
+Hon. Pierrot Ukaba - Head of delegation; 
+Hon. Nestor Ngbonda;
+Hon. Tibasima Mbogemu Ateenyi;
+Hon. Jean Pierre;
+Hon. Anita Zeta Bamanyisa;
+Hon. Alphonse Ukeci Muswa Rundi; and
+Amb. Jean Pierre Massala.
 
 You are welcome. That is the delegation from the Democratic Republic of Republic of Congo. 
 
@@ -1017,9 +1017,9 @@ The justification for this is to enable the minister consult with the relevant a
 
 In subclause (3), Madam Chairperson, we are proposing that:
 
-    1. Paragraph (a) be amended by substituting “one hundred thousand currency points” with “fifty thousand currency points” and “imprisonment not exceeding ten years” with “imprisonment not exceeding five years”. 
+Paragraph (a) be amended by substituting “one hundred thousand currency points” with “fifty thousand currency points” and “imprisonment not exceeding ten years” with “imprisonment not exceeding five years”. 
 
-    2. We also propose, in paragraph (b), that we substitute “one hundred thousand currency points” with “fifty thousand currency points”. 
+We also propose, in paragraph (b), that we substitute “one hundred thousand currency points” with “fifty thousand currency points”. 
 
 The justification is to avoid giving very stringent penalties.
 
@@ -1309,25 +1309,25 @@ DR OTAALA: Madam Chairperson, under clause 18, on the functions of the Directora
 
 (2) 	The Department of Geological Surveys shall –
 
-    (a) Establish and promote the mineral potential of Uganda through reconnaissance, exploration, geological mapping, geochemical surveys, geophysical surveys and any other method;
+Establish and promote the mineral potential of Uganda through reconnaissance, exploration, geological mapping, geochemical surveys, geophysical surveys and any other method;
 
-    (b) Collect, manage and provide access to geological data and information from mineral exploration and development operations;
+Collect, manage and provide access to geological data and information from mineral exploration and development operations;
 
-    (c) Promote mineral beneficiation and value-addition;
+Promote mineral beneficiation and value-addition;
 
-    (d) Establish and maintain an accredited mineral laboratory for analysing mineral samples, rocks, mineral concentrates, tailings or minerals;
+Establish and maintain an accredited mineral laboratory for analysing mineral samples, rocks, mineral concentrates, tailings or minerals;
 
-    (e) Delete (e) 
+Delete (e) 
 
-    (f) Promote and conduct research and development in the mineral sub sector;
+Promote and conduct research and development in the mineral sub sector;
 
-    (g) Delete (g) because it is already subsumed under (a); 
+Delete (g) because it is already subsumed under (a); 
 
-    (h) Delete (h) because it is covered under (a); 
+Delete (h) because it is covered under (a); 
 
-    (i) Delete (i) because it is covered under (d); and
+Delete (i) because it is covered under (d); and
 
-    (j) Delete (j) because it is covered under (e).”
+Delete (j) because it is covered under (e).”
 
 Further, we propose an insertion of paragraph 
 
@@ -1335,21 +1335,21 @@ Further, we propose an insertion of paragraph
 
 (3)	The Department of Mines shall be responsible for:
 
-    (a) The regulation of mineral rights, monitor implementation of programmes, plans and reports and inspect, monitor and audit mining operations; 
+The regulation of mineral rights, monitor implementation of programmes, plans and reports and inspect, monitor and audit mining operations; 
 
-    (b) Enforce the provisions of this Act and any other written law to implement the certification of designated minerals; 
+Enforce the provisions of this Act and any other written law to implement the certification of designated minerals; 
 
-    (c) Delete paragraph (c) because it is contained in (a);
+Delete paragraph (c) because it is contained in (a);
 
-    (d) Assess and verify mineral royalties and other payments under this Act; 
+Assess and verify mineral royalties and other payments under this Act; 
 
-    (e) Mainstream and organise artisanal mining in Uganda;
+Mainstream and organise artisanal mining in Uganda;
 
-    (f) Delete paragraph (f) because it is not a core function of this department. It is important and shall be performed even when not in the law; 
+Delete paragraph (f) because it is not a core function of this department. It is important and shall be performed even when not in the law; 
 
-    (g) Delete (g) because this is a role of the entire ministry and the national mining company; 
+Delete (g) because this is a role of the entire ministry and the national mining company; 
 
-    (h) Regulate and manage the impact of mineral activities on the economy, environment and socio-economic life.”
+Regulate and manage the impact of mineral activities on the economy, environment and socio-economic life.”
 
 We are proposing to delete paragraph (i) because it is containing (a); 
 
@@ -1367,25 +1367,25 @@ We are proposing to delete (n) because this is a role for the entire ministry.
 
 (4)	The Department of Geothermal Resources shall –
 
-    (a) Conduct surface and subsurface exploration of geothermal prospects;
+Conduct surface and subsurface exploration of geothermal prospects;
 
-    (b) Undertake pre-feasibility and feasibility studies in order to provide an economic basis for licencing of geothermal resources;
+Undertake pre-feasibility and feasibility studies in order to provide an economic basis for licencing of geothermal resources;
 
-    (c) Participate in the preparation of agreements including implementation agreements - we are proposing to delete ‘power purchase agreements’ because these are not for direct use of geothermal resources; ‘power purchase agreements’ and ‘connection agreements’ should be deleted – and direct use contracts to support licences and enable private sector participation in the development of energy from geothermal resources,
+Participate in the preparation of agreements including implementation agreements - we are proposing to delete ‘power purchase agreements’ because these are not for direct use of geothermal resources; ‘power purchase agreements’ and ‘connection agreements’ should be deleted – and direct use contracts to support licences and enable private sector participation in the development of energy from geothermal resources,
 
-    (d) Promote sustainable - delete the word ‘commercial’ – “development of geothermal resources;
+Promote sustainable - delete the word ‘commercial’ – “development of geothermal resources;
 
-    (e) Delete the whole of paragraph (e) because it is incidental to (d);
+Delete the whole of paragraph (e) because it is incidental to (d);
 
-    (f) Regulate and monitor the performance and technical compliance of licences for geothermal operations;
+Regulate and monitor the performance and technical compliance of licences for geothermal operations;
 
-    (g) Recommend to the director the suspension or revocation of licences for geothermal operations as a result of non-compliance. Delete ‘inspection and monitoring.’;
+Recommend to the director the suspension or revocation of licences for geothermal operations as a result of non-compliance. Delete ‘inspection and monitoring.’;
 
-    (h) Manage the geothermal database and provide information to stakeholders, and conduct research and advise on appropriate geothermal technology and development;
+Manage the geothermal database and provide information to stakeholders, and conduct research and advise on appropriate geothermal technology and development;
 
-    (i) Delete paragraph (i) because it is contained in (h);
+Delete paragraph (i) because it is contained in (h);
 
-    (j) Perform any other function incidental to the function of the department of geothermal resources.
+Perform any other function incidental to the function of the department of geothermal resources.
 
 (5) 	“The directorate may, for the purpose of this Act, establish regional offices.” That is an insertion, which we are proposing. I beg to submit.
 
@@ -1471,17 +1471,17 @@ DR OTAALA: I beg for your indulgence, Madam Chairperson. Under clause 20, which 
 
 (2)	The Mining Cadastre Department shall – 
 
-    (a) Receive, evaluate and process applications for mineral rights and other licences and permits under this Act, including applications for renewal, extension, reduction, transfer and abandonment, and make recommendations to the minister on the applications;
+Receive, evaluate and process applications for mineral rights and other licences and permits under this Act, including applications for renewal, extension, reduction, transfer and abandonment, and make recommendations to the minister on the applications;
 
-    (b) Establish and manage a transparent, accessible and competitive licensing regime and implement a well-developed mining cadastre and registry system; 
+Establish and manage a transparent, accessible and competitive licensing regime and implement a well-developed mining cadastre and registry system; 
 
-    (c) We propose that paragraph (c) be deleted because it is incidental to (b);
+We propose that paragraph (c) be deleted because it is incidental to (b);
 
-    (d) Manage the computerised mining cadastre and registry system;
+Manage the computerised mining cadastre and registry system;
 
-    (e) Maintain public cadastral maps and cadastre registers; 
+Maintain public cadastral maps and cadastre registers; 
 
-    (f) “Perform any other function incidental to the function of the Department of Mines”.
+“Perform any other function incidental to the function of the Department of Mines”.
 
 The justification is to merge functions which seem to be repetitive. Madam Chairperson, I beg to submit.
 
@@ -2553,9 +2553,9 @@ DR OTAALA: Madam Chairperson, we propose to amend the provisions of clause 65 as
 
 Clause 65(h) be qualified by inserting the word “may”. 
 
-    a) Inserting a new subclause under clause 65 to provide for “any other matters as might be prescribed in the regulations”.
+Inserting a new subclause under clause 65 to provide for “any other matters as might be prescribed in the regulations”.
 
-    b) Madam Chairperson, I beg to submit.
+Madam Chairperson, I beg to submit.
 
 THE DEPUTY CHAIRPERSON: Minister? 
 
@@ -4149,5 +4149,4 @@ Madam Speaker. I assure you that we have another Bill before us – the Electric
 THE DEPUTY SPEAKER: Honourable members, thank you very much and thank you for sparing your time up to this time. I am adjourning this House sine die.
 
 (The House rose at 10.53 p.m. and adjourned sine die.) 
-
 

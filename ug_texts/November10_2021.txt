@@ -1,4 +1,4 @@
-﻿
+
 PARLIAMENT OF UGANDA
 
 Wednesday, 10 November 2021
@@ -17,21 +17,21 @@ THE DEPUTY SPEAKER: Honourable members, I would like to welcome you to today’s
 
 During yesterday’s sitting, we had an issue in regard to the Ministry of Science, Technology and Innovation. I promised that we would bring a list of members of the select committee that we have constituted in the Speaker’s Office under Rule 190 of the Rules of Procedure of Parliament. We will have the following members: 
 
-    1. Hon. Xavier Kyooma – Chairperson 
-    2. Hon. Paul Omara 
-    3. Hon. Aisha Kabanda 
-    4. Hon. Solomon Silwany 
-    5. Hon. Tony Awany 
+Hon. Xavier Kyooma – Chairperson 
+Hon. Paul Omara 
+Hon. Aisha Kabanda 
+Hon. Solomon Silwany 
+Hon. Tony Awany 
 
 The following are the terms of reference of the select committee on matters related to science, technology and innovation: 
 
-    1. To establish the progress in development of a locally manufactured COVID-19 vaccine; 
-    2. To establish the amount of funds so far released to the research, innovation and COVID-19 vaccine development; 
-    3. To establish how effectively such funds have been utilised; 
-    4. To establish the challenges faced in the development of COVID-19 vaccines and medicines; 
-    5. To inquire into any other matters incidental to the above; 
-    6. To recommend a way forward to Parliament; and 
-    7. To report to Parliament within two weeks from today. 
+To establish the progress in development of a locally manufactured COVID-19 vaccine; 
+To establish the amount of funds so far released to the research, innovation and COVID-19 vaccine development; 
+To establish how effectively such funds have been utilised; 
+To establish the challenges faced in the development of COVID-19 vaccines and medicines; 
+To inquire into any other matters incidental to the above; 
+To recommend a way forward to Parliament; and 
+To report to Parliament within two weeks from today. 
 
 Honourable members, you will allow me to vary the Order Paper of today’s sitting. We will have a report from the Committee on Education and Sports immediately after matters of national importance. I would like to thank you once more for coming. 
 
@@ -201,32 +201,32 @@ In a bid to provide solutions to pressures on limited key infrastructure and to 
 
 Methodology
 
-    a. In consideration of the motion, the committee held meetings with and scrutinised written memoranda from the following stakeholders:
+In consideration of the motion, the committee held meetings with and scrutinised written memoranda from the following stakeholders:
 
-    1. The Mover and Seconders of the Motion; hon. Ojara Martin Mapenduzi, Member of Parliament for Bardege-Layibi Division, hon. Nakut Faith, Member of Parliament for Napak District and hon. Emmanuel Ongiertho, Member of Parliament of Jonam County;
+The Mover and Seconders of the Motion; hon. Ojara Martin Mapenduzi, Member of Parliament for Bardege-Layibi Division, hon. Nakut Faith, Member of Parliament for Napak District and hon. Emmanuel Ongiertho, Member of Parliament of Jonam County;
 
-    2.  Ministry of Education and Sports;
+ Ministry of Education and Sports;
 
-    3. Minister of Water and Environment;
+Minister of Water and Environment;
 
-    4. National Forestry Authority;
+National Forestry Authority;
 
-    5. National Environment Management Authority; 
+National Environment Management Authority; 
 
-    6. Gulu University Council and Management. Those were met at the site at Gulu University. 
+Gulu University Council and Management. Those were met at the site at Gulu University. 
 
-    b. We made reference to the following key documents. Madam Speaker, I beg that I do not read this detail since it is clear in the report. 
+We made reference to the following key documents. Madam Speaker, I beg that I do not read this detail since it is clear in the report. 
 
-    a. We conducted a field visit to Gulu City, Kitgum and Nwoya Districts and held meetings with the following officials: 
-    i)  The Chairperson, Nwoya District Local Government;
-    ii)  The Chairperson, Nwoya District land Board; 
-    iii)  The Chief Administrative Officer, Nwoya District Local Government;
-    iv)  The District Lands Officer, Nwoya.
+We conducted a field visit to Gulu City, Kitgum and Nwoya Districts and held meetings with the following officials: 
+ The Chairperson, Nwoya District Local Government;
+ The Chairperson, Nwoya District land Board; 
+ The Chief Administrative Officer, Nwoya District Local Government;
+ The District Lands Officer, Nwoya.
 
 The terms of reference given to us by this House were followed to the letter and in executing the assignment, the committee was guided by the following terms of reference as given by the House:
-    i) To establish physical possession of the 70 acres of the Central Forest Reserve by Gulu University with already established buildings/structures;
+To establish physical possession of the 70 acres of the Central Forest Reserve by Gulu University with already established buildings/structures;
 
-    ii) To establish the availability of the 500 acres offered by Gulu University to the National Forestry Authority as alternative land for the establishment of a new forest reserve.
+To establish the availability of the 500 acres offered by Gulu University to the National Forestry Authority as alternative land for the establishment of a new forest reserve.
 
 These were the findings and observations.
 
@@ -250,9 +250,9 @@ Recommendations under term of reference No.2
 
 The committee recommends that Gulu University fast tracks: 
 
-    a. The process of converting the Leasehold Certificate of Title comprising the 500 acres into a Freehold Certificate of Title, in accordance with Section 28 of the Land Act, Cap.227; and 
+The process of converting the Leasehold Certificate of Title comprising the 500 acres into a Freehold Certificate of Title, in accordance with Section 28 of the Land Act, Cap.227; and 
 
-    b. The other requirements, precedent to the degazettement like carrying out an environmental impact assessment to facilitate expeditious handling of the degazettement process.
+The other requirements, precedent to the degazettement like carrying out an environmental impact assessment to facilitate expeditious handling of the degazettement process.
 
 Madam Speaker, in conclusion, the Committee on Education and Sports recommends that subject to the above findings, this House accepts and passes the prayer, as contained in the motion.
 
@@ -1146,7 +1146,6 @@ Motion adopted.
 THE SPEAKER: Honourable members, House is adjourned to tomorrow, 2 o’clock.
 
 (The House rose at 5.50 p.m. and adjourned until Thursday, 11 November 2021 at 2.00 p.m.)
-
 
 
 

@@ -1,4 +1,4 @@
-﻿
+
 PARLIAMENT OF UGANDA
 
 Monday, 26 July 2021
@@ -47,10 +47,10 @@ The EALA consists of Members elected from outside the national parliaments of th
 
 Articles 48 of the Treaty provides for membership of EALA in the following terms: The Members of the Assembly shall be –
 
-    (a) 27 elected members
-    (b)  Five ex officio members consisting of -
-    (i) the minister responsible for regional co-operation from each Partner State; and
-    (ii) the Secretary General and the Counsel to the Community. 
+27 elected members
+ Five ex officio members consisting of -
+the minister responsible for regional co-operation from each Partner State; and
+the Secretary General and the Counsel to the Community. 
 
 The membership of EALA currently stands at 62 with nine elected members from each of the six EAC Partner States and eight ex officio members. The increase in numbers from 32 provided by the Treaty to the current 62 is accounted for by the admission of Rwanda, Burundi and South Sudan to the Community. 
 
@@ -67,14 +67,14 @@ On 28 February 2017, the Parliament of the Republic of Uganda elected nine repre
 
 The following were elected:
 
-    1. Hon. Rose Akol Okullo - National Resistance Movement;
-    2. Hon. Paul Musamali - National Resistance Movement; 
-    3. Hon. Mathias Kasamba (now deceased) - National Resistance Movement;
-    4. Hon. Mary Mugyenyi - National Resistance Movement;
-    5. Hon. Dennis Namara - National Resistance Movement;
-    6. Hon. Chris Opoka - Uganda People’s Congress; 
-    7. Hon. Fred Mukasa Mbidde - Democratic Party;
-    8. Hon. Susan Nakawuki – Independent;
+Hon. Rose Akol Okullo - National Resistance Movement;
+Hon. Paul Musamali - National Resistance Movement; 
+Hon. Mathias Kasamba (now deceased) - National Resistance Movement;
+Hon. Mary Mugyenyi - National Resistance Movement;
+Hon. Dennis Namara - National Resistance Movement;
+Hon. Chris Opoka - Uganda People’s Congress; 
+Hon. Fred Mukasa Mbidde - Democratic Party;
+Hon. Susan Nakawuki – Independent;
 
 Introduction 
 
@@ -86,50 +86,50 @@ Pursuant to the provisions of rule 9, Appendix B of the Rules of Procedure of th
 
 The verification committee adopted the following terms of reference and checklist for the verification of EALA representatives: 
 
-    1. The verification committee shall consider the nominee and all applicants independent of a political party or organisation and shall ensure that the nominee is qualified to be elected a Member of Parliament in accordance with Article 80 of the Constitution.
+The verification committee shall consider the nominee and all applicants independent of a political party or organisation and shall ensure that the nominee is qualified to be elected a Member of Parliament in accordance with Article 80 of the Constitution.
 
-    2. The verification committee shall examine statements made by the nominee, which must be on oath, specifically- 
+The verification committee shall examine statements made by the nominee, which must be on oath, specifically- 
 
-    (a) to ensure that the statement made is in the format prescribed in the first schedule to the Rules of Procedure of Parliament and specifies the name, educational qualifications, address and occupation of the candidate;
+to ensure that the statement made is in the format prescribed in the first schedule to the Rules of Procedure of Parliament and specifies the name, educational qualifications, address and occupation of the candidate;
 
-    (b) to ensure that the statement made is in the format prescribed in Schedule 3 of the Rules of Procedure of Parliament and states that the candidate –
+to ensure that the statement made is in the format prescribed in Schedule 3 of the Rules of Procedure of Parliament and states that the candidate –
 
-    i) is a citizen of Uganda;
-    ii) qualifies to be elected a Member of Parliament;
-    iii) is not a Member of Parliament;
-    iv) is not holding office as a minister;
-    v) is not an officer in the service of the East African Community;
-    vi) has proven experience or interest in consolidating and furthering the aims and the objectives of the Community.
+is a citizen of Uganda;
+qualifies to be elected a Member of Parliament;
+is not a Member of Parliament;
+is not holding office as a minister;
+is not an officer in the service of the East African Community;
+has proven experience or interest in consolidating and furthering the aims and the objectives of the Community.
 
-    3. The verification committee shall ensure that the nomination forms of persons nominated by political parties are endorsed by the relevant secretary-general of a party or a person authorised by him or her to nominate such a candidate.
+The verification committee shall ensure that the nomination forms of persons nominated by political parties are endorsed by the relevant secretary-general of a party or a person authorised by him or her to nominate such a candidate.
 
 The committee adopted the checklist below to interrogate and establish the legal suitability of the candidates; specifically, that the nominee –
 
-    a) is a citizen of Uganda;
-    b) is a registered voter;
-    c) has completed a minimum formal education of advanced level standard or its equivalent;
-    d) is 	not of unsound mind; 
-    e) is not holding or acting in an office the functions of which involve a responsibility for or in connection with the conduct of an election; 
-    f) is not a traditional or cultural leader as defined in Article 246(6) of the Constitution;
-    g) has not been adjudged or otherwise declared bankrupt under any law in force in Uganda and has not been discharged as a bankrupt; or 
-    h) is not under a sentence of death or a sentence of imprisonment exceeding nine months imposed by any competent court without the option of a fine.
-    i) is not a public officer or a person employed in any Government department or agency of Government or an employee of a local government or anybody in which the Government has a controlling interest, and if he or she has resigned his or her office at least fourteen days prior to nomination day.
+is a citizen of Uganda;
+is a registered voter;
+has completed a minimum formal education of advanced level standard or its equivalent;
+is 	not of unsound mind; 
+is not holding or acting in an office the functions of which involve a responsibility for or in connection with the conduct of an election; 
+is not a traditional or cultural leader as defined in Article 246(6) of the Constitution;
+has not been adjudged or otherwise declared bankrupt under any law in force in Uganda and has not been discharged as a bankrupt; or 
+is not under a sentence of death or a sentence of imprisonment exceeding nine months imposed by any competent court without the option of a fine.
+is not a public officer or a person employed in any Government department or agency of Government or an employee of a local government or anybody in which the Government has a controlling interest, and if he or she has resigned his or her office at least fourteen days prior to nomination day.
 
 Methodology 
 
 The verification committee interacted with and received written and oral submissions from the following:
 
-    1. The Leadership of the National Resistance Movement. 
-    2. Hon. Thomas Tayebwa, the Government Chief Whip.
-    3. Hon. Rose Namayanja, Deputy Secretary-General, NRM. 
-    4. Mr Oscar Kihika (Senior Counsel), the Director, Legal, NRM Secretariat. 
+The Leadership of the National Resistance Movement. 
+Hon. Thomas Tayebwa, the Government Chief Whip.
+Hon. Rose Namayanja, Deputy Secretary-General, NRM. 
+Mr Oscar Kihika (Senior Counsel), the Director, Legal, NRM Secretariat. 
 
 These three appeared before the committee upon their request, which was granted by the committee.
 
 The following nominees and applicants appeared before the committee:
 
-    1. Hon. James Kakooza
-    2. Mr Gilbert Agaba
+Hon. James Kakooza
+Mr Gilbert Agaba
 
 The above were invited specifically to interact with the committee.
 
@@ -166,12 +166,12 @@ From his responses, the members established that he met the requirements under A
 
 In his Curriculum Vitae (CV), hon. Kakooza indicated that – 
 
-    a) he is a Certified Public Accountant; 
-    b) he holds a Certificate in Taxation, Statistics and Information Technology from Beijing University; 
-    c) he holds a Certificate in Anti-Corruption Methods and Finance Management from International Law Institute, Washington DC; 
-    d) he has a Certificate in Public Private Partnerships from the University of Australia (AUSH); 
-    e) he holds a certificate in Customs Basics and Tax Administration (URA). 
-    f) he also holds a Uganda Advanced Certificate of Education (UACE) from Mende Kalema Memorial Secondary School obtained in 1988, and a Uganda Certificate of Education (UCE) from St Charles Lwanga Secondary School, Kasasa obtained in 1984. 
+he is a Certified Public Accountant; 
+he holds a Certificate in Taxation, Statistics and Information Technology from Beijing University; 
+he holds a Certificate in Anti-Corruption Methods and Finance Management from International Law Institute, Washington DC; 
+he has a Certificate in Public Private Partnerships from the University of Australia (AUSH); 
+he holds a certificate in Customs Basics and Tax Administration (URA). 
+he also holds a Uganda Advanced Certificate of Education (UACE) from Mende Kalema Memorial Secondary School obtained in 1988, and a Uganda Certificate of Education (UCE) from St Charles Lwanga Secondary School, Kasasa obtained in 1984. 
 
 He served as a Minister of State for Primary Healthcare from 2007 to 2011; a Commissioner of the Parliamentary Commission from 2005 to 2007; and a Member of Parliament for 20 years, with 17 and a half years of experience in the Committee on Finance, Planning and Economic Development, where he participated effectively in the formulation of our tax 1aws. 
 
@@ -187,10 +187,10 @@ The committee interacted with and interviewed Mr Gilbert Agaba on a number of to
 
 In his curriculum vitae, Mr Gilbert Agaba indicated that – 
 
-    a) he holds a Bachelor of Education Degree, specifically majoring in economics and history, of Makerere University, Kampala; 
-    b) he has a Certificate in Tax Policy and Tax Practice from the Uganda Revenue Authority Training School;
-    c) he also holds a Uganda Advanced Certificate of Education (UACE) from Kabale Trinity College, obtained in 2001;
-    d) he holds a Uganda Certificate of Education (UCE) from Rubaya Secondary School, obtained in 1999. 
+he holds a Bachelor of Education Degree, specifically majoring in economics and history, of Makerere University, Kampala; 
+he has a Certificate in Tax Policy and Tax Practice from the Uganda Revenue Authority Training School;
+he also holds a Uganda Advanced Certificate of Education (UACE) from Kabale Trinity College, obtained in 2001;
+he holds a Uganda Certificate of Education (UCE) from Rubaya Secondary School, obtained in 1999. 
 
 Mr Agaba also said that he worked with Uganda Revenue Authority, Customs Department; Finance Trust Bank, Credit Department; and from 2005 he has been in the private sector.
 
@@ -204,13 +204,13 @@ Mr Agaba is a registered voter and appeared to be of sound mind. He is not a tra
 
 The committee interrogated case law in some detail on the interpretation of Article 50 of the Treaty and the Rules of Procedure. A number of cases in Uganda and at the East Africa Court of Justice have sought interpretation of Article 50 vis-à-vis the Rules of Procedure of the Parliament of Uganda. These include the cases of – 
 
-    a) Jacob Oulanyah vs the Attorney-General of the Republic of Uganda, Constitutional Petition No.28 of 2006; 
+Jacob Oulanyah vs the Attorney-General of the Republic of Uganda, Constitutional Petition No.28 of 2006; 
 
-    b) Democratic Party & Mukasa Mbidde vs the Secretary General to the East African Community and the Attorney-General of the Republic of Uganda, Reference No.6 of 2011; 
+Democratic Party & Mukasa Mbidde vs the Secretary General to the East African Community and the Attorney-General of the Republic of Uganda, Reference No.6 of 2011; 
 
-    c) Abdu Katuntu vs the Attorney-General of Uganda & the Secretary General of the East African Community & 9 Interveners, Ref. No.5 of 2012; 
+Abdu Katuntu vs the Attorney-General of Uganda & the Secretary General of the East African Community & 9 Interveners, Ref. No.5 of 2012; 
 
-    d) Among A. Anita vs the Attorney-General of the Republic of Uganda, the Secretary General of the East African Community & Others, Reference No.6 of 2012. 
+Among A. Anita vs the Attorney-General of the Republic of Uganda, the Secretary General of the East African Community & Others, Reference No.6 of 2012. 
 
 The courts in all these cases required the Rules of Procedure to conform to Article 50 of the Treaty.
 
@@ -228,13 +228,13 @@ The issue for court’s determination was whether the Rules of Procedure for the
 
 The court held as follows: 
 
-    1. In order to conform to the provisions of Article 50(1), the election rules must enable the establishment of an electoral process that ensures equal opportunity to become a candidate, full participation and competition for specified groupings and at the end of the process, their effective representation in the EALA.
+In order to conform to the provisions of Article 50(1), the election rules must enable the establishment of an electoral process that ensures equal opportunity to become a candidate, full participation and competition for specified groupings and at the end of the process, their effective representation in the EALA.
 
-    2. Rule 13, which specifically deals with the election procedure, “mirrors” the wording of Article 50 of the Treaty, and the impugned rule 13(1) and (2) does not allow sitting Members of the Parliament of Uganda to run for election for position in the EALA. 
+Rule 13, which specifically deals with the election procedure, “mirrors” the wording of Article 50 of the Treaty, and the impugned rule 13(1) and (2) does not allow sitting Members of the Parliament of Uganda to run for election for position in the EALA. 
 
-    3. There is no requirement to be deduced from Article 50(1) of the Treaty that the said election rules should provide for specific slots for the interest groups set out in the Article, or that they should provide for guarantees of representation specifically of women, youth and persons with disabilities or any specified grouping provided for by Article 50(1) where such representation is not “feasible”. The word “feasible” is capitalised and the emphasis added. This court is not clothed with the jurisdiction to determine such feasibility, which is, in any event, left to the discretion of the national assemblies of Partner States. 
+There is no requirement to be deduced from Article 50(1) of the Treaty that the said election rules should provide for specific slots for the interest groups set out in the Article, or that they should provide for guarantees of representation specifically of women, youth and persons with disabilities or any specified grouping provided for by Article 50(1) where such representation is not “feasible”. The word “feasible” is capitalised and the emphasis added. This court is not clothed with the jurisdiction to determine such feasibility, which is, in any event, left to the discretion of the national assemblies of Partner States. 
 
-    4. Rule 13(1) and (2) of Appendix B aforesaid provides for consultations and consensus in the elections of members to the EALA. This rule is located between the provisions on voting by secret ballot in rule 12 and declaration of results in rule 14. 
+Rule 13(1) and (2) of Appendix B aforesaid provides for consultations and consensus in the elections of members to the EALA. This rule is located between the provisions on voting by secret ballot in rule 12 and declaration of results in rule 14. 
 
 	“It is unclear to us and no explanation was offered by the 1st respondent why such procedure should exist at such a crucial stage of the electoral process. In any election, consultations and consensus-building are done in the earliest stages of the electoral process and certainly not after voting. Therefore, any provision that imposes consultations and consensus after voting is unusual”, the court ruled. 
 
@@ -266,14 +266,14 @@ In the case of the Democratic Party & Mukasa Mbidde v. the Attorney-General of t
 
 “The essential requirements for EALA elections provided in Article 50 of the Treaty are that-
 
-    • the National Assembly shall conduct an election;
-    • sitting Members of the Assembly are not eligible;
-    • elected Members shall be nine; 
-    • the elected Members shall represent, as much as is feasible – 
-    (a) the political parties in the National Assembly;
-    (b) shades of opinion;
-    (c) gender; and
-    (d) other special interest groups; - the procedure for elections shall be determined by the National Assembly. 
+the National Assembly shall conduct an election;
+sitting Members of the Assembly are not eligible;
+elected Members shall be nine; 
+the elected Members shall represent, as much as is feasible – 
+the political parties in the National Assembly;
+shades of opinion;
+gender; and
+other special interest groups; - the procedure for elections shall be determined by the National Assembly. 
 Any election or rules of procedure for election of EALA Members that departs from the above clear requirements risks contravening the Treaty.” 
 
 Madam Speaker, as we have covered above, the election of Members to EALA is governed by Article 50 of the EAC Treaty. Article 50 provides as follows:
@@ -295,7 +295,7 @@ In the case of Jacob Oulanyah, the rules in contest at the time were the Rules o
 
 “11. Election of Members of the East African Legislative Assembly
 
-    (1) Members of the East African Legislative Assembly representing Uganda shall be elected in accordance with the rules set out in Appendix II, and such representation shall reflect the proportional party membership based on the numerical strength of the parties in the House and take into consideration gender and other shades of opinion.” 
+Members of the East African Legislative Assembly representing Uganda shall be elected in accordance with the rules set out in Appendix II, and such representation shall reflect the proportional party membership based on the numerical strength of the parties in the House and take into consideration gender and other shades of opinion.” 
 
 Madam Speaker, emphasis is added from, “shall reflect the proportional party representation based on membership and numerical strength of the parties in the House.”
 
@@ -319,9 +319,9 @@ The 2012 Rules of Procedure were also contested in the courts and they provided 
 
 “13. Election of Members of the East African Legislative Assembly.
 
-    (1) The nine Members of the East African Legislative Assembly representing Uganda shall be elected by Parliament not from among Members of Parliament, representing as much as feasible the various political parties represented in the House, shades of opinion, gender and other special interest groups in Uganda. 
+The nine Members of the East African Legislative Assembly representing Uganda shall be elected by Parliament not from among Members of Parliament, representing as much as feasible the various political parties represented in the House, shades of opinion, gender and other special interest groups in Uganda. 
 
-    (2) The election of the Members to the East African Legislative Assembly shal1 be held in accordance with the rules set out in Appendix B to the Rules.”
+The election of the Members to the East African Legislative Assembly shal1 be held in accordance with the rules set out in Appendix B to the Rules.”
 
 Rule 13(1) and (2) of Appendix B provided as follows: 
 
@@ -337,11 +337,11 @@ It is imperative to look at the current rules to establish if this was amended. 
 
 “Election of Members of the East African Legislative Assembly
 
-    (1) The nine Members of the East African Legislative Assembly representing Uganda shall be elected by Parliament, not from among Members of Parliament, representing as much as it is feasible, the various political parties represented in the House, shades of opinion, gender and other special interest groups in Uganda. 
+The nine Members of the East African Legislative Assembly representing Uganda shall be elected by Parliament, not from among Members of Parliament, representing as much as it is feasible, the various political parties represented in the House, shades of opinion, gender and other special interest groups in Uganda. 
 
-    (2) The election of the Members to the East African Legislative Assembly shall be held in accordance with the rules set out in Appendix B to these Rules. 
+The election of the Members to the East African Legislative Assembly shall be held in accordance with the rules set out in Appendix B to these Rules. 
 
-    (3) Members of the Assembly shall report to Parliament on the activities of the Assembly in accordance with Appendix C.” 
+Members of the Assembly shall report to Parliament on the activities of the Assembly in accordance with Appendix C.” 
 
 The current Appendix B does not provide for consultations and consensus-building and provides for a more elaborate procedure of elections. It is evident that the rules were amended to conform to the orders of the court. (Applause) 
 
@@ -548,9 +548,9 @@ And whereas the committee established the need to amend the Rules of Procedure o
 
 Now, THEREFORE, this House resolves as follows: 
 
-    1. To refer this matter to the Committee on Rules, Privileges and Discipline to consider possible amendments in light of the pending EALA elections;
+To refer this matter to the Committee on Rules, Privileges and Discipline to consider possible amendments in light of the pending EALA elections;
 
-    2. The committee should report to the House within a period of 45 days on the considered amendments relating to EALA elections.”
+The committee should report to the House within a period of 45 days on the considered amendments relating to EALA elections.”
 
 I so move.
 

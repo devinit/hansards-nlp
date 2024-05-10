@@ -1,4 +1,4 @@
-﻿
+
 Monday, 14 June 2021
 
 Parliament met at 10.05 a.m. in Parliament House, Kampala.
@@ -20,11 +20,11 @@ In addition, I have a communication from H.E. the President regarding the appoin
 
 The sitting will, therefore, consider the following three motions:
 
-    i. To approve the variation of other ministers in line with Article 114 of the Constitution of the Republic of Uganda, 1995.
+To approve the variation of other ministers in line with Article 114 of the Constitution of the Republic of Uganda, 1995.
 
-    ii. To approve the appointment of the Vice President in accordance with Article 108(2) of the Constitution of the Republic of Uganda, 1995.
+To approve the appointment of the Vice President in accordance with Article 108(2) of the Constitution of the Republic of Uganda, 1995.
 
-    iii. To approve the appointment of the Prime Minister and Leader of Government Business in accordance with Article 108(A)(1) of the Constitution of the Republic of Uganda, 1995.
+To approve the appointment of the Prime Minister and Leader of Government Business in accordance with Article 108(A)(1) of the Constitution of the Republic of Uganda, 1995.
 
 Please, note that the approval of these motions require a simple majority.
 
@@ -36,9 +36,9 @@ Honourable members, the COVID-19 pandemic continues to wreck havoc to our societ
 
 In response to the threat of COVID-19, specifically within the Legislature, a raft of measures have been put in place and communicated to all heads of departments. The measures include:
 
-    i. Downscaling on the number of staff that are physically present within the precincts of Parliament to 20 per cent. Therefore, only 20 per cent of staff of Parliament will be working.
+Downscaling on the number of staff that are physically present within the precincts of Parliament to 20 per cent. Therefore, only 20 per cent of staff of Parliament will be working.
 
-    ii. Strict observance of the required Standard Operating Procedures. When you come here, you are supposed to wash your hands, sanitise and keep a distance. 
+Strict observance of the required Standard Operating Procedures. When you come here, you are supposed to wash your hands, sanitise and keep a distance. 
 
 Consultations are currently underway with the relevant authorities to evaluate the fate of the House sitting during this time of COVID-19. 
 
@@ -49,17 +49,17 @@ That has been pushed ahead - we shall communicate the new date depending on the 
 
 The threat of COVID-19 has deprived the community of prominent members that are known to most of us in this House. They have gone to be with the Lord. They include:
 
-    i) Hon. Manzi Tumubweine – who served as Member of Parliament for Rukiga County in the Sixth Parliament and a former Minister of Trade and Privatisation.
-    ii) Hon. Mujuzi Pius - former Member of Parliament of Kyotera.
-    iii) Hon. Jowali Kyeyago former Member of Parliament of Bunya.
-    iv) Mr Kagole Kivumbi - former Permanent Secretary of Judiciary and former staff of Parliamentary Commission…
-    v) His Lordship Ephraim Okalebo, a retired Judge of the High Court and a former Constituent Assembly delegate for Kumi;
-    vi) Dr Peter Kalani Emodek, a prominent ENT specialist;
-    vii) Mr Jotham Mulongo, a retired educationist; 
-    viii) Mr Willie Otim, a retired Commissioner of Children’s Affairs at the Ministry of Gender, Labour and Social Development;
-    ix) Bishop Remelia, Bishop Emeritus of Madi; 
-    x) Henry Magomu, ex-minister of Bamasaba;
-    xi) Mr George Opio, former Assistant Commissioner Accounts, Ministry of Education and Sports.
+Hon. Manzi Tumubweine – who served as Member of Parliament for Rukiga County in the Sixth Parliament and a former Minister of Trade and Privatisation.
+Hon. Mujuzi Pius - former Member of Parliament of Kyotera.
+Hon. Jowali Kyeyago former Member of Parliament of Bunya.
+Mr Kagole Kivumbi - former Permanent Secretary of Judiciary and former staff of Parliamentary Commission…
+His Lordship Ephraim Okalebo, a retired Judge of the High Court and a former Constituent Assembly delegate for Kumi;
+Dr Peter Kalani Emodek, a prominent ENT specialist;
+Mr Jotham Mulongo, a retired educationist; 
+Mr Willie Otim, a retired Commissioner of Children’s Affairs at the Ministry of Gender, Labour and Social Development;
+Bishop Remelia, Bishop Emeritus of Madi; 
+Henry Magomu, ex-minister of Bamasaba;
+Mr George Opio, former Assistant Commissioner Accounts, Ministry of Education and Sports.
 
 May we rise and observe a moment of silence.
 
@@ -780,9 +780,9 @@ Allow me to thank my predecessor, the Rt Hon. Dr Ndugu Ruhakana Rugunda for His 
 
 I commit to build on the foundation laid by my predecessors. This will be done through:
 
-    i) Strengthening the link between the Executive and Parliament,
-    ii) Ensuring availability of Government Business in Parliament on time,
-    iii) Together with the Government Chief Whip, we shall ensure, this time round, that the ministers regularly attend Parliament.
+Strengthening the link between the Executive and Parliament,
+Ensuring availability of Government Business in Parliament on time,
+Together with the Government Chief Whip, we shall ensure, this time round, that the ministers regularly attend Parliament.
 
 I pledge to work with fellow ministers and you honourable colleagues to ensure that the NRM Manifesto is effectively implemented especially transforming a good percentage of the 3.3 million households still in subsistence economy into money economy.
 
@@ -880,4 +880,3 @@ THE DEPUTY SPEAKER: Honourable members of Parliament, with due respect, this deb
 Where a leader from the Opposition wants to come and attend a particular verification of somebody or vetting of a particular minister, with my permission, we will allow you to enter. I want to suspend this debate and I am adjourning this House sine die. Thank you.
 
 (The House rose at 1.00 p.m. and adjourned sine die.) 
-

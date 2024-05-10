@@ -1,4 +1,4 @@
-﻿
+
 
 Tuesday, 29 January 2019
 
@@ -300,21 +300,21 @@ Consequential Amendments to Electoral Laws, Arising from the Constitution (Amend
 
 As a result of the amendment of the Constitution, consequential amendments are required for the following Acts, to ensure conformity with the amended provisions as effected by the Constitution (Amendment) Act, 2018:
 
-    (a) The Presidential Elections Act, 2005;
-    (b) The Local Governments Act, Cap. 243;
-    (c) The Electoral Commissions Act, Cap. 140;
-    (d) The Parliamentary Elections Act, 2005; and
-    (e) The National Youth Council Act, Cap. 319.
+The Presidential Elections Act, 2005;
+The Local Governments Act, Cap. 243;
+The Electoral Commissions Act, Cap. 140;
+The Parliamentary Elections Act, 2005; and
+The National Youth Council Act, Cap. 319.
 
 Additional Electoral Reforms Arising Out of Other Recommendations of the Supreme Court
 The Supreme Court also made recommendations relating to the following matters, requiring further amendment of electoral laws:
 
-    1. Nature of evidence;
-    2. Use of technology; 
-    3. Unequal use of state owned media;
-    4. Donations during election period;
-    5. Involvement of public officers in political campaigns; 
-    6. The role of the Attorney-General in election petitions.
+Nature of evidence;
+Use of technology; 
+Unequal use of state owned media;
+Donations during election period;
+Involvement of public officers in political campaigns; 
+The role of the Attorney-General in election petitions.
 
 The implementation of the above recommendations requires both legal and administrative action. The required draft Bills to implement the above reforms have since been prepared for submission to Cabinet. However, Madam Speaker, while the Government could proceed to introduce the above named electoral reform Bills, it has become evident that in order to severally address matters relating to elections in Uganda, it is necessary to handle the matter in a chronological manner, beginning with the review and amendment of the Constitution of Uganda, 1995. Since this is concurrent with the process to amend the electoral laws, Government has continued to pursue proposals for amendment of the Constitution.
 
@@ -369,11 +369,11 @@ The second ground being ridden on by the honourable minister is the pending cons
 
 Madam Speaker, for that matter, since Government is not ready, I would seek leave of this House under Rule 56 (1) (a) read together with Rule 121; that I bring a formal motion to amend electoral laws in the following areas:
 
-    1. All aspects of the electoral laws in the Constitution by bringing a Constitutional (Amendment) Bill, 2019, which we already have and subsequently sequentially bring amendments in the following laws:
-    i)  The Presidential Elections (Amendment) Bill
-    ii) The Parliamentary Elections (Amendment) Bill
-    iii) The Electoral Commission (Amendment) Bill and 
-    iv) The Local Government (Amendment) Bill.
+All aspects of the electoral laws in the Constitution by bringing a Constitutional (Amendment) Bill, 2019, which we already have and subsequently sequentially bring amendments in the following laws:
+ The Presidential Elections (Amendment) Bill
+The Parliamentary Elections (Amendment) Bill
+The Electoral Commission (Amendment) Bill and 
+The Local Government (Amendment) Bill.
 
 I beg to move.
 
@@ -578,24 +578,24 @@ What was the impact?
 
 There are six particular road sections under UNRA that were badly affected and of which five roads were totally cut off. The most affected roads were: 
 
-    i) Kakiri-Danze-Mawale 23 kilometres 
-    ii) Gobero-Seganga-Kakonda 15 kilometres, and 
-    iii) Namayumba-Kakonda-Semuto 16 kilometres.
+Kakiri-Danze-Mawale 23 kilometres 
+Gobero-Seganga-Kakonda 15 kilometres, and 
+Namayumba-Kakonda-Semuto 16 kilometres.
 
 These were totally cut off by River Mayanja. Consequently, no one could cross from Wakiso to Luweero District via these roads. On Kapeeka-Busunju Road, Mayanja two bridges were fully blocked by papyrus and muddy clay. Water was almost flowing over the road surface. Luckily, the road was not cut off and the public has been advised to use alternative routes. 
 
 The other affected roads were those connecting Luweero and Mukono districts, separated by Lwajjali River, namely:
 
-    i) Zirobwe-Lwajjali-Kabimbiri and 
-    ii) Kayindu-Kalagala-Kyabakadde 27 kilometres.
+Zirobwe-Lwajjali-Kabimbiri and 
+Kayindu-Kalagala-Kyabakadde 27 kilometres.
 
 The two rivers, River Mayanja which flows North-West into River Kafu and River Lwajjali which flows northwards into Lake Kyoga, cut off the roads. 
 
 After intervention, this is the current status. The following roads have been worked on and are open to traffic.
 
-    i) Kakiri-Danze-Mawale
-    ii) Zirobwe- Lwajjali-Kabimbiri and
-    iii) Kahindu-Kalagala-Kyabakadde
+Kakiri-Danze-Mawale
+Zirobwe- Lwajjali-Kabimbiri and
+Kahindu-Kalagala-Kyabakadde
 
 Works are currently going on to restore Namayumba-Kakonda-Semuto road which is 16 kilometres. My ministry is also working tirelessly with UNRA and the district local governments to maintain all the roads in a motorable condition. These situations were like an emergency, which we were able to respond to and to a great extent, we have restored the road network. However, plans are already underway. Surveys have been made by our roads and bridges department to design better bridges on the affected sections of these roads, which may not be well restored by use of culverts and other means.
 
@@ -770,8 +770,8 @@ THE MINISTER OF INTERNAL AFFAIRS (Gen. (Rtd) Jeje Odongo): Madam Speaker, my tak
  
 Indeed, you directed me to explain the matters that arose as a consequence of that debate, which included, but not limited to-
 
-    1.  The existence of a country called East Africa where the authority to issue the e-passport was derived.
-    2. Whether replacing the machine-readable passport with an e-passport was not a breach of contract between Government and citizens and other related matters.
+ The existence of a country called East Africa where the authority to issue the e-passport was derived.
+Whether replacing the machine-readable passport with an e-passport was not a breach of contract between Government and citizens and other related matters.
 
 As I was preparing a statement to explain these issues, my attention was drawn to the fact that a concerned citizen has taken Government to court. As we speak, Mr William Aboneka and the Centre for Constitutional Governance have taken Government to court. There is now a case against the Attorney-General and I have learnt this will be determined by 04 March 2019.
 
@@ -917,12 +917,12 @@ THE SPEAKER: What are the main objectives of the Bill?
     
 MR BITANGARO: The Bill before Parliament today is:
 
-    1. To provide movable properties as collateral. 
-    2. To provide for the creation and perfection of security interest.
-    3. To provide for the rules for determining priority of claims among competing claimants.
-    4. To provide for the registration of security interest in movable property by notices.
-    5. To provide for a registrar of security interests in movable property.
-    6. To provide for the enforcement of security interests, search of a register and for related matters. 
+To provide movable properties as collateral. 
+To provide for the creation and perfection of security interest.
+To provide for the rules for determining priority of claims among competing claimants.
+To provide for the registration of security interest in movable property by notices.
+To provide for a registrar of security interests in movable property.
+To provide for the enforcement of security interests, search of a register and for related matters. 
 
 Thank you very much.
 
@@ -1116,17 +1116,17 @@ Clause 4
 
 MR BITANGARO: We would like to have clause 4 replaced as follows - 
 4. Creation of security interest 
-    (1) A security interest may be created – 
+A security interest may be created – 
 (a) 	In any type of combination of moveable property.
 (b) 	In a part of or an undivided interest in moveable property.
 (c) 	In a generic category of moveable property; or 
 (d) 	In all of the moveable property of the grantor.
 
-    (2) A security interest is created by a transaction that secures payment or performance of an obligation without regard to the form of the transaction.
+A security interest is created by a transaction that secures payment or performance of an obligation without regard to the form of the transaction.
 
-    (3) An agreement for a security interest becomes enforceable where –
-        (a) The grantor is the owner, has right in the collateral or has the power to encumber the collateral;
-        (b) The agreement- 
+An agreement for a security interest becomes enforceable where –
+The grantor is the owner, has right in the collateral or has the power to encumber the collateral;
+The agreement- 
 i) 	Is signed by the grantor; and
 ii) 	Identifies the secured creditor as the grantor;
 iii) 	is witnessed by a third party;
@@ -1193,13 +1193,13 @@ MR BITANGARO: Madam Chairperson, insertion of new clauses immediately after clau
 
 “Effectiveness of agreements creating security interest and duty of faith
 
-    (1) An agreement to create a security interest is effective according to its terms between the parties to it and it is enforceable against a third party.
-    (2) A duty of good faith applies both to the grantor and the secured creditor.
+An agreement to create a security interest is effective according to its terms between the parties to it and it is enforceable against a third party.
+A duty of good faith applies both to the grantor and the secured creditor.
 
 Rights and duties where collateral is in possession of a secured creditor
 
-    1) A secured creditor has a duty to use reasonable care to preserve collateral in his or her possession.
-    2) In the case of a negotiable instrument or chattel paper, reasonable care referred to in subsection (i) includes taking steps to preserve rights against prior parties unless otherwise agreed.”
+A secured creditor has a duty to use reasonable care to preserve collateral in his or her possession.
+In the case of a negotiable instrument or chattel paper, reasonable care referred to in subsection (i) includes taking steps to preserve rights against prior parties unless otherwise agreed.”
 
 MR NZOGHU: I did not hear you well on clause 4 (ii). Can you read it again so that I compare with what I have here?
 
@@ -1260,9 +1260,9 @@ Secured creditor to supply information
 
 The justification is:
 
-    i. To ensure transparency in the relationship between the grantor, unsecured creditor and third parties.
-    ii. To provide rights and duties for the grantor and secured creditor.
-    iii. For completeness.
+To ensure transparency in the relationship between the grantor, unsecured creditor and third parties.
+To provide rights and duties for the grantor and secured creditor.
+For completeness.
 
 MR KASULE: Madam Chairperson, mine is a consequential amendment; I would like to add, “by all parties involved” after the words “unless where agreed.” 
 
@@ -1319,9 +1319,9 @@ Insert immediately after subclause (3) the following –
 
 The justification is:
 
-    1) To provide for how to deal with proceeds arising from the sale or transfer of a security interest that is deposited in an account thereby becoming a commingled asset.
-    2) To limit the amount the secured creditor may claim from a grantor.
-    3) For completeness and better drafting.
+To provide for how to deal with proceeds arising from the sale or transfer of a security interest that is deposited in an account thereby becoming a commingled asset.
+To limit the amount the secured creditor may claim from a grantor.
+For completeness and better drafting.
 
 MR NANDALA-MAFABI: Thank you, Madam Chairperson. Mr Chairperson, I would like you to help me understand why you are deleting clause 5(2). It reads, “Unless otherwise agreed to by the parties where a collateral that is subject of an agreement for security interest is sold, the security interest in the collateral automatically extends to the proceeds of collateral whether or not the agreement contains the description of the process.” Here, they are protecting both parties; so, why are we deleting it? 
 
@@ -1457,8 +1457,8 @@ MR BITANGARO: I would like to insert a new clause immediately after clause 11 to
 
 The justification is: 
 
-    (1) To make provision for the treatment of collateral that is transferred outside Uganda. 
-    (2) To allow perfection of additional security in case the property is transferred or relocated outside Uganda.
+To make provision for the treatment of collateral that is transferred outside Uganda. 
+To allow perfection of additional security in case the property is transferred or relocated outside Uganda.
 
 THE CHAIRPERSON: Honourable members, the question is that a new clause be introduced as proposed.
 
@@ -1473,8 +1473,8 @@ MR BITANGARO: Madam Chairperson, we would like to, immediately before clause 12,
 (2) 	The functions bestowed on the bureau under this Act shall be performed by the registrar.”
 
 The justification is:  
-    (1) To designate a registrar to be in charge of implementing the provisions of this Act. 
-    (2) To empower the Registrar General to perform the functions of the bureau.
+To designate a registrar to be in charge of implementing the provisions of this Act. 
+To empower the Registrar General to perform the functions of the bureau.
 
 MR NANDALA-MAFABI: Thank you very much, Madam Chairperson. I would like to seek clarification from the Chairperson. Movable properties are properties which move; they can be moved. How would the registrar tag that moveable property to make sure that if it moves from here, it keeps its identity so that the one who is involved does not lose his property?      
 
@@ -1541,9 +1541,9 @@ MR BITANGARO: We propose to insert a new clause immediately after clause 12 in t
 
 The justification is:
 
-    1. It is a consequential amendment arising from the amendment of clause 12.
-    2. It is to ensure that a notice registered does not become effective until the expiration of the period of objection prescribed in section 19. 
-    3. For clarity and better drafting.
+It is a consequential amendment arising from the amendment of clause 12.
+It is to ensure that a notice registered does not become effective until the expiration of the period of objection prescribed in section 19. 
+For clarity and better drafting.
 
 MR OLANYA: Madam Chairperson, I would like to find out from the committee chairperson; why do you restrict registration only to the electronic form and not leave it open, realising that there will come a time, given the circumstances at hand, when the electronic registration may not work? Why don’t you leave it so that it includes other forms of registration other than electronic modes?
 
@@ -1586,8 +1586,8 @@ We propose to replace subclause (4) as follows -
 
 The justification is:  
 
-    1) To prescribe condition precedence for registration of notices under this Act; and 
-    2) To require authorisation of the grantor every time a notice is to be registered.
+To prescribe condition precedence for registration of notices under this Act; and 
+To require authorisation of the grantor every time a notice is to be registered.
 
 THE CHAIRPERSON: Honourable chairperson, I would like to know why you do not want the present subclause because it deals with an initial notice; not just any notice. This is before the creation of security interest and this is the initial notice and you removed a judgement creditor. Why don’t you want them to access their rights?
 
@@ -1723,5 +1723,4 @@ THE SPEAKER: Honourable members, I put the question that the report of the whole
 THE SPEAKER: Thank you. We shall continue tomorrow. We are waiting for the redraft of one of the clauses and also for the chairperson to reorganise the sequence of the amendments. Thank you. House adjourned to tomorrow at 2.00 p.m. 
 
 (The House rose at 7.34 p.m. and adjourned until Wednesday, 30 January 2019 at 2.00 p.m.)
-
 

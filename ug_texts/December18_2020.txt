@@ -1,4 +1,4 @@
-﻿
+
 
 Friday, 18 December 2020
 
@@ -26,11 +26,11 @@ I have written to the Ministry of Finance, Planning and Economic Development obj
 
 In that format, in Schedule No.3 of the Public Finance Management Act, the National Budget Framework Paper will specify the following:
 
-    a) The programme overviews, objectives and summary of the budgetary allocations of the programmes and the sub-programmes contained therein for the relevant implementing agencies.
+The programme overviews, objectives and summary of the budgetary allocations of the programmes and the sub-programmes contained therein for the relevant implementing agencies.
 
-    b) The expected key results to be achieved out of the programme at the end of the five-year planning period, 2020/2021 to 2024/2025.
+The expected key results to be achieved out of the programme at the end of the five-year planning period, 2020/2021 to 2024/2025.
 
-    c) Programme outcomes and indicators detailing the baselines and performance targets for each of the five years, the medium-term budget allocation for each sub-programme and their linkages to the National Development Plan III.
+Programme outcomes and indicators detailing the baselines and performance targets for each of the five years, the medium-term budget allocation for each sub-programme and their linkages to the National Development Plan III.
 
 I implore committees to exhaustively scrutinise the National Budget Framework Paper with due regard to the Sustainable Development Goals; human rights compliance as developed by the Committee on Human Rights; and the certificate of gender and equity compliance as stipulated in Section 9(6) of the Public Finance Management Act.
 
@@ -162,7 +162,7 @@ THE SPEAKER: Rt Hon. Prime Minister, this matter has been on the Floor many time
 
 LAYING OF PAPERS IN ACCORDANCE WITH RULE 31 OF THE RULES OF PROCEDURE OF PARLIAMENT
 
-    (I) THE NATIONAL BUDGET FRAMEWORK PAPER FOR THE FINANCIAL YEARS 2021/2022 – 2025/2026
+THE NATIONAL BUDGET FRAMEWORK PAPER FOR THE FINANCIAL YEARS 2021/2022 – 2025/2026
 
 
 11.56
@@ -345,12 +345,12 @@ Madam Speaker, pursuant to rule 202 of the Rules of Procedure of the Parliament 
 
 The points of dissent are as follows:
 
-    i) Payment for appeal against results of inspection
-    ii) Location of testing centres
-    iii) Testing equipment
-    iv) Disciplinary action against Mr Ronald Amanyire
-    v) Inspection of vehicles under warranty
-    vi) The technical audits.
+Payment for appeal against results of inspection
+Location of testing centres
+Testing equipment
+Disciplinary action against Mr Ronald Amanyire
+Inspection of vehicles under warranty
+The technical audits.
 
 Payment for appeal against results of inspection
 
@@ -453,4 +453,3 @@ The Speaker: Honourable members, as you may recall, those regulations were withd
 Honourable members, I would like to thank you for coming for this sitting. I am sorry for interrupting your discussions with the electorate. The House is adjourned.
 
 (The House rose at 12.47 p.m. and adjourned sine die.)
-

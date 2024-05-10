@@ -1,4 +1,4 @@
-﻿
+
 
 Tuesday, 30 March 2021
 
@@ -132,21 +132,21 @@ THE SPEAKER: Can I ask Commissioner Aol to lay the papers?
 3.18
 THE LEADER OF THE OPPOSITION (Ms Betty Aol): Thank you, Madam Speaker. I beg to lay on the Table the reports of the Auditor-General on the financial statements for the year ended 30 June 2020 for the following:
 
-    1. Insurance Regulatory Authority. 
-    2. Uganda Development Corporation. 
-    3. Insurance Training College.
-    4. Rural Communications Development Fund (RCDF).
-    5. Great Lakes Trade Facilitation Project.
-    6. Uganda Bureau of Statistics.
-    7. Inspectorate of Government. 
-    8. Financial Intelligence Authority.
-    9. Regional Communications Infrastructure Programme (RCIP) IDA Loan No. 5635-UG.
-    10. Public Procurement and Disposal of Public Assets (PPDA) Appeals Tribunal.
-    11. Public Procurement and Disposal of Public Assets Authority.
-    12. National Information Technology Authority-Uganda.
-    13. Uganda Retirement Benefits Regulatory Authority.
-    14. Soroti Fruits Limited. 
-    15. Uganda Investment Authority (UIA). 
+Insurance Regulatory Authority. 
+Uganda Development Corporation. 
+Insurance Training College.
+Rural Communications Development Fund (RCDF).
+Great Lakes Trade Facilitation Project.
+Uganda Bureau of Statistics.
+Inspectorate of Government. 
+Financial Intelligence Authority.
+Regional Communications Infrastructure Programme (RCIP) IDA Loan No. 5635-UG.
+Public Procurement and Disposal of Public Assets (PPDA) Appeals Tribunal.
+Public Procurement and Disposal of Public Assets Authority.
+National Information Technology Authority-Uganda.
+Uganda Retirement Benefits Regulatory Authority.
+Soroti Fruits Limited. 
+Uganda Investment Authority (UIA). 
 
 Madam Speaker, I beg to lay. 
 
@@ -185,9 +185,9 @@ Two, the minister is okay with the apparent migration of the ministry’s mandat
 
 Madam Speaker, I have two prayers:
 
-    1. That we let the UWEP programme stay the way it is and be monitored by the Ministry of Gender, Labour and Social Development;
+That we let the UWEP programme stay the way it is and be monitored by the Ministry of Gender, Labour and Social Development;
 
-    2. Transfer the Shs 32 billion that has been transferred to the Ministry of Finance, Planning and Economic Development and that will be monitored by the Ministry of Local Government. I beg to submit. Thank you.
+Transfer the Shs 32 billion that has been transferred to the Ministry of Finance, Planning and Economic Development and that will be monitored by the Ministry of Local Government. I beg to submit. Thank you.
 
 THE SPEAKER: Thank you very much, honourable member. It is indeed a matter of grave concern that 52 per cent of the population of Uganda has a small fund, which is now being proposed to be dissipated in different directions. 
 
@@ -288,9 +288,9 @@ Parliamentary Calendar
 
 The Speaker, at the beginning of the Second Session of the Tenth Parliament, announced a parliamentary calendar that gave priority to different categories of business during each meeting of the session as follows:
 
-    1. First Meeting – prioritisation of Bills;
-    2. Second Meeting – prioritisation of committee reports; and
-    3. Third Meeting - prioritisation of the Budget process.
+First Meeting – prioritisation of Bills;
+Second Meeting – prioritisation of committee reports; and
+Third Meeting - prioritisation of the Budget process.
 
 The committee welcomed the calendar but in addition to the current arrangement, it proposes that exclusive periods be allocated to committee activities, plenary sittings and recess within a given meeting in a session.
 
@@ -494,9 +494,9 @@ MR MAKMOT: Clause 29 is on replacement of section 179 of the principal Act. The 
 
 The justification is: 
 
-    1. To subject the provision to Section 36(6), which exempts residential holding, including chattels, from being given away in contemplation of death.
+To subject the provision to Section 36(6), which exempts residential holding, including chattels, from being given away in contemplation of death.
 
-    2. To impose a timeline within which a donor may redeem the property he or she has granted to a person in contemplation of death.
+To impose a timeline within which a donor may redeem the property he or she has granted to a person in contemplation of death.
 
 THE CHAIRPERSON: Honourable members, you have heard the proposal on Clause 29. I put the question that Clause 29 be amended as proposed.
 
@@ -594,15 +594,15 @@ Section 200 of the principal Act is amended by substituting for ‘next of kin�
 
 The justification is: 
 
-    1. The amendment proposed to section 183 is in recognition of the current position of the law as far as the appointment of guardians and the execution of estates of children is concerned.
+The amendment proposed to section 183 is in recognition of the current position of the law as far as the appointment of guardians and the execution of estates of children is concerned.
 
-    2. In Section 184 and 190, for consistency, to change the nomenclature used from “unsound mind”, which condition may not be ascertainable, to “mental illness”, a condition that is ascertainable under laws of mental illness.
+In Section 184 and 190, for consistency, to change the nomenclature used from “unsound mind”, which condition may not be ascertainable, to “mental illness”, a condition that is ascertainable under laws of mental illness.
 
-    3. The term “next of kin” was not defined in the principal Act and is therefore impossible to determine, considering that there is no provision requiring the appointment of next of kin. Therefore, for consistency, the term needs to be replaced with words which are used ordinarily. Also, in this case, given the centrality of the spouse and lineal descendants in the grant of letters of administration, then it is imperative that the notification required in this section is given to the person proposed in the Bill. 
+The term “next of kin” was not defined in the principal Act and is therefore impossible to determine, considering that there is no provision requiring the appointment of next of kin. Therefore, for consistency, the term needs to be replaced with words which are used ordinarily. Also, in this case, given the centrality of the spouse and lineal descendants in the grant of letters of administration, then it is imperative that the notification required in this section is given to the person proposed in the Bill. 
 
-    4. To impose a fit and proper person test in the appointment of administrators and executors. 
+To impose a fit and proper person test in the appointment of administrators and executors. 
 
-    5. It also incorporates the proposal made in the 2019 Succession (Amendment) Bill, particularly clauses 24, 25, 26, 27 and 29.
+It also incorporates the proposal made in the 2019 Succession (Amendment) Bill, particularly clauses 24, 25, 26, 27 and 29.
 
 Thank you, Madam Chairperson.
 
@@ -628,11 +628,11 @@ In Clause 30, the proposed section 201A is redrafted to read as follows:
 
 The justification is: 
 
-    1. To codify a practice developed by court to wherein widows and widowers are no longer given priority over the administration of estates of their deceased partners due to the reality of our complex family structures. Judges are uncomfortable with such applications where a deceased person is survived by children from different women or in a polygamous family since court is not sure of the number of partners or children the deceased had at the time of death.
+To codify a practice developed by court to wherein widows and widowers are no longer given priority over the administration of estates of their deceased partners due to the reality of our complex family structures. Judges are uncomfortable with such applications where a deceased person is survived by children from different women or in a polygamous family since court is not sure of the number of partners or children the deceased had at the time of death.
 
 	In order to protect the interest of all the beneficiaries of such estates, there are instances where it may be preferred that the administration is granted not to the surviving spouse alone but to any other person alone or a group of people, with or without the surviving spouse.
 
-    2. The proposal to give preference and not priority to the surviving spouse is to protect other beneficiaries of the estate, especially in polygamous relationships, where spouses have obtained administration without the knowledge of their step-children and have disinherited them.
+The proposal to give preference and not priority to the surviving spouse is to protect other beneficiaries of the estate, especially in polygamous relationships, where spouses have obtained administration without the knowledge of their step-children and have disinherited them.
 
 	It is for this reason that the courts themselves are reluctant to issue grants to widows applying alone, unless there is proof that all the children are born of the widow and the deceased.
 
@@ -684,13 +684,13 @@ In Clause 35, redraft the proposed Section 215 as follows:
 
 Justification 
 
-    1. Currently, Section 215 conflicts with Section 184 of the Succession Act in so far as allowing the appointment of a minor as executor is concerned. The amendment is therefore to ensure that section 215 is in conformity with Section 184. 
+Currently, Section 215 conflicts with Section 184 of the Succession Act in so far as allowing the appointment of a minor as executor is concerned. The amendment is therefore to ensure that section 215 is in conformity with Section 184. 
 
-    2. To remove the ambiguity in the amendment proposed in the 2018 Bill in so far as it allows the appointment of the guardian of a child as administrator of the estate when a child is the sole executor. As noted, a child cannot be appointed sole executor as required in Section 184. It also assumes that the guardian of the child will be appointed to administer the estate on behalf of the child yet court may appoint any other person in spite of the presence of a guardian. 
+To remove the ambiguity in the amendment proposed in the 2018 Bill in so far as it allows the appointment of the guardian of a child as administrator of the estate when a child is the sole executor. As noted, a child cannot be appointed sole executor as required in Section 184. It also assumes that the guardian of the child will be appointed to administer the estate on behalf of the child yet court may appoint any other person in spite of the presence of a guardian. 
 
-    3. To expand the provision to allow for the supervised administration of the estate where a young person is appointed administrator. This will safeguard the estate from abuse. 
+To expand the provision to allow for the supervised administration of the estate where a young person is appointed administrator. This will safeguard the estate from abuse. 
 
-    4. To limit the provision to a situation where there is a sole beneficiary or residuary legatee 
+To limit the provision to a situation where there is a sole beneficiary or residuary legatee 
 
 Madam Chairperson, I do not know whether I should read the insertion-
 
@@ -707,11 +707,11 @@ Section 216 of the principal Act is repealed.” 
 
 Justification:
  
-    1. Consequential amendment arising from the amendment of Section 215 as proposed in clause 35. 
+Consequential amendment arising from the amendment of Section 215 as proposed in clause 35. 
 
-    2. To incorporate proposals made by the Succession (Amendment) Bill, 2019, specifically in Clause 31. 
+To incorporate proposals made by the Succession (Amendment) Bill, 2019, specifically in Clause 31. 
 
-    3. For consistency, to remove matters that conflict with section 184 wherein the appointment of minors as executors is specifically barred. 
+For consistency, to remove matters that conflict with section 184 wherein the appointment of minors as executors is specifically barred. 
 
 Thank you, Madam Chairperson.
 
@@ -780,9 +780,9 @@ Section 236 of the principal Act is amended by replacing the term ‘district de
 
 Justification
 
-    1. This is a consequential amendment arising from the deletion of the word “delegate”, which makes the provision redundant.
+This is a consequential amendment arising from the deletion of the word “delegate”, which makes the provision redundant.
 
-    2. To adopt amendments proposed in clauses 33 and 34 of the 2019 Bill. Thank you.
+To adopt amendments proposed in clauses 33 and 34 of the 2019 Bill. Thank you.
 
 The Chairperson: Honourable members, I put the question that a new clause be introduced as proposed. 
 
@@ -814,21 +814,21 @@ In Clause 38, in the proposed amendments to Section 258, substitute for the prop
 
 Justification
 
-    1. The imposition of a validity timeline will result in additional costs on the estate to renew probate, which will expose the estate to additional costs, thereby eroding the beneficiaries’ legacy.
+The imposition of a validity timeline will result in additional costs on the estate to renew probate, which will expose the estate to additional costs, thereby eroding the beneficiaries’ legacy.
 
-    2. To limit the functions of the executor to two years since, in the majority of estates, the functions of executor being the collection and distribution of the estates to persons entitled to it can be carried out within two years and any attempt at increasing it beyond that time will delay the beneficiaries from accessing their entitlements and will result in the executor unreasonably holding onto the estate for personal gain. 
+To limit the functions of the executor to two years since, in the majority of estates, the functions of executor being the collection and distribution of the estates to persons entitled to it can be carried out within two years and any attempt at increasing it beyond that time will delay the beneficiaries from accessing their entitlements and will result in the executor unreasonably holding onto the estate for personal gain. 
 
 Limiting the grant to two years would put the executor on notice that their role is much limited and they would execute their duties as soon as possible. Providing a total term of six years, as proposed in the Bill, would be counterproductive when what is needed is for administration to be concluded as fast as possible.
 
-    3. The provision also did not take into account estates of minor children as prescribed in Section 215 wherein the office of the executor does not terminate until the child, who is the sole legatee or residue legatee, has reached the age of majority.
+The provision also did not take into account estates of minor children as prescribed in Section 215 wherein the office of the executor does not terminate until the child, who is the sole legatee or residue legatee, has reached the age of majority.
 
-    4. In order to reduce on the cost of administering the estate, the Administrator-General need not give consent to applications made under sub-section (3).
+In order to reduce on the cost of administering the estate, the Administrator-General need not give consent to applications made under sub-section (3).
 
-    5. To impose grounds upon which court may extend the duration of grant.
+To impose grounds upon which court may extend the duration of grant.
 
-    6. To limit the application of the provision to guardians since they are looking after the interests of children.
+To limit the application of the provision to guardians since they are looking after the interests of children.
 
-    7. To prescribe the duration of the extension.
+To prescribe the duration of the extension.
 
 Mr nandala-mafabi: Madam Chairperson, I would like to seek clarification. In the justification, the chairperson of the committee talks of two years yet in the Bill, he says it should not exceed three years. I would like us to harmonise that.
 
@@ -870,11 +870,11 @@ In Clause 39, substitute for the proposed amendment to Section 259 the following
 
 Justification
 
-    1. The imposition of a validity timeline will result in additional costs on the estate to renew, which will expose the estate to additional costs, thereby eroding the beneficiaries' legacy.
+The imposition of a validity timeline will result in additional costs on the estate to renew, which will expose the estate to additional costs, thereby eroding the beneficiaries' legacy.
 
-    2. To limit the functions of the executor to two years, since in the majority of estates, the functions of administrator being the collection and distribution of the estate to persons entitled to it, can be carried out within two years. Any attempt at increasing it beyond that time will delay the beneficiaries from accessing their entitlements and will result in the executor unreasonably holding onto the estate for personal gain.
+To limit the functions of the executor to two years, since in the majority of estates, the functions of administrator being the collection and distribution of the estate to persons entitled to it, can be carried out within two years. Any attempt at increasing it beyond that time will delay the beneficiaries from accessing their entitlements and will result in the executor unreasonably holding onto the estate for personal gain.
 
-    3. Limiting the grant to two years would put the executor on notice that their role is much limited and they should execute their duties as soon as possible – 
+Limiting the grant to two years would put the executor on notice that their role is much limited and they should execute their duties as soon as possible – 
 
 MR NANDALA-MAFABI: Madam Chairperson, I rise on a procedural issue. I have a report signed by members and it talks about three years but my brother is reading two years. I have even confirmed with my colleagues the two years – 
 
@@ -953,17 +953,17 @@ MR MAKMOT: In Clause 41, substitute for the proposed Section 268 the following:
 
 The justifications are:
 
-    1. To expand the definition of the word “intermeddling” to include instances where court has appointed an administrator or executor. Currently, and even in the proposed amendment, intermeddling can only happen before grant of letters or probate, yet we know that intermeddling can happen even after the grant of letters of administration or probate.
+To expand the definition of the word “intermeddling” to include instances where court has appointed an administrator or executor. Currently, and even in the proposed amendment, intermeddling can only happen before grant of letters or probate, yet we know that intermeddling can happen even after the grant of letters of administration or probate.
 
-    2. In order to preserve the estate from abuse before letters or probate is granted, to expand the provision to allow intermeddling in the estate by a spouse, children or a partner of the deceased.
+In order to preserve the estate from abuse before letters or probate is granted, to expand the provision to allow intermeddling in the estate by a spouse, children or a partner of the deceased.
 
-    3. To limit the intermeddling to six months or until letters or probate is granted;
+To limit the intermeddling to six months or until letters or probate is granted;
 
-    4. To create an offence against a person who is intermeddling beyond the time prescribed.
+To create an offence against a person who is intermeddling beyond the time prescribed.
 
-    5. To implore the person to make an application to court to end intermeddling where the estate is being mismanaged.
+To implore the person to make an application to court to end intermeddling where the estate is being mismanaged.
 
-    6. To require a person who intermeddles in the estate of the deceased to make good the loss caused to the estate.
+To require a person who intermeddles in the estate of the deceased to make good the loss caused to the estate.
 
 Thank you, Madam Chairperson.
 
@@ -1006,17 +1006,17 @@ MR MAKMOT: We propose that clause 42 is substituted with the following:
 
 The justifications are:
 
-    1. To exempt the disposal of matrimonial homes from sale.
+To exempt the disposal of matrimonial homes from sale.
 
-    2. To impose restrictions on the sale of property of the deceased person.
+To impose restrictions on the sale of property of the deceased person.
 
-    3. To bar the executor or administrator, as the case may be, from purchasing the property belonging to the estate he or she is administering or executing.
+To bar the executor or administrator, as the case may be, from purchasing the property belonging to the estate he or she is administering or executing.
 
-    4. To impose an obligation on the executor or administrator to account to the estate for the proceeds arising from the sale of property.
+To impose an obligation on the executor or administrator to account to the estate for the proceeds arising from the sale of property.
 
-    5. To grant pre-emption rights to the beneficiary of the estate to purchase the property before it is offered to a third party.
+To grant pre-emption rights to the beneficiary of the estate to purchase the property before it is offered to a third party.
 
-    6. Finally, to incorporate the proposal made to Section 270 under the 2019 Succession (Amendment) Bill.
+Finally, to incorporate the proposal made to Section 270 under the 2019 Succession (Amendment) Bill.
 
 THE CHAIRPERSON: Honourable members, I need to remind you that we agreed earlier that instead of the word “child” we use the word “infant”, because a child does not need a guardian. This is someone who is 17 years old and below. So, please, let it be changed wherever it occurs. 
 
@@ -1035,9 +1035,9 @@ Section 271 of the principal Act is repealed.”
 
 The justification for the repeal of Section 271 is: 
 
-    1. To ensure that the executor or administrator cannot sell to him or herself property belonging to an estate he or she is executing or administering, since this will be a conflict of interest.
+To ensure that the executor or administrator cannot sell to him or herself property belonging to an estate he or she is executing or administering, since this will be a conflict of interest.
 
-    2. It is a consequential amendment arising from the amendment of Section 270 of the Succession Act, in Clause 42.
+It is a consequential amendment arising from the amendment of Section 270 of the Succession Act, in Clause 42.
 
 MR NANDALA-MAFABI: The current section 271 is about the purchase of the deceased’s property and states thus: “If an executor or administrator purchases, either directly or indirectly, any part of the property of the deceased, the sale is voidable at the instance of any other person interested in the property sold.”
 
@@ -1093,11 +1093,11 @@ Upon the death of one or more executors or administrators, the surviving executo
 
 The justification is – 
 
-    1. For clarity. 
+For clarity. 
 
-    2. To allow an executor or administrator to continue, notwithstanding the death of one or more executors or administrators, save for the estate with immovable property, where they need an order of court. 
+To allow an executor or administrator to continue, notwithstanding the death of one or more executors or administrators, save for the estate with immovable property, where they need an order of court. 
 
-    3. To ensure that a surviving executor and administrator should seek the consent of the beneficiary before applying for leave of court to continue in administration of an estate.
+To ensure that a surviving executor and administrator should seek the consent of the beneficiary before applying for leave of court to continue in administration of an estate.
 
 MR NANDALA-MAFABI: Madam Chairperson, since we have adopted “written”, even the consent here should be written. If the chairperson concedes to that, it will be better.
 
@@ -1132,11 +1132,11 @@ The principal Act is amended by substituting for Section 311, the following-
 
 Justification 
 
-    1. This is to align the provision with the provisions of the Children Act which require the appointment of a guardian to take charge of the child’s property and to administer the same. 
+This is to align the provision with the provisions of the Children Act which require the appointment of a guardian to take charge of the child’s property and to administer the same. 
 
-    2. To provide for a time within which a guardian shall transfer property to a child upon attaining the age of majority. 
+To provide for a time within which a guardian shall transfer property to a child upon attaining the age of majority. 
 
-    3. Finally, to allow court to determine the suitability of a person to manage his or her property.
+Finally, to allow court to determine the suitability of a person to manage his or her property.
 
 THE CHAIRPERSON: Honourable members, again, I am taking issue with your removal of the word “minor”. A minor, in law, means you are 17 and below, so we cannot substitute it with anything else. Under sub-section (4) of your proposal, the word “to” is missing – “…is not fit to administer…”
 
@@ -1285,9 +1285,9 @@ MR MAKMOT: In Clause 52, under the proposed sub-section (2), substitute the word
 
 Justification 
 
-    1. To enhance the penalty imposed to make the provision deterrent enough. 
+To enhance the penalty imposed to make the provision deterrent enough. 
 
-    2. To harmonise the prescribed penalty with similar penalty prescribed in the proposed amendment to sections 331, 332 and 333 of the Succession Act.
+To harmonise the prescribed penalty with similar penalty prescribed in the proposed amendment to sections 331, 332 and 333 of the Succession Act.
 
 THE CHAIRPERSON: Honourable members, I put the question that Clause 52 be amended as proposed.
 
@@ -1318,8 +1318,8 @@ Mr makmot: Secondly, by inserting immediately after paragraph (b) the following:
 
 Justification
 
-    1. For clarity and completeness.
-    2. To adopt the proposal in Clause 53 of the 2019 Bill. 
+For clarity and completeness.
+To adopt the proposal in Clause 53 of the 2019 Bill. 
 
 Madam Chairperson, we have other insertions.
 
@@ -1353,15 +1353,15 @@ Currency Point
 A currency point is equivalent to twenty thousand Uganda shillings.’”
 
 The justification is:
-    1. To prescribe a currency point.
+To prescribe a currency point.
 
-    2. To harmonise the proposed amendment in the 2018 Bill and the 2019 Bill on the position of the schedule on currency points.
+To harmonise the proposed amendment in the 2018 Bill and the 2019 Bill on the position of the schedule on currency points.
 
-    3. To empower the Attorney-General to amend the first schedule to this Act whenever it is necessary.
+To empower the Attorney-General to amend the first schedule to this Act whenever it is necessary.
 
-    4. To provide a transitional provision.
+To provide a transitional provision.
 
-    5. For clarity, consistency and better drafting.
+For clarity, consistency and better drafting.
 
 Ms ogwal: Madam Chairperson, I need some clarity on this. I would like to know, if the minister comes up with the amendment to the schedule, can we be assured that it can be laid on the Table in Parliament so that we can follow up? 
 
@@ -1497,11 +1497,11 @@ The First Schedule to the principal Act is amended by renumbering the Schedule a
 
 Justification
 
-    1. It is a consequential amendment arising from the rejection of the proposal to delete Part III of the principal Act. 
+It is a consequential amendment arising from the rejection of the proposal to delete Part III of the principal Act. 
 
-    2. It is a consequential amendment arising from the insertion of the new schedule on currency points as Schedule 1. 
+It is a consequential amendment arising from the insertion of the new schedule on currency points as Schedule 1. 
 
-    3. To adopt the proposed amendment in the 2019 Bill.
+To adopt the proposed amendment in the 2019 Bill.
 
 THE CHAIRPERSON: Honourable members, I put the question that clause 54 be amended as proposed. 
 
@@ -1550,9 +1550,9 @@ MR MAKMOT: Yes, I concede. It was consequential.
 
 The justification is: 
 
-    1. The proposal to delete the second schedule is rejected since it is overtaken by the amendments proposed in Section 7, which included female intestates who had previously been excluded, and to revise the percentages of distribution of the estate of an intestate.
+The proposal to delete the second schedule is rejected since it is overtaken by the amendments proposed in Section 7, which included female intestates who had previously been excluded, and to revise the percentages of distribution of the estate of an intestate.
 
-    2. To include the proposals made in the 2019 Succession Bill as prescribed in Clause 46. 
+To include the proposals made in the 2019 Succession Bill as prescribed in Clause 46. 
 
 There are other new insertions-
 
@@ -1882,4 +1882,3 @@ Concerning the Sexual Offences Bill, I am waiting for the report. 
 Honourable members, the Clerk and your team, thank you very much. House adjourned to tomorrow at 2.00 p.m. 
 
 (The House rose at 6.59 p.m. and adjourned until Wednesday, 31 March 2021 at 2.00 p.m.) 
-

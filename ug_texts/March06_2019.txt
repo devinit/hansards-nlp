@@ -1,4 +1,4 @@
-﻿
+
 
 Wednesday, 6 March 2019
 
@@ -42,13 +42,13 @@ On 26 February 2019, the Ministry of Internal Affairs made a statement to the Ho
 
 This is the committee composition:
 
-    1. Hon. Gaster Mugoya 		Chairperson
-    2. Hon. Pamela Nasiyo 		Member
-    3. Hon. Ibrahim Kasozi Biribawa 	Member
-    4. Hon. Justine Khainza 		Member
-    5. Brig. Flavia Byekwaso 		Member
-    6. Hon. Santa Alum 			Member
-    7. Hon. Paul Akamba 		Member
+Hon. Gaster Mugoya 		Chairperson
+Hon. Pamela Nasiyo 		Member
+Hon. Ibrahim Kasozi Biribawa 	Member
+Hon. Justine Khainza 		Member
+Brig. Flavia Byekwaso 		Member
+Hon. Santa Alum 			Member
+Hon. Paul Akamba 		Member
 
 We also have the issue of South Sudan. On 3 April 2018, Parliament resolved as follows: that Parliament approves the bilateral agreement signed between the Government of Uganda on the 22 December 2016 concerning payment of monies owed to Uganda-South Sudan traders by the Government of the Republic of South Sudan; that an addendum to the bilateral agreement be signed between Government of Uganda and the Republic of South Sudan to pay monies owed to the additional verified Uganda-South Sudan traders by the Republic of South Sudan as particularised in schedule A; that the joint verification exercise by the Government of the Republic of Uganda and South Sudan continues until all claims are conclusively handled. That was in 2018.
 
@@ -68,12 +68,12 @@ Honourable members, we heard that part of this money had already been paid and w
 
 The composition of the committee is as follows:
 
-    1. Hon. Ann Marie Nankabirwa 		Chairperson
-    2. Hon. Stella Kiiza 				Member
-    3. Hon. Herbert Ariko 			Member
-    4. Hon. Henry Kibalya 			Member
-    5. Hon. Mathias Mpuuga 			Member
-    6. Hon. Kyomuhendo Mbabazi 		Member
+Hon. Ann Marie Nankabirwa 		Chairperson
+Hon. Stella Kiiza 				Member
+Hon. Herbert Ariko 			Member
+Hon. Henry Kibalya 			Member
+Hon. Mathias Mpuuga 			Member
+Hon. Kyomuhendo Mbabazi 		Member
 
 We also have the issue of Apaa. Honourable members, during the proceedings of Wednesday, 23 January 2019, hon. Lucy Akello, Woman Representative Amuru, raised a question on the continued brutal and inhumane evictions of the residents of Apaa in Amuru District for the response of the Minister of Tourism, Wildlife and Antiquities. In response to the question, the minister on Tuesday, 5 February 2019 stated that - 
 
@@ -97,12 +97,12 @@ In the debate that ensued, Parliament was not satisfied by the minister’s answ
 
 Below is the composition of the committee:
 
-    1. Hon. Agnes Ameede  	Chairperson
-    2. Hon. Ssenyonga Muyanja 	Member
-    3. Hon. Jackson Kafuuzi 	 Member
-    4. Hon. Margaret Rwabushaija Member
-    5. Hon. Gershom Sizomu 	 Member
-    6. Hon. Ssempala Kigozi 	 Member
+Hon. Agnes Ameede  	Chairperson
+Hon. Ssenyonga Muyanja 	Member
+Hon. Jackson Kafuuzi 	 Member
+Hon. Margaret Rwabushaija Member
+Hon. Gershom Sizomu 	 Member
+Hon. Ssempala Kigozi 	 Member
 
 Honourable members, there were few matters of public concern. 
 
@@ -339,9 +339,9 @@ Observations and Recommendations of the Committee
 The committee noted that although the FPF have done a commendable job of curbing illegal fishing, which has led to restoring fish stocks to Ugandan lakes, they sometimes use excessive force. Many allegations of torture and inhuman treatment leading to hospitalisation and death have been made against them. 
 
 The committee, therefore, recommends that:
-    a) The FPF should stop all kinds of brutality meted on the fishermen even when they are guilty. Humane ways should instead be used to handle these cases.
+The FPF should stop all kinds of brutality meted on the fishermen even when they are guilty. Humane ways should instead be used to handle these cases.
 
-    b) The FPF who are found guilty of torturing people should be punished and the victims should be compensated.
+The FPF who are found guilty of torturing people should be punished and the victims should be compensated.
 
 2) 	Amendment of the Fish Act 
 
@@ -419,11 +419,11 @@ The committee noted that the operations have left some of the fishermen without 
 
 The committee recommends as follows:
 
-    a) Government provides alternative sources of income for the fishermen who have abandoned the fishing business and those whose landing sites have been closed. They can be assisted to engage in crop and livestock farming for example palm oil crops and livestock in form of piggery, poultry among others.
+Government provides alternative sources of income for the fishermen who have abandoned the fishing business and those whose landing sites have been closed. They can be assisted to engage in crop and livestock farming for example palm oil crops and livestock in form of piggery, poultry among others.
 
-    b) Government should develop a strategy to subsidise the cost of the approved kind of nets. This will facilitate fishing the right fish.
+Government should develop a strategy to subsidise the cost of the approved kind of nets. This will facilitate fishing the right fish.
 
-    c) Government should engage in promotion of aquaculture.
+Government should engage in promotion of aquaculture.
 
 The committee further noted that fishermen are not well organised, making it hard for them to access inputs, markets, share knowledge and experiences. This also makes it hard for them to be managed.
 
@@ -433,11 +433,11 @@ Madam Speaker, the committee noted that some officers had served in one centre f
 
 The committee recommends as follows:
 
-    1. There should be routine transfer of the enforcement officers from one zone to another to neutralise their immunity to people's complaints. The transfers should be on a rotational basis every six months.
+There should be routine transfer of the enforcement officers from one zone to another to neutralise their immunity to people's complaints. The transfers should be on a rotational basis every six months.
 
-    2. The officers should be adequately trained to equip them with the requisite skills to manage the waters.
+The officers should be adequately trained to equip them with the requisite skills to manage the waters.
 
-    3. The Fish Protection Force (FPF) should work with the technical fisheries officers for proper coordination. The committee realised that sometimes, they work in isolation of the trained fisheries officers and that is why they get into conflict with communities.
+The Fish Protection Force (FPF) should work with the technical fisheries officers for proper coordination. The committee realised that sometimes, they work in isolation of the trained fisheries officers and that is why they get into conflict with communities.
 
 It was also reported that the FPF allege that they can only report to His Excellency the President. The committee recommends that the reporting mechanism should be streamlined.
 
@@ -447,11 +447,11 @@ THE SPEAKER: Thank you very much, honourable chairperson and the Committee of Ag
 
 Before we proceed with the debate, I would like to welcome the Most Rev. Dr Odama, Archbishop of Gulu. He is in the Gallery. (Applause) He is here with – 
 
-    1. Fr Martin Agwee 
-    2. Fr Opio Thaddhaeus
-    3. Ms Alice Anena
-    4. Mr Okello Robert; and 
-    5. Mr Louis Lamot. 
+Fr Martin Agwee 
+Fr Opio Thaddhaeus
+Ms Alice Anena
+Mr Okello Robert; and 
+Mr Louis Lamot. 
 
 They are here mainly to attend the Ash Wednesday prayers today but in the meantime, they are attending our proceedings. You are welcome.
 
@@ -686,30 +686,30 @@ I now wish to proceed and present the report of the Committee on National Econom
 
 Before I go further, I would like to lay on the Table the following documents, which we used in analysing the report: 
 
-    1. The report of the Committee on National Economy on the proposal for Government to issue Promissory Notes not exceeding $379.71 million to FINASI/ROKO Construction SPV Limited for financing the design, construction and equipping of International Specialised Hospital of Uganda at Lubowa. 
+The report of the Committee on National Economy on the proposal for Government to issue Promissory Notes not exceeding $379.71 million to FINASI/ROKO Construction SPV Limited for financing the design, construction and equipping of International Specialised Hospital of Uganda at Lubowa. 
 
 The report is signed by more than 60 per cent of the members; 
 
-    2. The minutes of the meetings, which were held to consider the proposal
-    3. The brief to Parliament by the Ministry of Finance, Planning and Economic Development on the proposed financing 
-    4. The report on Due Diligence of FINASI/ROKO Construction Limited 
-    5. The Project Framework Agreement for the design, construction, financing and operation of two top quality hospital facilities in the Republic of Uganda
-    6. The Project Framework Agreement for the design, construction and financing of the proposed facilities 
-    7. The Project Works Investment Agreement to finance the project 
-    8. The Project Service Agreement for the management, operation and maintenance of the hospital
-    9. The Promissory Note Purchase Agreement between FINASI/ROKO Construction SPV as the seller and the African Export/Import Bank and Barclays Bank of Uganda
-    10. The Project Investment Proposal for the International Specialised Hospital
-    11. Submission to the Committee on National Economy by the Ministry of Lands, Housing and Urban Development on the ownership of the block
-    12. Maps with regard to Block 269 – the proposed site for the project
-    13. The statement of search for Block 269 Lubowa as of 28 February, 2019 and the Certificate of Title for the Project Site
-    14. The submission by Counsel Mulira and Company Advocates to the committee regarding the claim on the land; and
-    15. The letter from His Excellency, the President to the Speaker dated 25 February, 2019 emphasising the importance of the International Specialised Hospital of Uganda at Lubowa. 
+The minutes of the meetings, which were held to consider the proposal
+The brief to Parliament by the Ministry of Finance, Planning and Economic Development on the proposed financing 
+The report on Due Diligence of FINASI/ROKO Construction Limited 
+The Project Framework Agreement for the design, construction, financing and operation of two top quality hospital facilities in the Republic of Uganda
+The Project Framework Agreement for the design, construction and financing of the proposed facilities 
+The Project Works Investment Agreement to finance the project 
+The Project Service Agreement for the management, operation and maintenance of the hospital
+The Promissory Note Purchase Agreement between FINASI/ROKO Construction SPV as the seller and the African Export/Import Bank and Barclays Bank of Uganda
+The Project Investment Proposal for the International Specialised Hospital
+Submission to the Committee on National Economy by the Ministry of Lands, Housing and Urban Development on the ownership of the block
+Maps with regard to Block 269 – the proposed site for the project
+The statement of search for Block 269 Lubowa as of 28 February, 2019 and the Certificate of Title for the Project Site
+The submission by Counsel Mulira and Company Advocates to the committee regarding the claim on the land; and
+The letter from His Excellency, the President to the Speaker dated 25 February, 2019 emphasising the importance of the International Specialised Hospital of Uganda at Lubowa. 
 
 Introduction
 The Committee on National Economy is provided with, under rule 175(1) and (2) of the Rules of Procedure of Parliament, the mandate to, among others things:
 
 “175(1) It shall be the function of the committee on National Economy to review, consider and scrutinise all matters relating to national economy generally, finance and any other matter referred to it by the House.
-    (2) To examine and make recommendations to the House on all loan agreements required to be authorised or approved by the House under Article 159 of the Constitution.”
+To examine and make recommendations to the House on all loan agreements required to be authorised or approved by the House under Article 159 of the Constitution.”
 
 On 12 February 2019, the Minister of State for Finance, Planning and Economic Development (Planning), hon. Bahati, tabled a proposal to issue Promissory Notes not exceeding $379.71 million to FINASI/ROKO Construction SPV Limited for financing the design, construction and equipping of the International Specialised Hospital of Uganda at Lubowa, Wakiso District. 
 
@@ -734,10 +734,10 @@ Consequently, in October 2014, Government approved a project to construct an Int
 
 Madam Speaker, a number of agreements were signed and the sequence was as follows:
 
-    i) In November 2014, the Project Framework Agreement was signed;
-    ii) May 2015, the Project Works Investment Agreement was signed;
-    iii) December 2015, the Project Services Agreement was signed; and 
-    iv) December 2018, the Direct Agreement was signed with the Project's Promissory Note Funders.
+In November 2014, the Project Framework Agreement was signed;
+May 2015, the Project Works Investment Agreement was signed;
+December 2015, the Project Services Agreement was signed; and 
+December 2018, the Direct Agreement was signed with the Project's Promissory Note Funders.
 
 Upon obtaining accreditation from the Joint Commission International (JCI), one of the world’s leading non-profit patient safety organisations that certify world-c1ass healthcare facilities - it is envisaged that the hospital will attract patients both from Uganda and abroad, in particular neighboring countries. Already, there are many patients who are coming here to access the few facilities we have - in Nakasero Hospital, for example, a number of patients come from neighbouring countries. This is expected to minimise Government costs on overseas treatment as well as providing quicker and more accessible response to medical needs of Ugandans.
 
@@ -800,7 +800,7 @@ The issue of land ownership was a hot one in the committee and in the public. In
 
 The committee established as follows: 
 
-    a) History of Prince Ssuna's allotment of land in Buganda Kingdom under the Uganda Agreement 1900. The history of ownership of mutual courts is covered under paragraph 7.2 (b) and the history of the ownership of the land is covered under paragraph (c).
+History of Prince Ssuna's allotment of land in Buganda Kingdom under the Uganda Agreement 1900. The history of ownership of mutual courts is covered under paragraph 7.2 (b) and the history of the ownership of the land is covered under paragraph (c).
 
 Madam Speaker, I now wish to move to the acquisition of land at Lweza, which is the site of the project. This is under sub-paragraph (e).
 
@@ -888,11 +888,11 @@ The committee, therefore, recommends that the construction of the international 
 On the budgetary implication, the committee recommends that the Ministry of Health should ensure timely integration of the budgetary appropriations required for payment in the Project Works Investment Agreement, the Lender's Direct Agreement and any other auxiliary or connected agreement - to which the Government of Uganda is a party - that will fall due in the relevant year.
 
 On Government supervision of the project, the committee strongly recommends as follows:
-    1. The employment contract of Eng. Francis Wakabi as the owner's engineer should be terminated with immediate effect;
-    2. The Ministry of Health should request the Ministry of Works and Transport to assign two internationally accredited senior engineers at the rank of principal to the project. This group should comprise a civil engineer and an electro-mechanical engineer;
-    3. The Ministry of Health should assign an internationally accredited bio-medical engineer to this project;
-    4. The three engineers mentioned above should constitute a team of owner's engineers that will represent Government to supervise the project in the interim as Ministry of Health recruits its own engineers in the established infrastructure department; and
-    5. Government should make appropriate transitional arrangements not to delay the project.
+The employment contract of Eng. Francis Wakabi as the owner's engineer should be terminated with immediate effect;
+The Ministry of Health should request the Ministry of Works and Transport to assign two internationally accredited senior engineers at the rank of principal to the project. This group should comprise a civil engineer and an electro-mechanical engineer;
+The Ministry of Health should assign an internationally accredited bio-medical engineer to this project;
+The three engineers mentioned above should constitute a team of owner's engineers that will represent Government to supervise the project in the interim as Ministry of Health recruits its own engineers in the established infrastructure department; and
+Government should make appropriate transitional arrangements not to delay the project.
 
 On project implementation delays, the committee recommends that Government intensifies –(Interjections)– Madam Speaker, can I, please, be protected?
 
@@ -1014,17 +1014,17 @@ The ministries of Health and Finance, Planning and Economic Development have not
 
 Recommendations
 
-    1. Government should source for funds to rehabilitate and equip the regional referral hospitals in the four regions of the country (Eastern, Central, Northern and Western). 
+Government should source for funds to rehabilitate and equip the regional referral hospitals in the four regions of the country (Eastern, Central, Northern and Western). 
 
 	The specific focus should be on Jinja, Mbale and Moroto hospitals for Eastern Uganda; Gulu and Arua hospitals for Northern Uganda while Mulago, Entebbe and Masaka hospitals for Central Uganda as well as Buhinga, Mbarara and Kabale for Western Uganda instead of guaranteeing a private company.
 
-    2. There is need to rethink the Promissory Note financing modality, which gives the private investor in this project 100 per cent funding and guarantees to safeguard them from any loss whatsoever. 
+There is need to rethink the Promissory Note financing modality, which gives the private investor in this project 100 per cent funding and guarantees to safeguard them from any loss whatsoever. 
 
 	This is also similar to the case where between 2002 and 2006, Government through the African Development Bank guaranteed loans worth $l0 million to Tri-Star Apparel, a private company under AGOA, where Ugandans lost their money. Parliament should, basing on this experience, conduct more serious scrutiny than what has been done.
 
-    3. The Attorney-General should be held responsible for failing to properly and legally guide Government on this project. It should be noted that the Attorney-General gave two contradicting legal opinions to Government on the said project. At first, his legal opinion was that the Government did not require the approval of Parliament. He came back and advised that this time they needed approval of Parliament.
+The Attorney-General should be held responsible for failing to properly and legally guide Government on this project. It should be noted that the Attorney-General gave two contradicting legal opinions to Government on the said project. At first, his legal opinion was that the Government did not require the approval of Parliament. He came back and advised that this time they needed approval of Parliament.
 
-    4. Government should deliberately sponsor a sizeable number of medical professionals for specialised courses abroad to prepare a competent manpower that will handle the complicated health-related cases in future.
+Government should deliberately sponsor a sizeable number of medical professionals for specialised courses abroad to prepare a competent manpower that will handle the complicated health-related cases in future.
 
 Madam Speaker, when you look at the details of the documents submitted to us, this investor has listed training of medical personnel as some of the things we must fund before his project commences.
 
@@ -1115,4 +1115,3 @@ DR MORIKU: Thank you, Madam Speaker, for giving me this opportunity because this
 THE SPEAKER: Take your seats! Honourable members, do you want to silence me? I invite you to go and read these reports and we debate them tomorrow. But I am also going to Bundibugyo –(Interjection) No, you will go in the night.
 
 (The House rose at 6.32 p.m. and adjourned until Thursday, 7 March 2019 at 2.00 p.m.) 
-

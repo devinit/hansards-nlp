@@ -1,4 +1,4 @@
-﻿
+
 
 Tuesday, 30 August 2022
 
@@ -18,19 +18,19 @@ We have called for this sitting because of the urgent Bills that we have to pass
 
 As you may recall, on the 23rd, Government tabled Bills that included:
 
-    1. The Trustees Incorporation (Amendment) Bill, 2022
+The Trustees Incorporation (Amendment) Bill, 2022
 
-    2. The Anti-Terrorism (Amendment) Bill, 2022 
+The Anti-Terrorism (Amendment) Bill, 2022 
 
-    3. The Anti-Money Laundering (Amendment) Bill, 2022 
+The Anti-Money Laundering (Amendment) Bill, 2022 
 
-    4. The Cooperative Societies (Amendment) Bill, 2022
+The Cooperative Societies (Amendment) Bill, 2022
 
-    5. The Partnership (Amendment) Bill, 2022
+The Partnership (Amendment) Bill, 2022
 
-    6. The Companies (Amendment) Bill, 2022
+The Companies (Amendment) Bill, 2022
 
-    7. The Insolvency (Amendment) Bill, 2022
+The Insolvency (Amendment) Bill, 2022
 
 These Bills seek to address the definition and the matters incidental to beneficial ownership and proliferation financing, as part of Uganda's obligation in compliance with international financial regulations under the Financial Action Task Force (FATF). Failure for Uganda to comply and pass these Bills would mean sanctions on Uganda, and this would negatively affect the country as a whole. 
 
@@ -313,21 +313,21 @@ The committee further recommends that a holistic study on how best Government ca
 
 Having said that, Madam Speaker, I beg to lay:
 
-    1. The letter from the President dated 5 July 2022 returning the Excise Duty Bill for reconsideration.
+The letter from the President dated 5 July 2022 returning the Excise Duty Bill for reconsideration.
 
-    2.  The minutes of the meetings held with the stakeholders as part of the reconsideration of the Bill.
+ The minutes of the meetings held with the stakeholders as part of the reconsideration of the Bill.
 
-    3. The letter from URA to the Ministry of Finance, Planning and Economic Development warning that it is going to be very difficult to administer the 2.5 per cent or $70 per tonne tax. 
+The letter from URA to the Ministry of Finance, Planning and Economic Development warning that it is going to be very difficult to administer the 2.5 per cent or $70 per tonne tax. 
 
-    4. A letter dated 2 August 2022 from UMA petitioning Parliament on the 2.5 per cent or $70 per tonne tax.
+A letter dated 2 August 2022 from UMA petitioning Parliament on the 2.5 per cent or $70 per tonne tax.
 
-    5. A letter dated 18 July 2022 from the Plastic Manufacturers Association petitioning Parliament about the 2.5 per cent or 70 per tonne and the warning about the dangers of the 40 per cent or Shs 4,000 per kilogramme.
+A letter dated 18 July 2022 from the Plastic Manufacturers Association petitioning Parliament about the 2.5 per cent or 70 per tonne and the warning about the dangers of the 40 per cent or Shs 4,000 per kilogramme.
 
-    6. The submission by the Minister of Finance, Planning and Economic Development when we were reconsidering the Bill on the 9 August 2022.
+The submission by the Minister of Finance, Planning and Economic Development when we were reconsidering the Bill on the 9 August 2022.
 
-    7. The reconsidered Bill.
+The reconsidered Bill.
 
-    8. The letter dated 2 August 2022 from the Ministry of Finance, Planning and Economic Development waiving the 2.5 per cent or $70 per tonne on the majority, but maintaining it on a smaller minority, which is 7 per cent. 
+The letter dated 2 August 2022 from the Ministry of Finance, Planning and Economic Development waiving the 2.5 per cent or $70 per tonne on the majority, but maintaining it on a smaller minority, which is 7 per cent. 
 
 I beg to lay, thank you.
 
@@ -722,11 +722,11 @@ Madam Speaker, about six years ago, Uganda was required to implement 14 recommen
 
 One of the things that we were required to do in those recommendations was to make amendments to the seven Bills to address three fundamental aspects. These are: 
 
-    i) Beneficial ownership, where we are required to disclose, in an entity, who the beneficial owners are; 
+Beneficial ownership, where we are required to disclose, in an entity, who the beneficial owners are; 
 
-    ii) Proliferation financing, where monies, premises and other properties or persons are used to finance terrorism; and
+Proliferation financing, where monies, premises and other properties or persons are used to finance terrorism; and
 
-    iii) Anti-terrorism financing. 
+Anti-terrorism financing. 
 
 Unfortunately, Madam Speaker, this process was interrupted by COVID-19; it delayed and led us to get onto a grey list. The implication of a country being placed on a grey list is to say to all the financial players in the world that while dealing with that entity, be careful. 
 
@@ -935,9 +935,9 @@ Clause 2: Insertion of a new section 12A, in the principal Act 
 
 Clause 2 of the Bill is amended in the proposed section 12A;
 
-    a) In paragraph 1(a) by inserting the word “contact” immediately after the word “names”. 
+In paragraph 1(a) by inserting the word “contact” immediately after the word “names”. 
 
-    b) By substituting paragraph (3) with the following : “A cooperative society shall, within 14 days after creating the register or changing the place where the register is kept, send notice of the place where the register is…”
+By substituting paragraph (3) with the following : “A cooperative society shall, within 14 days after creating the register or changing the place where the register is kept, send notice of the place where the register is…”
 
 THE CHAIRPERSON: Yes, Attorney-General.
 
@@ -1229,9 +1229,9 @@ Substitute for Clause 1 the following –
 
 “Amendment of section 1 of Cap. 165
 
-    a) The Trustees Incorporation Act, hereinafter referred to as the “principal Act”, is amended by renumbering section 1 as section 1(A), and;
+The Trustees Incorporation Act, hereinafter referred to as the “principal Act”, is amended by renumbering section 1 as section 1(A), and;
 
-    b) Substituting for subsection (1) the following -
+Substituting for subsection (1) the following -
 
 “(1) Trustees or a trustee may be appointed by anybody or association of persons established for any religious, educational, literary, scientific, social, athletic, charitable or other lawful purpose, or any persons who have constituted themselves for any such purpose may apply, in the manner provided in this Act, to the minister for a certificate of registration of the trustees or trustee of such body or association or persons as a corporate body.”
 
@@ -1285,17 +1285,17 @@ Clause 4
 
 MR MUTEMBULI: Clause 4 is amended in the proposed section 3A -
 
-    a) By inserting immediately after the proposed subsection (3) the following new subsection-
+By inserting immediately after the proposed subsection (3) the following new subsection-
 
 	“Notwithstanding subsection (2), trustees or a trustee shall, within 14 days after creating the register of beneficial owners, transmit the copy of the register to the minister.”
 
-    b) In subsection (5), by substituting for the words “twenty-five” the word “five”. 
+In subsection (5), by substituting for the words “twenty-five” the word “five”. 
 
 Justification
 
-    i) To require the trustees or trustee to submit a copy of the register of the beneficial owners to the minister for ease of accessibility of the same by the public; and
+To require the trustees or trustee to submit a copy of the register of the beneficial owners to the minister for ease of accessibility of the same by the public; and
 
-    ii) To reduce the prescribed daily default fine from Shs 500,000, which is 25 currency points, to Shs 100,000, which is five currency points, to make it reasonable. Thank you.
+To reduce the prescribed daily default fine from Shs 500,000, which is 25 currency points, to Shs 100,000, which is five currency points, to make it reasonable. Thank you.
 
 THE CHAIRPERSON: Minister?
 
@@ -1444,9 +1444,9 @@ DR KEEFA KIWANUKA: Clause 21. The Bill is amended in clause 21 by inserting imme
 
 “119(b) centralised register of beneficial owners:
 
-    i) Notwithstanding section 119(a), there shall be kept by the registrar a record called the centralised register of beneficial owners.
+Notwithstanding section 119(a), there shall be kept by the registrar a record called the centralised register of beneficial owners.
 
-    ii) The minister shall, by regulation, prescribe the procedure for accessing the centralised register of beneficial owners. 
+The minister shall, by regulation, prescribe the procedure for accessing the centralised register of beneficial owners. 
 
 Justification
 
@@ -1559,13 +1559,13 @@ The principal Act is amended by inserting, immediately after section 265, the fo
 
 Section 265(A) - Power of the registrar to strike defunct companies off the register – 
 
-    1. The registrar may, at the request of the company, or on his or her own accord, cancel registration of a company under this Act;
+The registrar may, at the request of the company, or on his or her own accord, cancel registration of a company under this Act;
 
-    2. A company that is struck off the register, under subsection (1), shall no longer carry on business; 
+A company that is struck off the register, under subsection (1), shall no longer carry on business; 
 
-    3. The registrar shall, before cancelling the registration of a company, give a 30-day notice to the company of the intention to cancel the registration of the company from the register, in accordance with section 274 of the Act, and shall publish a notice in the Gazette or any other media of wide circulation, as the registrar may determine, by a notice published in the Gazette; and 
+The registrar shall, before cancelling the registration of a company, give a 30-day notice to the company of the intention to cancel the registration of the company from the register, in accordance with section 274 of the Act, and shall publish a notice in the Gazette or any other media of wide circulation, as the registrar may determine, by a notice published in the Gazette; and 
 
-    4. Where there is no objection and upon the expiry of the 30 days’ notice under subsection one, the registrar shall strike the company off the register. 
+Where there is no objection and upon the expiry of the 30 days’ notice under subsection one, the registrar shall strike the company off the register. 
 
 The justification for this is the need to provide for the procedure to be followed by the registrar before a company is struck off the register, and to require the registrar to give a 30 days’ notice to a company that is to be struck off the register. This will provide a company an opportunity to respond to the notice should the company deem it fit prior to the registrar striking it off the register. I beg to move.
 
@@ -1637,11 +1637,11 @@ DR KEEFA KIWANUKA: Insertion of a new clause in the Bill. The Bill is amended by
 
 This principal Act is amended: 
 
-    (a) By inserting the words, “if any” immediately after the word “memorandum” wherever it appears.
+By inserting the words, “if any” immediately after the word “memorandum” wherever it appears.
 
-    (b) By substituting for the words, “Gazette and newspapers of a wide circulation” wherever it appears the words, “Gazette or any other media of a wide circulation as the registrar may determine by notice published in the Gazette.” 
+By substituting for the words, “Gazette and newspapers of a wide circulation” wherever it appears the words, “Gazette or any other media of a wide circulation as the registrar may determine by notice published in the Gazette.” 
 
-    (c) By The justification for this is to ensure consistency; that the requirement to file a memorandum is optional. Secondly, that there is no need to recognise other forms of media other than the newspapers of wide circulation as a means of publication of the notice.
+By The justification for this is to ensure consistency; that the requirement to file a memorandum is optional. Secondly, that there is no need to recognise other forms of media other than the newspapers of wide circulation as a means of publication of the notice.
 
 MR KIRYOWA KIWANUKA: We have no objection to those grandfather clauses.
 
@@ -1884,17 +1884,17 @@ Clause 2: Insertion of new section 52A in the principal Act.
 
 Clause 2 is amended in the proposed section 52A as follows:
 
-    a) By inserting immediately after the proposed subsection (3), the following new subsection – 
+By inserting immediately after the proposed subsection (3), the following new subsection – 
 
 “Notwithstanding subsection (2), a limited liability partnership shall, within 14 days after creating the register of beneficial owners, transmit a copy of the register to the registrar.” 
 
-    b) In subsection (5) by substituting for the words “twenty five” the word “five.” 
+In subsection (5) by substituting for the words “twenty five” the word “five.” 
 
 The justification is 
 
-    i) To require the limited liability partnerships with beneficial owners to submit a copy of the register of beneficial owners to the registrar of companies for ease of accessibility of the same by the public.
+To require the limited liability partnerships with beneficial owners to submit a copy of the register of beneficial owners to the registrar of companies for ease of accessibility of the same by the public.
 
-    ii) To reduce the prescribed daily default fine from Shs 500,000 to Shs 100,000 to make it reasonable.
+To reduce the prescribed daily default fine from Shs 500,000 to Shs 100,000 to make it reasonable.
 
 THE CHAIRPERSON: Attorney-General?
 
@@ -2036,11 +2036,11 @@ The overall objective of this report is to document critical information on the 
 
 The specific objectives of the committee were: 
 
-    i) To examine the country’s state of indebtedness, as at December 2021 and preliminary statistics, as at June 2022; 
+To examine the country’s state of indebtedness, as at December 2021 and preliminary statistics, as at June 2022; 
 
-    ii) To assess the overall performance of loans and grants; and 
+To assess the overall performance of loans and grants; and 
 
-    iii) To assess the sustainability of the same. 
+To assess the sustainability of the same. 
 
 Methodology
 

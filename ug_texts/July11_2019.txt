@@ -1,4 +1,4 @@
-﻿
+
 Disclaimer: The electronic version of the Official Report of the proceedings of Parliament (Hansard) is for information purposes only. A certified version of this Report can be obtained from the Office of the Clerk to Parliament.
 
 
@@ -83,20 +83,20 @@ We want our children to go and find work. We appreciate that our people need to 
 
 Mr Speaker, the stranded girls include:
 
-    1. Saluwa Namugga, 28 years, from Makindye
-    2. Aisha Kayaga, 23 years old, from Makindye
-    3. Faith Nalubega, 25 years old, from Luweero
-    4. Rose Kyomugasho, 27 years old, from Entebbe
-    5. Madinah Luwedde, 23 years old, from Jinja
-    6. Salim Alewuye, 22 years, from Jinja
-    7. Hajarah Isiro, 22 years old, from Jinja
-    8. Hanifah Nalunkuma, 40 years old, from Entebbe
-    9. Mariam Nabakooza, 22 years old, from Busega
-    10. Evelyn Namutebi, 29 years old, from Bukeeka
-    11. H. Nakatudde, 28 years old, from Kawuku
-    12. Veronica Nabirye, 21 years old, from Entebbe
-    13. Zurah Nabatta, 35 years old, from Bombo
-    14. Winnie Kabiira, 29 years old, from Kayenge.
+Saluwa Namugga, 28 years, from Makindye
+Aisha Kayaga, 23 years old, from Makindye
+Faith Nalubega, 25 years old, from Luweero
+Rose Kyomugasho, 27 years old, from Entebbe
+Madinah Luwedde, 23 years old, from Jinja
+Salim Alewuye, 22 years, from Jinja
+Hajarah Isiro, 22 years old, from Jinja
+Hanifah Nalunkuma, 40 years old, from Entebbe
+Mariam Nabakooza, 22 years old, from Busega
+Evelyn Namutebi, 29 years old, from Bukeeka
+H. Nakatudde, 28 years old, from Kawuku
+Veronica Nabirye, 21 years old, from Entebbe
+Zurah Nabatta, 35 years old, from Bombo
+Winnie Kabiira, 29 years old, from Kayenge.
 
 Grace Alobo has been returned, with the effort of the Leader of the Opposition but she is seriously sick.
 
@@ -239,7 +239,7 @@ A) TREASURY MEMORANDUM ON THE PARLIAMENTARY RESOLUTIONS ON THE REPORT OF THE PUB
 2.43
 THE MINISTER OF FINANCE, PLANNING AND ECONOMIC DEVELOPMENT (PLANNING) (Mr David Bahati): Mr Speaker, I beg to lay the Treasury Memorandum on the Parliamentary Resolution on the report of the Public Accounts Committee on the Auditor-General’s report on entities with unqualified opinion for Financial Year 2014/2015.
 
-    B) DEBT SUSTAINABILITY ANALYSIS REPORT 2017/2018
+DEBT SUSTAINABILITY ANALYSIS REPORT 2017/2018
 
 2.44
 THE MINISTER OF FINANCE, PLANNING AND ECONOMIC DEVELOPMENT (PLANNING) (Mr David Bahati): I also beg to lay the debt sustainability analysis report for the Financial Year 2017/2018.
@@ -382,10 +382,10 @@ Mr Speaker, the second question was on the food and nutrition security status in
 
 In the current financial year, these are some of the interventions: 
 
-    1. The provision of fast maturing disease and drought resistant seeds;
-    2. Provide critical information to farmers on what to grow depending on the patterns of the rainfall in the various areas of the country;
-    3. Continuous monitoring and awareness creation on food security across the country; and
-    4. Provision of water for agriculture and agricultural production through the construction of valley dams.
+The provision of fast maturing disease and drought resistant seeds;
+Provide critical information to farmers on what to grow depending on the patterns of the rainfall in the various areas of the country;
+Continuous monitoring and awareness creation on food security across the country; and
+Provision of water for agriculture and agricultural production through the construction of valley dams.
 
 Government is also coming up with a new programme of supporting solar irrigation for agricultural support.
 
@@ -405,11 +405,11 @@ The Ministry of Water and Environment carried out nationwide visits of the fores
 
 Mr Speaker, hon. Margaret Baba Diri, the District Woman representative of Koboko, wanted to know the status of business in hides and skins. The response is that the Government of Uganda passed the Uganda Leather Value Chain Strategy, 2015-2025 to promote the leather industry. The strategy outlines the following targets to be achieved by the year 2020:
 
-    1. Zero export of raw hides and skins except rejects for gelatin;
-    2. 100 per cent raw hides and skins converted to wet blue;
-    3. 25 per cent of total wet blue converted into finished leather for domestic production; 
-    4. Increase footwear output to half a million pairs per annum; and 
-    5. 90 per cent compliance to environmental management standards. 
+Zero export of raw hides and skins except rejects for gelatin;
+100 per cent raw hides and skins converted to wet blue;
+25 per cent of total wet blue converted into finished leather for domestic production; 
+Increase footwear output to half a million pairs per annum; and 
+90 per cent compliance to environmental management standards. 
 
 This is about development of local capacity to use our leather and skins.
 
@@ -855,4 +855,3 @@ We all know where the urgent questions come from. They are mainly on health, sec
 So, thank you, Mr Prime Minister, for this engagement. Honourable members, there being no further business for this afternoon, this House stands adjourned to Tuesday at 2 o’clock.
 
 (The House rose at 4.53 p.m. and was adjourned until Tuesday, 16 July 2019 at 2.00 p.m.) 
-

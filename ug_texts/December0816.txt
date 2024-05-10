@@ -1,4 +1,4 @@
-﻿Tuesday, 8 December 2016
+Tuesday, 8 December 2016
 
 Parliament met at 2.15 p.m. in Parliament House, Kampala.
 
@@ -279,20 +279,20 @@ MR WILFRED NIWAGABA (Independent, Ndorwa County East, Kabale):  Madam Speaker, i
 
 This is a report of the Committee on Legal and Parliamentary Affairs in respect of the Leadership Code (Amendment) Bill, 2016. I am aware of course that we have a problem with the network but soon or later, it will be uploaded on your iPads. 
 The report is rather lengthy and so I will not read the whole of it. However, briefly, we have the introductory part, which details the methodology the committee used in looking at this Bill. We received memoranda from the following:
-    i) The Minister of State for Ethics and Integrity; 
-    ii) The Inspector General of Government; 
-    iii) The Director of Public Prosecutions;
-    iv) Uganda Law Reform Commission;
-    v) The Office of the Leader of the Opposition in Parliament;
-    vi) Law Development Centre;
-    vii) Uganda Christian University;
-    viii) The Anti-Corruption Coalition Uganda;
-    ix) Transparency International Uganda;
-    x) Uganda Debt Network;
-    xi) Uganda Women’s Network;
-    xii) Mr Okumu Jaffer from Wakiso District;
-    xiii) Mr Semugabi Jimmy, Gabi Consulting Agency; and
-    xiv) Jerry K. Othieno.
+The Minister of State for Ethics and Integrity; 
+The Inspector General of Government; 
+The Director of Public Prosecutions;
+Uganda Law Reform Commission;
+The Office of the Leader of the Opposition in Parliament;
+Law Development Centre;
+Uganda Christian University;
+The Anti-Corruption Coalition Uganda;
+Transparency International Uganda;
+Uganda Debt Network;
+Uganda Women’s Network;
+Mr Okumu Jaffer from Wakiso District;
+Mr Semugabi Jimmy, Gabi Consulting Agency; and
+Jerry K. Othieno.
 
 The committee also made benchmarking visits to Tanzania and Nigeria. The findings from those benchmarking visits played a role in the recommendations and findings of this committee – (Interruption)  
 
@@ -372,23 +372,23 @@ The speaker of Kayunga District Local Government was directed to table the IGG�
 
 The applicant applied to the High Court for judicial review of the decision of the IGG to remove him from office since he was never invited to defend himself against the allegations, and the evidence on which the IGG relied was never availed to him. He sought orders of certiorari to quash the report of the IGG in which the decision to remove him from office was made. The issues for court’s determination – a court presided over by the current IGG - were: 
 
-    1. Whether the IGG availed the applicant an opportunity to be heard in the inquiry into his alleged breach of the Leadership Code Act;
-    2. Whether the applicant was denied his right to appeal against the IGG’s decision;
-    3. Whether the applicant was entitled to a hearing before Kayunga District Council implemented the IGG’s decision to remove him from office; and
-    4. Whether the applicant was entitled to the remedies sought.
+Whether the IGG availed the applicant an opportunity to be heard in the inquiry into his alleged breach of the Leadership Code Act;
+Whether the applicant was denied his right to appeal against the IGG’s decision;
+Whether the applicant was entitled to a hearing before Kayunga District Council implemented the IGG’s decision to remove him from office; and
+Whether the applicant was entitled to the remedies sought.
 
 The High Court held thus:
-    1. The IGG acted in a manner similar to that in the case of John Ken-Lukyamuzi by constituting itself into an investigator, accuser and finally a judge. So the court held that the IGG failed to observe the principles of natural justice when it failed to afford the applicant an oral public hearing before directing his removal from office;
+The IGG acted in a manner similar to that in the case of John Ken-Lukyamuzi by constituting itself into an investigator, accuser and finally a judge. So the court held that the IGG failed to observe the principles of natural justice when it failed to afford the applicant an oral public hearing before directing his removal from office;
 
-    2. The IGG failed to fully comply with the provisions of section 19(1) of the Leadership Code Act by not availing the applicant with a copy of its decision. He was therefore never afforded the right to appeal to the High Court as provided by section 33 of the Leadership Code Act;
+The IGG failed to fully comply with the provisions of section 19(1) of the Leadership Code Act by not availing the applicant with a copy of its decision. He was therefore never afforded the right to appeal to the High Court as provided by section 33 of the Leadership Code Act;
 
-    3. The only procedure provided for by law for the removal of a district chairperson - and this is important - is that which is laid out in Article 185(1) of the Constitution and section 14 of the Local Governments Act. It provides that the chairperson may be removed from office by a council by resolution supported by two-thirds of all members of the council on any of the stipulated grounds including abuse of office, corruption, incompetence etcetera.
+The only procedure provided for by law for the removal of a district chairperson - and this is important - is that which is laid out in Article 185(1) of the Constitution and section 14 of the Local Governments Act. It provides that the chairperson may be removed from office by a council by resolution supported by two-thirds of all members of the council on any of the stipulated grounds including abuse of office, corruption, incompetence etcetera.
 
 Section 31(2) of the Leadership Code Act, which makes it imperative for district local governments to enforce the decision of the IGG, cannot put the provisions of Article 185(1) of the Constitution out of operation. The council was, therefore, entitled to debate the findings of the IGG and then pass a resolution if supported by two-thirds majority to remove him from office. The local government council was meant to be - and these are the words of the judge - a rubber stamp to simply implement the findings of the IGG without any debate. 
 
-    4. The fourth finding by the learned judge was that the IGG did not have the power to act as a tribunal because of the provisions of Article 235A of the Constitution. So, the IGG’s decision to remove the applicant from office was therefore both ultra vires and an error of law. Mr Thomas Mulondo was, therefore, entitled to the prerogative order of certiorari to quash the report of the IGG.
+The fourth finding by the learned judge was that the IGG did not have the power to act as a tribunal because of the provisions of Article 235A of the Constitution. So, the IGG’s decision to remove the applicant from office was therefore both ultra vires and an error of law. Mr Thomas Mulondo was, therefore, entitled to the prerogative order of certiorari to quash the report of the IGG.
  
-    5. Finally, court held that the decision by the Kayunga District Local Government Council to remove the applicant from the office of the district chairperson was illegal, null and void. 
+Finally, court held that the decision by the Kayunga District Local Government Council to remove the applicant from the office of the district chairperson was illegal, null and void. 
 
 In light of the above decisions, it meant that the provisions of the Leadership Code Act, as it stands now, if applied in their entirety, would only be applicable to a few categories of leaders in Uganda. Even the amendment to introduce Article 235A of the Constitution that established the Leadership Code Tribunal under Chapter Fourteen of the Constitution did not remedy or avert the damage caused to the Leadership Code Act. The provisions of the Act would require significant amendments before the Act could fully meet its objectives. 
 
@@ -405,11 +405,11 @@ The IGG explained that while the IGG’s Leadership Code database had 25,000 lea
 On the revenue side, the Bill, once passed into law, is expected to generate revenue for Government in form of fees and penalties that will arise from breach of the code, including gifts and donations given to leaders on public occasions. The Parliamentary Budget Office informed the committee that it estimated revenue to Government to rise over the medium term based on the outcomes of the verification exercise conducted during the Financial Year 2014/15. The medium term revenues would average around Shs 80 million, excluding tribunal fees and charges.
 
 The economic implications of the Bill indicate, according to the Parliamentary Budget Office, as follows:
-    1. The estimated relationship between economic growth rates and the corruption perception index indicates that a one per cent increase in the corruption perception index is associated with a reduction in the Gross Domestic Product (GDP) growth rates of 0.76 per cent. This implies that assuming this Bill is passed into law and reduces the country’s corruption perception index by one percentage point, economic growth will increase by 0.76 per cent relative to the current growth rate of 4.6 per cent.
+The estimated relationship between economic growth rates and the corruption perception index indicates that a one per cent increase in the corruption perception index is associated with a reduction in the Gross Domestic Product (GDP) growth rates of 0.76 per cent. This implies that assuming this Bill is passed into law and reduces the country’s corruption perception index by one percentage point, economic growth will increase by 0.76 per cent relative to the current growth rate of 4.6 per cent.
 
-    2. A one unit rise in Uganda’s corruption perception index score reduces Government tax revenues by 0.12 per cent. Again, assuming the Bill reduces the country’s corruption perception index score by one unit over the medium term, Government tax revenues are likely to increase by 0.12 per cent relative to current levels.
+A one unit rise in Uganda’s corruption perception index score reduces Government tax revenues by 0.12 per cent. Again, assuming the Bill reduces the country’s corruption perception index score by one unit over the medium term, Government tax revenues are likely to increase by 0.12 per cent relative to current levels.
 
-    3. The estimated relationship between total investments and the corruption index score indicates that a one per cent increase on the corruption perception index increases, incidentally, investments by an average of 0.31 percentage points. It is argued that corruption in certain ways – and those are not my words - facilitates trade and investments. This could be caused by a weak public sector governance system that warrants bribery to be able to invest. 
+The estimated relationship between total investments and the corruption index score indicates that a one per cent increase on the corruption perception index increases, incidentally, investments by an average of 0.31 percentage points. It is argued that corruption in certain ways – and those are not my words - facilitates trade and investments. This could be caused by a weak public sector governance system that warrants bribery to be able to invest. 
 
 In conclusion, with respect to the actualisation of the tribunal, the committee received further information from the line ministry and the Ministry of Finance, Planning and Economic Development to the effect that the revised grant total for the estimated annual budget for the tribunal is Shs 3,306,722,642 only. 
 
@@ -428,11 +428,11 @@ THE VICE-CHAIRPERSON, COMMITTEE ON LEGAL AND PARLIAMENTARY AFFAIRS (Ms Robina Rw
 
 Observations, Recommendations and Conclusion
 This section of the report provides a critical analysis of the proposed amendments to the Leadership Code Act, 2002 as contained in the Bill. It, among others:
-    (i) states the proposed amendment and in some cases the provision being amended;
-    (ii) explains the effect of the proposed amendment, including on other laws or provisions in this Bill;
-    (iii) highlights stakeholders’ views and draws comparisons with provisions in other jurisdictions;
-    (iv) makes a legal analysis; and finally,
-    (v) provides the committee’s recommendations on the clause.
+states the proposed amendment and in some cases the provision being amended;
+explains the effect of the proposed amendment, including on other laws or provisions in this Bill;
+highlights stakeholders’ views and draws comparisons with provisions in other jurisdictions;
+makes a legal analysis; and finally,
+provides the committee’s recommendations on the clause.
 
 THE SPEAKER: Thank you. Let us use three minutes.
 
@@ -642,8 +642,8 @@ MS ATIM JOY: Thank you, Madam Chairperson. She has proposed that amendment but I
 THE CHAIRPERSON: I notice there is no difference between what is in the Bill and what is here. What is the difference? You have re-produced exactly what is in the Bill.
 
 MS RWAKOOJO: We did substitute clause 3 of the Bill; we have a substitution there and it is a long one. If you look at your page 71, it refers to declaration of property and liability and the new clause says, “(1) A leader shall- 
-    (a) within three months after this code; and 
-    (b) thereafter every two years, during the month of March, - submit to the inspectorate a written declaration of the leader’s property and liability in the prescribed form. 
+within three months after this code; and 
+thereafter every two years, during the month of March, - submit to the inspectorate a written declaration of the leader’s property and liability in the prescribed form. 
 
 (2) 	A person shall- 
 (a) 	within three months after becoming a leader; and 
@@ -1011,10 +1011,10 @@ Madam Speaker, the policy and regulatory framework which has been put in place t
 
 Regulations regarding the above laws are present. Furthermore, the following institutions have been established to manage the sector. These are:
 
-    1. The Director of Petroleum to advise the minister of policy matters. 
-    2. The Petroleum Authority of Uganda to carryout regulatory functions. 
-    3. The Uganda National Oil Company to carry out our business as Government. 
-    4. Boards of directors and chief executive officers for the Oil Company and the authority are in place and recruitment of the other line managers is underway. 
+The Director of Petroleum to advise the minister of policy matters. 
+The Petroleum Authority of Uganda to carryout regulatory functions. 
+The Uganda National Oil Company to carry out our business as Government. 
+Boards of directors and chief executive officers for the Oil Company and the authority are in place and recruitment of the other line managers is underway. 
 
 Madam Speaker, the performance of the above mentioned institutions is going to be impeded by lack of adequate and timely funding unless the Public Finance Management Act is amended to reflect direct funding of these institutions. 
 
@@ -1029,10 +1029,10 @@ The Cost Recovery Matter
 Madam Speaker, the Petroleum Development and Production Agreement, 2013 sets the mandate of monitoring the cost of petroleum activities in the Petroleum Authority of Uganda (PAU). Before the formation of PAU, which was operationalised in 2016, this role was being carried out by the Petroleum Exploration Development and Production Department (PEDPD) which was housed in the ministry. 
 
 A Cost Monitoring Framework (CMF) has been under implementation with the petroleum exploration and production departments, which includes four stages of monitoring. When you are doing it:
-    i) You approve first of all the programme of the work to be done and the budgets before the activities are carried out. 
-    ii) You approval of procurement guidelines and regulations for goods and services to be used in the petroleum activities. 
-    iii) You do a 24 hour monitoring of field activities
-    iv) Do a detailed cost recovery audit by the Office of the Auditor-General working in close collaboration with the ministry of finance. 
+You approve first of all the programme of the work to be done and the budgets before the activities are carried out. 
+You approval of procurement guidelines and regulations for goods and services to be used in the petroleum activities. 
+You do a 24 hour monitoring of field activities
+Do a detailed cost recovery audit by the Office of the Auditor-General working in close collaboration with the ministry of finance. 
 
 The cross monitoring framework will not be taken forward by the regulatory entity – that is the one which is now in place; the Petroleum Authority of Uganda. 
 
@@ -1053,18 +1053,18 @@ Government and the oil companies are taking the necessary steps in accordance wi
 Exploration licences:
 
 Government is nearing conclusion of undertaking the first competitive licencing round for oil and gas exploration, development and production in the country. This licencing round was announced on 24th February 2015, where six high potential blocks were offered. The offered blocks included the following – they are in figure No.1:
-    1. The Karuka-Taitai Block, located at the northern edge of the Lake Albert in Buliisa District. 
-    2. Kanywatab Block located at the southern edge of Lake Albert in Ntoroko District. 
-    3. Ngassa Block which is located in the central part of Lake Albert shores in Hoima District. This block largely lays offshore on the Lake Albert; it is in the water. 
-    4. Turaco Block, located south of Lake Albert in Ntoroko District
-    5. Ngaji Block, located in the Easter part of Lake Edward in Rukungiri and Kanungu districts.
+The Karuka-Taitai Block, located at the northern edge of the Lake Albert in Buliisa District. 
+Kanywatab Block located at the southern edge of Lake Albert in Ntoroko District. 
+Ngassa Block which is located in the central part of Lake Albert shores in Hoima District. This block largely lays offshore on the Lake Albert; it is in the water. 
+Turaco Block, located south of Lake Albert in Ntoroko District
+Ngaji Block, located in the Easter part of Lake Edward in Rukungiri and Kanungu districts.
 
 Karuka-Taitai and Ngaji blocks did not attract successful bidders, while the Kanywataba, Ngassa, Turaco and Ngaji blocks attracted a total of four successful bidders.
 
 The licensing round has progressed to the stage of negotiation of Production Sharing Agreements. Negotiations, which commenced during early August 2016, are currently on-going with the following companies for the respective blocks:
-    (i) Armour Energy Limited for Kanywataba Block.
-    (ii) Waltersmith Petroman Oil Limited for Turaco Shallow and Deep Plays.
-    (iii) Oranto Petroleum International Limited for Ngassa Shallow and Deep Plays.
+Armour Energy Limited for Kanywataba Block.
+Waltersmith Petroman Oil Limited for Turaco Shallow and Deep Plays.
+Oranto Petroleum International Limited for Ngassa Shallow and Deep Plays.
 
 And upon conclusion of successful negotiations, it is expected that a total of five new exploration licences will be issued after cabinet approval.
 
@@ -1077,18 +1077,18 @@ The Lake Albert Basin Development Committee
 Madam Speaker, the Lake Albert Basin Development Committee was set up in the year 2012 to coordinate the legal, fiscal, financial, commercial and technical requirements for oil and gas developments in the Albertine Basin. The committee has representation from the oil companies and government institutions including: State House; Ministries of: Energy and Mineral Development; Justice and Constitutional Affairs; Finance, Planning and Economic Development; Lands, Housing and Urban Development; Trade, Industry and Cooperatives; Tourism, Wildlife and Antiquities; Works and Transport; Local Government; Uganda Revenue Authority; and National Planning Authority.
 
 The committee’s main deliverables include: 
-    a)  A harmonised oil and gas sector development plan. 
-    b) A roadmap with key milestones for the agreed development plan and implementation of upstream, midstream and downstream projects and 
-    c) A coordinated implementation of the development plan.
+ A harmonised oil and gas sector development plan. 
+A roadmap with key milestones for the agreed development plan and implementation of upstream, midstream and downstream projects and 
+A coordinated implementation of the development plan.
 
 The achievements of the committee are summarised below:
-    (1) A revised high level commercialisation plan as contained in the memorandum of understanding signed between government and the oil companies on 5 February 2014. The commercialisation plan provides for three main projects, that is:
-    a) A 60,000 barrels per day refinery developed in two phases of 30,000 barrels per day each, with the refinery having rights of first call on supply of crude oil. Whoever is producing oil is required to first bring it to the refinery.
-    b) Export of crude oil through an export pipeline or any other viable option.
-    c) Use of petroleum for power generation – where necessary.
+A revised high level commercialisation plan as contained in the memorandum of understanding signed between government and the oil companies on 5 February 2014. The commercialisation plan provides for three main projects, that is:
+A 60,000 barrels per day refinery developed in two phases of 30,000 barrels per day each, with the refinery having rights of first call on supply of crude oil. Whoever is producing oil is required to first bring it to the refinery.
+Export of crude oil through an export pipeline or any other viable option.
+Use of petroleum for power generation – where necessary.
 
-    (2) A harmonised understanding of the oil and gas resources available and the commercialisation process.
-    (3) An implementation plan for the development of the oil and gas resources in the country aligned with the proposed midstream and downstream projects – contained in the memorandum of understanding implementation plan.
+A harmonised understanding of the oil and gas resources available and the commercialisation process.
+An implementation plan for the development of the oil and gas resources in the country aligned with the proposed midstream and downstream projects – contained in the memorandum of understanding implementation plan.
 
 A coordinated execution of the implementation plan, including completion of the legal and regulatory framework; improvements in infrastructure; establishment of the Petroleum Authority of Uganda and Uganda National Oil Company; acquisition of land for the refinery; selection of the most optimal route for the crude oil export pipeline; and issuance of eight production licences have been concluded. 
 
@@ -1111,8 +1111,8 @@ Negotiations were conducted with RT-GR Consortium and concluded in May 2016 with
 
 Following the collapse of negotiations with the preferred bidder, government invited the alternate preferred bidder (SK Engineering and Construction from the Republic of Korea) to commence negotiations on the refinery project. The consortium, however, was not able to proceed with the negotiations with the projects citing the following:
 
-    (i) The inability to raise its equity of 60 percent and consequently asked that government raises its equity contribution from 40 percent to 70 percent – meaning that government should contribute more.
-    (ii) Crude supply guarantees and requiring government to guarantee its profits through the lifetime of the project – that they must be making profits until the end. So it was not palatable to us.
+The inability to raise its equity of 60 percent and consequently asked that government raises its equity contribution from 40 percent to 70 percent – meaning that government should contribute more.
+Crude supply guarantees and requiring government to guarantee its profits through the lifetime of the project – that they must be making profits until the end. So it was not palatable to us.
 
 However, a number of companies/firms (over 25 firms) have since expressed interest in the project. The selection process is to progress with a view of selecting the most suitable partner for the project by mid-2017. 
 
@@ -1193,14 +1193,14 @@ Crude Export Pipeline
 The process of procuring a consultant to undertake a Resettlement Action Plan study for the acquisition of land for the crude export pipeline from Hoima to Tanga is ongoing. 
 
 We are facing challenges of land acquisition in the petroleum sector. There are various challenges being encountered in the process of acquiring land required to develop the petroleum sector. These include the following:
-    1. Land disputes pitting individuals who sometimes have land titles against communities. 
-    2. Speculation targeting compensation hence resulting in distortion of land markets and is also a threat to the land rights of customary owners and communities. 
-    3. Absence of some relevant technical officers in the land offices of the districts of Buliisa, Nwoya and Hoima to assit us. 
+Land disputes pitting individuals who sometimes have land titles against communities. 
+Speculation targeting compensation hence resulting in distortion of land markets and is also a threat to the land rights of customary owners and communities. 
+Absence of some relevant technical officers in the land offices of the districts of Buliisa, Nwoya and Hoima to assit us. 
 
 The actions being taken to address the challenges including the following
-    1. Ministry of Lands, Housing and Urban Development has cancelled land titles in the Kingfisher Development Area. There were disputes in which the communities were saying that their land has been taken over by “these people.”
-    2. The Ministry of Lands, Housing and Urban Development facilitated the community of Buhuka Parish in the Kingfisher Development Area to register a communal land association to protect their communal land rights. 
-    3. The Ministry of Lands, Housing and Urban Development is undertaking physical planning for some petroleum areas to develop plans for land use in those areas. 
+Ministry of Lands, Housing and Urban Development has cancelled land titles in the Kingfisher Development Area. There were disputes in which the communities were saying that their land has been taken over by “these people.”
+The Ministry of Lands, Housing and Urban Development facilitated the community of Buhuka Parish in the Kingfisher Development Area to register a communal land association to protect their communal land rights. 
+The Ministry of Lands, Housing and Urban Development is undertaking physical planning for some petroleum areas to develop plans for land use in those areas. 
 
 Promotion of national content in the oil and gas sector: 
 
@@ -1249,12 +1249,12 @@ iii) 	Supported the establishment of the Association of Oil and Gas Service Prov
 iv)	Developed standards to enable Ugandans participate in the sector. 
 
 Ongoing initiatives to further promote enterprise development include the following: 
-    i) Establishment of the Industry Enhancement Centre (IEC) - Design completed. The IEC will provide training, matching and financial advisory services to enterprises. 
-    ii)  Establishment of a supplier data base design completed. 
-    iii)  Development of standards for all the goods and services reserved for Ugandans. 
-    iv) Implementation of the Agriculture Development Programme design completed. 
-    v) Establishment of industrial park for oil and gas related industries. 
-    vi) Drivers Training (Trans-aid and Safe Way Right Way). 
+Establishment of the Industry Enhancement Centre (IEC) - Design completed. The IEC will provide training, matching and financial advisory services to enterprises. 
+ Establishment of a supplier data base design completed. 
+ Development of standards for all the goods and services reserved for Ugandans. 
+Implementation of the Agriculture Development Programme design completed. 
+Establishment of industrial park for oil and gas related industries. 
+Drivers Training (Trans-aid and Safe Way Right Way). 
 
 d) Employment by the licensed oil companies 
 

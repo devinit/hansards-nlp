@@ -1,4 +1,4 @@
-﻿
+
 
 
 
@@ -315,9 +315,9 @@ The committee also observes that Withholding Tax on payments made by designated 
 Additionally, the Bill seeks to empower the minister to issue regulations for tax accounting for Islamic financial transactions. However, Madam Speaker, we would like to observe that no information was provided to the committee to support this proposal. We, therefore, recommend that this proposal be stayed.  
 
 Madam Speaker, we present other recommendations as follows:
-    (i) Tax should not be charged on gross turnover for companies declaring losses for seven consecutive years. URA should conduct an audit and establish the status of such a company. 
-    (ii) Government should conduct a study on the effect of the exemption of taxes on SACCOs before reintroducing the tax. 
-    (iii) The Income Tax (Amendment) Bill, 2018 be passed into law subject to the proposed amendments. (Applause)
+Tax should not be charged on gross turnover for companies declaring losses for seven consecutive years. URA should conduct an audit and establish the status of such a company. 
+Government should conduct a study on the effect of the exemption of taxes on SACCOs before reintroducing the tax. 
+The Income Tax (Amendment) Bill, 2018 be passed into law subject to the proposed amendments. (Applause)
 
 I beg to move, Madam Speaker.
 
@@ -471,9 +471,9 @@ Clause 2
 
 MR MUSASIZI: Clause 2 is amended-
 i) By deleting paragraph (a)
-    (i) In paragraph (b)-
-    (a) In the proposed (ae) by substituting for the words “two hundred” with the words “one hundred” and the word “ten” the word “five”.
-    (b) In the proposed (af) by substituting for the words “thirty” the words “fifteen” and the word “ten” the word “five”.
+In paragraph (b)-
+In the proposed (ae) by substituting for the words “two hundred” with the words “one hundred” and the word “ten” the word “five”.
+In the proposed (af) by substituting for the words “thirty” the words “fifteen” and the word “ten” the word “five”.
 
 Justification
 1. 	There is need to have consistency in taxation; and
@@ -555,13 +555,13 @@ Clause 4
 
 MR MUSASIZI: Madam Chairperson, we propose to amend Clause 4 as follows. 
 
-    i) In sub-clause (3) by deleting the words “who is a member of a group” and substituting the words “to other members of the same group or an associate”.
+In sub-clause (3) by deleting the words “who is a member of a group” and substituting the words “to other members of the same group or an associate”.
 
-    ii) In sub-clause (5) (b) by substituting for the definition of the word “group” the following: “’group’ means associates or companies with a common underlying ownership of 50 per cent or more”. 
+In sub-clause (5) (b) by substituting for the definition of the word “group” the following: “’group’ means associates or companies with a common underlying ownership of 50 per cent or more”. 
 
 The justification, Madam Chairperson, is to:
-    1. Open up the restriction to debts owed to group members of the same group or associates; and 
-    2. To specify a minimum percentage of the common underlying ownership.
+Open up the restriction to debts owed to group members of the same group or associates; and 
+To specify a minimum percentage of the common underlying ownership.
 
 MR MWIRU: Madam Chairperson, I rise to oppose that proposal by the chairperson. I propose that the Bill remains in the form it is proposed for one reason; when you read the object of the Bill, particularly in respect to this, it is to provide for restriction on deductible interests. What is taking place is that group of companies keep on lending amongst them. So, the interest that would accrue and come to the country, they tend to treat it as part of allowable deductions, hence reducing the chargeable income.
 
@@ -827,16 +827,16 @@ THE SPEAKER: Honourable members, as I invite the minister, join me in welcoming 
 
 5.39
 THE CHAIRPERSON, COMMITTEE ON NATIONAL ECONOMY (Ms Syda Bbumba): Thank you, Madam Speaker. In response to the issues raised by my good sister, hon. Cecelia Ogwal, I wish to repeat the papers, which were laid on Table yesterday:
-    (i) The signed report
-    (ii) Minutes 
-    (iii) Brief on the proposal
-    (iv) Loan request
-    (v) Contract management plan
-    (vi) Government concession loan agreement
-    (vii) Contract agreement 
-    (viii) Feasibility study report
-    (ix) Project brief on environmental and social impact assessment
-    (x) Date of confirmation and availability of counterpart funding from the finance ministry.
+The signed report
+Minutes 
+Brief on the proposal
+Loan request
+Contract management plan
+Government concession loan agreement
+Contract agreement 
+Feasibility study report
+Project brief on environmental and social impact assessment
+Date of confirmation and availability of counterpart funding from the finance ministry.
 
 Madam Speaker, the cost of the loan from the information we have is as follows:
 The loan amount is $ 212,669,840.08 with a maturity period of 20 years, including a grace period of five years. The interest is two per cent per year with a management fee of 0.25 per cent and a commitment fee of 0.5 per cent.
@@ -979,4 +979,3 @@ MR BYARUHANGA: Member for Yumbe, please! (Laughter)
 THE SPEAKER: Honourable members, we cannot proceed further because we have got guests in the parking. The House is adjourned until Tuesday next week. Thank you very much for the work done.
 
 (The House rose at 6.07 p.m. and adjourned until Tuesday, 29 May 2018 at 2.00 p.m.) 
-

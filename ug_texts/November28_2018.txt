@@ -1,4 +1,4 @@
-﻿
+
 
 Wednesday, 28 November 2018
 
@@ -51,9 +51,9 @@ On page 4, we point out the methodology we used to arrive at the recommendations
 
 The Committee held meetings with the following entities:
 
-    1. Ministry of Gender, Labour and Social Development. 
-    2. Ministry of Finance, Planning and Economic Development 
-    3. Uganda Parliamentary Forum on Social Protection, among others.
+Ministry of Gender, Labour and Social Development. 
+Ministry of Finance, Planning and Economic Development 
+Uganda Parliamentary Forum on Social Protection, among others.
 
 Page 14 is for information. I will proceed to some of the recommendations which originated from the field.
 
@@ -85,12 +85,12 @@ After carrying out consultation with the Ministry Finance, Planning and Economic
 
 The committee strongly recommends a national rollout of the programme with effect from the Financial Year 2019/2020 subject to the following conditions:
 
-    i) The new beneficiaries in the new districts should be 80 years and above.
-    ii) Current beneficiaries who are 65 years and above and those who are 60 and above in the Karamoja region in the 58 beneficiary districts will continue receiving the grant.
-    iii) The Government should come up with a roadmap for reducing the eligibility age from 80 years to 60 and 65 years within three years from the year of the national rollout. The roadmap should be presented to Parliament in the first quarter of the next financial year after rollout.
-    iv) There should be a review of the national roll out after every two years.
-    v) The rollout plan should take into account committee recommendations on the current SAGE Programme.
-    vi) In addition to rolling out the SAGE programme, the Government should initiate policy reforms to address the challenges faced by elderly persons, including those highlighted in this report. 
+The new beneficiaries in the new districts should be 80 years and above.
+Current beneficiaries who are 65 years and above and those who are 60 and above in the Karamoja region in the 58 beneficiary districts will continue receiving the grant.
+The Government should come up with a roadmap for reducing the eligibility age from 80 years to 60 and 65 years within three years from the year of the national rollout. The roadmap should be presented to Parliament in the first quarter of the next financial year after rollout.
+There should be a review of the national roll out after every two years.
+The rollout plan should take into account committee recommendations on the current SAGE Programme.
+In addition to rolling out the SAGE programme, the Government should initiate policy reforms to address the challenges faced by elderly persons, including those highlighted in this report. 
 
 In the long run, the reforms should include setting up regional homes for elderly persons who are homeless, destitute or have no one to look after them. 
 
@@ -104,18 +104,18 @@ Attached to this report as Annex 6 and Annex 7 are letters from the Minister of 
 
 Mr Speaker, I beg to Lay at the Table, the following documents:
 
-    i) Annex 1 indicating projecting population of elderly persons per district.
-    ii) Annex 2 population of the poor by district in SAGE districts and non-SAGE districts
-    iii) Annex 3 the Report of the Committee on Gender, Labour and Social
-    iv) Development on a field visit to North Eastern Uganda
-    v) Annex 4 Report of the Committee on Gender, Labour and Social Development on a field visit to Central and Western Uganda
-    vi) Annex 5 Report of the Committee on Gender, Labour and Social Development on the oversight visit to Northern Uganda
+Annex 1 indicating projecting population of elderly persons per district.
+Annex 2 population of the poor by district in SAGE districts and non-SAGE districts
+Annex 3 the Report of the Committee on Gender, Labour and Social
+Development on a field visit to North Eastern Uganda
+Annex 4 Report of the Committee on Gender, Labour and Social Development on a field visit to Central and Western Uganda
+Annex 5 Report of the Committee on Gender, Labour and Social Development on the oversight visit to Northern Uganda
 
-    vii) Annex 6, letter from the Ministry of Finance dated 10 October promising to support the national rollout.
+Annex 6, letter from the Ministry of Finance dated 10 October promising to support the national rollout.
 
-    viii)  Annex 7 letter from the Ministry of Gender, Labour and Social Development dated 08 the Minister of Gender, Labour and Social Development dated 8 November 2018 giving support to the national rollout programme.
+ Annex 7 letter from the Ministry of Gender, Labour and Social Development dated 08 the Minister of Gender, Labour and Social Development dated 8 November 2018 giving support to the national rollout programme.
 
-    ix) Annex 8 has the number of SAGE beneficiaries per district. 
+Annex 8 has the number of SAGE beneficiaries per district. 
 
 Mr Speaker, I beg to report and I hope you consider and adopt this report. 
 
@@ -719,14 +719,14 @@ THE DEPUTY CHAIRPERSON: Is there any new definition under clause 3?
 
 MR BWINO: Thank you very much, Mr Chairperson. The committee proposes to insert the following new definitions:
 
-    1. “Benefit sharing” means the sharing of financial or other benefits that accrue from the utilisation of indigenous genetic resources developed by any individual, group or community. 
-    2. "Genetic engineering" means the application of-
-    a) in vitro nucleic acid techniques, including recombinant deoxyribonucleic acid (DNA) and direct injection of nucleic acid into cells or organelles;
-    b) fusion of cells beyond the taxonomic family that overcome natural physiological reproductive or recombination barriers and that are not techniques used in traditional breeding or selection. 
-    3. “Inspector” means any person appointed as an inspector under this Act.
-    4. “Minister” means the minister responsible for genetic engineering. This is to address the concerns by the President that the genetic engineering function should not be domiciled in the Ministry of Science, Technology and Innovation. 
-    5. “Person” includes any individual, company, association or body of persons corporate or unincorporated.
-    6. “Safety and risk assessment” means an evaluation of any direct or indirect, short, medium and long-term risk to human or animal health, the environment, biological diversity and to the socioeconomic conditions or ethical values of the people of Uganda arising from the import, transit, contained use, release or placing on the market of a genetically engineered materials.
+“Benefit sharing” means the sharing of financial or other benefits that accrue from the utilisation of indigenous genetic resources developed by any individual, group or community. 
+"Genetic engineering" means the application of-
+in vitro nucleic acid techniques, including recombinant deoxyribonucleic acid (DNA) and direct injection of nucleic acid into cells or organelles;
+fusion of cells beyond the taxonomic family that overcome natural physiological reproductive or recombination barriers and that are not techniques used in traditional breeding or selection. 
+“Inspector” means any person appointed as an inspector under this Act.
+“Minister” means the minister responsible for genetic engineering. This is to address the concerns by the President that the genetic engineering function should not be domiciled in the Ministry of Science, Technology and Innovation. 
+“Person” includes any individual, company, association or body of persons corporate or unincorporated.
+“Safety and risk assessment” means an evaluation of any direct or indirect, short, medium and long-term risk to human or animal health, the environment, biological diversity and to the socioeconomic conditions or ethical values of the people of Uganda arising from the import, transit, contained use, release or placing on the market of a genetically engineered materials.
 
 The justification is to give clear interpretation of key terms used in the Bill. The above definitions are intangible and simple for the public for whom Parliament legislates.
 
@@ -869,5 +869,4 @@ Honourable members, we need to make some consultations on some issues and on how
 
 (House rose at 5.12 p.m. and was adjourned until Thursday, 29 November 2018 at 2.00 p.m.)
  
-
 

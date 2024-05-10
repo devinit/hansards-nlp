@@ -1,4 +1,4 @@
-﻿
+
 
 
 Wednesday, 10 August 2022
@@ -457,11 +457,11 @@ In executing its mandate, the committee was guided by the following terms of ref
 
 a) 	To intervene in the matter and carry out an exhaustive investigation into the arbitrary halting of clearance of VAT exempt rice imports with a view of finding a lasting solution for the affected importers, who were condemned unheard. 
 
-    b) To explore and find remedial mitigation strategies devised to abate the continued loss being suffered by the VAT exempt rice importers whose consignments stand bound at Mutukula Border. 
+To explore and find remedial mitigation strategies devised to abate the continued loss being suffered by the VAT exempt rice importers whose consignments stand bound at Mutukula Border. 
 
-    c) To investigate the existence and operations of RADFO. 
+To investigate the existence and operations of RADFO. 
 
-    d) To make appropriate recommendations in regard to the issues under investigations. 
+To make appropriate recommendations in regard to the issues under investigations. 
 
 The methodology 
 
@@ -470,17 +470,17 @@ The committee employed the following methods:
 The committee held meetings and received a number of verbal testimonies from key witnesses, several of whom presented written briefs. Witnesses included leaders and officials from the following institutions: 
 
 a) 	The petitioners – Kampala Rice Traders
-    b) The Consortium of Rice Traders Association 
-    c) Uganda Rice Millers Grain Council
-    d) The Ministry of Trade, Industry and Cooperatives
-    e) URA 
-    f) Clearing Agents Association 
-    g) Government entities at the border (agriculture and UNBS) 
-    h) Border Internal Security
-    i) Uganda Police Force 
-    j) Local Government Leadership at Mutukula Border
-    k) The mayor 
-    l) The area MPs
+The Consortium of Rice Traders Association 
+Uganda Rice Millers Grain Council
+The Ministry of Trade, Industry and Cooperatives
+URA 
+Clearing Agents Association 
+Government entities at the border (agriculture and UNBS) 
+Border Internal Security
+Uganda Police Force 
+Local Government Leadership at Mutukula Border
+The mayor 
+The area MPs
 
 The committee also employed desk research in carrying out this investigation and findings. 
 
@@ -492,16 +492,16 @@ VAT and withholding tax
 
 The committee established that from 2015 onwards, Government of Uganda introduced new policies, which affected the rice sector as follows; 
 
-    a) June 2014 - VAT was introduced on domestic rice with an exemption on imports. This affected local millers and subsequently, farmers. Production of rice stagnated as imports rose to 98,981 metric tonnes from the 11th year average of 56,421 metric tonnes. 
-    b) December 2014 - There was a reversal of the VAT on domestic rice. This led to a rebound of the sector. Production increased in 2015 while imports of milled rice reduced. Self-sufficiency increased to about 80 per cent. 
+June 2014 - VAT was introduced on domestic rice with an exemption on imports. This affected local millers and subsequently, farmers. Production of rice stagnated as imports rose to 98,981 metric tonnes from the 11th year average of 56,421 metric tonnes. 
+December 2014 - There was a reversal of the VAT on domestic rice. This led to a rebound of the sector. Production increased in 2015 while imports of milled rice reduced. Self-sufficiency increased to about 80 per cent. 
 
-    c) 2015-2016 - Special concession rate of $ 250 per tonne, was granted by the Ministry of Finance, Planning and Economic Development to one company to import brown rice. Brown rice imports soared to 114,000 metric tonnes in 2016 alone. Domestic prices crushed wiping out most milled rice importers. Most milled rice importers lost business. Domestic production plummeted as rice farmers opted for other better-paying crops, among others. 
+2015-2016 - Special concession rate of $ 250 per tonne, was granted by the Ministry of Finance, Planning and Economic Development to one company to import brown rice. Brown rice imports soared to 114,000 metric tonnes in 2016 alone. Domestic prices crushed wiping out most milled rice importers. Most milled rice importers lost business. Domestic production plummeted as rice farmers opted for other better-paying crops, among others. 
 
-    d) January 2017 - Special concessions were withdrawn by the Minister of Finance, Planning and Economic Development. Once again, the sector was put back to a recovery level.
+January 2017 - Special concessions were withdrawn by the Minister of Finance, Planning and Economic Development. Once again, the sector was put back to a recovery level.
 
-    e) May 2018 - H.E. the President, upon realising that there were rice deficits in the country had increased, allowed 11 rice millers to import a total of 114,000 metric tonnes of brown rice over a period of two years at a concessional rate of $ 150 per tonne. 
+May 2018 - H.E. the President, upon realising that there were rice deficits in the country had increased, allowed 11 rice millers to import a total of 114,000 metric tonnes of brown rice over a period of two years at a concessional rate of $ 150 per tonne. 
 
-    f) With effect from 1 July 2014, Parliament amended the VAT Act, whereby milled rice imported to Uganda was subjected to 18 per cent VAT. According to URA, the injunction covered only the 14 companies and not the other rice importers. With this selective and discriminatory practice, unfair competition emerged. The rice sector was put to a big strain.
+With effect from 1 July 2014, Parliament amended the VAT Act, whereby milled rice imported to Uganda was subjected to 18 per cent VAT. According to URA, the injunction covered only the 14 companies and not the other rice importers. With this selective and discriminatory practice, unfair competition emerged. The rice sector was put to a big strain.
 
 The URA informed the committee that the VAT foregone from the 14 countries since the onset of the court injunction until June 30 2022 is Shs 118,286,946,600. There is also one company M/S Aba Construction that is importing under a standalone court injunction with VAT foregone to a tune of Shs 19,694,877,233 as of June 2022.
 Therefore, the total of the VAT foregone due to the injunctions is Shs 137,981,823,833.
@@ -562,12 +562,12 @@ The ministry issued permits to whichever company applied for it as long as they 
 
 The criteria and conditions for issuing these permits are as follows: 
 
-    a. A certificate of registration
-    b. Trading licence
-    c. Updated returns from Uganda Revenue Authority
-    d. Updated returns from Uganda Registration Service Bureau 
-    e. Tax clearance certificates from Uganda Revenue Authority; and 
-    f. Tax registration certificates from Uganda Revenue Authority.
+A certificate of registration
+Trading licence
+Updated returns from Uganda Revenue Authority
+Updated returns from Uganda Registration Service Bureau 
+Tax clearance certificates from Uganda Revenue Authority; and 
+Tax registration certificates from Uganda Revenue Authority.
 
 However, interaction with various stakeholders revealed that there were various challenges faced by the rice traders in a bid to get the rice import permits. We have explored and discovered there was an official additional requirement as at 1 January 2022, which was pegged on the issuance of permits and it stated as follows: “Endorsement by the apex association as being desirable”. 
 
@@ -720,33 +720,33 @@ The testimonies from the witnesses during a public hearing by the committee at M
 
 Recommendations 
 
-    1. The Minister responsible for Trade should with immediate effect withdraw the illegal, irregular, unlawful, unprecedented, illicit letter designating RADFO as the apex body in regard to the rice trade. 
+The Minister responsible for Trade should with immediate effect withdraw the illegal, irregular, unlawful, unprecedented, illicit letter designating RADFO as the apex body in regard to the rice trade. 
 
-    2. The Minister of State for Trade, Hon. Harriet Ntabaazi’s actions tantamount to abuse of office, corruption, facilitating corrupt transactions with agents, bribery influence peddling, conflict of interest, which are all crimes provided for under the Anti-Corruption Act of 2009. 
+The Minister of State for Trade, Hon. Harriet Ntabaazi’s actions tantamount to abuse of office, corruption, facilitating corrupt transactions with agents, bribery influence peddling, conflict of interest, which are all crimes provided for under the Anti-Corruption Act of 2009. 
 
 Therefore, the committee recommends the following: 
 
-    a. The Inspectorate of Government carries out further investigations with the aim of prosecution of the State Minister, Hon. Harriet Ntabaazi. 
+The Inspectorate of Government carries out further investigations with the aim of prosecution of the State Minister, Hon. Harriet Ntabaazi. 
 
-    b. The appointing authority should take appropriate action against the Minister of State for Trade, Hon. Harriet Ntabaazi. 
+The appointing authority should take appropriate action against the Minister of State for Trade, Hon. Harriet Ntabaazi. 
 
-    c. The Minister should take political responsibility for her actions. 
+The Minister should take political responsibility for her actions. 
 
-    d. Parliament should, therefore, take appropriate actions against the minister in respect to her conduct above.
+Parliament should, therefore, take appropriate actions against the minister in respect to her conduct above.
 
-    3. The committee recommends that civil action be instituted against RADFO, the apex body, with the aim of obtaining compensation amounting to Shs 17.8 billion, which was illegally, unlawfully, illegitimately, dishonestly, fraudulently and unpatriotically, collected from the traders and importers.
+The committee recommends that civil action be instituted against RADFO, the apex body, with the aim of obtaining compensation amounting to Shs 17.8 billion, which was illegally, unlawfully, illegitimately, dishonestly, fraudulently and unpatriotically, collected from the traders and importers.
 
-    4. The committee recommends that the witnesses that appeared before it and gave evidence pertaining the crimes of corruption under Section 2(b) of the Anti-Corruption Act, 2009 should be given state protection and considered as state witnesses during the investigations and prosecution initiated by the Inspectorate of Government.
+The committee recommends that the witnesses that appeared before it and gave evidence pertaining the crimes of corruption under Section 2(b) of the Anti-Corruption Act, 2009 should be given state protection and considered as state witnesses during the investigations and prosecution initiated by the Inspectorate of Government.
 
-    5. Upon consideration of Mrs Nasolo as a state witness in the Shs 30 million bribe, Mr Atwiine, a Project Manager for the National Response Strategy on the Elimination of Non-tariff barriers at the Ministry of Trade, Industry and cooperatives who allegedly received the bribe on behalf of the minister, the committee recommends that he should be immediately arrested with a view of prosecution for crimes under the Anti-Corruption Act. 
+Upon consideration of Mrs Nasolo as a state witness in the Shs 30 million bribe, Mr Atwiine, a Project Manager for the National Response Strategy on the Elimination of Non-tariff barriers at the Ministry of Trade, Industry and cooperatives who allegedly received the bribe on behalf of the minister, the committee recommends that he should be immediately arrested with a view of prosecution for crimes under the Anti-Corruption Act. 
 
-    6. Based on the testimonies of the witnesses where UNBS officer, Mr Luganda and the Agriculture Officer, Mr Kasozi allegedly are receiving Shs 100,000 per truck, each through a proxy of clearing agents notwithstanding the fact that the committee could not get substantive evidence to this effect. The Committee recommends:
+Based on the testimonies of the witnesses where UNBS officer, Mr Luganda and the Agriculture Officer, Mr Kasozi allegedly are receiving Shs 100,000 per truck, each through a proxy of clearing agents notwithstanding the fact that the committee could not get substantive evidence to this effect. The Committee recommends:
 
-    a. The transfer of these officers with immediate effect from Mutukula border post.
+The transfer of these officers with immediate effect from Mutukula border post.
 
-    b.  Caution in accordance with the Uganda Public Service Standing Orders 2021. 
+ Caution in accordance with the Uganda Public Service Standing Orders 2021. 
 
-    7. Based on the testimonies of the witnesses where it was alleged that URA was denying rice importers to border-arrive –(Interjections) Honourbale members, “border-arrive” means that when you clear all your requirements -
+Based on the testimonies of the witnesses where it was alleged that URA was denying rice importers to border-arrive –(Interjections) Honourbale members, “border-arrive” means that when you clear all your requirements -
 
 THE SPEAKER: Order.
 
@@ -762,11 +762,11 @@ The committee, therefore, recommends that the URA manager at Mutukula Border, Mr
 
 Lastly, Madam Speaker, the general recommendations are that;
 
-    1. The appointing authority cautions all members of the Executive against delegating their functions and authority as well as acting ultra vires of their mandate, a phenomenon, which has become a trend, in consideration of the investigations carried out by the committee. 
+The appointing authority cautions all members of the Executive against delegating their functions and authority as well as acting ultra vires of their mandate, a phenomenon, which has become a trend, in consideration of the investigations carried out by the committee. 
 
-    2. Government should fast-track the rehabilitation of Masaka-Mutukula Road that is in a very sorry, dire, regretful and disappointing state and impedes trade and jeopardises Uganda’s beneficial interests in the Common Market Protocol of the EAC. 
+Government should fast-track the rehabilitation of Masaka-Mutukula Road that is in a very sorry, dire, regretful and disappointing state and impedes trade and jeopardises Uganda’s beneficial interests in the Common Market Protocol of the EAC. 
 
-    3. Government should prioritise support financially and technically to all domestic rice farmers so that they are in position to compete favourably within the EAC market.
+Government should prioritise support financially and technically to all domestic rice farmers so that they are in position to compete favourably within the EAC market.
 
 Madam Speaker, I beg to submit. (Applause)
 
@@ -889,11 +889,11 @@ Honourable members, there is nowhere – I will still insist on this - in my com
 
 There are terms and references on how one gets a permit. Madam Speaker, if given permission, let me proceed and mention them. The terms and conditions of getting a permit from the ministry are very easy and follow a documented criteria. All applicants who meet the criteria below are supposed to get a permit:
 
-    1. A Certificate of Registration for their companies;
-    2. A trading license for their companies;
-    3. Updated returns from Uganda Registration Services Bureau;
-    4. The tax clearance certificate from the Uganda Revenue Authority; and
-    5. The tax registration certificate from Uganda Revenue Authority.
+A Certificate of Registration for their companies;
+A trading license for their companies;
+Updated returns from Uganda Registration Services Bureau;
+The tax clearance certificate from the Uganda Revenue Authority; and
+The tax registration certificate from Uganda Revenue Authority.
 
 I put in that permit terms and conditions for one to fulfil for us to add value to the production and importation of rice in Uganda. 
 
@@ -1094,4 +1094,3 @@ MR LUGOLOOBI: Madam Speaker, let me take Tuesday as you had proposed.
 THE SPEAKER: Thank you. The House is adjourned to tomorrow at 2.00 p.m.
 
 (House rose at 4.57 p.m. and adjourned until Thursday, 11 August 2022 at 2.00 p.m.) 
-

@@ -1,4 +1,4 @@
-﻿
+
 
 Wednesday, 17 May 2017
 
@@ -287,8 +287,8 @@ In meetings held with civil society organisations and diplomats, the committee w
 
 There are some challenges identified under OWC programme. The committee was informed that OWC has the following challenges: 
 
-    a) People ask for inputs and when they are supplied at collection centres, they do not pick them in time and sometimes they do not pick them at all. They end up going to waste. This leads to wastage of time and resources. 
-    b) The procurement of the inputs takes a long time because of the bureaucracy in the system. Procurement is done by NAADS Secretariat and it is not directly done by the OWC Secretariat. Due to this, seed stock and animal breeding stock are sometimes distributed late.
+People ask for inputs and when they are supplied at collection centres, they do not pick them in time and sometimes they do not pick them at all. They end up going to waste. This leads to wastage of time and resources. 
+The procurement of the inputs takes a long time because of the bureaucracy in the system. Procurement is done by NAADS Secretariat and it is not directly done by the OWC Secretariat. Due to this, seed stock and animal breeding stock are sometimes distributed late.
 
 Weak inter-ministerial and sectoral linkages
 
@@ -437,36 +437,36 @@ PRIME MINISTER’S QUESTION TIME
 
 THE SPEAKER: Honourable members, as is our tradition, those who had an opportunity last week will not be able to ask questions this time. We had 30 Members who asked questions last time to the Prime Minister. We will have another set today. Let me give you the names:
 
-    1. Hon. Sebulime Musoke
-    2. Hon. Lydia Chekwel
-    3. Hon. Margret Mbeiza
-    4. Hon. Joseph Ssewungu
-    5. Hon. Onesimus Twinamasiko
-    6. Hon. Margret Aleper
-    7. Hon. Okin Ojara
-    8. Hon. Emmanuel Ongiertho
-    9. Hon. Ssozi Mulindwa
-    10. Hon. Achia
-    11. Hon. Milly Mugeni
-    12. Hon. Olive Katwesigye
-    13. Hon. Francis Mukula
-    14. Hon. James Acidri
-    15. Hon. Noeline Basemera
-    16. Hon. Catherine Lamwaka
-    17. Hon. Waluswaka
-    18. Hon. Lucy Akello
-    19. Hon. Janepher Mbabazi
-    20. Hon. Kajungu
-    21. Hon. Ocen
-    22. Hon. Akol
-    23. Hon. Betty Aol
-    24. Hon. Rwabushaija
-    25. Hon. Kahunde
-    26. Hon. Otieno
-    27. Hon. Egunyu
-    28. Hon. Galiwango
-    29. Hon. Woboya
-    30. Hon. Mugume
+Hon. Sebulime Musoke
+Hon. Lydia Chekwel
+Hon. Margret Mbeiza
+Hon. Joseph Ssewungu
+Hon. Onesimus Twinamasiko
+Hon. Margret Aleper
+Hon. Okin Ojara
+Hon. Emmanuel Ongiertho
+Hon. Ssozi Mulindwa
+Hon. Achia
+Hon. Milly Mugeni
+Hon. Olive Katwesigye
+Hon. Francis Mukula
+Hon. James Acidri
+Hon. Noeline Basemera
+Hon. Catherine Lamwaka
+Hon. Waluswaka
+Hon. Lucy Akello
+Hon. Janepher Mbabazi
+Hon. Kajungu
+Hon. Ocen
+Hon. Akol
+Hon. Betty Aol
+Hon. Rwabushaija
+Hon. Kahunde
+Hon. Otieno
+Hon. Egunyu
+Hon. Galiwango
+Hon. Woboya
+Hon. Mugume
 
 These will not be able to ask questions today.
 
@@ -478,9 +478,9 @@ I would like the Prime Minister to assure this House as to when the Ministry of 
 3.57
 THE PRIME MINISTER AND LEADER OF GOVERNMENT BUSINESS (Dr Ruhakana Rugunda): Madam Speaker, the question is clearly an important one because livestock means a lot to the country. Government is taking a number of steps to-
 
-    1. make some money available and I have been assured by the Ministry of Finance, Planning and Economic Development that money will soon be released for this;
-    2. ensure that counterfeit drugs, which have been on the market, are dealt with and removed by the National Drugs Authority; 
-    3. encourage farmers to do whatever they can to get wholesome drugs to use against the ticks.
+make some money available and I have been assured by the Ministry of Finance, Planning and Economic Development that money will soon be released for this;
+ensure that counterfeit drugs, which have been on the market, are dealt with and removed by the National Drugs Authority; 
+encourage farmers to do whatever they can to get wholesome drugs to use against the ticks.
 
 3.58
 MS JESCA ABABIKU (NRM, Woman Representative, Adjumani): Thank you, Madam Speaker. I would like to ask the Prime Minister the reason as to why there are no specific interventions to handle the problem of kariba weeds and also destruction of crops by elephants in Madi subregion. If you have any strategy, when are you getting to Madi subregion to handle these issues?
@@ -777,9 +777,9 @@ The Bill was examined as required under section 10 of the Budget Act of 2001 and
 Methodology
 In analysing the Bill, the committee held meetings and received memoranda from the following: 
 
-    i) Ministry of Foreign Affairs
-    ii) Ministry of Defence
-    iii) The Great Lakes Institute for Strategic Studies
+Ministry of Foreign Affairs
+Ministry of Defence
+The Great Lakes Institute for Strategic Studies
 
 The object of the Bill has already been outlined by the minister. I would, therefore, like to read the observations.
 
@@ -1126,9 +1126,9 @@ The objectives of the study were:
 Methodology 
 
 In pursuit of the above objectives, the committee employed the following methods:
-    a) The committee held meetings with different stakeholders in Kenya, Rwanda and Uganda. 
-    b) We conducted field visits to tea growers locally and interacted with other stakeholders in the tea industry. 
-    c) Specifically, the committee held meetings with the following organisations in Kenya: Kenya Tea Development Agency, AFA Tea Trade Directorate, Karirana Estates Limited -
+The committee held meetings with different stakeholders in Kenya, Rwanda and Uganda. 
+We conducted field visits to tea growers locally and interacted with other stakeholders in the tea industry. 
+Specifically, the committee held meetings with the following organisations in Kenya: Kenya Tea Development Agency, AFA Tea Trade Directorate, Karirana Estates Limited -
 
 THE SPEAKER: Honourable chairperson, Members can read that.
 
@@ -1188,10 +1188,10 @@ The following were the committee’s observation as the pertinent issues respons
 
 Honourable members, you can read the details on each of our own tea factories. It is quite detailed. Let us move to what some of these companies recommended because they raised a lot of issues.
 
-    1. From the Mabale Tea Factory, regulation and licensing of few factory setup based on the location and green leaf catchment area as new factories tend to be predators and fail existing companies.
-    2. Withdrawal of withholding tax on farmers; the recommendation is premised on the low farm gate price of Shs 300 per kilogramme of which the plucker earns Shs 100 leaving the farmer with only 200 to cater for the other costs including weeding, herbicides, fertilisers among others.
-    3. Access to agricultural inputs will ease on the operational cost of the factory as the factory purchases inputs including fertilisers and herbicides on behalf of the farmers.
-    4. Access to long term agricultural credit lines designed to suit the tea industry as the industry is subjected to very high commercial interest rates which are mainly short term in nature.
+From the Mabale Tea Factory, regulation and licensing of few factory setup based on the location and green leaf catchment area as new factories tend to be predators and fail existing companies.
+Withdrawal of withholding tax on farmers; the recommendation is premised on the low farm gate price of Shs 300 per kilogramme of which the plucker earns Shs 100 leaving the farmer with only 200 to cater for the other costs including weeding, herbicides, fertilisers among others.
+Access to agricultural inputs will ease on the operational cost of the factory as the factory purchases inputs including fertilisers and herbicides on behalf of the farmers.
+Access to long term agricultural credit lines designed to suit the tea industry as the industry is subjected to very high commercial interest rates which are mainly short term in nature.
 
 Madam Speaker, there are new growing areas which are not traditionally for tea and that is Kisoro and Kabale districts. The committee was informed that tea was introduced in Kabale and Kisoro districts in 2008. The major reason was to have a perennial cash crop to provide income to the local communities.
 
@@ -1608,4 +1608,3 @@ THE SPEAKER: Let it be recorded. It is now a government assurance that they will
 Honourable members, the House is adjourned to tomorrow at 2.00 p.m. Thank you.
 
 (The House rose at 7.28 p.m. and adjourned until Thursday, 18 May 2017 at 2.00 p.m.)
-

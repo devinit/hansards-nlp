@@ -1,4 +1,4 @@
-﻿
+
 
 Thursday, 27 September 2018
 
@@ -49,13 +49,6 @@ MR BAHATI: Okay, I would like to request that the minister settles in a minute a
 
 THE DEPUTY SPEAKER: Honourable minister, when you were away, a matter came from the Member for Chua West County that a community school has been closed with students who are supposed to be sitting examinations this year. What will happen to these students? 
 
-2.09
-THE MINISTER OF STATE FOR EDUCATION AND SPORTS (HIGHER EDUCATION) (Mr John Chrysostom Muyingo): Thank you very much, Mr Speaker. I would like to get in touch with the honourable member who has raised this matter so that I can capture all the details, follow up and ensure that the Ugandans who are in that school are assisted to continue with their education. 
-
-THE DEPUTY SPEAKER: Thank you very much. That matter should not come back here. Go and sort it out and those students who are supposed to sit for their examinations should sit this year. Thank you. 
-
-MR JOHNSON MUYANJA: Mr Speaker, I rise on a procedural matter. I was here in July at the beginning of this term.
- 
 I informed the House that the only Seed school in my sub county of Koome has no teacher of English. The then Minister of Education and Sports promised that they would handle the matter immediately just like they have promised my colleague but up to today, nothing has been done. 
 
 I have another matter of urgent concern. Today during a workshop, the National Planning Authority said many students are dropping out of school and one of the reasons is high fees from Government-aided schools. 
@@ -173,13 +166,13 @@ The mandate to issue IDs is by law vested in the National Identification Registr
 Mr Speaker, following the surge in the number of crimes committed using mobile phones, including the rampant kidnaps and murders of several women such as Susan Magara and the women in Entebbe in March 2018, the ministry in charge of ICT, through the Uganda Communications Commission (UCC), directed all telecom operators to install biometric card readers such that all SIM card registration and SIM swaps are done only upon electronic verification of the biometric details of the SIM cards swaps are done only upon electronic verification of the biometric details of the SIM card applicants.
 
 Mr Speaker, the procedure for SIM card registration and replacement is as follows:
-    1. All applicants for SIM card registration or SIM swaps or replacement must physically appear at the telecommunication operators registered premises and will submit the following:
-    a)  A valid original national identity card for Ugandan nationals;
-    b) A valid original passport with a valid visa or residence permit for non-Ugandans; and
-    c) Valid original refugee card issued by the Office of the Prime Minister for refugees.
-    2. All documents presented must be in original form to enable the said document security features to be read by the biometric card readers used by all telecom operators at all their SIM card registration and swapping centres;
-    3. The electronic national identity card readers can only read the security features of the original national identity card and not the duplicate or photocopy of the same; and
-    4.  The card readers are designed in such a way as to pick up all the security features embedded in the original national identification card.
+All applicants for SIM card registration or SIM swaps or replacement must physically appear at the telecommunication operators registered premises and will submit the following:
+ A valid original national identity card for Ugandan nationals;
+A valid original passport with a valid visa or residence permit for non-Ugandans; and
+Valid original refugee card issued by the Office of the Prime Minister for refugees.
+All documents presented must be in original form to enable the said document security features to be read by the biometric card readers used by all telecom operators at all their SIM card registration and swapping centres;
+The electronic national identity card readers can only read the security features of the original national identity card and not the duplicate or photocopy of the same; and
+ The card readers are designed in such a way as to pick up all the security features embedded in the original national identification card.
 
 The information captured using the biometric card reader is instantly verified with a national identification database, hosted by National Identification Registration Authority (NIRA) through the third party application interface that was set up by Uganda Communications Commission (UCC) and the telecoms. The procedure is meant to eliminate fraudulent SIM card registration.
 	
@@ -541,10 +534,10 @@ Observations
 2. 	The current budget of Shs 32.7 trillion that was approved by Parliament in May 2018 was premised on national priorities and financing framework, which includes tax measures. This, therefore, implies that any negative effect on the tax revenue will jeopardise the implementation of the budget. It is important to note that Government cannot borrow anymore from the domestic market beyond the Shs 1.936 billion.
 
 3. 	The Excise Duty (Amendment) Act, 2018 imposed a one per cent levy on receiving, withdrawing and payments of mobile money transactions. The effect of this tax was:
-    a) A decline in total turnover in mobile money transactions by 3O per cent, which directly affects the withholding tax collection;
-    b) Mobile money agents dropped by 40 per cent. This has rendered a majority of the people employed in the sector jobless; 
-    c) Loss of public trust in the mobile money system; 
-    d) Principally, since bank transactions are not taxed, it makes it discriminatory, among others.
+A decline in total turnover in mobile money transactions by 3O per cent, which directly affects the withholding tax collection;
+Mobile money agents dropped by 40 per cent. This has rendered a majority of the people employed in the sector jobless; 
+Loss of public trust in the mobile money system; 
+Principally, since bank transactions are not taxed, it makes it discriminatory, among others.
 
 Additionally, implementation of the one per cent tax on mobile money transactions was met with some challenges, which include misinterpretation of the excise duty law, which resulted in the taxation of deposits, which was not the intention of the law. Government worked with Uganda Revenue Authority to inform the public and telecom companies not to collect the tax on deposits and use of mobile money for payment of taxes.
 
@@ -693,8 +686,8 @@ I put the question that the question be put.
 
 THE DEPUTY SPEAKER: Honourable members, I now come to the motion that I have been called upon to put the question to. However, before I do so, let me guide as follows:
 
-    1. If we adopt the motion for second reading of the Bill, it would mean that we shall go to the committee stage to deal with the amendments.
-    2.  If we reject the motion for second reading, that means that we have rejected the Bill and the law remains as it was passed. 
+If we adopt the motion for second reading of the Bill, it would mean that we shall go to the committee stage to deal with the amendments.
+ If we reject the motion for second reading, that means that we have rejected the Bill and the law remains as it was passed. 
 
 Honourable members, please listen. Two proposals have been made: The Bill is proposing 0.5 per cent but the minority report is proposing something else. However, we have already passed one per cent, which is the current operating law. This Bill seeks to amend that one percent to either change or remove it. So, if we vote “yes” for second reading of this motion, it means that we shall go to committee stage to deal with the amendments. If we vote “no”, that means we are upholding the one per cent, in the previous Bill.
 

@@ -1,4 +1,4 @@
-﻿
+
 PARLIAMENT OF UGANDA
 
 Thursday, 23 September 2021
@@ -155,9 +155,9 @@ THE SPEAKER: Thank you very much. I think the Committee on Legal and Parliamenta
 
 Honourable members, in the distinguished stranger’s gallery this afternoon, we have a delegation from the Parliamentary Forum of the International Conference on the Great Lakes Region. We also have the following: 
 
-    1. Hon. Kakooba Onyango - the Secretary General 
-    2. Ms Winnie Kamau – Programme Manager 
-    3. Mr Jules Byabagobo – Human Resource and Procurement Officer 
+Hon. Kakooba Onyango - the Secretary General 
+Ms Winnie Kamau – Programme Manager 
+Mr Jules Byabagobo – Human Resource and Procurement Officer 
 
 They are here to observe the proceedings but also to meet the leadership of this institution since the Parliament of Uganda is a full member; there are things that they needed to brief the leadership of the House about. Please, join me in welcoming them. (Applause) 
 
@@ -179,17 +179,17 @@ The quality of service performance of an operator in a particular location at a 
 
 In-network and out-of-network issues:
 
-    i)  Infrastructure coverage.
+ Infrastructure coverage.
 
-    ii) Strength of the network signal which is critical for communication between the user's device/phone and base station due to network design.
+Strength of the network signal which is critical for communication between the user's device/phone and base station due to network design.
 
-    iii) Level of radio emissions from other sources/networks or from within the network which can cause interference to the signal between the phone and the base station.
+Level of radio emissions from other sources/networks or from within the network which can cause interference to the signal between the phone and the base station.
 
-    iv) Capacity at the base station to support the desired operations or demand in the respective locality (congestion).
+Capacity at the base station to support the desired operations or demand in the respective locality (congestion).
 
-    v) Reliability of electricity supply.
+Reliability of electricity supply.
 
-    vi) Quality of end-user devices. For instance, the quality of the phone that one uses determines the quality of service also.
+Quality of end-user devices. For instance, the quality of the phone that one uses determines the quality of service also.
 
 Monitoring the quality of service
 
@@ -205,7 +205,7 @@ Notably, the lockdown period, due to the implementation of mitigation measures t
 
 Factors Observed to Affect Quality of Service in Uganda
 
-    1. Limited Coverage
+Limited Coverage
 
 The communication network infrastructure is available mainly in the urban areas and limited in the rural areas. This implies that there are areas that are scantly or not covered by the operators’ networks. For instance, recently, I was in Ntoroko and the Woman Member of Parliament raised a complaint that in many parts of Ntoroko, they do not pick either MTN or Airtel and most of these telecoms. 
 
@@ -215,7 +215,7 @@ Under the new licensing regime, which we put in place as a sector, the licensees
 
 These are to be complemented by interventions by the Government through mechanisms such as the Uganda Communications Universal Access and Service Fund under the Uganda Communications Commission towards 100 per cent national coverage. In other words, in situations where these operators may not be able to give us sufficient coverage, Government through the Universal Access and Service Fund managed by UCC, we can come to the rescue of that community by maybe raising towers or supporting that community to get network. 
 
-    2. Signal Interference
+Signal Interference
 
 Signal degradation caused by interference from other radio communication sources such as illegally installed signal boosters has been observed to be prevalent. These unauthorised boosters amplify the radio signal noise causing signal interference to mobile networks of duly licensed network operators and thus affecting the quality of service.
 
@@ -227,7 +227,7 @@ The correct procedure is; you first engage with UCC to get a licence and authori
 
 Otherwise, if you start without authorisation and concurrence, then you may cause interference and be responsible for substandard quality because of that unapproved installation.  
 
-    3. Substandard Devices
+Substandard Devices
 
 Substandard devices do impact the user's quality of service because the manufacturing of these compromises on conformity to some of the relevant standards to minimise cost thus affecting their ability to for example, decipher a fair signal in the presence of noise from other radio sources. 
 
@@ -615,10 +615,10 @@ STATEMENT ON THE GOVERNMENT BUSINESS OF THE SUCCEEDING WEEK, 28TH- 30TH SEPTEMBE
 4.04
 THE PRIME MINISTER AND LEADER OF GOVERNMENT BUSINESS (Ms Robinah Nabbanja): Mr Speaker, allow me to give a statement under rule 28 of the Rules of Procedure that requires me, as the Leader of the Government Business to make a statement in the House regarding the business of the Government of the succeeding week. I am, therefore, submitting the following business for the succeeding week, that is, 28th to 30th September 2021.
 
-    1. Statement on the status of Kampala Infrastructure and Institutional Development Project.
-    2. Resurfacing of the old taxi park in Kampala.
-    3. Improvement of traffic control in Kampala City. 
-    4. Statement on the status of security in the country. 
+Statement on the status of Kampala Infrastructure and Institutional Development Project.
+Resurfacing of the old taxi park in Kampala.
+Improvement of traffic control in Kampala City. 
+Statement on the status of security in the country. 
 
 Mr Speaker, I beg to submit. (Applause)
 
@@ -691,12 +691,12 @@ In light of the above, the NSSF was left with no option but to re-advertise for 
 
 The implication of the revised procurement schedule for the designs consultant is that:
 
-    a) The initial feasibility study for the campus is expected by 05 January 2022.
-    b) Client review and approval of the draft designs will be on 09 January 2022.
-    c) Scheme designs by 01 May 2022.
-    d) Planning and approval by l3 July 2022.
-    e) Detailed designs by l4 December 2022.
-    f) Construction process should start earliest March 2023.
+The initial feasibility study for the campus is expected by 05 January 2022.
+Client review and approval of the draft designs will be on 09 January 2022.
+Scheme designs by 01 May 2022.
+Planning and approval by l3 July 2022.
+Detailed designs by l4 December 2022.
+Construction process should start earliest March 2023.
 
 Mr Speaker, the third question is from Hon. Dr Emely Kugonza, Member of Parliament Buyanja East, Kibaale District.
 
@@ -810,13 +810,13 @@ The subject matter of the petition is on the various irregularities seen in allo
 
 What do the petitioners say? 
 
-    a) Way back in the 1980s, the native people of Tororo were called upon by the Tororo Municipal Council authorities to develop an area chosen by the market using their personal resources;
+Way back in the 1980s, the native people of Tororo were called upon by the Tororo Municipal Council authorities to develop an area chosen by the market using their personal resources;
 
-    b) A number of lock-up shops were built under a chosen area and stalls were also built in the middle, so that it formed a market - the stalls were in the middle and the shops were on the sides;
+A number of lock-up shops were built under a chosen area and stalls were also built in the middle, so that it formed a market - the stalls were in the middle and the shops were on the sides;
 
-    c) Tororo Municipal Council approached the petitioners with the idea of developing the market to be funded by World Bank, under the Markets and Agricultural Trade Improvement Programme, known as MATIP;
+Tororo Municipal Council approached the petitioners with the idea of developing the market to be funded by World Bank, under the Markets and Agricultural Trade Improvement Programme, known as MATIP;
 
-    d) They resisted the said funding programmes from developing the market because, having developed and possessed the market for over 30 years, they feared to lose their bona fide interest in the market;
+They resisted the said funding programmes from developing the market because, having developed and possessed the market for over 30 years, they feared to lose their bona fide interest in the market;
 
 They filed a civil suit in the High Court of Mbale vide HCCS No. 047 of 2009 against Tororo Municipal Council wherein, a consent judgment dated 18 August 2014 was entered with terms that the market be re-developed and upon completion of the same, the Tororo Lockup Owners and Vendors Association be given opportunity to collect rent from the said market and that the said lockup shop owners be reallocated lockups on the ground floor of the newly constructed market upon completion;
 
@@ -844,9 +844,9 @@ THE SPEAKER: Honourable member, you will discover later that that is not a stat
 
 MR YERI: Mr Speaker, thank you for that wise ruling. These are the petitioners’ prayers:
 
-    1. The Parliamentary Committee on Local Government and Public Service investigates this matter and reports back to Parliament within two weeks. 
+The Parliamentary Committee on Local Government and Public Service investigates this matter and reports back to Parliament within two weeks. 
 
-    2. All allocations be halted until this report is out.
+All allocations be halted until this report is out.
 
 I would like to lay the petition on the Table.
 
@@ -1103,15 +1103,15 @@ COGNISANT that unless measures are put in place to safeguard the environment, sl
 
 NOW, THEREFORE, be it resolved by this Parliament that;
 
-    a) Government urgently commences the Climate Change Act, 2020 and expedites its implementation; 
+Government urgently commences the Climate Change Act, 2020 and expedites its implementation; 
 
-    b) Government strictly implements all environmental laws enacted by Parliament, including the National Forestry and Tree Planting Act, 2008, the National Environment Act, 2019;
+Government strictly implements all environmental laws enacted by Parliament, including the National Forestry and Tree Planting Act, 2008, the National Environment Act, 2019;
 
-    c) Government undertakes measures to mitigate the effects of climate in Uganda, including encouraging recycling, control the emission of greenhouse gasses, afforestation and the use of clean from renewable sources;
+Government undertakes measures to mitigate the effects of climate in Uganda, including encouraging recycling, control the emission of greenhouse gasses, afforestation and the use of clean from renewable sources;
 
-    d) Government urgently implements climate change mitigation and resilience measures, including building disaster response preparedness and coordination strategies of the community, national and regional level; 
+Government urgently implements climate change mitigation and resilience measures, including building disaster response preparedness and coordination strategies of the community, national and regional level; 
 
-    e) Government encourages the development of local solutions and technologies as a means of mitigating climate change in Uganda.” 
+Government encourages the development of local solutions and technologies as a means of mitigating climate change in Uganda.” 
 
 Mr Speaker, I beg to move. 
 

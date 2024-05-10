@@ -1,4 +1,4 @@
-﻿
+
 PARLIAMENT OF UGANDA
 
 
@@ -31,9 +31,9 @@ THE SPEAKER: Is the Minister of Energy here? They are not here. Okay, let us go 
 LAYING OF PAPERS
 2.28 
 THE MINISTER OF STATE FOR FINANCE, PLANNING AND ECONOMIC DEVELOPMENT (PLANNING) (Mr David Bahati): Madam Speaker, I beg to lay the following papers on Table: 
-    1. The National Payments Systems Regulations, 2021 (S1 No 18 of 2021;
-    2. The National Payments Systems (Agents) Regulations, 2021 (No. 19; and
-    3. The National Payment Systems (Sandbox) Regulations, 2021 (No. 20 of 2021).
+The National Payments Systems Regulations, 2021 (S1 No 18 of 2021;
+The National Payments Systems (Agents) Regulations, 2021 (No. 19; and
+The National Payment Systems (Sandbox) Regulations, 2021 (No. 20 of 2021).
 
 THE SPEAKER: Honourable members, the same has been sent to the Committee on Finance, Planning and Economic Development for perusal and report back. However, if any other members have issues or interest therein, please study the regulations. 
 
@@ -60,13 +60,13 @@ THE MINISTER OF STATE FOR FINANCE, PLANNING AND ECONOMIC DEVELOPMENT (PLANNING) 
 THE SPEAKER: Is the motion seconded? What is the justification? 
 
 MR BAHATI: Madam Speaker, the object of this Bill is to amend the Income Tax Cap. 340- 
-    i) to redefine beneficial owner; 
-    ii) to revise the tax rate applicable to individuals and companies for purposes of rental income;
-    iii) to  provide for a formula for deductible expenses on rental income; 
-    iv)  to provide for incentives to manufacturers;
-    v)  to define the date for submitting applications for tax refund; 
-    vi) to provide for the due date of payment of income tax; and
-    vii)  to discontinue the co-current deduction of initial allowance and deductions on depreciation of assets.
+to redefine beneficial owner; 
+to revise the tax rate applicable to individuals and companies for purposes of rental income;
+to  provide for a formula for deductible expenses on rental income; 
+ to provide for incentives to manufacturers;
+ to define the date for submitting applications for tax refund; 
+to provide for the due date of payment of income tax; and
+ to discontinue the co-current deduction of initial allowance and deductions on depreciation of assets.
 
 We believe this Bill will contribute to our revenue efforts to be able to finance the priorities of the Government. 
 
@@ -166,11 +166,11 @@ This will increase chargeable income and tax payable for the first year of incom
 
 Additionally, it is a consequential amendment; the committee made the following recommendations after scrutinising the income tax Bill;
 
-    1. The committee recommends that Government considers review of tax legislation from annually to at least three years. This is aimed at ensuring predictability in decision making by investors.
+The committee recommends that Government considers review of tax legislation from annually to at least three years. This is aimed at ensuring predictability in decision making by investors.
 
-    2. The committee recommends that Government undertakes a study of the tax exemption proposals with the objective to establish a criteria in which both international and local companies will be considered to qualify for tax exemptions.
+The committee recommends that Government undertakes a study of the tax exemption proposals with the objective to establish a criteria in which both international and local companies will be considered to qualify for tax exemptions.
 
-    3. The committee recommends that the income tax amendment Bill, 2021, be passed into law subject to the proposed amendments.  I beg to move.
+The committee recommends that the income tax amendment Bill, 2021, be passed into law subject to the proposed amendments.  I beg to move.
 
 I will be laying on the Table the copy of the original report after the third reading. It is the same copy I would like to use for the amendments. Thank you.
 
@@ -218,12 +218,12 @@ Madam Speaker, my prayer to the committee chairperson and Minister of Finance, P
 
 For purposes of record, this minority report was signed by:
 
-    1. Hon. Syda Bbumba
-    2. Hon. Hatwib Katoto
-    3. Hon. James Kakooza
-    4. Hon. Walyomu Muwanika
-    5. Hon. Isaac Mulindwa Ssozi
-    6. Hon. Luttamaguzi Semakula
+Hon. Syda Bbumba
+Hon. Hatwib Katoto
+Hon. James Kakooza
+Hon. Walyomu Muwanika
+Hon. Isaac Mulindwa Ssozi
+Hon. Luttamaguzi Semakula
 
 I beg to submit.
 
@@ -323,10 +323,10 @@ There is a need to talk of around 20 per cent. That probably would be reasonable
 3.31
 MS SYDA BBUMBA (NRM, Nakaseke North County, Nakaseke): Thank you very much, Madam Speaker. I stand here to support the minority report for the following reasons: 
 
-    1. We have got a very big deficit in housing.
-    2. There are very high charges on the mortgages. In fact Uganda is one of the countries which are offering mortgages at the highest interest rates.
-    3. There are a lot of indirect taxes because as the presenter for the minority report has stated, all the biggest tax payers are related to real estate. Therefore, real estate has a lot of indirect taxes.
-    4. There is irregularity in occupancy. These properties are not occupied all the time. Like during COVID-19, there are high default rates. The tenants are on and off. If you consider all these and put a tax of 40 per cent, it is rather high on the investor. 
+We have got a very big deficit in housing.
+There are very high charges on the mortgages. In fact Uganda is one of the countries which are offering mortgages at the highest interest rates.
+There are a lot of indirect taxes because as the presenter for the minority report has stated, all the biggest tax payers are related to real estate. Therefore, real estate has a lot of indirect taxes.
+There is irregularity in occupancy. These properties are not occupied all the time. Like during COVID-19, there are high default rates. The tenants are on and off. If you consider all these and put a tax of 40 per cent, it is rather high on the investor. 
 
 This is the sector where many of our Ugandan businessmen are investing because the import and export business has collapsed. This is the only option where they are putting the little money they are left with.
 
@@ -447,9 +447,9 @@ Clause 11 proposes to amend paragraph 1 of the third schedule to the VAT Act by 
 
 This proposal is intended to promote the aviation industry by adding maintenance and repair services. The committee recommends as follows:
 
-    1. Government should sensitise the business community on Electronic Fiscal Receipting and Invoicing Solution (EFRIS) system. This will go a long way in enhancing the enforcement of use of electronic invoicing amended in section 45(a).
+Government should sensitise the business community on Electronic Fiscal Receipting and Invoicing Solution (EFRIS) system. This will go a long way in enhancing the enforcement of use of electronic invoicing amended in section 45(a).
 
-    2. The committee recommends that the value added Tax (Amendment) Bill, 2021 be passed into law subject to the proposed amendments.
+The committee recommends that the value added Tax (Amendment) Bill, 2021 be passed into law subject to the proposed amendments.
 
 I beg to move, I will be laying the copy of the original report after we have done the third reading. Thank you.
 
@@ -653,9 +653,9 @@ Clause 10 is amended in (a) in paragraph (b) by substituting for the proposed pa
 
 The justification:
 
-    1. Renewal energy from the denatured fuel ethanol from cassava is a close substitute of liquefied gas, which will foster value addition in Uganda as denatured fuel ethanol from cassava is generated from conversion of cassava into fuel.
+Renewal energy from the denatured fuel ethanol from cassava is a close substitute of liquefied gas, which will foster value addition in Uganda as denatured fuel ethanol from cassava is generated from conversion of cassava into fuel.
 
-    2. The investment cap for the general exemption is very high and shall render exemption difficult to be accessed by potential investors. I beg to submit.
+The investment cap for the general exemption is very high and shall render exemption difficult to be accessed by potential investors. I beg to submit.
 
 MR NSEREKO: Thank you, Madam Chairperson. On the matter of liquefied gas, I have no objection. Where I have an objection is still on the matter of exempting foreign investors from payment of VAT. I would like to persuade honourable Members of Parliament that in this time and era, we stand our ground that everyone pays their fair share of VAT and that giving that cap will not be helpful. 
 
@@ -1227,7 +1227,7 @@ MR BAHATI: The Speaker has guided and I think we can have a thorough debate and 
 
 MR JONATHAN ODUR: Madam Speaker, I think the minister is not being honest to this House. That section 60 (a b) that he seeks to exempt - Actually, hon. Nsereko spoke of it. I did not read it in full but let me now read it so that he can refresh his mind.
 
-    1. Says, “A minimum investment capital of $10 million or $ 1 million in case of a citizen.”
+Says, “A minimum investment capital of $10 million or $ 1 million in case of a citizen.”
 Therefore, a citizen with $ 1 million investment is going to pay the stamp duty and you are going to exempt the one who has more.
 
 Secondly, the citizen is already employing 70 per cent of the raw materials that are used, which are local. Now my question is; why don’t we be fair? If we are going to exempt them from paying stamp duty, let us be fair to even locals; the people who are here even if they have $ 1 million. That is a lot of money. 
@@ -1807,11 +1807,11 @@ MR OTHIENO OKOTH (NRM, West Budama County North, Tororo): Thank you, Madam Speak
 
 I want to lay on Table the document, which is described as cost of activity work plan on a budget submitted by the Ministry of Finance, Planning and Economic Development on the planned implementation programme. It is on the basis of this document that I talked about some of the issues, which the ministry had planned to undertake. For instance: 
 
-    1. On page 13, there was a procurement of public address system for the ministry’s boardroom at Shs 9.6 billion; 
-    2. On page 21, they had a social corporate responsibility to improve the brand and the image of ministry at Shs 687 million; 
-    3. On page 37, they planned a staff retreat to enhance staff motivation at Shs 2.3 billion; 
-    4. On page 39, they planned to plant trees, donate scholastic materials, paint zebra crossings and install traffic lights at Shs 9.61 billion; and 
-    5. On page 48, they want to develop guidelines for micro-scale irrigation system at Shs 56.785 billion and several others.
+On page 13, there was a procurement of public address system for the ministry’s boardroom at Shs 9.6 billion; 
+On page 21, they had a social corporate responsibility to improve the brand and the image of ministry at Shs 687 million; 
+On page 37, they planned a staff retreat to enhance staff motivation at Shs 2.3 billion; 
+On page 39, they planned to plant trees, donate scholastic materials, paint zebra crossings and install traffic lights at Shs 9.61 billion; and 
+On page 48, they want to develop guidelines for micro-scale irrigation system at Shs 56.785 billion and several others.
 
 Madam Speaker, I beg to lay this document on the Table. 
 
@@ -1892,7 +1892,6 @@ We are going back to explain the details of the budget in the committee. Madam S
 THE SPEAKER: Honourable members, House is adjourned to Monday at 10 o’clock. 
 
 (The House rose at 7.25 p.m. and adjourned until Monday, 3 May 2021 at 10.00 a.m.)
-
 
 
 

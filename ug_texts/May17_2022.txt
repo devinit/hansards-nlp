@@ -1,4 +1,4 @@
-﻿
+
 PARLIAMENT OF UGANDA
 
 Tuesday, 17 May 2022
@@ -213,17 +213,17 @@ Madam Speaker, allow me to summarise my report. On the 11th of May, the report o
 
 The terms of the select committee are listed on page 1 of the committee report. These terms of the select committee are as follows:
 
-    1. To establish the progress in the development of a locally manufactured COVID-19 vaccine;
+To establish the progress in the development of a locally manufactured COVID-19 vaccine;
 
-    2. To establish the amount of funds so far released for the research, innovation and COVID-19 vaccine development;
+To establish the amount of funds so far released for the research, innovation and COVID-19 vaccine development;
 
-    3. To establish how effectively such funds were utilised;
+To establish how effectively such funds were utilised;
 
-    4. To establish the challenges faced in the development of COVID-19 vaccines and medicines;
+To establish the challenges faced in the development of COVID-19 vaccines and medicines;
 
-    5. To inquire into any other matters incidental to the above; and
+To inquire into any other matters incidental to the above; and
 
-    6. To recommend a way forward to Parliament.
+To recommend a way forward to Parliament.
 
 Madam Speaker –
 
@@ -806,13 +806,13 @@ The gist of that Attorney-General’s position
 
 The Attorney-General, in his six-page opinion contends that:
 
-    1. Supplementary expenditure authorised by the minister within 3 per cent of the approved annual budget and already expended does not require parliamentary approval. That is the gist of his submission.
+Supplementary expenditure authorised by the minister within 3 per cent of the approved annual budget and already expended does not require parliamentary approval. That is the gist of his submission.
 
-    2. Spending of 3 per cent expenditure without the approval of Parliament is permitted under section 25 of the Public Finance Management Act and the Budget Act. Remember, the Budget Act was not repealed. Some sections of it were left out. 
+Spending of 3 per cent expenditure without the approval of Parliament is permitted under section 25 of the Public Finance Management Act and the Budget Act. Remember, the Budget Act was not repealed. Some sections of it were left out. 
 
-    3. The minister is only required to lay in Parliament the estimates of the authorised expenditure within four months after the funds have been spent in line with Article 156(2) of the Constitution. 
+The minister is only required to lay in Parliament the estimates of the authorised expenditure within four months after the funds have been spent in line with Article 156(2) of the Constitution. 
 
-    4. Parliament is only authorised to scrutinise the 3 per cent expenditure and make recommendations, if any, to the Executive. That is what you contended. 
+Parliament is only authorised to scrutinise the 3 per cent expenditure and make recommendations, if any, to the Executive. That is what you contended. 
 
 This approval of supplementary expenditure within the 3 per cent of the approved annual budget is not a legal requirement. In the event that the supplementary expenditures are found unlawful, Parliament may only make recommendations - whoever is found culpable for the unlawful spending and not approval. 
 
@@ -1463,13 +1463,13 @@ MR MUSASIZI: Madam Chairperson, I agree with the chairman. 
 
 MR MUWANGA KIVUMBI: Madam Chairperson, I would like to delete from the Bill the following votes and their corresponding expenditure estimates. I am going to read the numbers and it is tedious work: 
 
-    1. The Ministry of Trade and Cooperatives - Shs 7.9 billion. 
+The Ministry of Trade and Cooperatives - Shs 7.9 billion. 
 
-    2. The Ministry of Science, Technology and Innovation - Shs 3.5 billion.
+The Ministry of Science, Technology and Innovation - Shs 3.5 billion.
 
-    3. The National Citizens and Immigration - Shs 60 billion. 
+The National Citizens and Immigration - Shs 60 billion. 
 
-    4. Uganda Revenue Authority - Shs 17 billion.
+Uganda Revenue Authority - Shs 17 billion.
 
 MR ODUR: Madam Chairperson, I would like to seek your guidance on the procedure we are adopting for adjustments of the figures. I thought that when we come to the votes or when the vote is called, that is when the honourable colleague can move the specific amendment applicable to that vote rather than by omnibus proposal, the way he is proposing.
 
@@ -1998,13 +1998,13 @@ THE SPEAKER: Is it seconded? It is seconded by the whole House. Can you speak to
 
 MR MUSASIZI: Thank you, Madam Speaker. The Bill seeks to amend the Traffic and Road Safety Act:
 
-    i) By substituting for the word “Date”, the word “Year” in sections 14A and 14B by repealing paragraphs (a), (b) and (f) of section 178; 
+By substituting for the word “Date”, the word “Year” in sections 14A and 14B by repealing paragraphs (a), (b) and (f) of section 178; 
 
-    ii) By substituting for the word “Board”, wherever it appears, the words “Competent Authority”;
+By substituting for the word “Board”, wherever it appears, the words “Competent Authority”;
 
-    iii) By substituting for the words, “Secretary to the Board” wherever it appears, the word “Commission”; and
+By substituting for the words, “Secretary to the Board” wherever it appears, the word “Commission”; and
 
-    iv) For other related matters.
+For other related matters.
 
 Madam Speaker, when this Bill was read for the first time, it was referred to the Committee on Finance, Planning and Economic Development, and I am aware the chairperson is ready to present his report.
 
@@ -2195,17 +2195,17 @@ The Speaker: Is it seconded? Okay, it is seconded by hon. Alex Ruhunda, hon. Bas
 
 Mr musasizi: Madam Speaker, the Value Added Tax (Amendment) Bill, 2022 seeks to amend the Value Added Tax Act Cap. 349 to –
 
-    1. Provide for Value Added Tax on imported services using businesses in making exempt supplies;
+Provide for Value Added Tax on imported services using businesses in making exempt supplies;
 
-    2. Provide for repeal of the exemption on cottonseed cake;
+Provide for repeal of the exemption on cottonseed cake;
 
-    3. Exempt assistive devices for persons with disabilities;
+Exempt assistive devices for persons with disabilities;
 
-    4. Provide for an exemption for supply of an Airport User Services charge by the Civil Aviation Authority;
+Provide for an exemption for supply of an Airport User Services charge by the Civil Aviation Authority;
 
-    5. Provide for equal treatment of supplies of educational materials from the East African Community Partner states; and
+Provide for equal treatment of supplies of educational materials from the East African Community Partner states; and
 
-    6. Provide for other related matters.
+Provide for other related matters.
 
 Madam Speaker, we presented this Bill to the committee and the committee is ready to report to the House.
 
@@ -3216,4 +3216,3 @@ Honourable members, I would like to thank you so much for the effort exhibited t
 Honourable members, we need to finish whatever we are doing. If we can supply on Thursday, then we shall go for recess, and we will be good to go. However, I would like to thank you for today. The House is adjourned to tomorrow at 10 o’clock.
 
 (The House rose at 6.05 p.m. and adjourned until Wednesday, 18 May 2022 at 10.00 a.m.) 
-

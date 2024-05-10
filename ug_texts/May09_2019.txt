@@ -1,4 +1,4 @@
-﻿Disclaimer: The electronic version of the Official Report of the proceedings of Parliament (Hansard) is for information purposes only. A certified version of this Report can be obtained from the Office of the Clerk to Parliament.
+Disclaimer: The electronic version of the Official Report of the proceedings of Parliament (Hansard) is for information purposes only. A certified version of this Report can be obtained from the Office of the Clerk to Parliament.
 
 
 
@@ -172,11 +172,11 @@ The Proposed Licensing Areas
 
 The target areas of second licensing round are all in the Albertine Graben. Attached to this report is an annex showing the areas which include:
 
-    1. Avivi covering the districts of Obongi, Adjumani, Amuru and part of Arua and with area coverage of 1,026 square kilometres.
-    2. Omuka covering the districts of Nebbi, and now Pakwach, Nwoya and Buliisa and with area coverage of 750 square kilometres.
-    3. Kasuruban covering the districts of Buliisa, Hoima and Masindi and with coverage of 1,285 square kilometres.
-    4. Turaco covering the district of Ntoroko with area coverage of 637 square kilometres.
-    5. Ngaji covering the districts of Kanungu, Rukungiri and Rubirizi with area coverage of 1,230 square kilometres.
+Avivi covering the districts of Obongi, Adjumani, Amuru and part of Arua and with area coverage of 1,026 square kilometres.
+Omuka covering the districts of Nebbi, and now Pakwach, Nwoya and Buliisa and with area coverage of 750 square kilometres.
+Kasuruban covering the districts of Buliisa, Hoima and Masindi and with coverage of 1,285 square kilometres.
+Turaco covering the district of Ntoroko with area coverage of 637 square kilometres.
+Ngaji covering the districts of Kanungu, Rukungiri and Rubirizi with area coverage of 1,230 square kilometres.
 
 The demarcation of the areas is based on 5×5’ block size, which is roughly 85.4 square kilometres and its multiples. The areas I have mentioned above are multiples of 85.4 square kilometres and this is as provided for in the Petroleum Exploration, Development and Production Act, 2013.
 
@@ -321,7 +321,7 @@ THE CHAIRPERSON, COMMITTEE ON TOURISM, TRADE AND INDUSTRY (Mr Robert KASULE): Mr
 
 The justification is that:
 
-    (a) There is no need to amend the clause because currently the provision is very clear and specific as far as the affected society is concerned.
+There is no need to amend the clause because currently the provision is very clear and specific as far as the affected society is concerned.
 (b)	To make provisions for registration of unique cooperative societies.
 (c) 	To ensure Uganda Cooperative Alliance is regulated by the law on cooperative societies.
 
@@ -434,8 +434,8 @@ MR KASULE: Mr Chairperson, the proposal is to delete the proposed amendment by t
 
 Justification:
 
-    1. A cooperative society must have a say in any amendment to its bylaws.
-    2. To ensure that there is a check and balance on the registrar’s powers.
+A cooperative society must have a say in any amendment to its bylaws.
+To ensure that there is a check and balance on the registrar’s powers.
 
 THE DEPUTY CHAIRPERSON: The proposal is for deletion of Clause 8.
 
@@ -820,8 +820,8 @@ Clause 21
 
 MR KASULE: We propose to replace clause 21 with the following: 
 21. Amendment of section 27 of the principal Act; 
-    a) Section 47 (2) of the principal Act is repealed.
-    b) Section 47 (3) is amended by deleting the reference to sub section (2). 
+Section 47 (2) of the principal Act is repealed.
+Section 47 (3) is amended by deleting the reference to sub section (2). 
 
 The justification is that:
 1. 	The rest of the provisions are still relevant
@@ -838,7 +838,7 @@ Clause 22
 MR KASULE: In clause 22:
 Amend paragraph (a) to read as follows – 
 
-    a) In sub section (1), replace the word, “turnover” with the words “net surplus” at the end of the sentence. 
+In sub section (1), replace the word, “turnover” with the words “net surplus” at the end of the sentence. 
 
 The justification is that the contribution for the Education Fund should be charged on the net surplus; and for better clarity since use of the word “turnover” is ambiguous. 
 
@@ -990,12 +990,12 @@ MR KASULE: Mr Chairman, there was a proposal to insert a new clause 24 to read a
 
 49(b) Audit and Supervision Fund
 
-    1. There is an established audit and supervision fund into which every registered society shall, unless exempted by the registrar, pay annually a supervision fee and if the society’s accounts are audited by an officer of the department of cooperative development, an audit fee.
-    2. The registrar may require a registered society to make additional contributions to the fund under special circumstances;
-    3. The registrar shall administer the fund on behalf of the contributing registered societies and shall report annually to the board in respect of the income derived from the fees and expenditure sanctioned from the board and the balance remaining in the fund.
-    4. The registrar shall fix the fees payable by the registered society under sub-section (1);
-    5. The funds shall be audited annually by the Auditor–General
-    6. The monies in the audit and supervision fund existing immediately before the commencement of this Act shall be transferred to the audit and supervision fund established under this Act.”
+There is an established audit and supervision fund into which every registered society shall, unless exempted by the registrar, pay annually a supervision fee and if the society’s accounts are audited by an officer of the department of cooperative development, an audit fee.
+The registrar may require a registered society to make additional contributions to the fund under special circumstances;
+The registrar shall administer the fund on behalf of the contributing registered societies and shall report annually to the board in respect of the income derived from the fees and expenditure sanctioned from the board and the balance remaining in the fund.
+The registrar shall fix the fees payable by the registered society under sub-section (1);
+The funds shall be audited annually by the Auditor–General
+The monies in the audit and supervision fund existing immediately before the commencement of this Act shall be transferred to the audit and supervision fund established under this Act.”
 
 The justification is that there is need to streamline the audit and supervision functions within the cooperative societies. I beg to move.
 
@@ -1083,11 +1083,11 @@ MR NANDALA-MAFABI: Before clause 29, I would like to seek your indulgence. I wou
 
 Mr Chairman, initially, they used to train cooperative officers, committee members and farmers in Kigumba Cooperative College and Tororo Cooperative College. In the current state that it is in, we, the committee members and even farmers, have a problem. Since you want cooperatives to return, I would like to move this amendment that we introduce part 12 on training.
 
-    1. There shall be training of cooperative officers, staff and members of committees of the cooperative societies in Kigumba Cooperative College and Tororo Cooperative College;
-    2. These colleges shall be managed and run by the ministry responsible for cooperatives;
-    3. The Education Fund shall be applied to the development of these colleges - we have passed the Education Fund;
-    4. These colleges shall develop the cooperative knowledge, to be applied even to the last member of the cooperative society; and 
-    5. Any other incidentals in relation to cooperative education.
+There shall be training of cooperative officers, staff and members of committees of the cooperative societies in Kigumba Cooperative College and Tororo Cooperative College;
+These colleges shall be managed and run by the ministry responsible for cooperatives;
+The Education Fund shall be applied to the development of these colleges - we have passed the Education Fund;
+These colleges shall develop the cooperative knowledge, to be applied even to the last member of the cooperative society; and 
+Any other incidentals in relation to cooperative education.
 
 I have already stated the justification.
 
@@ -1120,12 +1120,12 @@ The third schedule, agreed to.
 Clause 1
 
 MR KASULE: Mr Chairperson, on clause 1, the committee proposes that –
-    a) In the head note of clause 1, replace the words, “the cooperative societies” with the words, “section 1 of the principal Act”.
-    b) Delete sub clause (b).
+In the head note of clause 1, replace the words, “the cooperative societies” with the words, “section 1 of the principal Act”.
+Delete sub clause (b).
 
 The justification is
-    a) For proper reference to what is being amended in the particular clause.
-    b) The proper board as defined in the Cooperative Societies Act Cap. 112 is the Uganda Cooperative Alliance Board and this should not be changed.
+For proper reference to what is being amended in the particular clause.
+The proper board as defined in the Cooperative Societies Act Cap. 112 is the Uganda Cooperative Alliance Board and this should not be changed.
 
 THE DEPUTY CHAIRPERSON: I put the question to that. 
 

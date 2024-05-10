@@ -1,4 +1,4 @@
-﻿
+
 PARLIAMENT OF UGANDA
 
 Tuesday, 19 July 2022
@@ -28,7 +28,7 @@ Honourable members, on 17 February 2022, the House passed the Mining and Mineral
 The above matter refers.
 I have received the Mining and Minerals Bill, 2022, for assent. However, there are some provisions in the Bill that need to be reconsidered as listed below:
 
-    1. Clause 8 on the definition of Large Scale Mining:
+Clause 8 on the definition of Large Scale Mining:
 
 The definition under clause 8 should be deleted and instead a new provision numbered 59 (Threshold for Large Scale Mining) inserted under crossheading: Large Scale Mining. 
 
@@ -36,13 +36,13 @@ The justification is that clause 28(1) of the Bill restricts a Mineral Agreement
 
 The current definition, if maintained, has effect on excluding projects such as Kilembe Mines, Makutu Rare Earth Elements, Rubanda and Muko Iron Ore, which are complex and capital intensive, but may not meet the annual ore production or throughput exceeding one million tonnes.
 
-    2. Clause 33(1) on establishment of a tribunal:
+Clause 33(1) on establishment of a tribunal:
 
-    (a) Clause 33 (6) on appeals against the decisions of the minister being made to the tribunal should be substituted with ‘an appeal being made to the High Court within thirty days of receipt of the decision.’ The establishment of a tribunal is contrary to the Government’s ongoing process of rationalising and merging of agencies. Since the High Court has unlimited jurisdiction in all matters and has been strengthened to improve delivery of justice, and it is empowered to handle such grievances.
+Clause 33 (6) on appeals against the decisions of the minister being made to the tribunal should be substituted with ‘an appeal being made to the High Court within thirty days of receipt of the decision.’ The establishment of a tribunal is contrary to the Government’s ongoing process of rationalising and merging of agencies. Since the High Court has unlimited jurisdiction in all matters and has been strengthened to improve delivery of justice, and it is empowered to handle such grievances.
 
 (b)	Clause 33 (7) and (8) should be repealed.
 
-    3. Clause 31 (7) on competitive bidding should be amended by substituting it with the following: 
+Clause 31 (7) on competitive bidding should be amended by substituting it with the following: 
 ‘For avoidance of doubt, competitive bidding shall not apply to areas under a mineral right except for a mineral right held by a state-owned enterprise.’
 
 The justification is that the Bill, as passed by Parliament, empowers the minister to announce areas open for bidding for an exploration licence, medium-scale mining licence or a large-scale mining license. It further states that: ‘competitive bidding shall not apply to areas under mineral right’. The exemption would prevent Government from using competitive bidding for licences in the control of Government, like bidding of Kilembe Mines. The proposed amendment would enable the Government to use competitive bidding for the licences it controls. 
@@ -485,13 +485,13 @@ THE SPEAKER: Is the motion seconded? It is seconded by Hon. Bahati, Hon. Musasiz
 Honourable minister, would you love to speak to the objects of the Bill?
 
 DR ACENG: Madam Speaker, the object of this Bill is to amend the Public Health Act to – 
-    a) repeal the obsolete provisions – because since then, we have had other laws; 
+repeal the obsolete provisions – because since then, we have had other laws; 
 
-    b) revise the fines for offences committed under the Act;
+revise the fines for offences committed under the Act;
 
-    c) repeal the provisions on venereal diseases, building and constructions and public sewers, which are in other laws; and
+repeal the provisions on venereal diseases, building and constructions and public sewers, which are in other laws; and
 
-    d) repeal the Venereal Disease Act, Cap 284 and the Immunisation Act and place it in the Public Health (Amendment) Bill. 
+repeal the Venereal Disease Act, Cap 284 and the Immunisation Act and place it in the Public Health (Amendment) Bill. 
 
 The Public Health Act, Cap. 281, Madam Speaker, was enacted in 1935 and has never been amended. The Bill, therefore, seeks to address the emerging public health challenges, including the new and emerging infectious diseases like the current one that is still running – the COVID-19 – and the numerous Ebola outbreaks that we have had. 
 
@@ -520,19 +520,19 @@ Objective V also seeks to embrace a one-health approach to disease surveillance 
 
 Section 4: justification for the Bill 
 
-    a) There is need to address emerging public health threats as earlier mentioned. Over the years, new infectious diseases like haemorrhagic fevers like Ebola, Marburg, Crimean-Congo fever, Avian influenza and most recently, COVID-19, have taken centre stage of global health;
+There is need to address emerging public health threats as earlier mentioned. Over the years, new infectious diseases like haemorrhagic fevers like Ebola, Marburg, Crimean-Congo fever, Avian influenza and most recently, COVID-19, have taken centre stage of global health;
 
-    b) New drivers of spread of diseases have emerged while others have evolved. These include, but are not limited to, increase in population, improved and faster transport means and contact with domestic and wild animals. The spread of infectious diseases has to be controlled by revising and strengthening the preventive measures
+New drivers of spread of diseases have emerged while others have evolved. These include, but are not limited to, increase in population, improved and faster transport means and contact with domestic and wild animals. The spread of infectious diseases has to be controlled by revising and strengthening the preventive measures
 
-    c) Non-communicable diseases are on the increase, in terms of morbidity and mortality. Cancers, cardiovascular diseases, accidents, diabetes, mental health and pulmonary conditions have not only caused physical infirmity and death, but also are costly to households and governments. The paradox is that most of these conditions are preventable, as has been alluded to in the submission by one of our colleagues;
+Non-communicable diseases are on the increase, in terms of morbidity and mortality. Cancers, cardiovascular diseases, accidents, diabetes, mental health and pulmonary conditions have not only caused physical infirmity and death, but also are costly to households and governments. The paradox is that most of these conditions are preventable, as has been alluded to in the submission by one of our colleagues;
 
-    d) The enactment of the law will lead to the domestication of the WHO International Health Regulations;
+The enactment of the law will lead to the domestication of the WHO International Health Regulations;
 
-    e) Fines have become very mild due to inflation over the years;
+Fines have become very mild due to inflation over the years;
 
-    f) Immunisation is one of the most effective public health interventions. The evidence supporting this is the declaration by WHO in 1980 that small pox in humans had been eradicated with the last case reported in 1977 in Somalia. The Organisation on Animal Health (OIE), which is the equivalent of the WHO, declared that Rinderpest, which is found in cattle and other herbivores, had been eradicated. There had been years of widespread immunisation and disease surveillance programmes around the world. This remains among the most notable and profound public health successes in history; and
+Immunisation is one of the most effective public health interventions. The evidence supporting this is the declaration by WHO in 1980 that small pox in humans had been eradicated with the last case reported in 1977 in Somalia. The Organisation on Animal Health (OIE), which is the equivalent of the WHO, declared that Rinderpest, which is found in cattle and other herbivores, had been eradicated. There had been years of widespread immunisation and disease surveillance programmes around the world. This remains among the most notable and profound public health successes in history; and
 
-    g) This law was enacted before decentralisation. The 1995 Constitution included decentralisation. There is, therefore, need to link the administration of this Act between the central government and the local governments.
+This law was enacted before decentralisation. The 1995 Constitution included decentralisation. There is, therefore, need to link the administration of this Act between the central government and the local governments.
 
 I had talked about the new emerging infections. I beg to move to the methodology. 
 
@@ -686,8 +686,8 @@ On behalf of the members of the Committee on Health, who have signed this minori
 
 We dissented on four areas. The first was on the codification and inclusion of the following in the Bill:
 
-                1. The patients' rights and duties. 
-                2. The health service providers’ rights and duties. 
+The patients' rights and duties. 
+The health service providers’ rights and duties. 
 
 Secondly, we dissented on the idea of repealing sanitary boards without replacing them with equivalent bodies. 
 
@@ -929,11 +929,11 @@ THE CHAIRPERSON: Clause 6, there is an amendment.
 
 DR AYUME: Thank you, Madam Chairperson. Clause 6 is the substitution of section 8 and 9 of the principal Act. Our justification is that – in clause 6, the committee recommends this:
 
-    i. The minister shall constitute local authority health boards comprising such a number of persons as a minister may determine. The membership functions, powers and all matters pertaining to the proper functioning of boards constituted, under section 1, shall be prescribed by the minister by statutory instruments. 
+The minister shall constitute local authority health boards comprising such a number of persons as a minister may determine. The membership functions, powers and all matters pertaining to the proper functioning of boards constituted, under section 1, shall be prescribed by the minister by statutory instruments. 
 
 The justification is that there is a formal way of having the public health structures at local authority involved administratively in the management of public health issues; and
 
-    ii. The Public Health Act should remain overriding in matters of public health, as such, section 9 of the Public Health Act should be retained. 
+The Public Health Act should remain overriding in matters of public health, as such, section 9 of the Public Health Act should be retained. 
 
 THE CHAIRPERSON: Minister?
 
@@ -945,9 +945,9 @@ DR BATUWA: Thank you, Madam Chairperson.
 
 For the time I have been around and most especially when the Minister of Health was battling with COVID-19, among the changes, most especially the very last change that she made to us here in Parliament, the Minister of Health informed us: 
 
-    1. That they were going to take on a multi-sectoral approach to COVID-19. That was the time she was reacting to a situation having blocked trailers at the border, which drove the price of fuel to over Shs 12,000 in Hoima. So, she said she needed a multi-sectoral approach to COVID-19. We see a National Advisory Board as a forum or a platform through which the Minister of Health can effectively effect a multi-sectoral approach. 
+That they were going to take on a multi-sectoral approach to COVID-19. That was the time she was reacting to a situation having blocked trailers at the border, which drove the price of fuel to over Shs 12,000 in Hoima. So, she said she needed a multi-sectoral approach to COVID-19. We see a National Advisory Board as a forum or a platform through which the Minister of Health can effectively effect a multi-sectoral approach. 
 
-    2. We also see it as an opportunity for the Minister of Health to liaise with other ministries that are contributing on the pillar in the programme-based budgeting system. We are now in the programme-budgeting system where several ministries are clustering around a single pillar. So, for them not to duplicate activities and well align themselves, we see this as an opportunity -
+We also see it as an opportunity for the Minister of Health to liaise with other ministries that are contributing on the pillar in the programme-based budgeting system. We are now in the programme-budgeting system where several ministries are clustering around a single pillar. So, for them not to duplicate activities and well align themselves, we see this as an opportunity -
 
 THE CHAIRPERSON: Dr Batuwa, you are on which side? Are you agreeing with the committee or the minister?
 
@@ -1061,11 +1061,11 @@ Madam Chairperson, in the event of emergencies, we cannot seek court orders give
 
 Justification:
 
-    i) It is not practical to destroy buildings given the costs and legal issues.
+It is not practical to destroy buildings given the costs and legal issues.
 
-    ii) It is not proper to subject such emergency responses to decisions of the court processes, save possibly for compensation after the response.
+It is not proper to subject such emergency responses to decisions of the court processes, save possibly for compensation after the response.
 
-    iii)  A court appeal is not mandatory hence the term “may”.
+ A court appeal is not mandatory hence the term “may”.
 
 THE CHAIRPERSON: Honourable minister? 
 
@@ -1081,21 +1081,21 @@ Clause 12
 
 DR AYUME: Madam Chairperson, I am amending “Section 17 and 18 of the principal Act. 
 
-    a) For section 17 is substituted the following:
+For section 17 is substituted the following:
 
 17. Provision of means of decontamination 
 
 A local authority shall provide a proper place, with all necessary apparatus and attendance, for the decontamination of bedding clothes or other articles, which have become contaminated, and shall use any articles brought for the decontamination to be dealt with free of charge. 
 
-    b) Section 18 is substituted with the following:
+Section 18 is substituted with the following:
 
-    18. Provision of conveyance of infected persons or things
+Provision of conveyance of infected persons or things
 
 A local authority shall provide and maintain conveyances for the carriage of persons suffering from any infectious diseases or for the removal of any contaminated bedding, clothes or articles and shall pay expenses for carriage in such conveyance of any person so suffering to a health facility or other places of quarantine.” 
 
 Justification
 
-    1. Sections 15 and 16 give the needed latitude for Government action in case of a dangerous infection and should not be repealed.
+Sections 15 and 16 give the needed latitude for Government action in case of a dangerous infection and should not be repealed.
 
 2. 	On the other hand, Government should remain responsible for providing ambulances to manage the transportation of infected persons. Thank you, Madam Chairperson.
 
@@ -1135,7 +1135,7 @@ In clause 13, substitute the word "nursed" with the word “managed” and the w
 
 Justification 
 
-    1) These are the most appropriate terminologies. Nursing mainly presupposes nurturing, cherishing and fostering. 
+These are the most appropriate terminologies. Nursing mainly presupposes nurturing, cherishing and fostering. 
 
 2) 	Hospital is narrow, but health facility is broader and most applicable in the circumstances.
 
@@ -1165,7 +1165,7 @@ Delete clause 18
 
 Justification
 
-    1) Notification of death and removal of a person dying of an infectious disease are important in reducing the spread of infection. 
+Notification of death and removal of a person dying of an infectious disease are important in reducing the spread of infection. 
 
 2) 	Removal and burial of a body of a person who has died of an infectious disease protects the bereaved family or unsuspecting mourners from contracting an infectious disease. 
 
@@ -1258,7 +1258,7 @@ DR AYUME: Madam Chairperson, clause 29 seeks to amend the title of Part VII. Whe
 
 Justification
 
-    1. The most appropriate term under the Immunisation Act, 2017, especially so because Part VII incorporates the substantive provisions of the Immunisation Act.
+The most appropriate term under the Immunisation Act, 2017, especially so because Part VII incorporates the substantive provisions of the Immunisation Act.
 
 2. 	Immunisation is broader than vaccination. As earlier mentioned, vaccination is the act while immunisation encompasses the act and the processes that happen for you to gain immunity. Thank you. 
 
@@ -1755,15 +1755,15 @@ DR AYUME: Thank you, Madam Chairperson. Clause 72 seeks to repeal sections 107 a
 
 The committee recommends that clause 72 be substituted with the following:
 
-    (a) Insert a new section 107A after 107 as follows: 
+Insert a new section 107A after 107 as follows: 
 
 “107A. Regulation of mortuaries, funeral homes and services
 
 The minister shall, by statutory instrument, issue guidelines for the licensing, regulation and management of mortuaries, funeral homes and services.”
 
-    (b) In section 108, re-number as subsection (1) and insert a new subsection (2) as follows:
+In section 108, re-number as subsection (1) and insert a new subsection (2) as follows:
 
-    (c) "(2) Where a cemetery is authorised, it shall remain so authorised until the minister authorises otherwise."
+"(2) Where a cemetery is authorised, it shall remain so authorised until the minister authorises otherwise."
 
 Justification 
 
@@ -1814,13 +1814,13 @@ Insert new subsection immediately after section 113 to read:
 
 The Government shall – 
 
-    (a) take all practical measures to ensure the provision of basic medical services to the population; 
+take all practical measures to ensure the provision of basic medical services to the population; 
 
 (b) 	ensure that all Ugandans have access to health services; 
 
-    (b) provide health facilities and opportunities necessary to enhance the welfare of women to enable them realise their full potential and advancement; 
+provide health facilities and opportunities necessary to enhance the welfare of women to enable them realise their full potential and advancement; 
 
-    (c) ensure that no child is deprived of medical treatment for any reason;
+ensure that no child is deprived of medical treatment for any reason;
 
 
 (e) 	take appropriate measures to ensure that persons with disabilities realise their full mental and physical potential.”
@@ -1849,7 +1849,7 @@ Substitute clause 75 with the following:
 
 Clause 75: Repeal of section 120 and substitution of section 121 of the principal Act
 
-    (a) Section 120 of the principal Act is repealed.
+Section 120 of the principal Act is repealed.
 
 (b) Substitute section 121 of the following principal Act with the following:
 
@@ -1973,11 +1973,11 @@ THE CHAIRPERSON: Clause 2 on the definition; interpretation -
 
 DR AYUME: Thank you very much. Amendment of section 1 of the Public Health Act, which talks about the nomenclature.
 
-    a) Amendment of clause 2 (a). In paragraph (a), insert the word "parent."
+Amendment of clause 2 (a). In paragraph (a), insert the word "parent."
 
 The justification is, deletion of the word “parent” in the principal Act opens room for a better definition of the same word as proposed in the amendments. In brief, we are going to have a better definition.
 
-    b) New Insertion: 
+New Insertion: 
 
 Insert the following new paragraph immediately after clause 2(a) and renumber accordingly: 
 
@@ -1987,7 +1987,7 @@ Insert the following new paragraph immediately after clause 2(a) and renumber ac
 
 The justification is: 
 
-    1. This is a reflection of the provisions of the Immunisation Act which are to be incorporated in the Public Health Act. 
+This is a reflection of the provisions of the Immunisation Act which are to be incorporated in the Public Health Act. 
 
 2. 	There is a need to have a standard definition of public health in the law regulating the area of public health. 
 
@@ -2037,15 +2037,15 @@ DR ACENG: Chair, for purposes of Clause 6, we are proposing the following:
 
 “For purposes of this Act:
 
-    1. The minister shall establish a committee as the Advisory Committee of Health comprising of the Director, General Health Services or his/her representative as the chairperson and such other members as the minister may see fit to appoint.
+The minister shall establish a committee as the Advisory Committee of Health comprising of the Director, General Health Services or his/her representative as the chairperson and such other members as the minister may see fit to appoint.
 
-    2. The tenure of the members of the Advisory Committee of Health will be ad hoc.
+The tenure of the members of the Advisory Committee of Health will be ad hoc.
 
-    3. The chairperson of the committee shall appoint such person as he/she may deem fit to be the secretary to the committee.
+The chairperson of the committee shall appoint such person as he/she may deem fit to be the secretary to the committee.
 
-    4. Notwithstanding subsections 1 and 2, the minister may, by order, vary or cancel the membership of the committee. 
+Notwithstanding subsections 1 and 2, the minister may, by order, vary or cancel the membership of the committee. 
 
-    5. The minister may make rules for the governance of the functions of the committee.”
+The minister may make rules for the governance of the functions of the committee.”
 
 I beg to submit. 
 
@@ -2132,4 +2132,3 @@ I would also like to appreciate the shadow Minister of Health. (Applause) Yes, h
 THE SPEAKER: Thank you very much. The House is adjourned to tomorrow at 2.00 p.m.
 
 (House rose at 6.24 p.m. and adjourned to Wednesday, 20 July 2022 at 2.00 p.m.) 
-

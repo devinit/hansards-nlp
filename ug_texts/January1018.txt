@@ -1,4 +1,4 @@
-﻿
+
 
 
 Wednesday, 10 January 2018
@@ -153,17 +153,17 @@ MS RUTH NANKABIRWA: I beg your pardon, Mr Speaker. Hon. Kafeero Sekitoleko Rober
 
 The Committee on Science and Technology was a standing committee but when we revised our rules, it was made a sectoral committee. Therefore, we had to get the following Members to serve on this committee: 
 
-    1. Hon. Fred Bwino will continue on the committee as vice-chairperson; 
-    2. Hon. Wamala Nambozo, who was from the Committee on Physical Infrastructure;
-    3. Hon. David Ronnie Mutebi from the Committee on Natural Resources;  
-    4. Hon. Peter Sematimba will continue to be on the Committee on Science and Technology; 
-    5. Hon. Lawrence Onegiu from the Committee on Natural Resources; 
-    6. Hon. Cissy Namujju from the Committee on Foreign Affairs; 
-    7. Hon. Anthony Ssemuli will continue in the committee; 
-    8. Hon. Mwine Mpaka from the Committee on Gender; 
-    9. Hon. Timuzigu Kamugisha from the Committee on Trade; 
-    10. Hon. Charles Ngabirano from the Committee on Natural Resources; and 
-    11. Hon. Nabeta Igeme from the Committee on Natural Resources.
+Hon. Fred Bwino will continue on the committee as vice-chairperson; 
+Hon. Wamala Nambozo, who was from the Committee on Physical Infrastructure;
+Hon. David Ronnie Mutebi from the Committee on Natural Resources;  
+Hon. Peter Sematimba will continue to be on the Committee on Science and Technology; 
+Hon. Lawrence Onegiu from the Committee on Natural Resources; 
+Hon. Cissy Namujju from the Committee on Foreign Affairs; 
+Hon. Anthony Ssemuli will continue in the committee; 
+Hon. Mwine Mpaka from the Committee on Gender; 
+Hon. Timuzigu Kamugisha from the Committee on Trade; 
+Hon. Charles Ngabirano from the Committee on Natural Resources; and 
+Hon. Nabeta Igeme from the Committee on Natural Resources.
 I beg to designate.
 
 THE DEPUTY SPEAKER: Honourable members, you have heard the names. I put the question that those Members constitute the Committee on Science and Technology.
@@ -238,20 +238,20 @@ THE DEPUTY SPEAKER: What kind of transport do you need? (Laughter)
 
 MR BARYAYANGA: Mr Speaker, I would like to designate the following Independent Members of Parliament to the following sectoral committees: 
  
-    1. Hon. Jacklet Atuhaire, MP Sheema, Committee on Science and Technology;
-    2. Hon. Waira Majegere, Bunya County East, Committee on Science and Technology;
-    3. Hon. Joshua Anywarach, Padyere County, Committee on Science and Technology;
-    4. Hon. Ishma Mafabi, Youth Representative, Eastern Uganda, Committee on Science and Technology;
-    5. Hon. Julius Opondo, Bujumba County, Committee on Agriculture, Animal Industry and Fisheries; and 
-    6. Hon. Michael Mawanda, Igara East, Committee on Foreign Affairs.
+Hon. Jacklet Atuhaire, MP Sheema, Committee on Science and Technology;
+Hon. Waira Majegere, Bunya County East, Committee on Science and Technology;
+Hon. Joshua Anywarach, Padyere County, Committee on Science and Technology;
+Hon. Ishma Mafabi, Youth Representative, Eastern Uganda, Committee on Science and Technology;
+Hon. Julius Opondo, Bujumba County, Committee on Agriculture, Animal Industry and Fisheries; and 
+Hon. Michael Mawanda, Igara East, Committee on Foreign Affairs.
 
 Mr Speaker, still on your behalf, I would like to designate the following Independent Members to the following standing committees:
-    1. Hon. Jacklet Atuhaire, MP Sheema, Committee on Equal Opportunities;
-    2. Hon. Waira Majegere, Bunya County East, Committee on Human Rights;
-    3. Hon. Joshua Anywarach, Padyere County, Committee on Human Rights;
-    4. Hon. Annet Nyakecho, Tororo North County, Committee on HIV/AIDS and Related Diseases; 
-    5. Hon. Ishma Mafabi, Youth Representative, Eastern Uganda, Committee on Government Assurances; and 
-    6. Hon. Michael Mawanda, Igara East, Committee on Government Assurances. 
+Hon. Jacklet Atuhaire, MP Sheema, Committee on Equal Opportunities;
+Hon. Waira Majegere, Bunya County East, Committee on Human Rights;
+Hon. Joshua Anywarach, Padyere County, Committee on Human Rights;
+Hon. Annet Nyakecho, Tororo North County, Committee on HIV/AIDS and Related Diseases; 
+Hon. Ishma Mafabi, Youth Representative, Eastern Uganda, Committee on Government Assurances; and 
+Hon. Michael Mawanda, Igara East, Committee on Government Assurances. 
 
 I beg to designate. 
 
@@ -799,10 +799,10 @@ Mr Speaker, I do not think it is necessary to go through the terms of reference 
 
 Objectives of the loan
 
-    1. The first one was to finance a shortfall in the domestic revenue which at the time was projected to be Shs 288 billion.
-    2. To substitute domestic borrowing amounting to Shs 280 billion.
-    3. To finance the supplementary expenditure that was approved by Parliament that required additional financing amounting to Shs 156.37 billion
-    4. To finance expenditure pressures resulting from the exchange rate, depreciation experienced during the financial year 2015/2016.
+The first one was to finance a shortfall in the domestic revenue which at the time was projected to be Shs 288 billion.
+To substitute domestic borrowing amounting to Shs 280 billion.
+To finance the supplementary expenditure that was approved by Parliament that required additional financing amounting to Shs 156.37 billion
+To finance expenditure pressures resulting from the exchange rate, depreciation experienced during the financial year 2015/2016.
 
 The committee findings
 
@@ -812,11 +812,11 @@ Account by the Governor Bank of Uganda
 
 He informed the committee that the loan was disbursed as follows;
 
-    i) Process of transferring the $200 million by Bank of Uganda
+Process of transferring the $200 million by Bank of Uganda
 
-    a) On 22 August 2016, Bank of Uganda received instruction from the Ministry of Finance, Planning and Economic Development to open a holding account for trade finance facility denominated in US dollars. The account was opened as per the instruction and the letter confirming the account number – that number on the report – was sent to the Accountant-General on 23 August 2016.
-    b) On 11 November 2016, $56,460,976.71 was transferred from the trade facility account to the Uganda Consolidated Account. Therefore, the account was credited with Shs 197,938,069,101. 
-    c) On 18 November 2016 $15 million was transferred from the trade facility account to Uganda Consolidated Fund. The Consolidated Fund was credited with Shs 55,895,589.439. 
+On 22 August 2016, Bank of Uganda received instruction from the Ministry of Finance, Planning and Economic Development to open a holding account for trade finance facility denominated in US dollars. The account was opened as per the instruction and the letter confirming the account number – that number on the report – was sent to the Accountant-General on 23 August 2016.
+On 11 November 2016, $56,460,976.71 was transferred from the trade facility account to the Uganda Consolidated Account. Therefore, the account was credited with Shs 197,938,069,101. 
+On 18 November 2016 $15 million was transferred from the trade facility account to Uganda Consolidated Fund. The Consolidated Fund was credited with Shs 55,895,589.439. 
 
 Mr Speaker, I do not know whether I should go through these figures. They do not seem to be necessary.
 
@@ -828,7 +828,7 @@ Therefore, the trade facility account received a total of $97,951,719 which was 
 
 The Auditor-General highlighted the following:
 
-    i) Process of disbursement of funds
+Process of disbursement of funds
 
 According to records from the Ministry of Finance, Planning and Economic Development, funds would be released to the institutions through normal government release procedures. Institutions spend based on any foreign exchange shortfall and the Ministry of Finance, Planning and Economic Development requests PTA Bank to reimburse the holding account known as the trade finance facility account which was opened as a transit account at Bank of Uganda. This would be used to reimburse the Uganda Consolidated Fund Account with Uganda Shillings equivalent. There is a table there as far as the money that were received are concerned. Mr Speaker, I would request that Members look at it.
 
@@ -897,7 +897,7 @@ THE DEPUTY SPEAKER: Proceed.
 
 MS OSEGGE: A review of the documents availed to the committee revealed the following:
 
-    1. The percentage indicated was 4.6 per cent while the draw down interest was 0.97 per cent, making a total interest of 5.55 per cent which was not made clear to Parliament. At the time of requesting for approval of the $200 million loan from Parliament, Government, through Ministry of Finance, Planning and Economic Development, provided contract documents of the beneficiaries as conditioned by the lender, that is - health (drugs and medical equipment), transport (road and earth moving equipment) and rural electrification (government counterpart contribution).
+The percentage indicated was 4.6 per cent while the draw down interest was 0.97 per cent, making a total interest of 5.55 per cent which was not made clear to Parliament. At the time of requesting for approval of the $200 million loan from Parliament, Government, through Ministry of Finance, Planning and Economic Development, provided contract documents of the beneficiaries as conditioned by the lender, that is - health (drugs and medical equipment), transport (road and earth moving equipment) and rural electrification (government counterpart contribution).
 
 The Ministry of Finance, Planning and Economic Development justification for funding to the committee on National Economy was to finance a shortfall in domestic revenue, projected at Shs 288 billion and substitute domestic borrowing of Shs 280 billion to finance the supplementary expenditure that was approved by Parliament that required additional financing amounting to Shs 156.37 billion and to finance expenditure pressures, resulting from the exchange rate depreciation experienced during financial year 2015/2016.
 
@@ -912,35 +912,35 @@ The committee further observed that the Speaker, on Tuesday 11 July 2017 present
 
 In conclusion, Mr Speaker, the committee draws the following:
 
-    1. The Minister of Finance, Planning and Economic Development, by false pretence, impressed upon Parliament in the justification for the loan approval, stating that the critical area for funding was medical supplies by NMS, thus Ministry of Finance, Planning and Economic Development received money fraudulently.
-    2. Although the Ministry of Finance, Planning and Economic Development had received the said funds, they had not released Shs 68 billion to NMS as earlier on claimed by the ministry.
-    3. After more loan funds were released, the concerned beneficiaries were neither informed nor given the funds.
-    4. The loan proposal had originally been rejected on 7 January 2016 by Parliament, but the Ministry of Finance, Planning and Economic Development changed the objective of the loan, emphasising medical supplies to get the approvals required on 26 April 2016.
-    5.  In a letter to the Speaker on 15 March 2017, the Minister of Finance, Planning and Economic Development lied that the necessary contract had not been provided by NMS to enable the necessary funds to be disbursed.
-    6. The Minister of Finance, Planning and Economic Development did not reply to the letter of the Governor of Bank of Uganda, rejecting the loan proposal, despite the concerns clearly raised.
-    7. The Permanent Secretary and, Secretary to Treasury (PS/ST) lied to the committee that the loan was received to stabilise the exchange rate with the consent of Bank of Uganda.
-    8. The Accountant General objected to the loan proposal through a letter written to the PS/ST, indicating that the loan was not favourable because of its high interest.
+The Minister of Finance, Planning and Economic Development, by false pretence, impressed upon Parliament in the justification for the loan approval, stating that the critical area for funding was medical supplies by NMS, thus Ministry of Finance, Planning and Economic Development received money fraudulently.
+Although the Ministry of Finance, Planning and Economic Development had received the said funds, they had not released Shs 68 billion to NMS as earlier on claimed by the ministry.
+After more loan funds were released, the concerned beneficiaries were neither informed nor given the funds.
+The loan proposal had originally been rejected on 7 January 2016 by Parliament, but the Ministry of Finance, Planning and Economic Development changed the objective of the loan, emphasising medical supplies to get the approvals required on 26 April 2016.
+ In a letter to the Speaker on 15 March 2017, the Minister of Finance, Planning and Economic Development lied that the necessary contract had not been provided by NMS to enable the necessary funds to be disbursed.
+The Minister of Finance, Planning and Economic Development did not reply to the letter of the Governor of Bank of Uganda, rejecting the loan proposal, despite the concerns clearly raised.
+The Permanent Secretary and, Secretary to Treasury (PS/ST) lied to the committee that the loan was received to stabilise the exchange rate with the consent of Bank of Uganda.
+The Accountant General objected to the loan proposal through a letter written to the PS/ST, indicating that the loan was not favourable because of its high interest.
 
-    9. The PS/ST, being former chairman of the Board of Directors of the PTA Bank, insisted on acquiring the loan, despite the emphatic objections from the Governor, Bank of Uganda, the Accountant General and the Director of Economic Affairs.
-    10. Domestic borrowing would have been cheaper than the 4.6 per cent, per annum interest paid on the PTA loan, in addition to other costs of borrowing.
-    11. Uganda, as a member of the IMF, qualifies for access to the IMF rapid credit facility that is concessional and carries a zero interest rate, a grace period of five and a half years and a final maturity period of 10 years, as opposed to the PTA loan obtained at the interest of 5.55 per cent without a grace period.
-    12. Upon the committee’s intervention, the Ministry of Finance, Planning and Economic Development has finally committed to provide the requisite funds to NMS in a letter to all accounting officers dated 7 July 2017.
+The PS/ST, being former chairman of the Board of Directors of the PTA Bank, insisted on acquiring the loan, despite the emphatic objections from the Governor, Bank of Uganda, the Accountant General and the Director of Economic Affairs.
+Domestic borrowing would have been cheaper than the 4.6 per cent, per annum interest paid on the PTA loan, in addition to other costs of borrowing.
+Uganda, as a member of the IMF, qualifies for access to the IMF rapid credit facility that is concessional and carries a zero interest rate, a grace period of five and a half years and a final maturity period of 10 years, as opposed to the PTA loan obtained at the interest of 5.55 per cent without a grace period.
+Upon the committee’s intervention, the Ministry of Finance, Planning and Economic Development has finally committed to provide the requisite funds to NMS in a letter to all accounting officers dated 7 July 2017.
 
 Key Recommendations
 
-    1. For misleading the House to believe that the most critical funding objective was medical supplies, lying to Parliament in writing that NMS had never provided the needed supply contract to enable disbursement of the funds and further duping Parliament by repackaging the same loan, thus obtaining money by false pretence, the Minister of Finance, Planning and Economic Development, hon. Matia Kasaija, should be censured.
+For misleading the House to believe that the most critical funding objective was medical supplies, lying to Parliament in writing that NMS had never provided the needed supply contract to enable disbursement of the funds and further duping Parliament by repackaging the same loan, thus obtaining money by false pretence, the Minister of Finance, Planning and Economic Development, hon. Matia Kasaija, should be censured.
 
-    2. The committee on National Economy should adopt, as part of their procedure, a requirement to interface with the Governor, Bank of Uganda while considering loan proposals.
+The committee on National Economy should adopt, as part of their procedure, a requirement to interface with the Governor, Bank of Uganda while considering loan proposals.
 
-    3. For lying to Parliament and for super imposing his authority portrayed by insisting on the loan acquisition against strong advice in writing by the Governor, Bank of Uganda, the Accountant General and the Director of Economic Affairs, Ministry of Finance and superintending the gross diversion of public funds, Mr Keith Muhakanizi, the PS/ST should be relieved of his office.
+For lying to Parliament and for super imposing his authority portrayed by insisting on the loan acquisition against strong advice in writing by the Governor, Bank of Uganda, the Accountant General and the Director of Economic Affairs, Ministry of Finance and superintending the gross diversion of public funds, Mr Keith Muhakanizi, the PS/ST should be relieved of his office.
 
-    4. The IGG should further investigate the PS/ST for possible conflict of interest, collusion and connivance considering that he had aggressively insisted on acquiring the loan with prior knowledge that he was a former Board chairman of the PTA Bank. A report on the findings should be submitted to Parliament within 60 days from the date of adoption of this report.
+The IGG should further investigate the PS/ST for possible conflict of interest, collusion and connivance considering that he had aggressively insisted on acquiring the loan with prior knowledge that he was a former Board chairman of the PTA Bank. A report on the findings should be submitted to Parliament within 60 days from the date of adoption of this report.
 
-    5. The committee recommends that Parliament directs that the $200 million be recovered, reconsolidated and applied for the sole and full purpose for which Parliament approved the loan. A report to this effect should be submitted to Parliament within 60 days from the date of adoption of this report.
+The committee recommends that Parliament directs that the $200 million be recovered, reconsolidated and applied for the sole and full purpose for which Parliament approved the loan. A report to this effect should be submitted to Parliament within 60 days from the date of adoption of this report.
 
-    6. The Executive should be more systematic while processing the presentation of loan requests to Parliament to avoid the embarrassing recall of some of them as Parliament witnessed on Tuesday, 11 July 2017.
+The Executive should be more systematic while processing the presentation of loan requests to Parliament to avoid the embarrassing recall of some of them as Parliament witnessed on Tuesday, 11 July 2017.
 
-    7. The committee further recommends an amendment of the Public Finance Management Act, 2015 to include that the Minister of Finance, Planning and Economic Development should quarterly report to Parliament on the financial and fiscal performance of public debt.
+The committee further recommends an amendment of the Public Finance Management Act, 2015 to include that the Minister of Finance, Planning and Economic Development should quarterly report to Parliament on the financial and fiscal performance of public debt.
 
 Mr Speaker, I beg to submit. (Applause)
 

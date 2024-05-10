@@ -1,4 +1,4 @@
-﻿
+
 
 Thursday, 18 August 2022
 
@@ -50,13 +50,13 @@ I will also amend to let the Government Chief Whip designate the new Members who
 
 The members of Physical Planning Board are here: 
 
-    1. Madam Amanda Ngabirano, who is the chairperson of the board; 
-    2. Ms Jackie Kemigisha, board member;
-    3. Ms Sarah Naigaga, board member;
-    4. Dr Ernest Kimbugwe, board member; 
-    5. Mr Edward Simbwa, board member;
-    6. Ms Florence Nambooze board member; 
-    7. Mr David Wamai, board member.
+Madam Amanda Ngabirano, who is the chairperson of the board; 
+Ms Jackie Kemigisha, board member;
+Ms Sarah Naigaga, board member;
+Dr Ernest Kimbugwe, board member; 
+Mr Edward Simbwa, board member;
+Ms Florence Nambooze board member; 
+Mr David Wamai, board member.
 
 Colleagues join me in welcoming them. (Applause)
 
@@ -132,16 +132,16 @@ Secondly, colleagues can be absent from this House even for two years as long as
 
 In the public gallery this afternoon, we have officials from Napak District. We have been talking about Napak nearly every day here. I am glad we have officials from there represented by Hon. Nakut Faith Loru, Hon. John Bosco Ngoya and Hon. Peterkhen Lochap. They include:
 
-    1. Mr Amos Lochembo - Senior Social Worker, Moroto Catholic Diocese.
-    2. Mr Michael Tumwesigye - Executive Director, In Need Home.
-    3. Mr Dingamanya Mary Assumpta - Counsellor, Moroto Catholic Diocese.
-    4. Mr Lokuta John - Community mobiliser, Karimojong in Katwe and Kisenyi.
-    5. Mr Abura Bruno Noveli – Teacher. 
-    6. Mr Matteo Aradoli - Volunteer from Italy.
-    7. Ms Rachele Sala - Volunteer from Italy.
-    8. Mr Goergia Cassano – Volunteer from Italy.
-    9.  Dr Johnson Ngorok – Opinion leader from Napak.
-    10. Mr Moses Kapolon – Opinion leader from Napak. 
+Mr Amos Lochembo - Senior Social Worker, Moroto Catholic Diocese.
+Mr Michael Tumwesigye - Executive Director, In Need Home.
+Mr Dingamanya Mary Assumpta - Counsellor, Moroto Catholic Diocese.
+Mr Lokuta John - Community mobiliser, Karimojong in Katwe and Kisenyi.
+Mr Abura Bruno Noveli – Teacher. 
+Mr Matteo Aradoli - Volunteer from Italy.
+Ms Rachele Sala - Volunteer from Italy.
+Mr Goergia Cassano – Volunteer from Italy.
+ Dr Johnson Ngorok – Opinion leader from Napak.
+Mr Moses Kapolon – Opinion leader from Napak. 
 
 They have come to follow proceedings of this House. Colleagues, join me in welcoming them. (Applause)
 
@@ -295,18 +295,18 @@ MS NANKABIRWA: Exactly!
 
 The Uganda Electricity Generation Company Limited has undertaken the required analysis and has prioritised the restoration of generation through –
 
-    a) detailed analysis to ensure the restoration of generation at the Isimba Hydropower Plant within three weeks from the time of incident, including reviewing the safety and operation procedures; and
+detailed analysis to ensure the restoration of generation at the Isimba Hydropower Plant within three weeks from the time of incident, including reviewing the safety and operation procedures; and
 
-    b) returning the plant to automated operation within six months since the equipment has been manufactured and shipped to Uganda.
+returning the plant to automated operation within six months since the equipment has been manufactured and shipped to Uganda.
 
 Mr Speaker, as to whether Uganda has excess power and why should we import, is the question that I know whose answer everybody wants to hear. On many occasions, we have informed the country that we are not consuming all the power that we have generated. Today, we are going to have the answer. 
 
 Following the press statement that I issued yesterday, on this matter, there have been inquiries regarding the country’s installed power generation capacity and the importation of power. I wish to inform the honourable colleagues that the country’s installed power generation capacity is 1,378.1 megawatts, which indicates excess generation, relative to the country’s peak system demand of about 900 megawatts, including about 50 megawatts of power exported to Kenya. 
 
 On a day-to-day basis, the available generation capacity, which we call firm capacity, from the different generation plants keeps on changing due to a number of factors, which include among others:
-    i. The routine maintenance of generation. For example, at Nalubaale, where we are carrying out maintenance, some units are switched off. You can’t carry out maintenance when you are generating. So, when you switch off one or two units, it means you are now going to have a deficient or you are going to have less power. 
+The routine maintenance of generation. For example, at Nalubaale, where we are carrying out maintenance, some units are switched off. You can’t carry out maintenance when you are generating. So, when you switch off one or two units, it means you are now going to have a deficient or you are going to have less power. 
 
-    ii. Low hydrology affects generation capacity. Most of these rivers have hydrological problems: during dry seasons, you generate less. At a season like this, where we have started experiencing rainfall, generation will go up; this is where the difference comes from; it is because of the hydrological behaviour of our rivers. 
+Low hydrology affects generation capacity. Most of these rivers have hydrological problems: during dry seasons, you generate less. At a season like this, where we have started experiencing rainfall, generation will go up; this is where the difference comes from; it is because of the hydrological behaviour of our rivers. 
 
 The biggest percentage of our energy mix is hydro power, almost 90 per cent. So, anything that affects the production of hydro power, will end up reducing our capacity. Sometimes there are faults affecting generation capacity. Sometimes generator efficiencies go down with age of equipment.
 
@@ -625,9 +625,9 @@ THE DEPUTY SPEAKER: Thank you, honourable. In my communication, I had allowed th
 4.09
 THE GOVERNMENT CHIEF WHIP (Mr Denis Hamson Obua): Mr Speaker, in accordance with rule 15 (10) (c), rule 187 and rule 188 (2) of the Rules of Procedure of Parliament, I designate the following honourable Members of Parliament to the sectoral committees: 
 
-    1. Hon. Eddie Kwizera Wa-Gahungu, MP, Bukimbiri County to the  Committee on Natural Resources; and
+Hon. Eddie Kwizera Wa-Gahungu, MP, Bukimbiri County to the  Committee on Natural Resources; and
 
-    2. Hon. Derrick Orone, MP, Gogonyo County to the Committee on Natural Resources. 
+Hon. Derrick Orone, MP, Gogonyo County to the Committee on Natural Resources. 
 
 Mr Speaker, I beg to designate.
 
@@ -638,11 +638,11 @@ THE DEPUTY SPEAKER: Colleagues, I put the question that the Members are designat
 4.10
 THE GOVERNMENT CHIEF WHIP (Mr Denis Hamson Obua): Mr Speaker, in accordance with rule 15(10)(c), rule 158 and rule 160(2) of the Rules of Procedure of Parliament, I designate the following honourable Members to standing committees as follows: 
 
-    1. Hon. Eddie Kwizera Wa-Gahungu, MP, Bukimbiri County to the Committee on Public Accounts, Central Government;
+Hon. Eddie Kwizera Wa-Gahungu, MP, Bukimbiri County to the Committee on Public Accounts, Central Government;
 
-    2. Hon. Derrick Orone, MP, Gogonyo County to the Committee on Public Accounts, Central Government; and 
+Hon. Derrick Orone, MP, Gogonyo County to the Committee on Public Accounts, Central Government; and 
 
-    3. Hon. Aggrey Bagiire, MP, Bunya County West to the Committee on Public Accounts (Commissions, Statutory Authorities and State Enterprises). 
+Hon. Aggrey Bagiire, MP, Bunya County West to the Committee on Public Accounts (Commissions, Statutory Authorities and State Enterprises). 
 
 I beg to designate. 
 
@@ -687,12 +687,12 @@ Mr Speaker, safe water coverage stands at 86 per cent as at 30 June 2022. The di
 
 The water technology options comprise:
 
-    1. 163 protected springs;
-    2. 262 shallow wells;
-    3. 102 deep boreholes;
-    4. one pumped water system with 655 tap stands;
-    5. 310 rainwater-harvesting tanks of at least 10 cubic millimetres capacity; and
-    6. 16 valley tanks, and one dam for production facilities. 
+163 protected springs;
+262 shallow wells;
+102 deep boreholes;
+one pumped water system with 655 tap stands;
+310 rainwater-harvesting tanks of at least 10 cubic millimetres capacity; and
+16 valley tanks, and one dam for production facilities. 
 
 In the Financial Year 2021/2022, the ministry together with the development partners under the programme of Uganda Sanitation for Health Activity (USHA) supported Bukomansimbi District to build its capacity to implement the Market Based Sanitation Implementation Approach (MBSIA) and Strengthen Community Led Total Sanitation (CLTS). In addition, Uganda Sanitation for Health Activity has rehabilitated boreholes and shallow wells and also constructed sanitation facilities in the entire district. 
 
@@ -704,11 +704,11 @@ Hon. Etuka Isaac Joakino, Member of Parliament for Upper Madi County raised this
 
 His prayers are: 
 “
-    (1) Can the Rt Hon. Prime Minister assure and confirm to Ugandans the number of beneficiaries who have actually benefited from relief aid? 
+Can the Rt Hon. Prime Minister assure and confirm to Ugandans the number of beneficiaries who have actually benefited from relief aid? 
 
-    (2) You will recall in 2020, 40 per cent of the beans given as relief food to the vulnerable people had gravel and stones; can you assure Ugandans about the quality of food that you have provided to the people of Karamoja this time round?
+You will recall in 2020, 40 per cent of the beans given as relief food to the vulnerable people had gravel and stones; can you assure Ugandans about the quality of food that you have provided to the people of Karamoja this time round?
 
-    (3) Can Government initiate a comprehensive value-for-money audit into the funds committed by Government to provide food in Karamoja?” 
+Can Government initiate a comprehensive value-for-money audit into the funds committed by Government to provide food in Karamoja?” 
 
 Mr Speaker, my response is that the district disaster committee held meetings to identify the most vulnerable population, following the needs assessment reports by the district technical teams. My office dispatched relief food to the most vulnerable population estimated at 388,500 people in the Karamoja subregion. The relief food was dispatched to the Chief Administrative Officers (CAOs) who are the accounting officers in their respective districts. 
 
@@ -716,18 +716,18 @@ This is the summary of the relief food delivered to the Karamoja subregion from 
 
 March to April 
 
-    a) Maize flour - 740,000 kilogrammes (740 metric tonnes)
-    b) Beans - 370,000 kilogrammes (370 tonnes) 
+Maize flour - 740,000 kilogrammes (740 metric tonnes)
+Beans - 370,000 kilogrammes (370 tonnes) 
 
 June 2022 
 
-    a) Maize flour - 1,605,000 kilogrammes (1,605 tonnes)
-    b) Beans - 625,000 kilogrammes (625 tonnes) 
+Maize flour - 1,605,000 kilogrammes (1,605 tonnes)
+Beans - 625,000 kilogrammes (625 tonnes) 
 
 July 2022 
 
-    a) Maize flour - 5702 kilogrammes (5072 tonnes) and
-    b) Beans  - 286,000 kilogrammes (286 tonnes) 
+Maize flour - 5702 kilogrammes (5072 tonnes) and
+Beans  - 286,000 kilogrammes (286 tonnes) 
 
 Mr Speaker, as a requirement, all food supplied to the Office of the Prime Minister is subjected to quality assurance by the Uganda National Bureau of Standards (UNBS). A certificate is then issued and presented to the Office of the Prime Minister’s stores on the delivery of supplies. 
 
@@ -783,13 +783,13 @@ The feasibility study and design for the bridge is done. These are the efforts G
 
 In Madi-Okollo District, through the Uganda National Roads Authority, Government has embarked on maintaining the roads as follows:
 
-    a. Wandi-Rhino Camp – 27 kilometres
-    b. Ocoko-Inde – 18 kilometres
-    c. Okollo-Inde – 29 kilometres
-    d. Pakwach—Inde – 18 kilometres
-    e. Inde-Rhino Camp – 23 kilometres
-    f. Arua-Nebbi – 34 kilometres
-    g. Rhino Camp Ferry Access – 5.8 kilometres
+Wandi-Rhino Camp – 27 kilometres
+Ocoko-Inde – 18 kilometres
+Okollo-Inde – 29 kilometres
+Pakwach—Inde – 18 kilometres
+Inde-Rhino Camp – 23 kilometres
+Arua-Nebbi – 34 kilometres
+Rhino Camp Ferry Access – 5.8 kilometres
 
 Mr Speaker, I would like to assure you that Government of Uganda has prioritised investing in developing and maintaining the road infrastructure, as a key transport infrastructure across all districts of Uganda. 
 
@@ -1199,43 +1199,43 @@ We have accordingly as MAAIF put our requests to the Ministry of Finance, Planni
 
 Similarly, I wish to inform the House that Cabinet some time back approved the operationalisation of 19 zonal agricultural mechanisation/irrigation centres namely:
 
-    i.  Acholi to be based in Nwoya;
+ Acholi to be based in Nwoya;
 
-    ii. Greater Mubende to be based in Kyankwanzi;
+Greater Mubende to be based in Kyankwanzi;
 
-    iii. Lango to be based in Dokolo District (Agwata);
+Lango to be based in Dokolo District (Agwata);
 
-    iv. Sebei to be based in Kapchorwa;
+Sebei to be based in Kapchorwa;
 
-    v. Greater Luwero to be based in Nakasongola;
+Greater Luwero to be based in Nakasongola;
 
-    vi. Bugisu to be based in Mbale;
+Bugisu to be based in Mbale;
 
-    vii. Karamoja to be based in Kotido;
+Karamoja to be based in Kotido;
 
-    viii. Kigezi to be based in Kabale;
+Kigezi to be based in Kabale;
 
-    ix. Madi (Moyo and Adjumani) to be based in Adjumani;
+Madi (Moyo and Adjumani) to be based in Adjumani;
 
-    x. Greater Masaka (Masaka, Kyotera, Rakai, Ssembabule, Bukomansimbi, Kalungu, Kalangala) to be based in Masaka District;
+Greater Masaka (Masaka, Kyotera, Rakai, Ssembabule, Bukomansimbi, Kalungu, Kalangala) to be based in Masaka District;
 
-    xi. Greater Mpigi (Mpigi, Butambala, Gomba, Mukono) to be based in Mpigi District at Buwama;
+Greater Mpigi (Mpigi, Butambala, Gomba, Mukono) to be based in Mpigi District at Buwama;
 
-    xii. Teso to be based in Soroti;
+Teso to be based in Soroti;
 
-    xiii. Busoga to be based in Inganga at Namungalwe;
+Busoga to be based in Inganga at Namungalwe;
 
-    xiv. Bukedi to be based in Tororo District;
+Bukedi to be based in Tororo District;
 
-    xv. West Nile to be based in Nebi District;
+West Nile to be based in Nebi District;
 
-    xvi. Tooro/Rwenzori to be based in Fort Portal;
+Tooro/Rwenzori to be based in Fort Portal;
 
-    xvii. Bunyoro to be based in Kiryandongo;
+Bunyoro to be based in Kiryandongo;
 
-    xviii. Ankole to be based in Kiruhura at Ruhengere where  Government has a ranch; and
+Ankole to be based in Kiruhura at Ruhengere where  Government has a ranch; and
 
-    xix.  National Referral Centre Wakiso District, this will cover Wakiso, Kampala, Mukono, Kayunga, Buikwe.
+ National Referral Centre Wakiso District, this will cover Wakiso, Kampala, Mukono, Kayunga, Buikwe.
 
 So far, out of the 19 that Government approved and planned, only three zonal centres are operational and this is Mbale, Dokolo and Mpigi, and two are being developed at Kiyrandongo and Kiruhura.
 
@@ -1260,13 +1260,13 @@ Mr Speaker, through the district production system, and through the elected lead
 
 The criteria we follow in allocating tractors to beneficiary groups is guided by the following factors:
 
-    i.  It has to be demand driven, giving priority to the most feminine prone sub regions;
+ It has to be demand driven, giving priority to the most feminine prone sub regions;
 
-    ii.  There must be proof of availability of land suitable for mechanisation. So, colleagues, when people ask you to recommend them, you must also verify that; 
+ There must be proof of availability of land suitable for mechanisation. So, colleagues, when people ask you to recommend them, you must also verify that; 
 
-    iii. There must be confirmation/recommendation for the beneficiaries, from either the local government leaders or you Members of Parliament; and
+There must be confirmation/recommendation for the beneficiaries, from either the local government leaders or you Members of Parliament; and
 
-    iv.  We respond where there are Government pledges like of H.E the President to churches and elsewhere. 
+ We respond where there are Government pledges like of H.E the President to churches and elsewhere. 
 
 Mr Speaker, as a mitigation measure against abuse of such tractors that we give out, every funding entity that receives a tractor or any other mechanisation/ irrigation equipment, signs a binding MOU with MAAIF stipulating the terms and conditions of use. 
 
@@ -1301,11 +1301,11 @@ Mr Speaker, on page eight we have our observations to that effect.
 
 The committee recommends that:
 
-    a. The Ministry of Gender, Labour and Social Development and the Uganda National Bureau of Statistics carry out an audit of all street children in the country periodically, starting from within 12 months from the date of adoption of this report;
+The Ministry of Gender, Labour and Social Development and the Uganda National Bureau of Statistics carry out an audit of all street children in the country periodically, starting from within 12 months from the date of adoption of this report;
 
-    b. That the Ministry of Internal Affairs, through the police, should investigate, arrest and prosecute child traffickers;
+That the Ministry of Internal Affairs, through the police, should investigate, arrest and prosecute child traffickers;
 
-    c. That the Ministry of Internal Affairs and the National Identification and Registration Authority put in place measures to ease the process of acquiring birth certificates as a means of identity, nationality and citizenship. 
+That the Ministry of Internal Affairs and the National Identification and Registration Authority put in place measures to ease the process of acquiring birth certificates as a means of identity, nationality and citizenship. 
 
 It is worthy to note that the phenomenon of migration from Karamoja is not entirely new. Over the years, Karamojong has moved to other parts of the country in search of opportunities, especially when harvests were poor. Many went to work on big plantations in Kakira, Lugazi and Masindi and on small family plantations in other parts of the country, particularly those near Karamoja, especially Teso, Lango and Bunyoro. These were mostly adult men and this particular kind of migration was dignified and not forced and people went back home after regular periods, much different from the mass movement of children and young people as is the practice nowadays.
 
@@ -1327,21 +1327,21 @@ We recommend that Government should scale up efforts to address insecurity and p
 
 On famine and hunger, we recommend that:
 
-    a) The Ministry of Karamoja Affairs should prioritise Karamoja in all development projects and encourage participation of the local population;
+The Ministry of Karamoja Affairs should prioritise Karamoja in all development projects and encourage participation of the local population;
 
-    b) The Ministry of Agriculture, Animal Industry and Fisheries should implement projects in Karamoja that employ technologies such as irrigation schemes to increase food production and green houses and community dams;
+The Ministry of Agriculture, Animal Industry and Fisheries should implement projects in Karamoja that employ technologies such as irrigation schemes to increase food production and green houses and community dams;
 
-    c) The Office of the Prime Minister should urgently put in place measures to provide regular and adequate supply of food relief for Karamoja and of course, also food reserves. 
+The Office of the Prime Minister should urgently put in place measures to provide regular and adequate supply of food relief for Karamoja and of course, also food reserves. 
 
 On poverty, alcoholism, drug abuse and gender based violence, our recommendations are: 
 
-    a) The Ministry of Gender, Labour and Social Development should: 
+The Ministry of Gender, Labour and Social Development should: 
 
-    i. Prioritise Karamoja regardless of all efforts to combat gender based violence including the construction of gender based violence shelters and youth skilling centres with tool kits; 
+Prioritise Karamoja regardless of all efforts to combat gender based violence including the construction of gender based violence shelters and youth skilling centres with tool kits; 
 
-    ii. Implement affirmative action with regard to all poverty alleviation programmes in Karamoja, including the Parish Development Model; 
+Implement affirmative action with regard to all poverty alleviation programmes in Karamoja, including the Parish Development Model; 
 
-    iii. Create awareness and sensitisation about the dangers of alcoholism and involve the local communities in all the activities carried out.
+Create awareness and sensitisation about the dangers of alcoholism and involve the local communities in all the activities carried out.
 
 b) 	The Ministry of Finance, Planning and Economic Development should increase the availability of micro finance for income generating activities for all districts in Karamoja.
 
@@ -1357,17 +1357,17 @@ At the meetings the committee held in Napak, it was revealed that the women take
 
 Mr Speaker, our recommendation is that: 
 
-    a) The Ministry of Internal Affairs, through the Uganda Police Force, should investigate all cases of traffickers and prosecute all those parents or caregivers that connive or conspire to traffic their children. 
+The Ministry of Internal Affairs, through the Uganda Police Force, should investigate all cases of traffickers and prosecute all those parents or caregivers that connive or conspire to traffic their children. 
 
-    b) The Ministry of Gender, Labour and Social Development should create awareness among local governments about their responsibilities regarding the welfare and protection of their children.
+The Ministry of Gender, Labour and Social Development should create awareness among local governments about their responsibilities regarding the welfare and protection of their children.
 
 Mr Speaker, the pull factors looked at were the porous borders and the traffickers, and our recommendations to that effect are:
 
-    i. The Ministry of Internal Affairs through the Uganda Police Force should increase deployment in Karamoja and investigate, arrest and prosecute all those persons involved in trafficking children;
+The Ministry of Internal Affairs through the Uganda Police Force should increase deployment in Karamoja and investigate, arrest and prosecute all those persons involved in trafficking children;
 
-    ii. Parliament should increase the budget for the Ministry of Internal Affairs to cater for recruitment of more personnel to effectively patrol borders of the districts with high incidents of child trafficking.
+Parliament should increase the budget for the Ministry of Internal Affairs to cater for recruitment of more personnel to effectively patrol borders of the districts with high incidents of child trafficking.
 
-    iii. The Ministry of Internal Affairs should have closer working relations with districts with high incidences of child trafficking to ensure coordinated work regarding interception of trafficked children. 
+The Ministry of Internal Affairs should have closer working relations with districts with high incidences of child trafficking to ensure coordinated work regarding interception of trafficked children. 
 
 Mr Speaker, we looked at the frameworks that we, as a country, have developed ourselves and those to which we are signed and ratified that are used to mitigate, reduce and eliminate the vice of children being trafficked. 
 
@@ -1377,13 +1377,13 @@ The street children received annually at Kampiringisa National Rehabilitation Ce
 
 When the committee visited the training centre, it noted a number of shortcomings:
 
-    i. Lack of fence. This absence of the fence critically gives the children that have been returned leeway to be re-trafficked and the temptation to return to where they had come from. So, the absence of this fence poses a security risk to the inhabitants.
+Lack of fence. This absence of the fence critically gives the children that have been returned leeway to be re-trafficked and the temptation to return to where they had come from. So, the absence of this fence poses a security risk to the inhabitants.
 
-    ii. Inadequate and inappropriate structures. There are insufficient structures to decently accommodate all the inhabitants and a number of the structures are made of iron sheets; they are makeshift. 
+Inadequate and inappropriate structures. There are insufficient structures to decently accommodate all the inhabitants and a number of the structures are made of iron sheets; they are makeshift. 
 
-    iii. There was inadequate sanitation facilities, and the very many numbers of children we found there were using almost three thesis of toilets. 
+There was inadequate sanitation facilities, and the very many numbers of children we found there were using almost three thesis of toilets. 
 
-    iv. There was no electricity.
+There was no electricity.
 
 While the institution does provide training to various youth in various areas, the youth stay at the centre for a short time. The youth and the principal of the centre, noted that this time was too short for the learners to perfect skills being taught. 
 
@@ -1409,29 +1409,29 @@ The committee recommends that:
 
 a. The Ministry of Gender, Labour and Social Development should:
 
-    i. establish regional reception centres for children that require protection and security in a phased manner, starting with the Financial Year 2023/2024.
-    ii. increase the operational budget for and renovate, retool and expand Kobulin Youth Skilling Centre and Kampiringisa Juvenile Rehabilitation Centre.
+establish regional reception centres for children that require protection and security in a phased manner, starting with the Financial Year 2023/2024.
+increase the operational budget for and renovate, retool and expand Kobulin Youth Skilling Centre and Kampiringisa Juvenile Rehabilitation Centre.
 
-    iii. prioritise Kobulin Youth Skilling Centre in the implementation of all projects by the ministry, including the Green Jobs and Fair Labour Market Programme, and provide these youth trained from there with tool kits and enable them to establish enterprises after leaving the centre.
+prioritise Kobulin Youth Skilling Centre in the implementation of all projects by the ministry, including the Green Jobs and Fair Labour Market Programme, and provide these youth trained from there with tool kits and enable them to establish enterprises after leaving the centre.
 
-    iv. construct industrial cottages in Karamoja sub-region to enable the youth get work spaces after rehabilitation. 
+construct industrial cottages in Karamoja sub-region to enable the youth get work spaces after rehabilitation. 
 
 Mr Speaker, we saw in Napak some construction, similarly a cottage industry that has spent now close to two years as a white elephant that would actually house these young people trained from Kobulin, to work and enter or transit into the service sector.
 
-    v. Expedite the completion of the Gender-Based Rehabilitation Centre in Moroto that has spent now five years under construction. Mr Speaker, we would also require accountability and authentic audit on that construction in Moroto that was meant to be a gender-based rehabilitation centre that has spent now five years without completion. 
+Expedite the completion of the Gender-Based Rehabilitation Centre in Moroto that has spent now five years under construction. Mr Speaker, we would also require accountability and authentic audit on that construction in Moroto that was meant to be a gender-based rehabilitation centre that has spent now five years without completion. 
 
 b. The Ministry of Local Government should: 
 
-    i. increase the budget allocation for Probation and Social Welfare Officers to enable them reach all families with vulnerable children.
+increase the budget allocation for Probation and Social Welfare Officers to enable them reach all families with vulnerable children.
 
 c. Parliament should:
 
-    i. allocate funds to the Ministry of Internal Affairs to facilitate the Child and Family Protection Unit of Uganda Police Force, and to make it more effective, and the Ministry of Gender, Labour and Social Development to fully implement all the strategies to end child trafficking and the phenomenon of street children. 
+allocate funds to the Ministry of Internal Affairs to facilitate the Child and Family Protection Unit of Uganda Police Force, and to make it more effective, and the Ministry of Gender, Labour and Social Development to fully implement all the strategies to end child trafficking and the phenomenon of street children. 
 
 d. 	All Ministries, Departments and Agencies (MDAs) dealing with street children should: 
 
-    i. Involve local communities and male parents or caregivers in developing and implementing strategies to combat child trafficking and address the challenge of street children. 
-    ii. Adopt a rights-based approach to dealing with street children.
+Involve local communities and male parents or caregivers in developing and implementing strategies to combat child trafficking and address the challenge of street children. 
+Adopt a rights-based approach to dealing with street children.
 iii. 	Develop and implement strategies that include dealing with street children with disabilities;
 iv. 	Review the Withdrawal and Prevention of Street Children Strategy of 2OO8.
 

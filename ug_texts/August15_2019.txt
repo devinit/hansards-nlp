@@ -1,4 +1,4 @@
-﻿Disclaimer: The electronic version of the Official Report of the proceedings of Parliament (Hansard) is for information purposes only. A certified version of this Report can be obtained from the Office of the Clerk to Parliament.
+Disclaimer: The electronic version of the Official Report of the proceedings of Parliament (Hansard) is for information purposes only. A certified version of this Report can be obtained from the Office of the Clerk to Parliament.
 
 
 
@@ -199,11 +199,11 @@ The ministry’s approach to ensure maximum impact on Malaria, focuses on sustai
 
 Madam Speaker, the package of malaria control intervention my ministry is implementing includes:
 
-    1. Integrated Vector management, indoor residual spraying, larvi-ciding and use of insecticide treated mosquito nets;
-    2. Quality control and diagnosis;
-    3. Effective social behavioural change communication strategy;
-    4. Surveillance monitoring, evaluation and operational research; and
-    5. Epidemic preparedness and response.
+Integrated Vector management, indoor residual spraying, larvi-ciding and use of insecticide treated mosquito nets;
+Quality control and diagnosis;
+Effective social behavioural change communication strategy;
+Surveillance monitoring, evaluation and operational research; and
+Epidemic preparedness and response.
 
 Madam Speaker, regarding the upsurges that we are seeing, the Malaria phenomena we are experiencing in the country is an upsurge and not an epidemic or outbreak as the various television stations are reporting. An upsurge is a slight gradual increase in cases of malaria while an outbreak or epidemic is a sudden and steep increase in cases that overwhelm the health system as defined by the World Health Organisation.
 
@@ -217,18 +217,18 @@ In Karamoja subregion, we have Amudat, Kaboong, Kapelebyong, Moroto, Nabilatuk a
 
 The increase in Malaria cases is attributed to the following reasons: 
 
-    1. Seasonality. The most number of Malaria cases occur during the period of June-July due to the rainy season.
-    2. Climatic change. We have had prolonged, intermittent rains in various parts of the country that have lasted to-date (August 2019).
-    3. Reduced bed-net ownership and use due to the aging of nets that were distributed in 2017/2018 mass long-lasting insecticide-treated mosquito nets campaign.
-    4. Low malaria prevalence in areas such as Kampala. This has led to laxity or complacency in the population's preventive practices such as sleeping under a treated mosquito net every night, environmental management like closing doors and windows early and seeking of care and treatment early.
-    5. High population growth.
-    6. Refugee immigration in specific regions.
-    7. Movement of populations from high-burden areas of Busoga, West Nile, Northern Uganda and Karamoja to low-burden areas of Kampala and south western Uganda and vice versa; especially during festive seasons, or seeking employment like farming. 
+Seasonality. The most number of Malaria cases occur during the period of June-July due to the rainy season.
+Climatic change. We have had prolonged, intermittent rains in various parts of the country that have lasted to-date (August 2019).
+Reduced bed-net ownership and use due to the aging of nets that were distributed in 2017/2018 mass long-lasting insecticide-treated mosquito nets campaign.
+Low malaria prevalence in areas such as Kampala. This has led to laxity or complacency in the population's preventive practices such as sleeping under a treated mosquito net every night, environmental management like closing doors and windows early and seeking of care and treatment early.
+High population growth.
+Refugee immigration in specific regions.
+Movement of populations from high-burden areas of Busoga, West Nile, Northern Uganda and Karamoja to low-burden areas of Kampala and south western Uganda and vice versa; especially during festive seasons, or seeking employment like farming. 
 
 	What happens is that people who have the parasite move to areas that have low parasites and they take it there. This was heavily supported by evidence that we received from Naguru Hospital in July 2019 where 85 per cent of the malaria patients had a history of travel outside Kampala.
 
-    8. People in areas with low malaria such as Kampala and Kigezi that have a parasite prevalence of less than one per cent, are prone to severe Malaria due to reduced or low immunity.
-    9. According to statistics from our health management information systems reports, we have registered a total of 820 deaths during this upsurge.
+People in areas with low malaria such as Kampala and Kigezi that have a parasite prevalence of less than one per cent, are prone to severe Malaria due to reduced or low immunity.
+According to statistics from our health management information systems reports, we have registered a total of 820 deaths during this upsurge.
 
 Reported increase of Malaria cases in Kampala
 
@@ -245,17 +245,17 @@ The Ministry of Health accordingly initiated its preparedness in advance includi
 
 In order to mitigate this upsurge, the Ministry of Health working with partners has put in place a number of interventions to address the upsurge. These are:
 
-    1. Supporting districts with increased cases to carry out effective surveillance order and get emergency supplies of the Artemisinin-based Combination Therapy (ACTs) and Rapid Diagnostic tests (RDTs) to ensure facilities are well stocked. We have also revised the quantification of ACTs for this financial year to take into account this increase in cases.
-    2. Redistribution of malaria commodities from facilities and districts with overstocks to those with inadequate stock of Malaria commodities.
-    3. We are working with the private sector to ensure they have adequate stocks of subsidised anti-malarial medication. As you are aware, the Global Fund also supports the private sector.
-    4. We are monitoring Malaria cases, admissions and deaths in all districts on a dashboard and using the data to guide decisions at all levels. This has helped us identify and contain what would have been many outbreaks.
-    5. Strengthening the management of Malaria by village health teams at community level through training and providing adequate medicine in a programme that we refer to as Integrated Community Case Management of Malaria.
-    6.  We continue the routine distribution of Long-Lasting Insecticide Treated Nets (LLINs) to pregnant women in antenatal care clinics and to children in immunisation clinics. This has been on-going.
-    7. Fast-tracking the implementation of the 2020 LLINs mass campaign where we shall distribute 26 million nets.
-    8. Introducing new channels of LLINs distribution such as school distribution in selected districts with high Malaria burden.
-    9. In 2018, His Excellency, the President launched the mass action against malaria drive for every individual to actively take on malaria preventive services and ensure they are malaria-free. In this regard, we are working with leaders to intensify education and prevention.
-    10. Community outreaches in high burden areas to conduct testing, treatment and tracking.
-    11. We are carrying out mobilisation drives for resources to scale up interventions such as Indoor Residual Spraying (IRS) and routine LLIN distribution. We have been planning to increase IRS beyond the current 15 districts.
+Supporting districts with increased cases to carry out effective surveillance order and get emergency supplies of the Artemisinin-based Combination Therapy (ACTs) and Rapid Diagnostic tests (RDTs) to ensure facilities are well stocked. We have also revised the quantification of ACTs for this financial year to take into account this increase in cases.
+Redistribution of malaria commodities from facilities and districts with overstocks to those with inadequate stock of Malaria commodities.
+We are working with the private sector to ensure they have adequate stocks of subsidised anti-malarial medication. As you are aware, the Global Fund also supports the private sector.
+We are monitoring Malaria cases, admissions and deaths in all districts on a dashboard and using the data to guide decisions at all levels. This has helped us identify and contain what would have been many outbreaks.
+Strengthening the management of Malaria by village health teams at community level through training and providing adequate medicine in a programme that we refer to as Integrated Community Case Management of Malaria.
+ We continue the routine distribution of Long-Lasting Insecticide Treated Nets (LLINs) to pregnant women in antenatal care clinics and to children in immunisation clinics. This has been on-going.
+Fast-tracking the implementation of the 2020 LLINs mass campaign where we shall distribute 26 million nets.
+Introducing new channels of LLINs distribution such as school distribution in selected districts with high Malaria burden.
+In 2018, His Excellency, the President launched the mass action against malaria drive for every individual to actively take on malaria preventive services and ensure they are malaria-free. In this regard, we are working with leaders to intensify education and prevention.
+Community outreaches in high burden areas to conduct testing, treatment and tracking.
+We are carrying out mobilisation drives for resources to scale up interventions such as Indoor Residual Spraying (IRS) and routine LLIN distribution. We have been planning to increase IRS beyond the current 15 districts.
 
 Madam Speaker, the Ministry of Health would like to inform this august House that the Malaria cases are expected to decrease a month after the end of the current rainy season with the above interventions. However, as we are all aware, the end of the rainy season is different in the various regions.
 
@@ -267,10 +267,10 @@ The signs and symptoms of Malaria include: Fever, headache, vomiting and chills 
 
 The ministry would like to appeal to the general public to:
 
-    1. Sleep under a mosquito net every night to avoid Malaria;
-    2. Always seek early treatment from the nearest health facility within 24 hours of onset of symptoms;
-    3. Take and complete the dosage of Malaria medicine as advised by the health workers;
-    4. Use of mosquito repellents are encouraged for those who can afford;
+Sleep under a mosquito net every night to avoid Malaria;
+Always seek early treatment from the nearest health facility within 24 hours of onset of symptoms;
+Take and complete the dosage of Malaria medicine as advised by the health workers;
+Use of mosquito repellents are encouraged for those who can afford;
 5. 	Clear all mosquito breeding sites: stagnant water, bushes and broken containers, around the homesteads.
 6. 	All pregnant women must attend all antenatal care visits and take the intermittent preventive therapy for malaria.
 7. 	Avoid self-medication and sharing of medicine.
@@ -1396,4 +1396,3 @@ Report adopted.
 THE SPEAKER: Honourable members, House adjourned to Tuesday at 2.00 p.m.
 
 (The House rose at 7.31 p.m. and adjourned until Tuesday, 20 August 2019 at 2.00 p.m.) 
-

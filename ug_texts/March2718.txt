@@ -1,4 +1,4 @@
-﻿
+
 
 Tuesday, 27 March 2018
 
@@ -13,7 +13,7 @@ The House was called to order.
 ADMINISTRATION OF OATHS
 
 The oaths were administered to:
-    1. Mr Paul Mwiru
+Mr Paul Mwiru
 
 THE DEPUTY SPEAKER: Can we have order please? You are not allowed to make that kind of sound in this House. Thank you very much.
 Hon. Paul Mwiru, I would like to welcome you again to this Parliament. I will give you a copy of the Constitution, which has not changed since you were here; the text you have has not changed and the Rules of Procedure, which has changed. I would like to request you to internalise and use them for the benefit of your activities here.
@@ -493,10 +493,10 @@ Honourable minister, the Shs 75 million you are talking about is not enough. I w
 
 MS WINFRED KIIZA: Mr Speaker, as we talk about Shs 75 million, when we went to Kitgum District and interacted with the local leaders, they told us that the Ministry of Health had issued guidelines. The guidelines issued by the Ministry of Health on the management of the funds that go to the districts indicated the following:
 
-    1. A percentage for the district executive for purposes of monitoring nodding syndrome.
-    2.  A percentage for the District Internal Security Officer (DISO) for monitoring. 
-    3. A percentage for the Resident District Commission (RDC) for monitoring.
-    4. A percentage for the District Police Commander (DPC) for monitoring.
+A percentage for the district executive for purposes of monitoring nodding syndrome.
+ A percentage for the District Internal Security Officer (DISO) for monitoring. 
+A percentage for the Resident District Commission (RDC) for monitoring.
+A percentage for the District Police Commander (DPC) for monitoring.
 
 In the same guidelines, they stated that when this money comes, they should first remove those percentages then the remaining is the one that goes to answer the needs of the victims. 
 
@@ -743,7 +743,7 @@ Honourable members, I am going to suspend proceedings for 15 minutes to allow th
 
 (The House was suspended at 4.45 p.m.)
 
-(On resumption at 5.10 p.m., the Deputy Speaker presiding­_)
+(On resumption at 5.10 p.m., the Deputy Speaker presiding_)
 
 THE DEPUTY SPEAKER: Honourable members, I suspended proceedings to allow consultations among the ministers so that they guide us on how we can proceed with this matter. Can we proceed now, the Leader of Government Business?
 

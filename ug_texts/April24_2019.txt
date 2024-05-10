@@ -1,4 +1,4 @@
-﻿
+
 Disclaimer: The electronic version of the Official Report of the proceedings of Parliament (Hansard) is for information purposes only. A certified version of this Report can be obtained from the Office of the Clerk to Parliament.
 
 
@@ -27,8 +27,8 @@ Mr Speaker, we passed the supplementary budget but the Ministry of Health did no
 
 My prayers are that:
 
-    1. Let this House look for a long-term plan for the children suffering from the nodding syndrome, for example, setting up a skills-training school where they can do tailoring or something that could help them.
-    2. This House should ensure that if we do not have any money for the nodding syndrome, we should not pass the budget. 
+Let this House look for a long-term plan for the children suffering from the nodding syndrome, for example, setting up a skills-training school where they can do tailoring or something that could help them.
+This House should ensure that if we do not have any money for the nodding syndrome, we should not pass the budget. 
 
 I beg to submit.
 
@@ -280,10 +280,10 @@ MS OGWAL: Thank you, Mr Speaker.
 “WHEREAS Article 79 of the Constitution of the Republic of Uganda empowers Parliament to make laws on any matter for the peace, order, development and good governance;
 
 AWARE THAT corporate governance principles are embedded in Uganda's legal framework; for example; 
-    (a) the Constitution provides for accountability mechanisms; 
-    (b) the Companies Act, 2012 provides for incorporation of the code of corporate governance into a company’s Articles of Association;
-    (c) the Financial Institutions (Corporate Governance) Regulations, 2005 made under the Financial Institutions Act, 2004 governs financial institutions; and
-    (d) several other laws establishing statutory corporations and enterprises embed corporate governance principles into the governance and administrative structures of those entities;
+the Constitution provides for accountability mechanisms; 
+the Companies Act, 2012 provides for incorporation of the code of corporate governance into a company’s Articles of Association;
+the Financial Institutions (Corporate Governance) Regulations, 2005 made under the Financial Institutions Act, 2004 governs financial institutions; and
+several other laws establishing statutory corporations and enterprises embed corporate governance principles into the governance and administrative structures of those entities;
 
 NOTING that in l998, the Institute of Corporate Governance of Uganda was incorporated as a company limited by guarantee with the mandate of promoting good corporate governance practices in Uganda as an essential pre-requisite for the accountability, integrity and credibility of institutions;
 
@@ -516,20 +516,20 @@ MS AMULE: The documents are the report on the ministerial policy statement, the 
 THE DEPUTY SPEAKER: Proceed, chairperson.
 
 MS AMULE: Mr Speaker, in accordance with rule 185 (d) of the Rules of Procedures of the Parliament of Uganda, the Committee on Defence and Internal Affairs has critically examined the ministerial policy statements and recurrent and capital budget estimates for the financial year 2019/2020 for the following votes:
-    a) Vote 004	- Ministry of Defence and Veteran Affairs; 
-    b) Vote 009	- Ministry of Internal Affairs headquarters; 
-    c) Vote 120	- National Citizenship and Immigration Control;
-    d) Vote 144	- Uganda Police Force;
-    e) Vote 145	- Uganda Prisons Service; 
-    f) Vote 305	- Directorate of Government Analytical Laboratory; and
-    g) Vote 309	- National Identification and Registration Authority. 
+Vote 004	- Ministry of Defence and Veteran Affairs; 
+Vote 009	- Ministry of Internal Affairs headquarters; 
+Vote 120	- National Citizenship and Immigration Control;
+Vote 144	- Uganda Police Force;
+Vote 145	- Uganda Prisons Service; 
+Vote 305	- Directorate of Government Analytical Laboratory; and
+Vote 309	- National Identification and Registration Authority. 
 
 In accordance with Articles 208 and 209 of the Constitution, the Uganda Peoples Defence Force is established and mandated to carry out the following functions:
 
-    1. Defend and protect the sovereignty and territorial integrity of Uganda; 
-    2. Cooperate with the civilian authorities in emergency situations and in case of natural disasters; 
-    3. Foster harmony and understanding between the defence forces and civilians; and
-    4. Engage in productive activities for national development. 
+Defend and protect the sovereignty and territorial integrity of Uganda; 
+Cooperate with the civilian authorities in emergency situations and in case of natural disasters; 
+Foster harmony and understanding between the defence forces and civilians; and
+Engage in productive activities for national development. 
 
 During this period of reporting, the political and security situation in the country has remained generally stable. Threats to national security, including terrorism, general criminality, illegal immigration and other forms of cross border crimes have been largely contained. As a result of peace in the country, Ugandans have continued to conduct their activities freely. This has resulted into the phenomenal economic growth of the country.
 
@@ -537,14 +537,14 @@ Infrastructure Development
 
 As guided by the Second Defence Strategic Infrastructure Investment Plan II, infrastructure development priorities will be to –
 
-    a) Continue phased construction of the Military Referral Hospital;
-    b) Fast track construction of the 30,000 housing project;
-    c) Construct stores and armouries for the military;
-    d) Nakasongola infrastructure;
-    e) Construct core infrastructure for the National Defence College (NDC);
-    f) Complete the solar project;
-    g) Continuous barracks maintenance; and 
-    h) Land acquisition. 
+Continue phased construction of the Military Referral Hospital;
+Fast track construction of the 30,000 housing project;
+Construct stores and armouries for the military;
+Nakasongola infrastructure;
+Construct core infrastructure for the National Defence College (NDC);
+Complete the solar project;
+Continuous barracks maintenance; and 
+Land acquisition. 
 
 Mr Speaker, the Ministry of Internal Affairs will continue leading the joint security coordination activities; formulate, implement and review the Firearms Act 1970, Explosives Act, Cap. 298, Prevention of Trafficking in Persons Act, the policy on civil registration and vital statistics, Uganda Police Forces Anti-Corruption Strategy; disseminate anti-torture guidelines to reduce cases of torture and compensation awards. 
 
@@ -552,10 +552,10 @@ It will also develop the community policing doctrine and finalise amendment of t
 
 The Ministry of Internal Affairs will prioritise the following activities:
 
-    1. The installation of security technology and infrastructure CCTV projects;
-    2. Telecommunication intelligence monitoring system;
-    3. Data monitoring system and expansion of dogs section; and
-    4. Issuance of national identity cards and cleaning up the national identification register, in preparation for the 2021 general elections. 
+The installation of security technology and infrastructure CCTV projects;
+Telecommunication intelligence monitoring system;
+Data monitoring system and expansion of dogs section; and
+Issuance of national identity cards and cleaning up the national identification register, in preparation for the 2021 general elections. 
 
 The Committee on Defence and Internal Affairs scrutinised the ministerial policy statements and budget estimates and made a number of observations and recommendations. Therefore, I take you to page 15 of our report.
 
@@ -607,10 +607,10 @@ The committee recommends that old vehicles of the Ministry Of Defence and Vetera
 
 The committee observed that there is evidence of integration of gender concerns in planning, budgeting and implementation frameworks amidst a number of challenges. These include: 
 
-    a) Limited number of women professionals in the security sector; 
-    b) Stereotyping - different stakeholders attributing gender issues to only women; 
-    c) Negative attitude, where many stakeholders always assume that security activities are for men and not fit for women; 
-    d) Underfunding of the subsector.
+Limited number of women professionals in the security sector; 
+Stereotyping - different stakeholders attributing gender issues to only women; 
+Negative attitude, where many stakeholders always assume that security activities are for men and not fit for women; 
+Underfunding of the subsector.
 
 The committee further observed that there should be continued participation of spouses of UPDF soldiers, especially the women, in socio-economic projects to boost family income. Such initiatives will include embracing the village savings and loans associations as well as engaging in a cross-section of agriculture and cottage industry. The activities should be carried out in all units countrywide to improve spouses’ livelihood and incomes and contribute to the reduction in Gender Based Violence (GBV).
 
@@ -852,8 +852,8 @@ MS AMULE: Thank you very much, honourable. With the board of immigration, the na
 4.54
 MR ELLY ASIKU (NRM, Koboko North County, Koboko): Mr Speaker, there are a few clarifications I would like to get from the committee chairperson:
 
-    1. Table 3 talks about domestic arrears. I thought the court awards which you clearly stated as arrears should have been in that schedule.
-    2.  Pension and gratuity is paid to people who are leaving the service and in most cases, these are elderly people. For the Ministry of Defence and Veteran Affairs to accumulate pension worth Shs 508 billion, it means we have a lot of ex-servicemen who are languishing in their homes - (Interruption) 
+Table 3 talks about domestic arrears. I thought the court awards which you clearly stated as arrears should have been in that schedule.
+ Pension and gratuity is paid to people who are leaving the service and in most cases, these are elderly people. For the Ministry of Defence and Veteran Affairs to accumulate pension worth Shs 508 billion, it means we have a lot of ex-servicemen who are languishing in their homes - (Interruption) 
 
 COL KULAYIGYE: Mr Speaker, we may need not to take the issue of pension generally. In the military, the moment you serve nine years at junior ranks, you become pensionable. Now, if somebody joined at the age of 18 years, that means he will be 27 years and he is free to retire. If you are an officer, it is 13 years. Therefore, they are not necessarily elderly. Thank you.
 
@@ -1294,8 +1294,8 @@ When we discussed with people, we found what they call the “FIDS” which stan
 
 Concerning gas, we have the gas. It is 500 billion cubic feet. Gas can be in the following forms:
 
-    i. First you can get it as compressed gas. It is the one put in cylinders in its natural form and sell it.
-    ii. Then, there is liquid refined gas. You have to use a planned cooling faction. This type of gas is condensed and put in cylinders for export. 
+First you can get it as compressed gas. It is the one put in cylinders in its natural form and sell it.
+Then, there is liquid refined gas. You have to use a planned cooling faction. This type of gas is condensed and put in cylinders for export. 
 
 That is what will happen to the gas. 
 

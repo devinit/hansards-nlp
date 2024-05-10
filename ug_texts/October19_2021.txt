@@ -1,4 +1,4 @@
-﻿
+
 PARLIAMENT OF UGANDA
 
 Tuesday, 19 October 2021
@@ -25,13 +25,13 @@ I call on all the other chairpersons of committees to look at their committee wo
 
 On a sad note, I have learnt of the demise of the following persons:
 
-    1. The former MP for Madi-Okollo, hon. John Drazu Arumadri. He was a Member of Parliament in the Eighth and Ninth parliaments. He passed on, on 7 October 2021 and was laid to rest on 12 October 2021. This is particularly sad because the week before, he had actually come to Parliament to see the Speaker about some outstanding matters. I have personally learnt with great shock that he is not with us anymore. 
+The former MP for Madi-Okollo, hon. John Drazu Arumadri. He was a Member of Parliament in the Eighth and Ninth parliaments. He passed on, on 7 October 2021 and was laid to rest on 12 October 2021. This is particularly sad because the week before, he had actually come to Parliament to see the Speaker about some outstanding matters. I have personally learnt with great shock that he is not with us anymore. 
 
-    2. The father of hon. Joseph Ruyonga, MP Hoima West Division. The deceased was laid to rest on 14 October 2021. 
+The father of hon. Joseph Ruyonga, MP Hoima West Division. The deceased was laid to rest on 14 October 2021. 
 
-    3. Dr Peregrine Kibuuka, a veteran educationist and former head teacher of Namilyango College. His exemplary works are evident in the gigantic stature that Namilyango College enjoys in the education sector in Uganda. He has also gone to be with the Lord. 
+Dr Peregrine Kibuuka, a veteran educationist and former head teacher of Namilyango College. His exemplary works are evident in the gigantic stature that Namilyango College enjoys in the education sector in Uganda. He has also gone to be with the Lord. 
 
-    4. I have also just learnt, as I was coming in, of the demise of Hope Kivengere. She has passed on. Just as I was coming in, I got information. I will be communicating details tomorrow. 
+I have also just learnt, as I was coming in, of the demise of Hope Kivengere. She has passed on. Just as I was coming in, I got information. I will be communicating details tomorrow. 
 
 Honourable members, for these and those that have also gone to be with the Lord – those we know and those we do not know – let us rise and observe a moment of silence. 
 
@@ -290,9 +290,9 @@ I rise on a point of procedure. This morning, the Committee on Legal and Parliam
 
 Therefore, as a committee, our hands were tied and we respectfully declined to continue with the matter. Our prayers are that:
 
-    1. A substantive Minister of Justice and Constitutional Affairs be appointed or the portfolio be assigned to enable the work of that ministry continue. 
+A substantive Minister of Justice and Constitutional Affairs be appointed or the portfolio be assigned to enable the work of that ministry continue. 
 
-    2. The committee be allocated further time, possibly an extension of two weeks although we cannot determine the time when this would happen.
+The committee be allocated further time, possibly an extension of two weeks although we cannot determine the time when this would happen.
 
 That is the procedural matter that I would like to raise.
 
@@ -306,7 +306,7 @@ MS RWAKOOJO: Mr Speaker, the dilemma that we had –
 
 THE SPEAKER: No, the second part of it is that we are now asking for extension of time. We send away the Deputy Attorney-General today then we ask for extension of time and I think the extension of time includes the time within which a minister should be appointed. If the minister is not appointed and we extend the time, what are you going to do if the minister is not appointed? 
 
-I do not want our committees to be put in a situation that becomes very difficult for Parliament to function – (Hon. Ssekikubo rose­_) - I am still ruling on the procedure, unless you want me to take your guidance from Lwemiyaga so that I rule better, I will allow you. We shall then have the Leader of the Opposition. 
+I do not want our committees to be put in a situation that becomes very difficult for Parliament to function – (Hon. Ssekikubo rose_) - I am still ruling on the procedure, unless you want me to take your guidance from Lwemiyaga so that I rule better, I will allow you. We shall then have the Leader of the Opposition. 
 
 3.07
 MR THEODORE SSEKIKUBO (NRM, Lwemiyaga County, Ssembabule): Thank you, Mr Speaker. It has been a practice of this House that when a matter like this arises, a communication originates from this House to the responsible entity or ministry. 
@@ -524,11 +524,11 @@ Mr Speaker, in terms of management, National District Roads, KCCA Roads, Urban R
 
 For the national roads, the national roads network is divided into the following functional classes: 
 
-    i) Class A: International Trunk roads, which connect to Uganda’s major borders and provides access to sea.  
+Class A: International Trunk roads, which connect to Uganda’s major borders and provides access to sea.  
 
-    ii) Class B: National Trunk roads, which connect major regions within Uganda and also connect large towns and cities to each other; 
+Class B: National Trunk roads, which connect major regions within Uganda and also connect large towns and cities to each other; 
 
-    iii) Class C: Intra regional roads, which provide access within regions and connect the communities to the regional towns or cities.
+Class C: Intra regional roads, which provide access within regions and connect the communities to the regional towns or cities.
 
 Honourable members, over the period from Financial Year 2014/20l5 to Financial Year 2019/2020, the Government of Uganda allocated Shs 16.8 trillion to the development and maintenance of the national roads network in the country. As a result of the increased investment, the paved roads have increased from 4,157 km in 2015 to 5,528 km in June 2021. The details of the road projects substantially completed in the last five years are included in the attached Annex 1. 
 
@@ -536,15 +536,15 @@ As of June 2021, all the Class A roads in Uganda were paved. This makes it possi
 
 Honourable Members, this investment has had the following impact: 
 
-    i) The improvement of connectivity to major border points has improved our access to regional countries, where there is market for Uganda’s exports and also eased importation. This has increased Uganda's competitiveness within the region. 
+The improvement of connectivity to major border points has improved our access to regional countries, where there is market for Uganda’s exports and also eased importation. This has increased Uganda's competitiveness within the region. 
 
-    ii) It has improved trade with other countries and other economic activities among the different regions within the country. 
+It has improved trade with other countries and other economic activities among the different regions within the country. 
 
-    iii) It has improved access to tourism sites, industrial parks and sources of agricultural produce. 
+It has improved access to tourism sites, industrial parks and sources of agricultural produce. 
 
-    iv) It has improved delivery of social and administrative services. 
+It has improved delivery of social and administrative services. 
 
-    v) It has also contributed to the consolidation of security gains over the years. 
+It has also contributed to the consolidation of security gains over the years. 
 
 Government plans to continue the paving of the different classes of national roads in a phased manner based on the economic and social needs across the country and availability of resources to achieve the Vision 2040 target of paved roads density of 100km per every 1000 square km.
 
@@ -555,15 +555,15 @@ In addition to the completed projects, the Government of Uganda embarked on the 
 Procurement is in the final stages for the Contractor for the Lusalira - Nkonge - Lumegere - Sembabule Road, which is part of the critical oil roads programme. These roads were identified in collaboration with private partners in the oil and gas sector. It is expected that the construction of the critical oil roads will ease the process of developing these resources. 
 
 The Government also commenced projects that are aimed at reducing the congestion in Kampala and the surrounding districts. The on-going decongestion projects include: 
-    i) The Kampala Flyover project; 
+The Kampala Flyover project; 
 
-    ii) Upgrading of Kira - Matugga Road; 
+Upgrading of Kira - Matugga Road; 
 
-    iii) Upgrading of Najjanankumbi - Busabala Road; 
+Upgrading of Najjanankumbi - Busabala Road; 
 
-    iv) Kampala Northern Bypass Phase II; and 
+Kampala Northern Bypass Phase II; and 
 
-    v) Busega - Mpigi Expressway.
+Busega - Mpigi Expressway.
 
 The Government also planned for the construction of the Kampala - Southern Bypass completing the inner ring as part of the efforts to ease the congestion in Kampala and the surrounding districts. 
 
@@ -582,9 +582,9 @@ Based on the technical needs analysis undertaken in 2020, approximately 8,811 ki
 
 The prioritised roads are classified as follows
 
-    i) 3,602 kilometres are meant for road upgrading; 
-    ii) Construction of six strategic bridges; and 
-    iii) The capacity improvement of 32 kilometres of roads in Kampala and the surrounding districts.
+3,602 kilometres are meant for road upgrading; 
+Construction of six strategic bridges; and 
+The capacity improvement of 32 kilometres of roads in Kampala and the surrounding districts.
 
 The details of these road projects are shown in Annex 2.
 
@@ -622,21 +622,21 @@ However, Shs 32l.6 billion and Shs 270.75 billion was disbursed for maintenance 
 
 With the above funding, the ministry registered the following achievements:
 
-    i) It maintained 18,482km of DUCA Roads under routine manual maintenance.
+It maintained 18,482km of DUCA Roads under routine manual maintenance.
 
-    ii) Maintained 3,479km of DUCA Roads under routine mechanised maintenance.
+Maintained 3,479km of DUCA Roads under routine mechanised maintenance.
 
-    iii) Maintained 330.72km of DUCA Roads under periodic maintenance.
+Maintained 330.72km of DUCA Roads under periodic maintenance.
 
-    iv) It also rehabilitated 729km of district roads using Force Account (use of own equipment and staff).
+It also rehabilitated 729km of district roads using Force Account (use of own equipment and staff).
 
-    v) Rehabilitated 86.5km of community access roads.
+Rehabilitated 86.5km of community access roads.
 
-    vi) Rehabilitated and tarmacked 13.9km of urban roads.
+Rehabilitated and tarmacked 13.9km of urban roads.
 
-    vii) Tarmacked 58.4km of low volume roads using low cost sealing technology; and
+Tarmacked 58.4km of low volume roads using low cost sealing technology; and
 
-    viii) It constructed the following bridges, swamp crossings and box culverts on the DUCAR network. Bridge: Kisaigi in Kyankwanzi. Then there is 5km swamp crossings at Bwambala in Kakumiro, Kabindula in Kyankwanzi, Kangai in Dokolo, Wangobo-Nsokwe-Namunyumya in Bugiri/Bugweri, and Kabuhuuna in Kibaale District. Then there are box culverts Buhindagye in Ibanda and Ojonai in Amuria District.
+It constructed the following bridges, swamp crossings and box culverts on the DUCAR network. Bridge: Kisaigi in Kyankwanzi. Then there is 5km swamp crossings at Bwambala in Kakumiro, Kabindula in Kyankwanzi, Kangai in Dokolo, Wangobo-Nsokwe-Namunyumya in Bugiri/Bugweri, and Kabuhuuna in Kibaale District. Then there are box culverts Buhindagye in Ibanda and Ojonai in Amuria District.
 
 Mr Speaker, with the above interventions the proportion of the DUCAR network in fair-to-good condition increased from 55 per cent in the Financial Year 2018/2019 to 60 per cent in Financial Year 2020/2021.
 
@@ -649,13 +649,13 @@ In 2011, Government made a policy shift from the use of contracting for road mai
 Following the policy shift, in 2012, Government procured 1,405 items of road construction equipment from the People's Republic of China. The equipment was mainly distributed to the district local governments, urban councils, district roads rehabilitation units, and the urban roads resealing units.
 However, implementation of Force Account using the road equipment from China presented some challenges as highlighted below:
 
-    1. The districts did not receive a full road unit comprising of a motor grader, wheel loader, roller, water bowser and a tipper.
+The districts did not receive a full road unit comprising of a motor grader, wheel loader, roller, water bowser and a tipper.
 
-    2. The model of motor grader (Changlin) that was procured for the districts was meant for light grading work and yet, most of the roads in the districts had deteriorated to a level where heavy grading and rehabilitation was required.
+The model of motor grader (Changlin) that was procured for the districts was meant for light grading work and yet, most of the roads in the districts had deteriorated to a level where heavy grading and rehabilitation was required.
 
-    3. Lack of well-trained and skilled equipment operators in the local governments resulting in frequent equipment breakdown and poor quality work. 
+Lack of well-trained and skilled equipment operators in the local governments resulting in frequent equipment breakdown and poor quality work. 
 
-    4. Lack of effective and efficient after sales services and maintenance for the Chinese equipment.
+Lack of effective and efficient after sales services and maintenance for the Chinese equipment.
 
 Mr Speaker, in 2017, the ministry coordinated the procurement of additional 1,150 items of road construction equipment from the Government of Japan. The road equipment was delivered in 2018 and distributed to the 122 district local governments, including other agencies like KCCA, UNRA, NEC, and the Ministry of Works and Transport itself for force account centres. 
 
@@ -663,11 +663,11 @@ Each of the 122 districts received one motor grader, one wheel loader, one rolle
 
 To effectively maintain the road construction equipment from Japan, the ministry signed framework contracts with three local equipment dealers to provide after sales maintenance for the manufacturers during the warranty period. These include:
 
-    a) M/S Victoria Equipment Ltd - KOMATSU dealer, to maintain the motor graders, bulldozers, hydraulic excavators, and wheel loaders. 
+M/S Victoria Equipment Ltd - KOMATSU dealer, to maintain the motor graders, bulldozers, hydraulic excavators, and wheel loaders. 
 
-    b) M/S Spear Motors Ltd – MITSUBISHI/FUSO dealer, to maintain tippers, crane trucks, self-loaders, low loaders and water bowsers, and 
+M/S Spear Motors Ltd – MITSUBISHI/FUSO dealer, to maintain tippers, crane trucks, self-loaders, low loaders and water bowsers, and 
 
-    c) M/S Afrique Technical Services - SAKAI dealer, to maintain vibro-rol1ers, pneumatic rollers, pedestrian rollers, tampers and rammers.
+M/S Afrique Technical Services - SAKAI dealer, to maintain vibro-rol1ers, pneumatic rollers, pedestrian rollers, tampers and rammers.
 
 For the period commencing from 2018, the 122 districts were able to carry out all the necessary road maintenance works without any major challenges.
 
@@ -675,19 +675,19 @@ However, most of this equipment has now started deteriorating and thus requires 
 
 This situation has resulted into the following: 
 
-    1. Increased outstanding debt with the local maintenance service providers. The ministry now owes the service providers Shs 597 billion. Some service providers have told the ministry that they will not offer additional services until the debt is cleared. 
+Increased outstanding debt with the local maintenance service providers. The ministry now owes the service providers Shs 597 billion. Some service providers have told the ministry that they will not offer additional services until the debt is cleared. 
 
 THE SPEAKER: Honourable minister, what was the figure?
 
 MR ECWERU: The ministry now owes the service providers Shs 1.397 billion. I beg your pardon. Some service providers have told the ministry that they will not offer additional services until the debt is cleared; 
 
-    2. Reduction in availability of mainly the motor graders and the tipper due to worn out tyres that cannot be replaced due to lack of funds. A total of Shs 4.36 billion is required to purchase these tyres;
+Reduction in availability of mainly the motor graders and the tipper due to worn out tyres that cannot be replaced due to lack of funds. A total of Shs 4.36 billion is required to purchase these tyres;
 
-    3. Increased repair backlog as the equipment awaits availability of funds before they can be repaired; 
+Increased repair backlog as the equipment awaits availability of funds before they can be repaired; 
 
-    4. Rising number of Chinese equipment getting grounded due to lack of a maintenance budget and spare parts; and 
+Rising number of Chinese equipment getting grounded due to lack of a maintenance budget and spare parts; and 
 
-    5. Poor funds absorption by the district local governments and Urban Councils especially those whose equipment is not operational. 
+Poor funds absorption by the district local governments and Urban Councils especially those whose equipment is not operational. 
 
 My ministry is procuring additional road construction equipment for 15 new districts, which were created between 2019 and 2020. These districts include: Nabilatuk, Bugweri, Kasanda, Kwania, Kapelebyong, Kikuube, Obongi, Kazo, Rwampara, Kitagwenda, Madi-Okollo, Karenga, Lusot, Rukiga and Terego. After the delivery, each district will be expected to get one motor grader, one wheel loader, one vibro roller, one water bowser and two tipper trucks. This is estimated to cost Shs 55 billion. 
 
@@ -717,12 +717,12 @@ Challenges with Management of the District, Urban and Community Access Roads (DU
 
 The key challenges experienced with the management of the DUCAR network include the following: 
 
-    i) Limited budget for rehabilitation of the DUCAR network; 
-    ii) Limited budget to reduce the bottlenecks on the DUCAR network;
-    iii) Inadequate funding to roll out low cost sealing to different parts of the country; 
-    iv) Lack of adequate equipment to enable effective execution of the Force Account works; and 
-    v) Inadequate funding for road maintenance
-    vi) The absence of a contingency fund, which sometimes does not touch the issue of works. 
+Limited budget for rehabilitation of the DUCAR network; 
+Limited budget to reduce the bottlenecks on the DUCAR network;
+Inadequate funding to roll out low cost sealing to different parts of the country; 
+Lack of adequate equipment to enable effective execution of the Force Account works; and 
+Inadequate funding for road maintenance
+The absence of a contingency fund, which sometimes does not touch the issue of works. 
 
 Mr Speaker, I would like to assure you and all the honourable members that the Government has prioritised the development and maintenance of the road network to support economic development and socio-economic transformation. 
 
@@ -769,8 +769,8 @@ Mr Speaker, the project’s financial package is a total of US$183.75 million of
 
 Allow me to go straight to the achievements, which are also broken into two parts:
 
-    i) financial achievements and
-    ii) Physical progress. 
+financial achievements and
+Physical progress. 
 
 In terms of finances to date, the bank has disbursed $158,292,655.28. On counterpart funding, Government of Uganda has dispersed $11,535,414.63.
 
@@ -857,29 +857,29 @@ This involved reconstructing the pavement areas in the carpet area by improving 
 
 However, in the process, some additional work came in, which was envisaged to enable successful completion of the work in accordance to approved designs. These included;
 
-    i) construction of 120 metre of additional 900 millimetre diameter culverts to connect the storm drain along Ben Kiwanuka Street; 
+construction of 120 metre of additional 900 millimetre diameter culverts to connect the storm drain along Ben Kiwanuka Street; 
 
-    ii) installation of additional concrete curbs for channelisation of islands and waiting areas within the park;
+installation of additional concrete curbs for channelisation of islands and waiting areas within the park;
 
-    iii) construction of one concrete staircase off Burton Street and embankment protection using reinforced concrete; 
+construction of one concrete staircase off Burton Street and embankment protection using reinforced concrete; 
 
-    iv) additional excavation in soft material to spoil and then backfill using imported material. It was discovered that it was mainly clay beneath the surface.  
+additional excavation in soft material to spoil and then backfill using imported material. It was discovered that it was mainly clay beneath the surface.  
 
-    v) additional crushed stone base for islands and paving of frontage parking in-front of the existing buildings and the periphery of the park. 
+additional crushed stone base for islands and paving of frontage parking in-front of the existing buildings and the periphery of the park. 
 
-    vi) additional improved subgrade using rock-fill; and 
+additional improved subgrade using rock-fill; and 
 
-    vii) additional paving of the frontage parking area adjacent to the park.
+additional paving of the frontage parking area adjacent to the park.
 
 However, in this Financial Year 2021/2022, KCCA budgeted for funds towards finalisation of the following critical works, prior to opening of the old taxi park. These were;
 
-    i) Installation of street lighting outside the park; 
-    ii) Painting of all kerbs within the park; 
-    iii) Renovation of the KCCA Park Administration office;
-    iv) Demarcation of stages to operate within the park; 
-    v) Sensitisation of stage readers and operators; 
-    vi) Construction of a health facility within the park; 
-    vii) Renovation and expansion of toilet facilities in addition to installation of security cameras and lights within the park.
+Installation of street lighting outside the park; 
+Painting of all kerbs within the park; 
+Renovation of the KCCA Park Administration office;
+Demarcation of stages to operate within the park; 
+Sensitisation of stage readers and operators; 
+Construction of a health facility within the park; 
+Renovation and expansion of toilet facilities in addition to installation of security cameras and lights within the park.
 
 However, some challenges were faced. Of course, the notable one was heavy rains, which also affected the progress of the work. And there were also limitations during the COVID-19 curfews.
 
@@ -1317,7 +1317,7 @@ MR EKANYA: Then that seal must be withdrawn because – 
 
 THE SPEAKER: Since that seal was issued on the basis of the Hansard and the decision of the Parliament, the only way it can be withdrawn is by Parliament taking another decision. Please, why are we complicating an uncomplicated thing? The Clerk did not act on her own. The Clerk took this page of the Hansard, where the presiding officer said “…I now put the question that this House do approve the proposals to authorise Government to guarantee the Uganda Development Bank Limited to borrow:
 
-    i. $15 million from the European Investment Bank –”
+$15 million from the European Investment Bank –”
 
 That was the question that was put to the House. So, you cannot pass it to the Clerk and you cannot pass it back to the committee. The committee took its decision on the Euro. There was nothing wrong with the committee’s decision. I do not think Parliament was sleeping. It was the minister because he should have corrected the House. The minister should have said “No, Rt Hon. Speaker, it is Euro and not U.S. Dollar”. 
 

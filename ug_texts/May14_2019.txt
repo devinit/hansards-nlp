@@ -1,4 +1,4 @@
-﻿Disclaimer: The electronic version of the Official Report of the proceedings of Parliament (Hansard) is for information purposes only. A certified version of this Report can be obtained from the Office of the Clerk to Parliament.
+Disclaimer: The electronic version of the Official Report of the proceedings of Parliament (Hansard) is for information purposes only. A certified version of this Report can be obtained from the Office of the Clerk to Parliament.
 
 
 
@@ -153,10 +153,10 @@ It also increased the number of days within which to file and determine a presid
 
 As a result of the amendment of the Constitution by the Constitutional (Amendment) Act, 2018, there were consequential amendments that were required to the following Acts in order to ensure conformity with the amended provisions, as effected by the Constitutional (Amendment) Act, 2018. These included:
 
-    1. The Electoral Commissions Act, Cap.l40; 
-    2. The Presidential Elections Act, 2005; 
-    3. The Parliamentary Elections Act, 2005; and 
-    4. The Local Governments Act, Cap 243. 
+The Electoral Commissions Act, Cap.l40; 
+The Presidential Elections Act, 2005; 
+The Parliamentary Elections Act, 2005; and 
+The Local Governments Act, Cap 243. 
 
 Subsequent to the amendment of the Constitution, Bills amending the Electoral Commission Act, Cap 140, the Presidential Elections Act, 2005, the Parliamentary Elections Act, 2005 and the Local Governments Act, Cap 240 have now have been prepared for submission to Cabinet for approval, prior to being introduced in Parliament. We anticipate this to be by the end of May this year for debate and enactment.
 
@@ -168,10 +168,10 @@ Status of the Electoral Law Reform Bill
 
 The following amendments have now been drafted;
 
-    1. The Electoral Commission (Amendment) Bill, 2019;
-    2. The Presidential Elections (Amendment) Bill, 2019;
-    3. The Parliamentary Elections (Amendment) Bill, 2019; and
-    4. The Local Governments (Amendment) Bill, 2019.
+The Electoral Commission (Amendment) Bill, 2019;
+The Presidential Elections (Amendment) Bill, 2019;
+The Parliamentary Elections (Amendment) Bill, 2019; and
+The Local Governments (Amendment) Bill, 2019.
 
 These draft Bills constitute amendments arising out of the Supreme Court’s recommendations in the Constitutional Petition No. 1 of 2016, the European Union Elections Observation Mission Report of Uganda Presidential, Parliamentary and Local Council elections of 18 February 2016 and consequential amendment from the Constitutional (Amendment) Act, 2018, which was passed here and the proposed amendments submitted to the Ministry of Justice and Constitutional Affairs, which have been presented to us by the Electoral Commission.
 
@@ -684,9 +684,9 @@ Clause 8
 
 MR KAFEERO SSEKITOLEKO: Mr Chairman, the committee proposes in clause 8(2)(c) to delete the entire paragraph. The justification is that –
 
-    (i) It will be difficult to ascertain whether a vehicle of a security agency is on emergency duty or not. As a result, the provision might be abused.
+It will be difficult to ascertain whether a vehicle of a security agency is on emergency duty or not. As a result, the provision might be abused.
 
-    (ii) Since clause 6 (3) proposes the operation and management of toll roads to be supported by the use of appropriate technologies, once implemented, it will enable toll operators to keep timely track of such vehicles without causal undue delays. Thereafter, toll operators can compile the road toll and make monthly submissions for payment to a responsible security agency. This will also widen road toll collections.
+Since clause 6 (3) proposes the operation and management of toll roads to be supported by the use of appropriate technologies, once implemented, it will enable toll operators to keep timely track of such vehicles without causal undue delays. Thereafter, toll operators can compile the road toll and make monthly submissions for payment to a responsible security agency. This will also widen road toll collections.
 
 GEN. KATUMBA WAMALA: Mr Chairman, we accept the proposal.
 
@@ -925,8 +925,8 @@ Clause 14, as amended, agreed to.
 Clause 15
 
 MR KAFEERO SSEKITOLEKO: Mr Chairman, the committee proposes in clause 15(2) to redraft the entire sub clause (2) to read as follows; “Notwithstanding sub sections (1) and (2), a road authority may - 
-    a) plant trees in a road reserve or
-    b) in writing, authorise any person or authority to use a road reserve temporarily for any approved activities including the placing of public lighting, advertisements, pipelines, telephone lines, electric supplies, optic fibre cables and posts, drains, sewers, mains or other utilities.”
+plant trees in a road reserve or
+in writing, authorise any person or authority to use a road reserve temporarily for any approved activities including the placing of public lighting, advertisements, pipelines, telephone lines, electric supplies, optic fibre cables and posts, drains, sewers, mains or other utilities.”
 
 The justification is to promote environmental protection and conservation by utilising road reserves to plant trees whenever possible.
 
@@ -1257,8 +1257,8 @@ MR KAFEERO SSEKITOLEKO: Mr Chairman, clause 45 is on the power of authorised off
 
 The justification is: 
 
-    1. To ensure that authorised officers are clearly identified to avoid abuse of power. 
-    2. To harmonise the provision with the East African Community Vehicle Load Control Act, 2016.
+To ensure that authorised officers are clearly identified to avoid abuse of power. 
+To harmonise the provision with the East African Community Vehicle Load Control Act, 2016.
 
 THE DEPUTY CHAIRPERSON: I put the question to that amendment. 
 

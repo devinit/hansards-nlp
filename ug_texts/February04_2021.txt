@@ -1,4 +1,4 @@
-﻿
+
 
 Thursday, 4 February 2021
 
@@ -340,27 +340,27 @@ THE SPEAKER: Are the commissioners here? Commissioner Bahati, please, come and a
 5.01
 THE MINISTER OF STATE FOR FINANCE, PLANNING AND ECONOMIC DEVELOPMENT (PLANNING) (Mr David Bahati): Madam Speaker, I beg to lay the reports of the Auditor-General on the financial statements for the year ended 30 June 2014 for the following local Governments:
 
-    1. Kabwoya Sub-county, Hoima District
-    2. Central Division, Kasese Municipal Council 
-    3. Ruteete Sub-county, Kabarole District 
-    4. Cegere Sub-county, Apac District 
-    5. Apac Sub-county, Apac District 
-    6. Harugali Sub-county, Bundibugyo District 
-    7. Soroti Sub-county, Soroti District 
-    8. Aboke Sub-county, Kole District 
-    9. Ayer Sub-county, Kole District 
-    10. Bala Sub-county, Kole District 
-    11. Ngora Sub-county, Ngora District 
-    12. Bukedea Sub-county, Bukedea District
-    13. Loroo Sub-county, Amudat District 
-    14. Osukuru Sub-county, Tororo District 
-    15. Kumi Sub-county, Kumi District 
-    16. Atutur Sub-county, Kumi District 
-    17. Nyero Subcounty, Kumi District 
-    18. Kakoro Sub-county, Pallisa District 
-    19. Nyamwamba Division, Kasese Municipal Council 
-    20. Orum Sub-county, Otuke District
-    21. Bulembia Division, Kasese Municipal Council 
+Kabwoya Sub-county, Hoima District
+Central Division, Kasese Municipal Council 
+Ruteete Sub-county, Kabarole District 
+Cegere Sub-county, Apac District 
+Apac Sub-county, Apac District 
+Harugali Sub-county, Bundibugyo District 
+Soroti Sub-county, Soroti District 
+Aboke Sub-county, Kole District 
+Ayer Sub-county, Kole District 
+Bala Sub-county, Kole District 
+Ngora Sub-county, Ngora District 
+Bukedea Sub-county, Bukedea District
+Loroo Sub-county, Amudat District 
+Osukuru Sub-county, Tororo District 
+Kumi Sub-county, Kumi District 
+Atutur Sub-county, Kumi District 
+Nyero Subcounty, Kumi District 
+Kakoro Sub-county, Pallisa District 
+Nyamwamba Division, Kasese Municipal Council 
+Orum Sub-county, Otuke District
+Bulembia Division, Kasese Municipal Council 
 
 I beg to lay. 
 
@@ -661,19 +661,19 @@ Clause 4
 6.00
 THE VICE-CHAIRPERSON OF THE COMMITTEE ON EDUCATION AND SPORTS (Mr Jacob Opolot): Madam Chairperson, the committee proposes that the clause be amended as follows:
 
-    a. Paragraph (a), by substituting the word, “The Board may consider where necessary,” with the words, “Within the mandate of the Board.”
-    b. By replacing paragraph (b) with the following: “To prepare, protect, conduct, supervise and mark primary and secondary national examinations and any other examinations within the mandate of the Board.”
-    c. Paragraph (d) by inserting the words, “legally authorised” immediately after the words, “any other person.”
-    d. Paragraph (e), by inserting immediately after the word, “Board” the following words; “in consultation with that examining body.”
-    e. Paragraph (h), by inserting the words, “and keep a permanent record of information concerning that centre,” immediately after the word, “centre.”
+Paragraph (a), by substituting the word, “The Board may consider where necessary,” with the words, “Within the mandate of the Board.”
+By replacing paragraph (b) with the following: “To prepare, protect, conduct, supervise and mark primary and secondary national examinations and any other examinations within the mandate of the Board.”
+Paragraph (d) by inserting the words, “legally authorised” immediately after the words, “any other person.”
+Paragraph (e), by inserting immediately after the word, “Board” the following words; “in consultation with that examining body.”
+Paragraph (h), by inserting the words, “and keep a permanent record of information concerning that centre,” immediately after the word, “centre.”
 
 The justifications are:
 
-    i. The amendment in paragraph (a) is to ensure that national examination Board does not act beyond its mandate.
-    ii. Paragraph (b) is to make the provision more encompassing.
-    iii. Paragraph (d) is to curb unauthorised access to information.
-    iv. Paragraph (e), it is in order to mandate the Uganda National Examinations Board to act in consultation with other examining bodies while equating qualifications.
-    v. Paragraph (h) is to compel the Uganda National examinations Board to keep records of examinations centres. Thank you.
+The amendment in paragraph (a) is to ensure that national examination Board does not act beyond its mandate.
+Paragraph (b) is to make the provision more encompassing.
+Paragraph (d) is to curb unauthorised access to information.
+Paragraph (e), it is in order to mandate the Uganda National Examinations Board to act in consultation with other examining bodies while equating qualifications.
+Paragraph (h) is to compel the Uganda National examinations Board to keep records of examinations centres. Thank you.
 
 THE CHAIRPERSON: Does the minister object?
 
@@ -689,9 +689,9 @@ Clause 5
 
 MR JACOB OPOLOT: Madam Chairperson, the committee proposed an amendment to clause 5 as follows: 
 
-    • Substitute the words, “subsection 4(1)(c)” with the words, “section 4(1)(c)”.
+Substitute the words, “subsection 4(1)(c)” with the words, “section 4(1)(c)”.
 
-    • Insert a new paragraph (d) immediately after paragraph (c) to read as follows: 
+Insert a new paragraph (d) immediately after paragraph (c) to read as follows: 
 
 	“(d) To demand any information, document or record in respect of an examination centre from the person in charge.” 
 
@@ -711,16 +711,16 @@ Clause 6
 
 MR JACOB OPOLOT: Madam Chairperson, the committee proposes an amendment to clause 6 as follows: 
 
-    • In sub-clause (2) paragraph (a), delete the words, “appointed by the President” appearing at the end of the sentence. 
-    • In sub-clause (2) paragraph (e), substitute the word, “Attorney-General” with the words, “Inspector General of Police”. 
-    • By substituting for sub-clause (3) the following:
+In sub-clause (2) paragraph (a), delete the words, “appointed by the President” appearing at the end of the sentence. 
+In sub-clause (2) paragraph (e), substitute the word, “Attorney-General” with the words, “Inspector General of Police”. 
+By substituting for sub-clause (3) the following:
 
 “The chairperson and members of the board of directors shall be appointed by the minister”.
 
 Justification: 
-    1. The amendment in sub-clause (2)(a) is to give the powers of appointment of the chairperson to the minister. 
-    2. In sub-clause (2)(e), the amendment is to provide representation of the Inspector General of Police on the board. 
-    3. In sub-clause (3), the amendment is to provide for the minister as the appointing authority of the chairperson and members of the board. 
+The amendment in sub-clause (2)(a) is to give the powers of appointment of the chairperson to the minister. 
+In sub-clause (2)(e), the amendment is to provide representation of the Inspector General of Police on the board. 
+In sub-clause (3), the amendment is to provide for the minister as the appointing authority of the chairperson and members of the board. 
 
 MR MUKITALE: Madam Chairperson, I would like to comment on the representation of the police on the board. 
 
@@ -892,13 +892,13 @@ Clause 10, as amended, agreed to.
 Clause 11
 
 MR JACOB OPOLOT: Madam Chairperson, the committee proposes that clause 11 is amended as follows:
-    • In subclause (2), by substituting for the words “one month” the words “thirty days”.
+In subclause (2), by substituting for the words “one month” the words “thirty days”.
 
-    • In subclause (3), by replacing the entire provision with the following: 
+In subclause (3), by replacing the entire provision with the following: 
 
 	“(3) The minister shall, within sixty days of receiving notice of a vacancy, appoint another person to the board in accordance with section 6 of this Act.”
 
-    • Deleting subclause (4).
+Deleting subclause (4).
 
 The justification is threefold - for consistency; to prescribe the time period within which the minister shall fill up a vacancy on the board; and it is a consequential amendment, arising from the amendment in clause 6.
 
@@ -916,9 +916,9 @@ Clause 14
 
 MR JACOB OPOLOT: Madam Chairperson, the committee proposed that clause 14 be amended -
 
-    • In sub-clause (1) (c), by substituting the words, “the Appointments and Disciplinary Committee” with the words, “Human Resources Committee”.
+In sub-clause (1) (c), by substituting the words, “the Appointments and Disciplinary Committee” with the words, “Human Resources Committee”.
 
-    • In sub-clause (3), by substituting the entire provision with the following: “A committee appointed under this section may, guided by the procedure provided in schedule 2 to this Act, adopt its own rules and procedures.”
+In sub-clause (3), by substituting the entire provision with the following: “A committee appointed under this section may, guided by the procedure provided in schedule 2 to this Act, adopt its own rules and procedures.”
 
 The justification is: to broaden the functions of the committee and also provide for the procedure and rules to be followed by the committees of the board.
 
@@ -932,9 +932,9 @@ Clause 15
 
 MR JACOB OPOLOT: Madam Chairperson, the committee proposes an amendment under clause 15 as follows:
 
-    • In sub-clause (3), substitute the words, “for one more term” with the words, “subject to performance review.”
+In sub-clause (3), substitute the words, “for one more term” with the words, “subject to performance review.”
 
-    • In sub-clause (4), substitute paragraph (d) with the following: “(d) where he or she has been convicted of an offence by a competent court.”
+In sub-clause (4), substitute paragraph (d) with the following: “(d) where he or she has been convicted of an offence by a competent court.”
 
 The justification is: to provide for performance review as a condition precedent for reappointment of the Executive Director; and to allow the application of the provision to all offences and competent courts within and outside Uganda.
 
@@ -1072,8 +1072,8 @@ Clause 31, agreed to.
 Clause 32
 
 MR JACOB OPOLOT: Madam Chairperson, in clause 32, the committee proposes an amendment by substituting forsub-clause (2), the following;  
-    1. “In addition to the penalty in sub-section (1), the person convicted shall pay back the money collected from the concerned students or the sponsors of the students and compensate them accordingly as the case may be.”
-    2. By inserting a new sub-clause (4) immediately after sub-clause (3) to read as follows: “Where it is established that the person in sub-section (1) (a) is a proprietor of the school, the examinations Board may suspend or cancel the examination centre.”
+“In addition to the penalty in sub-section (1), the person convicted shall pay back the money collected from the concerned students or the sponsors of the students and compensate them accordingly as the case may be.”
+By inserting a new sub-clause (4) immediately after sub-clause (3) to read as follows: “Where it is established that the person in sub-section (1) (a) is a proprietor of the school, the examinations Board may suspend or cancel the examination centre.”
 
 The justification is to ensure that students who do not sit for examinations due to the failure of an authorised person to remit the registration fees are compensated.
 
@@ -1273,5 +1273,4 @@ Allow me thank the Rt Hon. Prime Minister, who has been here since morning, the 
 I adjourn the House to Tuesday at 2.00 p.m. but also to give notice that during the course of the week, in the next few weeks, we shall try as much as possible to facilitate the tributes to important Ugandans that have died. We shall create time for them but it will not interfere with our regular sittings. The House is adjourned to Tuesday at 2.00 p.m. 
 
 (The House rose at 7.17 p.m. and adjourned until Tuesday, 9 February, 2021 at 2.00 p.m.)
-
 

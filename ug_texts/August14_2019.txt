@@ -1,4 +1,4 @@
-﻿
+
 Disclaimer: The electronic version of the Official Report of the proceedings of Parliament (Hansard) is for information purposes only. A certified version of this Report can be obtained from the Office of the Clerk to Parliament.
 
 
@@ -155,8 +155,8 @@ In the performance of its functions under this Act, the Authority shall have due
 
 The justification is that:
 
-    i. The current section 49 is redundant because it is inconsistent with the Public Finance Management Act, 2015.
-    ii. To align the principal Act to the provisions of the Public Finance Management Act, 2015.
+The current section 49 is redundant because it is inconsistent with the Public Finance Management Act, 2015.
+To align the principal Act to the provisions of the Public Finance Management Act, 2015.
 
 THE CHAIRPERSON: Are you talking about the entire section 49 or the five sub-clauses?
 
@@ -214,9 +214,9 @@ MS ABABIKU: Thank you, Madam Chairperson.
 
 The justification is:
 
-    i. The specialised expertise is required because of the nature of work of the Capital City Public Accounts Committee. Therefore, section 58(3) of the principal Act should be reinstated.
+The specialised expertise is required because of the nature of work of the Capital City Public Accounts Committee. Therefore, section 58(3) of the principal Act should be reinstated.
 
-    ii. For clarity by ensuring that the tenure of members of the Capital City Public Accounts Committee is aligned to that of the Council.
+For clarity by ensuring that the tenure of members of the Capital City Public Accounts Committee is aligned to that of the Council.
 
 THE CHAIRPERSON: Honourable members, the question is that clause 30 be amended as proposed.
 
@@ -233,13 +233,13 @@ MS ABABIKU: Thank you, Madam Chairperson.
 Amendment of section 72 of the principal Act
 Replace the entire clause with the following:
 “Section 72 of the principal Act is amended:
-    a. In sub-section (1) paragraph (c):
-    (i) By substituting for the words “act as”, the word “be”.
-    (ii) By substituting for the word “Authority”, the word “Capital City”.
+In sub-section (1) paragraph (c):
+By substituting for the words “act as”, the word “be”.
+By substituting for the word “Authority”, the word “Capital City”.
 
-    b. In sub-section (2) paragraph (f):
-    (i) By substituting for the words “Lord Mayor”, the word “Speaker”.
-    (ii) By substituting for the word “Authority” the word “Council”.”
+In sub-section (2) paragraph (f):
+By substituting for the words “Lord Mayor”, the word “Speaker”.
+By substituting for the word “Authority” the word “Council”.”
 
 The justification is that it is a consequential amendment. Thank you, Madam Chairperson.
 
@@ -255,8 +255,8 @@ THE CHAIRPERSON: Honourable chairperson, do you have an amendment?
 
 MS ABABIKU: Thank you, Madam Chairperson. We are deleting the entire clause. The justification is that:
 
-    1. The provision is redundant, since the representation of the professional bodies on the council has been repealed.
-    2. The Bill, when passed, will not apply retrospectively.
+The provision is redundant, since the representation of the professional bodies on the council has been repealed.
+The Bill, when passed, will not apply retrospectively.
 
 Thank you, Madam Chairperson.
 
@@ -343,15 +343,15 @@ MS ABABIKU: Thank you, Madam Chairperson. Insert a new clause immediately after 
 Amendment of Fourth Schedule to the principal Act 
 
 The Fourth Schedule of the principal Act is amended:
-    a. In paragraph 1 
+In paragraph 1 
 
-    1. In sub-paragraph (i)
-    i.  Sub-paragraph (1), by substituting for the words, “Lord Mayor”, with the word, “Speaker”;
-    ii. Sub-paragraph (4), by substituting for the words, “Lord Mayor” with the word, “Speaker”.
+In sub-paragraph (i)
+ Sub-paragraph (1), by substituting for the words, “Lord Mayor”, with the word, “Speaker”;
+Sub-paragraph (4), by substituting for the words, “Lord Mayor” with the word, “Speaker”.
 
-    b. Paragraph (3)(1), by substituting for the words, “Lord Mayor” with the word, “Speaker”.
+Paragraph (3)(1), by substituting for the words, “Lord Mayor” with the word, “Speaker”.
 
-    c. By substituting a new paragraph immediately after paragraph 3 as follows: 
+By substituting a new paragraph immediately after paragraph 3 as follows: 
 
 3 (a): Resolutions and recommendations of Council 
 
@@ -361,11 +361,11 @@ The Lord Mayor shall, within three months of receipt of the resolution or recomm
 
 The justification is that;
 
-    1. It is a consequential amendment.
+It is a consequential amendment.
 
-    2. To provide for the requirement of the Executive Committee, not the minister.
+To provide for the requirement of the Executive Committee, not the minister.
   
-    3. To provide actions taken report to Council all resolutions or recommendations made by the Council.
+To provide actions taken report to Council all resolutions or recommendations made by the Council.
  
 Thank you, Madam Chairperson.
 
@@ -411,18 +411,18 @@ MS NAMUGWANYA: Madam Chairperson, we stood over clause 14 and you directed that 
 
 We also propose to insert what we have just distributed, which reads, “There shall be a Metropolitan Physical Planning Committee which shall consist of: 
 
-    a) the minister for Kampala Capital City and Metropolitan Affairs who will be the chairperson;
-    b) The Minister For Lands Housing And Urban Development;
-    c) The Minister For Local Government;
-    d) The Lord Mayor;
-    e) The chairpersons LCV of Wakiso Mpigi and Mukono;
-    f) The Executive Director of Kampala Capital City Authority;
-    g) The Chief Administrative Officers of Wakiso, MPigi and Mukono;
-    h) The Chairperson, National Planning Authority;
-    i) The Chairperson of the National Physical Planning Board who will Bill the secretary to the committee;
-    j) The Director Physical Planning of Kampala Capital City Authority;
-    k) The district planners of Wakiso, Mpigi and Mukono; and
-    l) Any other person as the minister may deem necessary but not exceeding five.” I beg to submit. 
+the minister for Kampala Capital City and Metropolitan Affairs who will be the chairperson;
+The Minister For Lands Housing And Urban Development;
+The Minister For Local Government;
+The Lord Mayor;
+The chairpersons LCV of Wakiso Mpigi and Mukono;
+The Executive Director of Kampala Capital City Authority;
+The Chief Administrative Officers of Wakiso, MPigi and Mukono;
+The Chairperson, National Planning Authority;
+The Chairperson of the National Physical Planning Board who will Bill the secretary to the committee;
+The Director Physical Planning of Kampala Capital City Authority;
+The district planners of Wakiso, Mpigi and Mukono; and
+Any other person as the minister may deem necessary but not exceeding five.” I beg to submit. 
 
 MR WALUSWAKA: Madam Chairperson, need arises every time. When the minister says that only the districts of Kampala, Mpigi and Wakiso, what if it is prudent that it is further divided? We should instead talk about districts within Kampala, Mpigi and Wakiso or the districts which may come from them. This is because need can arise and that might force us to amend this law again.
 
@@ -522,14 +522,14 @@ MS NAMBOOZE: It is there – (Interjection) – no, it is not smuggled in.
 
 THE CHAIRPERSON: Okay, as we sort out the amendment or lack thereof, I would like you to welcome our neighbours from the Kenya National Assembly in the distinguished stranger’s gallery. They are from the Committee of Powers and Privileges of the Kenya National Assembly. They include: 
 
-    1. Hon. Vincent Mogaka – The head of delegation
-    2. Hon. James Matthew Onyango – Member of the delegation
-    3. Hon. Danson Mwashako – Member of the delegation 
-    4. Hon. Beatrice Kones  - Member of delegation 
-    5. Hon. Andrew Mwadime  - Member of delegation 
-    6. Mr Stanley Lagat  - Member of staff 
-    7. Ms Zainab Wario  - Member of staff 
-    8. Ms Halima Suleiman Ahmed – Member of staff and secretary to the delegation
+Hon. Vincent Mogaka – The head of delegation
+Hon. James Matthew Onyango – Member of the delegation
+Hon. Danson Mwashako – Member of the delegation 
+Hon. Beatrice Kones  - Member of delegation 
+Hon. Andrew Mwadime  - Member of delegation 
+Mr Stanley Lagat  - Member of staff 
+Ms Zainab Wario  - Member of staff 
+Ms Halima Suleiman Ahmed – Member of staff and secretary to the delegation
 
 You are welcome.      
 
@@ -1450,4 +1450,3 @@ Honourable members, I indicated that in the morning hours, the body of Mrs Mary 
 Honourable members, I thought it is the usual things but the body will be in the lobby from 10 o’clock to 12 o’clock and our other business will continue. Therefore, House is adjourned to 2 o’clock tomorrow.
 
 (House rose at 6.54 p.m. and adjourned until Thursday 15 August 2019 at 2 o’clock) 
-

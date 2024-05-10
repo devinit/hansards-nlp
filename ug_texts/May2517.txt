@@ -1,4 +1,4 @@
-﻿
+
 
 Thursday, 25 May 2017 
 
@@ -52,14 +52,14 @@ The committee recommends that Parliament approves the revised budget estimates f
 
 Recurrent Budget
 
-    a) Vote 008, Ministry of Finance, Planning and Economic Development – Shs 136,696,684,000.
-    b) Vote 108, National Planning Authority – Shs 20,295,766,000.
-    c) Vote 129, Financial Intelligence Authority – Shs 7, 752,684,000.
-    d) Voted 130, Treasury Operations – Shs 8,623,676,550,000.
-    e) Vote 131, Auditor-General – Shs 63,436,743,000.
-    f) Vote 141, Uganda Revenue Authority – Shs 311,320,084,000.
-    g) Vote 143, Uganda Bureau of Statistics – Shs 34,492,382,000.
-    h) Vote 153, Public Procurement and Disposal of Public Assets Authority – Shs 11,290,117,000.
+Vote 008, Ministry of Finance, Planning and Economic Development – Shs 136,696,684,000.
+Vote 108, National Planning Authority – Shs 20,295,766,000.
+Vote 129, Financial Intelligence Authority – Shs 7, 752,684,000.
+Voted 130, Treasury Operations – Shs 8,623,676,550,000.
+Vote 131, Auditor-General – Shs 63,436,743,000.
+Vote 141, Uganda Revenue Authority – Shs 311,320,084,000.
+Vote 143, Uganda Bureau of Statistics – Shs 34,492,382,000.
+Vote 153, Public Procurement and Disposal of Public Assets Authority – Shs 11,290,117,000.
 
 Mr Speaker, there are a number of observations that ought to be debated by this House – 
 
@@ -69,14 +69,14 @@ MR MUSASIZI: I beg your pardon, Mr Speaker.
 
 Development Budget 
 
-    a) Vote 008, Ministry of Finance, Planning and Economic Development – Shs 328,595,229,000.
-    b) Vote 108, National Planning Authority - Shs 836,000,000.
-    c) Vote 129, Financial Intelligence Authority – Shs 465,000,000.
-    d) Vote 130, Treasury operations – Nil.
-    e) Vote 131, Auditor-General - Shs 3,975,510,000.
-    f) Vote 141, Uganda Revenue Authority – Shs 54,930,711,000.
-    g) Vote 143, Uganda Bureau of Statistics – Shs 18,670,420,000.
-    h) Vote 153, Public Procurement and Disposal of Public Assets Authority - Shs 2,320,000,000.
+Vote 008, Ministry of Finance, Planning and Economic Development – Shs 328,595,229,000.
+Vote 108, National Planning Authority - Shs 836,000,000.
+Vote 129, Financial Intelligence Authority – Shs 465,000,000.
+Vote 130, Treasury operations – Nil.
+Vote 131, Auditor-General - Shs 3,975,510,000.
+Vote 141, Uganda Revenue Authority – Shs 54,930,711,000.
+Vote 143, Uganda Bureau of Statistics – Shs 18,670,420,000.
+Vote 153, Public Procurement and Disposal of Public Assets Authority - Shs 2,320,000,000.
 
 Mr Speaker, I beg to move.
 
@@ -236,32 +236,32 @@ I now move that considering the observations and recommendations of the committe
 
 Vote 001 - Office of the President
 
-    a) Recurrent expenditure – Shs 118,928,091,000
-    b) Development expenditure – Shs 5,216,904,000
+Recurrent expenditure – Shs 118,928,091,000
+Development expenditure – Shs 5,216,904,000
 
 Vote 002 – State House
-    a) Recurrent expenditure – Shs 233,228,827,000
-    b) Development expenditure – Shs 12,338,411,000
+Recurrent expenditure – Shs 233,228,827,000
+Development expenditure – Shs 12,338,411,000
 
 Vote 003 – Office of the Prime Minister
-    a) Recurrent expenditure - Shs 64,786,412,000
-    b) Development expenditure – Shs 245,404,928,000
+Recurrent expenditure - Shs 64,786,412,000
+Development expenditure – Shs 245,404,928,000
 
 Vote 107 – Uganda AIDS Commission
-    a) Recurrent expenditure - Shs 7,201,299,000
-    b) Development expenditure  - Shs 127,809,000
+Recurrent expenditure - Shs 7,201,299,000
+Development expenditure  - Shs 127,809,000
 
 Vote 112 - Ethics and Integrity
-    a) Recurrent expenditure - Shs 3,888,855,000
-    b) Development expenditure - Shs 210,597,000
+Recurrent expenditure - Shs 3,888,855,000
+Development expenditure - Shs 210,597,000
 
 Vote 122 - Kampala Capital City Authority
-    a) Recurrent expenditure - Shs 198,067,620,114
-    b) Development expenditure - Shs 135,984,606,110
+Recurrent expenditure - Shs 198,067,620,114
+Development expenditure - Shs 135,984,606,110
 
 Vote 159 - External Security Organisation
-    a) Recurrent expenditure - Shs 30,951,106,000
-    b) Development expenditure - Shs 392,000,000
+Recurrent expenditure - Shs 30,951,106,000
+Development expenditure - Shs 392,000,000
 
 Madam Speaker, I beg that this report be adopted.
 
@@ -383,32 +383,32 @@ THE CHAIRPERSON, COMMITTEE ON DEFENCE AND INTERNAL AFFAIRS (Ms Judith Nabakooba)
 The committee looked at seven votes under defence and internal affairs: 
 
 Vote 004 - Ministry of Defence 
-    a) Recurrent expenditure – Shs 806,800,000,000
-    b) Development expenditure – Shs 492,542,005,000
+Recurrent expenditure – Shs 806,800,000,000
+Development expenditure – Shs 492,542,005,000
 
 Vote 009 - Ministry of Internal Affairs 
-    a) Recurrent expenditure - Shs 16,690,000,000
-    b) Development expenditure - Shs 1,258,702,000
+Recurrent expenditure - Shs 16,690,000,000
+Development expenditure - Shs 1,258,702,000
 
 Vote 120 - National Citizenship and Immigration Control 
-    a) Recurrent expenditure - Shs 21,790,984,000
-    b) Development expenditure - Shs 21,933,000,000
+Recurrent expenditure - Shs 21,790,984,000
+Development expenditure - Shs 21,933,000,000
 
 Vote 144 - Uganda Police Forces 
-    a) Recurrent expenditure - Shs 402,436,000,000
-    b) Development expenditure - Shs 101,663,000,000
+Recurrent expenditure - Shs 402,436,000,000
+Development expenditure - Shs 101,663,000,000
 
 Vote 145 - Uganda Prisons Service
-    a) Recurrent expenditure – Shs 138,866,000,000
-    b) Development expenditure – Shs 39,299,000,000
+Recurrent expenditure – Shs 138,866,000,000
+Development expenditure – Shs 39,299,000,000
 
 Vote 305 - Directorate of Government Analytical Laboratories
-    a) Recurrent expenditure – Shs 3,538,000,000
-    b) Development expenditure – Shs 5,344,000,000
+Recurrent expenditure – Shs 3,538,000,000
+Development expenditure – Shs 5,344,000,000
 
 Vote 309 - National Identification and Registration Authority
-    a) Recurrent expenditure – Shs 63,422,000,000
-    b) Development expenditure – Shs 21,142,000,000
+Recurrent expenditure – Shs 63,422,000,000
+Development expenditure – Shs 21,142,000,000
 
 Those are the respective votes. 
 
@@ -609,10 +609,10 @@ Vote 020 – Ministry of Information, Communication, Technology and National Gui
 
 The total vote allocation for the financial year 2017/2018 is Shs 50.399 billion, comprising of the following: 
 
-    a) Wage - Shs 1.744 billion;
-    b) Non-wage – Shs 26.829 billion;
-    c) Development – Shs 17.597 billion;
-    d) Non-tax revenue – Shs 3.5 billion.
+Wage - Shs 1.744 billion;
+Non-wage – Shs 26.829 billion;
+Development – Shs 17.597 billion;
+Non-tax revenue – Shs 3.5 billion.
 
 This includes Shs 20 billion for recapitalization of UBC, Shs 15 billion support for ICT innovation and Shs 3.77 billion for the new Department of National Guidance that was transferred to the ministry.
 
@@ -635,23 +635,23 @@ THE DEPUTY SPEAKER: No, please go to page 12.
 MR AKORA: Thank you, Mr Speaker. Page 12 is the summary of the proposed appropriation by the Committee on Information and Communications Technology for vote 020 and vote 126 and other agencies under the sector.
 
 Vote 020 – Ministry of Information, Communications Technology and National Guidance
-    a) Recurrent expenditure – Shs 30,939,234,518
-    b) Development expenditure – Shs 19,459,639,476 
+Recurrent expenditure – Shs 30,939,234,518
+Development expenditure – Shs 19,459,639,476 
 That gives us a subtotal of Shs 50,398,873,994.
 
 Vote 126 – National Information Technology Authority (NITA-U)
-    a) Recurrent expenditure – Shs 51,364,376,627 
-    b) Development expenditure – Shs 36,615,856,310
+Recurrent expenditure – Shs 51,364,376,627 
+Development expenditure – Shs 36,615,856,310
 The subtotal for NITA-U is Shs 87,980,232,937.
 
 Uganda Institute of Communications Technology (UICT)
-    a) Recurrent expenditure – Shs 3,869,661,195 
-    b) Development expenditure – Shs 6,278,248,100
+Recurrent expenditure – Shs 3,869,661,195 
+Development expenditure – Shs 6,278,248,100
 The sub-total for UICT is Shs 10,147,909,295.
 
 Uganda Communications Commission (UCC)
-    a) Recurrent expenditure – Shs 47,990,273,814
-    b) Development expenditure – Shs 59,198,355,875 (Interruption)
+Recurrent expenditure – Shs 47,990,273,814
+Development expenditure – Shs 59,198,355,875 (Interruption)
 
 MS FRANCA AKELLO: Mr Speaker, you guided very rightly that we go to page 12, but in the report I have downloaded on my iPad, that page has key priorities and -
 
@@ -660,13 +660,13 @@ THE DEPUTY SPEAKER: Page 12 in the summary of the extracts from the main report.
 MR AKORA: This is the executive summary that has also been uploaded onto Members’ iPads. If you would like to use the original report, then it is on page 29.
 
 Posta Uganda
-    a) Recurrent expenditure – Shs 19,971,000,000
-    b) Development expenditure – Shs 486,000,000
+Recurrent expenditure – Shs 19,971,000,000
+Development expenditure – Shs 486,000,000
 The subtotal is Shs 20,457,000,000.
 
 Uganda Broadcasting Corporation
-    a) Recurrent expenditure – Shs 12,000,000,000
-    b) Development expenditure – Shs 20,000,000,000 
+Recurrent expenditure – Shs 12,000,000,000
+Development expenditure – Shs 20,000,000,000 
 The subtotal is Shs 32,000,000,000.
 
 Mr Speaker, I beg to report.
@@ -1120,34 +1120,34 @@ Vote 107: Ministry of Energy and Mineral Development
 
 I have had a few corrections and I will be very slow so that they are captured in this particular session - there were some mathematical mistakes.
 
-    a) Recurrent expenditure – Shs 42,366,592,000
-    b) Development expenditure – Shs 1,864,550,191,000
-    c) Total is Shs - 1,906,916,738,000
+Recurrent expenditure – Shs 42,366,592,000
+Development expenditure – Shs 1,864,550,191,000
+Total is Shs - 1,906,916,738,000
 
 Vote 123: Rural Electrification Agency
-    a) Recurrent expenditure - Shs 30,818,357,000
-    b) Development expenditure – Shs 461,642,258,000
-    c) Total is – Shs 492,460,615,000
+Recurrent expenditure - Shs 30,818,357,000
+Development expenditure – Shs 461,642,258,000
+Total is – Shs 492,460,615,000
 
 Vote 019: Ministry of Water and Environment 
-    a) Recurrent expenditure is – Shs 23,018,930,000
-    b) Development expenditure is – Shs 502,963,791,000
-    c) This gives us a total of Shs - 525,982,721,000
+Recurrent expenditure is – Shs 23,018,930,000
+Development expenditure is – Shs 502,963,791,000
+This gives us a total of Shs - 525,982,721,000
 
 Vote 150: National Environmental Management Authority 
-    a) Recurrent expenditure is – Shs 18,999,271,000
-    b) Development expenditure is - Shs 2,210,000,000
-    c) We get a total of Shs -    21,209,271,000
+Recurrent expenditure is – Shs 18,999,271,000
+Development expenditure is - Shs 2,210,000,000
+We get a total of Shs -    21,209,271,000
 
 Vote 157: National Forestry Authority
-    a) Recurrent expenditure is – Shs 22,362,443,000
-    b) Development expenditure is - Shs 3,144,557,000
-    c) This gives us a total of Shs – 29,508,000,000
+Recurrent expenditure is – Shs 22,362,443,000
+Development expenditure is - Shs 3,144,557,000
+This gives us a total of Shs – 29,508,000,000
 
 Vote 302: Uganda National Meteorological Authority
-    a) Recurrent expenditure – Shs 12,594,556,000
-    b) Development expenditure – Shs 17,037,000,000
-    c) This gives us a total of – Shs 29,631,556,000
+Recurrent expenditure – Shs 12,594,556,000
+Development expenditure – Shs 17,037,000,000
+This gives us a total of – Shs 29,631,556,000
 
 Mr Speaker, those are the figures although I would like to request for a minute to give a few salient issues as part of agendum that will benefit honourable members. 
 
@@ -1440,14 +1440,14 @@ MS KOMUHANGI: Mr Speaker, allow me to present the executive summary of the repor
 The report covers the following institutions:
 
 Vote 018; Ministry of Gender, Labour and Social Development and the statutory bodies, which receive subvention from the ministry namely: 
-    a) Uganda National Cultural Centre, 
-    b) National Library of Uganda, 
-    c) National Youth Council, 
-    d) National Women Council, 
-    e) National Council for Persons with Disabilities, 
-    f) National Council for Older Persons, 
-    g) National Children Authority and 
-    h) Industrial Court.
+Uganda National Cultural Centre, 
+National Library of Uganda, 
+National Youth Council, 
+National Women Council, 
+National Council for Persons with Disabilities, 
+National Council for Older Persons, 
+National Children Authority and 
+Industrial Court.
 Vote 124; Equal Opportunities Commission
 Vote 501 to 850; Local Government
 
@@ -1469,30 +1469,30 @@ MS KOMUHANGI: Mr Speaker, subject to the observations and recommendations that w
 
 Vote 018 – Ministry of Gender, Labour and Social Development
 
-    a) Recurrent expenditure – Shs 44,115,885,000
-    b) Development expenditure – Shs 118,078,738,000
+Recurrent expenditure – Shs 44,115,885,000
+Development expenditure – Shs 118,078,738,000
 The sub-total for this vote is Shs 162,193,623,000
 
-    a) Wage - Shs 3,606,000,000
-    b) Non-wage – Shs 40,509,885,000
-    c) Recurrent expenditure - Shs 44,115,885,000
-    d) Development expenditure – Shs 118,078,738,000
+Wage - Shs 3,606,000,000
+Non-wage – Shs 40,509,885,000
+Recurrent expenditure - Shs 44,115,885,000
+Development expenditure – Shs 118,078,738,000
 The total is Shs 158,588,623,000.
 
 Vote 124 – Equal Opportunities Commission 
 
-    a) Recurrent expenditure – Shs 6,100,745,564
-    b) Development expenditure – Shs 300,000,000
+Recurrent expenditure – Shs 6,100,745,564
+Development expenditure – Shs 300,000,000
 The sub-total is Shs 6,400,745,564
 
-    a) Wage recurrent - Shs 2,966,807,972
-    b) Non-wage – Shs 3,133,937,592
+Wage recurrent - Shs 2,966,807,972
+Non-wage – Shs 3,133,937,592
 The sub-total is 3,433,937,592
 
 The total budget for the Social Development Sector 
 
-    a) Recurrent budget – Shs 50,216,630,564
-    b) Development expenditure – Shs 118,378,738,000
+Recurrent budget – Shs 50,216,630,564
+Development expenditure – Shs 118,378,738,000
 The sub-total is Shs 168,594,368,564
 
 Votes 500-850 - Local Government 
@@ -1504,8 +1504,8 @@ Off-Budget for Equal Opportunities Commission is Shs 152,551,000.
 
 Mr Speaker, the grand Budget for Social Development Sector is:
 
-    a) Recurrent expenditure – Shs 57,856,630,564
-    b) Development expenditure – Shs 182,186,845,538
+Recurrent expenditure – Shs 57,856,630,564
+Development expenditure – Shs 182,186,845,538
 The total is Shs 240,194,987,102
 
 Mr Speaker, I beg for approval.
@@ -1544,14 +1544,14 @@ Mr Speaker, as you have been briefed, SAGE implementation is yet to secure a ful
 In addition, the beneficiary payments in Financial Year 2016/2017 are in arrears to the tune of Shs 3.73 billion. During consultations on the Budget, His Excellency the President recommended that SAGE stays in 40 districts in the next Financial Year 2017/2018 and takes over two districts from development partners as per Memorandum of Understanding requirements.
 
 His Excellency the President’s directive of staying in 40 districts currently covered by SAGE in Financial Year 2017/2018 has the following implications:
-    1. A total of 143,268 beneficiaries will be covered in the 40 districts. The immediate beneficiaries that will be affected will be 7,900 older persons from five districts of Dokolo, Mubende, Kasese, Sheema and Ssembabule who were scheduled to come on board in Financial Year 2017/2018.
+A total of 143,268 beneficiaries will be covered in the 40 districts. The immediate beneficiaries that will be affected will be 7,900 older persons from five districts of Dokolo, Mubende, Kasese, Sheema and Ssembabule who were scheduled to come on board in Financial Year 2017/2018.
 
 Government has to takeover beneficiary payments of Shs 8.81 billion in the two districts of Kyenjojo and Nebbi in Financial Year 2017/2018. Government has provided Shs 3.73 billion to clear the outstanding arrears in the beneficiary payments.
 
 Therefore, to implement His Excellency the President’s directive, the ministry requires an additional Shs 12.51 billion in Financial Year 2017/2018. Given key considerations, including the President’s directive to defer the rollout due to insufficient funding, the growing demand by stakeholders to have the programme implemented in the entire country and the need to maintain the development partner’s support and working relations, the ministry is proposing to redesign the programme as follows:
 
-    a) In Financial Year 2017/2018, we propose to maintain the current beneficiaries in the 40 districts.
-    b) To immediately start to redevelop detailed plans to cover all senior citizens aged 85 years and above in the remaining districts across the country with an aim of making payments to new beneficiaries starting Financial Year 2018/2019. 
+In Financial Year 2017/2018, we propose to maintain the current beneficiaries in the 40 districts.
+To immediately start to redevelop detailed plans to cover all senior citizens aged 85 years and above in the remaining districts across the country with an aim of making payments to new beneficiaries starting Financial Year 2018/2019. 
 
 This proposal will increase coverage of the SAGE programme to 235,028 beneficiaries and the cost will be Shs 89.05 billion annually. To finance this plan, the Government of Uganda will need to provide Shs 27.71 billion in Financial Year 2018/2019, Shs 42 billon in Financial Year 2019/2020, Shs 48.86 billion in Financial Year 2020/2012 and Shs 80.63 billion in Financial Year 2021/2022 because then, Government will be fully responsible for managing SAGE of its own without support of development partners.
 
@@ -1817,9 +1817,9 @@ Mr Speaker, the committee also noted that the implementation of parliamentary re
 
 Mr Speaker, the committee therefore, recommends that the Ministry of Finance, Planning and Economic Development should provide funds to the Ministry of East African Community Affairs to enable it carry out the following key activities:
 
-    1. Sensitisation of the population on the integration;
-    2. Acquisition of land for construction of the ministry’s headquarters; and
-    3. Facilitation of the mandatory hosting of the East African Community heads of State summit.
+Sensitisation of the population on the integration;
+Acquisition of land for construction of the ministry’s headquarters; and
+Facilitation of the mandatory hosting of the East African Community heads of State summit.
 
 Therefore, the committee proposed that Shs 67.563 billion be provided for by Parliament to enable the ministry perform its mandate of ensuring that Uganda benefits from the integration of the East African Community.
 
@@ -2134,35 +2134,35 @@ The first is recurring pests, vectors and diseases that are affecting production
 The committee made some recommendations and following these recommendations below are the budget estimates for financial year 2017/18 to various votes under the sector:
 
 Vote 010 - Ministry of Agriculture, Animal Industry and Fisheries: 
-    a) Recurrent expenditure - Shs 53,343,068,000; 
-    b) Development expenditure – Shs 116,501,826,000; and 
-    c) External financing - Shs 158,439,836,000. 
+Recurrent expenditure - Shs 53,343,068,000; 
+Development expenditure – Shs 116,501,826,000; and 
+External financing - Shs 158,439,836,000. 
 This gives a total of Shs 328,284,730,000.
 
 Vote 121 - Diary Development Authority:
-    a) Recurrent expenditure – Shs 4,853,580,000; 
-    b) Development expenditure – Shs 2,134,000,000. 
+Recurrent expenditure – Shs 4,853,580,000; 
+Development expenditure – Shs 2,134,000,000. 
 That gives a total of Shs 6,987,580,000.
 
 Vote 125 - National Animal Genetic Resource Centre and Databank:
-    a) Recurrent expenditure – Shs 7,132,500,000; and
-    b) Development expenditure – Shs 7,500,000,000. 
+Recurrent expenditure – Shs 7,132,500,000; and
+Development expenditure – Shs 7,500,000,000. 
 Total of Shs 14,632,500,000
 
 Vote 142 - National Agricultural Research Organisation:
-    a) Recurrent expenditure – Shs 35,648,144,000;
-    b) Development expenditure – Shs 8,780,494,000; and
-    c) External financing – Shs 45,539,805,000 
+Recurrent expenditure – Shs 35,648,144,000;
+Development expenditure – Shs 8,780,494,000; and
+External financing – Shs 45,539,805,000 
 Total of Shs 89,968,443,000.
 
 Vote 152 - NAADS Secretariat: 
-    a) Recurrent expenditure – Shs 5,439,711,000; and
-    b) Development expenditure – Shs 310,262,723,000. 
+Recurrent expenditure – Shs 5,439,711,000; and
+Development expenditure – Shs 310,262,723,000. 
 Total of Shs 315,702,434,000.
 
 Vote 155 - Uganda Cotton Development Organisation:
-    a) Recurrent expenditure – Shs 4,277,639,000; and 
-    b) Development expenditure – Shs 4,411,000,000 
+Recurrent expenditure – Shs 4,277,639,000; and 
+Development expenditure – Shs 4,411,000,000 
 Total of Shs 8,688,639,000.
 
 Vote 160 - Uganda Coffee Development Authority:
@@ -2454,10 +2454,10 @@ The diffuse of equipment in health facilities and patients sleeping down, what i
 
 7.57
 MR LAWRENCE ONEGIU (NRM, Ora County, Zombo): Thank you, chairperson, for the presentation. Countries that have addressed their disease burden have addressed the following issues:
-    1. Water; 
-    2. Sanitation;
-    3. Hygiene (both personal and home); and 
-    4. Nutrition.
+Water; 
+Sanitation;
+Hygiene (both personal and home); and 
+Nutrition.
 
 What plans do you have to address these challenges so that we do not even need to go to the hospital because people are healthy?
 

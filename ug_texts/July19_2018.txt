@@ -1,4 +1,4 @@
-﻿
+
 
 Thursday, 19 July 2018
 
@@ -177,8 +177,8 @@ Now, after a heavy downpour, the water comes and lies in the lowland whereby all
 
 Mr Speaker, to be brief and precise, my prayer is:
 
-    1. Government should help the people of Bulambuli save the lives of those who are affected. As I talk now, as per yesterday, one person died and right now, I do not know the death toll because I am here. 
-    2. The water sources; Government should come to our rescue. They should dig more boreholes and treat them with disinfectants so that we help our people. 
+Government should help the people of Bulambuli save the lives of those who are affected. As I talk now, as per yesterday, one person died and right now, I do not know the death toll because I am here. 
+The water sources; Government should come to our rescue. They should dig more boreholes and treat them with disinfectants so that we help our people. 
 
 Thank you, Mr Speaker. I think I will not go beyond that because the point has been taken. 
 
@@ -296,15 +296,15 @@ Progress in Population Health and Development
 
 Mr Speaker, we have made substantial progress in regard to population and health issues. As a result of these programmes, Uganda has made commendable progress in a number of population and health related areas. This progress is reflected in the census of 2014 and Uganda Demographic and Health Surveys. I would like to cite just a few examples:
 
-    a) Uganda has registered an impressive increase in longevity of its population. For the first time in a long time, our life expectancy in Uganda has increased from 43 years in 1991 to 63 years in 2016.
-    b) HIV/AIDS prevalence rate in the general population has declined from 18.5 per cent (and 3O per cent in some specific sub-populations) in 1991 to 6.4 per cent in 2016.
-    c) Uganda has also seen an improvement in the immunisation programmes. Immunisation against Diphtheria Polio Tetanus (DPTs) currently stands at 79 per cent according to Uganda Demographic Health Survey of 2016 although full immunisation, that is, children immunised against all the killer diseases, stands at 55 per cent. This has led to improvements in child survival. Infant mortality (children dying in the first year of life) dropped from 122 deaths per 1,000 live births in 1991 to 43 deaths in 2016, representing a 63 per cent drop.
+Uganda has registered an impressive increase in longevity of its population. For the first time in a long time, our life expectancy in Uganda has increased from 43 years in 1991 to 63 years in 2016.
+HIV/AIDS prevalence rate in the general population has declined from 18.5 per cent (and 3O per cent in some specific sub-populations) in 1991 to 6.4 per cent in 2016.
+Uganda has also seen an improvement in the immunisation programmes. Immunisation against Diphtheria Polio Tetanus (DPTs) currently stands at 79 per cent according to Uganda Demographic Health Survey of 2016 although full immunisation, that is, children immunised against all the killer diseases, stands at 55 per cent. This has led to improvements in child survival. Infant mortality (children dying in the first year of life) dropped from 122 deaths per 1,000 live births in 1991 to 43 deaths in 2016, representing a 63 per cent drop.
 
-    d) Maternal mortality also declined from 506 deaths per one hundred live births in 1991 to 336 in 2016, representing a decline of 34 per cent. Fertility has also declined from 7.4 children per woman in 1988 to 5.4 in 2016, a decline of 24 per cent.
+Maternal mortality also declined from 506 deaths per one hundred live births in 1991 to 336 in 2016, representing a decline of 34 per cent. Fertility has also declined from 7.4 children per woman in 1988 to 5.4 in 2016, a decline of 24 per cent.
 
-    e) In the education sector, Uganda has, since 1997, seen tremendous increase in the enrolment of our children under Universal Primary Education (UPE). In 1997, we had three million children enrolled under UPE. This has increased to 8.7 million by 2016. In addition, we have also achieved parity in terms of boys and girls enrolling for UPE. As a result, literacy rate in Uganda increased from 54 per cent in 1991 to 75 per cent, currently.
+In the education sector, Uganda has, since 1997, seen tremendous increase in the enrolment of our children under Universal Primary Education (UPE). In 1997, we had three million children enrolled under UPE. This has increased to 8.7 million by 2016. In addition, we have also achieved parity in terms of boys and girls enrolling for UPE. As a result, literacy rate in Uganda increased from 54 per cent in 1991 to 75 per cent, currently.
 
-    f) Poverty in Uganda has also reduced. It stood at 56 per cent in 1991. This means that in 1991, for every two Ugandans, one was living below the poverty line. The good news is that poverty levels have declined to 21 per cent by 2016. 
+Poverty in Uganda has also reduced. It stood at 56 per cent in 1991. This means that in 1991, for every two Ugandans, one was living below the poverty line. The good news is that poverty levels have declined to 21 per cent by 2016. 
 
 The increased child survival, coupled with high fertility and increased life expectancy, has led to a surge in total population. At a population growth rate of 3.0 per cent per annum, Uganda's population grew from 16.7 million people in 1990 to 34.6 million in 2014. Uganda's population is expected to reach forty million by the end of this year. The majority of this population is predominantly made up of young people. I need to add that 78 per cent of our population is below thirty years of age.
 
@@ -674,9 +674,9 @@ The project will benefit the following districts: Nakasongola, Luweero, Alebtong
 
 Mr Speaker, the major causes for the delay in the dispensation of the project were as follows:
 
-    (i) The African Development Bank did not approve the tender documents submitted to them by the Rural Electrification Agency (REA) in October 2015, soon after signing the loan agreement. This had earlier been agreed upon during the loan negotiations. In other words, they instead wanted the documents to be reviewed by a consultant who obviously was not on board by then. It took one year to procure this consultant.
+The African Development Bank did not approve the tender documents submitted to them by the Rural Electrification Agency (REA) in October 2015, soon after signing the loan agreement. This had earlier been agreed upon during the loan negotiations. In other words, they instead wanted the documents to be reviewed by a consultant who obviously was not on board by then. It took one year to procure this consultant.
 
-    (ii) The consultant, M&E Associates, after being procured, proceeded with the review of engineering designs and preparation of the tender documents. Works on the tender documents had to be reviewed and then they were sent to the bank on 4 October 2017. The evaluation of the bids was completed on January 23, 2018.
+The consultant, M&E Associates, after being procured, proceeded with the review of engineering designs and preparation of the tender documents. Works on the tender documents had to be reviewed and then they were sent to the bank on 4 October 2017. The evaluation of the bids was completed on January 23, 2018.
 
 
 (iii)	The evaluation report was sent to the ADB on February 23, 2018. So far, Lot-1 has been cleared and the other five lots are still under consideration. It is hoped this will be finalised before the end of July 2018.
@@ -721,14 +721,14 @@ The Impact of Refinancing on the End User Tariffs
 Mr Speaker, in order for our industries to be more competitive, it is prudent to allocate all the benefits arising from the debt refinancing of Bujagali to the extra-large industrial customer category. This is in line with the directive by the President to ensure that our manufacturers are competitive in the region. Consequently, the tariff for the extra-large industrial customers has now been reduced by 15 per cent, with the off-peak tariff reducing to five US cents. 
 
 In paragraph 10, I have the adjusted tariffs for the extra-large industries, which include the following:
-    a) Peak tariff - US 13.4c
-    b) Shoulder – US 10.3c 
-    c) Off peak – US 6.7c
+Peak tariff - US 13.4c
+Shoulder – US 10.3c 
+Off peak – US 6.7c
 
 This was before. After applying this refinancing, we have the following: 
-    a) Peak tariff – US 11.6c
-    b) Shoulder – US 8.6c
-    c) Off peak – US 5c
+Peak tariff – US 11.6c
+Shoulder – US 8.6c
+Off peak – US 5c
 
 Mr Speaker, the benefit from Bujagali refinancing is allocated to the extra-large industrial customers for the following reasons:
  
@@ -854,19 +854,19 @@ On 11 June this year, the three ministers in charge of internal affairs, defence
 On 20 June 2018, His Excellency the President addressed Parliament on the status of our national security during which he announced a 12-point security plan. On 27 June 2018, His Excellency the President met Parliament during which he responded to about 100 questions and concerns that Members raised to him regarding the status of our security. 
 
 Since then, the crime rate in the country has significantly dropped, thanks to six immediate security measures that have been put in place: 
-    1. Intensified police patrols and visibility across the country. 
-    2. Intensified security operations to curb crime. 
-    3. Intensified joint intelligence operations. 
-    4. Increased mobilisation of the public to be vigilant in order to detect and deter crime.
+Intensified police patrols and visibility across the country. 
+Intensified security operations to curb crime. 
+Intensified joint intelligence operations. 
+Increased mobilisation of the public to be vigilant in order to detect and deter crime.
 5. 	Setting up 24/7 emergency response units where timely information is received and acted upon.
 6. 	Strengthening specialised units of all security agencies.
 
 As a result of these measures, honourable members, the country recently scored the following:
-    a) On 10th July, we held very successful and peaceful Local Council I (LC I) elections across the country.
+On 10th July, we held very successful and peaceful Local Council I (LC I) elections across the country.
 
-    b) We have all been watching the FIFA World Cup recently. Honourable members, you will recall that in July 2010, this event turned a disaster when we lost 76 innocent lives at the hands of terrorists. I am happy to report that since then, we have picked very important lessons and developed more capabilities to protect our people. I wish, therefore, to salute our security forces for providing the adequate security that made it possible for the country to watch and enjoy the FIFA 2018 World Cup without any major incident.
+We have all been watching the FIFA World Cup recently. Honourable members, you will recall that in July 2010, this event turned a disaster when we lost 76 innocent lives at the hands of terrorists. I am happy to report that since then, we have picked very important lessons and developed more capabilities to protect our people. I wish, therefore, to salute our security forces for providing the adequate security that made it possible for the country to watch and enjoy the FIFA 2018 World Cup without any major incident.
 
-    c) Obviously, this is not to forget that early in June, we had almost 3,000,000 Ugandans and others congregating at Namugongo for the Martyrs’ Day and there was no incident to report. It was very successful.
+Obviously, this is not to forget that early in June, we had almost 3,000,000 Ugandans and others congregating at Namugongo for the Martyrs’ Day and there was no incident to report. It was very successful.
 
 Mr Speaker, it is of paramount importance to further inform you that our borders remain safe and secure with no major incidents to report. I want to particularly applaud His Excellency the President of the Republic of Uganda for his tireless efforts in ensuring regional peace and stability especially in South Sudan. As you all know, security in South Sudan has a significant bearing especially on our northern frontier.
 
@@ -1117,4 +1117,3 @@ The rules are clear that we will not have discussions but we will find ways of t
 Therefore, there will be no Parliament sitting on Tuesday to allow for preparations for Wednesday’s meeting at 10 o’clock when we will be here to receive the President and the Prime Minister of India. This House is adjourned to Wednesday at 10 o’clock.
 
 (The House rose at 6.27 p.m. and adjourned until Tuesday, 24 July 2018 at 2.00 p.m.) 
-

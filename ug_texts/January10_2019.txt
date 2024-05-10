@@ -1,4 +1,4 @@
-﻿
+
 
 
 
@@ -554,9 +554,9 @@ Also replace sub clause 3 as follows: “Save as provided, this Act shall not ap
 
 The justification is for;
 
-    1. Clarity and better drafting.
-    2. To empower magistrate Courts to enforce rights and freedoms rather than the high Court alone. 
-    3. To ensure that the Act does not affect the operations of the Equal Opportunities Commission established under Article 32(3) of the Constitution. 
+Clarity and better drafting.
+To empower magistrate Courts to enforce rights and freedoms rather than the high Court alone. 
+To ensure that the Act does not affect the operations of the Equal Opportunities Commission established under Article 32(3) of the Constitution. 
 
 THE DEPUTY CHAIRPERSON: Yes, mover of the Bill.
 
@@ -646,12 +646,12 @@ Clause 3
 
 MR EDWARD OTTO: Thank you, Mr Chairman. Clause 3 is about enforcement of human rights. We propose to amend it by replacing it with the following: “Clause 3. Enforcement of human rights and freedoms:
 
-    (1) In accordance with Article 50 of the Constitution, any person or organisation who claims that a fundamental or other right or freedom guaranteed under the Constitution has been infringed or threatened may, without prejudice to any other action with respect to the same matter that is lawfully available, apply for redress to a competent court in accordance with this Act.
-    (2) Court proceedings under subsection (1) may be instituted by -
+In accordance with Article 50 of the Constitution, any person or organisation who claims that a fundamental or other right or freedom guaranteed under the Constitution has been infringed or threatened may, without prejudice to any other action with respect to the same matter that is lawfully available, apply for redress to a competent court in accordance with this Act.
+Court proceedings under subsection (1) may be instituted by -
 (a) 	a person acting on behalf of another person who cannot act in their own name;
 (b) 	a person acting as a member of, or in the interest of a group or class of persons;
 (c) 	a person acting in public interest; or/and 
-    (d) an association acting in the interest of one or more of its members.”
+an association acting in the interest of one or more of its members.”
    
 The justification is to capture the spirit of Article 50 (1) by allowing only suits where fundamental rights and freedoms guaranteed under the Constitution have been infringed upon or threatened as required under Article 50 (1) of the Constitution. 
 
@@ -669,7 +669,7 @@ Clause 4
 
 MR EDWARD OTTO: In clause 4 on High Court to determine matters relating to human rights, we propose to replace clause 4 with the following: “Enforcement of rights and freedoms by the High Court:
 
-    a. The High Court shall hear and determine any application relating to the enforcement or violation of –
+The High Court shall hear and determine any application relating to the enforcement or violation of –
  (a) non-derogable rights and freedoms guaranteed in Article 44 of the Constitution;  
 (b) other rights, duties, declarations and guarantees relating to fundamental and other human rights and freedoms envisaged in Article 45 of the Constitution; 
 (c) rights and freedoms restricted under a law made for purposes of a state of emergency; and 
@@ -679,9 +679,9 @@ In subclasses (2) we propose thus: “Applications under subsection (1) shall be
 
 The justifications are:
 
-    1. To prescribe which rights can be enforced by the High Court. 
-    2. To allow court to hear applications in any manner in an open court.
-    3. To allow the High Court determine matters involving other rights and freedoms where such matters go beyond the pecuniary jurisdiction of the magistrates’ court.
+To prescribe which rights can be enforced by the High Court. 
+To allow court to hear applications in any manner in an open court.
+To allow the High Court determine matters involving other rights and freedoms where such matters go beyond the pecuniary jurisdiction of the magistrates’ court.
 
 THE DEPUTY CHAIRPERSON: There is a technical issue there. For what reason are you disjoining (c) and (b)? I thought they are all running under the main sub clause (1) heading. Ordinarily, there should have been no full stop after (c) and the word “and” should have been after “(c).”
 
@@ -725,19 +725,19 @@ MR EDWARD OTTO:  In clause 5: Insertion of new clauses. We propose that immediat
 
 General provision of human rights suits
 
-    1. Every suit for enforcement or protection of human rights and freedoms shall, where possible, be instituted in a court where the alleged violation took place.
-    2. Where a person is in doubt as to the person from whom he or she is entitled to obtain redress, he or she may join two or more persons in order for the question as to which person is liable for violation to be determined by court.
-    3. Court may allow any person with expertise on a particular issue which is before court to appear as a friend of the court, either on application or on court’s own request.
-    4. For avoidance of doubt, statutory notice shall not be a requirement for suits under this Act.
-    5. No suit instituted under this Act shall be rejected or otherwise dismissed by court, merely for failure to comply with any procedure, form or any technicality.”
+Every suit for enforcement or protection of human rights and freedoms shall, where possible, be instituted in a court where the alleged violation took place.
+Where a person is in doubt as to the person from whom he or she is entitled to obtain redress, he or she may join two or more persons in order for the question as to which person is liable for violation to be determined by court.
+Court may allow any person with expertise on a particular issue which is before court to appear as a friend of the court, either on application or on court’s own request.
+For avoidance of doubt, statutory notice shall not be a requirement for suits under this Act.
+No suit instituted under this Act shall be rejected or otherwise dismissed by court, merely for failure to comply with any procedure, form or any technicality.”
 
 The justifications are:
 
-    1. In order to bring justice close to the people by granting jurisdiction to court presided over by the magistrate’s court to enforce human rights, other than those reserved for the High Court. 
-    2. To require that suits are instituted in courts where violation took place.
-    3. To allow a person include any persons in a suit if he or she is in doubt as to who is liable for human rights violation. 
-    4. To allow court to be assisted by amicus curiae or a friend of the court.
-    5. To require no statutory notice in human rights violation to ensure substantive justice is served with undue regard to technicalities.
+In order to bring justice close to the people by granting jurisdiction to court presided over by the magistrate’s court to enforce human rights, other than those reserved for the High Court. 
+To require that suits are instituted in courts where violation took place.
+To allow a person include any persons in a suit if he or she is in doubt as to who is liable for human rights violation. 
+To allow court to be assisted by amicus curiae or a friend of the court.
+To require no statutory notice in human rights violation to ensure substantive justice is served with undue regard to technicalities.
 
 Thank you.
 
@@ -837,9 +837,9 @@ THE DEPUTY CHAIRPERSON: Honourable members, the mover of the Bill is the Chairpe
 
 MR EDWARD OTTO: Clause 6 is about reference to human right matters by subordinate courts. We propose to replace clause 6 with the following: “Reference to human right matters by subordinate: (1)Where in any proceeding, in a subordinate court or tribunal, any question arises as to the violation of human rights or freedom, the magistrate or the person presiding shall-
 
-    a. in case of rights or freedom falling in section 4 refer the question for determination by the High Court; 
+in case of rights or freedom falling in section 4 refer the question for determination by the High Court; 
 
-    b. in case of rights and freedom falling in section 5, refer the matter for determination by the chief magistrates’ court.
+in case of rights and freedom falling in section 5, refer the matter for determination by the chief magistrates’ court.
 
 (2) 	Where a human right matter arises in a proceeding before the chief magistrates’ court, court shall stay proceeding in the main matter and first determine the human right issue raised.
 
@@ -939,8 +939,8 @@ MR EDWARD OTTO: Clause 8; Insertion of a new clause. Immediately after Clause 6,
  
 “Consideration of human rights matters arising in the High Court: 
 
-    (i) Where in any proceeding in the High Court any question arises as to the violation of fundamental rights or freedom, the person presiding shall immediately stay the proceeding and determine the question raised.
-    (ii) The person presiding may upon staying a proceeding in sub-section (i) in any case of a criminal trial grant bail to the accused person.”
+Where in any proceeding in the High Court any question arises as to the violation of fundamental rights or freedom, the person presiding shall immediately stay the proceeding and determine the question raised.
+The person presiding may upon staying a proceeding in sub-section (i) in any case of a criminal trial grant bail to the accused person.”
 
 The justification is to provide a procedure through which human rights matters arising in the High court may be dealt with by the High court to allow the presiding person to grant bail to an accused person in a criminal matter where question is raised during the proceedings before the High Court. Thank you.
 
@@ -988,11 +988,11 @@ THE DEPUTY CHAIRPERSON: Okay. The one we stood over, if you amended the new one 
 
 MR NIWAGABA: We had stood over the new replaced clause 6 with reference of human rights matters by subordinate courts. It will now read:
 
-    i. That where in any proceedings in a subordinate court any question arises as the violation of a fundamental right or freedom, the magistrate shall refer the question for determination by the High Court.
-    ii. Where a human rights matter arises in any proceedings before the Magistrates’ Court, the court shall stay the proceedings in the main matter and first determine the human rights issue raised.
-    iii. A magistrate presiding over proceedings referred to in subsection (i) may stay the proceedings until the reference is determined and may, in case of a criminal trial grant bail to the accused person.
-    iv. The magistrate presiding over the matter shall dispose of the question referred to in subsection (i) in accordance with the determination of the High Court.
-    v. The court to which reference is made, shall within 90 days from the date of the reference determine the reference made to it.
+That where in any proceedings in a subordinate court any question arises as the violation of a fundamental right or freedom, the magistrate shall refer the question for determination by the High Court.
+Where a human rights matter arises in any proceedings before the Magistrates’ Court, the court shall stay the proceedings in the main matter and first determine the human rights issue raised.
+A magistrate presiding over proceedings referred to in subsection (i) may stay the proceedings until the reference is determined and may, in case of a criminal trial grant bail to the accused person.
+The magistrate presiding over the matter shall dispose of the question referred to in subsection (i) in accordance with the determination of the High Court.
+The court to which reference is made, shall within 90 days from the date of the reference determine the reference made to it.
 
 THE DEPUTY CHAIRPERSON: No, but you have gone back to what we said we are not going to do. Now you are saying the other courts do not have jurisdiction to deal with the human rights matters.
 
@@ -1037,26 +1037,26 @@ MR EDWARD OTTO: Power of the High Court in human rights cases; replace clause 7 
 
 Orders that may be made by court in human right cases: 
 
-    1) Where court determines that a fundamental right or freedom has been violated and unlawfully denied or should be enforced, the court shall issue orders it deems fit and appropriate, including ordering for compensation.
-    2) Court may, in addition to the orders it may make under subsection (1) order for -
-    a) restitution of the victim to the original situation before the violation of his human rights and freedom;
-    b) rehabilitation of the victim including the provision of medical and psychological care; 
-    c) satisfaction which shall include - 
-    i. effective measures aimed at cessation of continuing violation of human rights and freedom; 
-    ii. verification of the facts, full and public disclosure of the truth to the extent that such disclosure does not cause further harm or threaten the safety and interest of the victims, victims’ relatives, witnesses or persons who have intervened to assist the victim to prevent the occurrence or further violation; 
-    iii. restoring the dignity, the reputation and the rights of the victim and of persons closely connected with the victim; 
-    iv. public apology including acknowledgement of the facts and acceptance of responsibility;
-    v. criminal and other judicial and administrative sanctions against persons liable for the violations;
-    vi. guarantees of non-repetition.
+Where court determines that a fundamental right or freedom has been violated and unlawfully denied or should be enforced, the court shall issue orders it deems fit and appropriate, including ordering for compensation.
+Court may, in addition to the orders it may make under subsection (1) order for -
+restitution of the victim to the original situation before the violation of his human rights and freedom;
+rehabilitation of the victim including the provision of medical and psychological care; 
+satisfaction which shall include - 
+effective measures aimed at cessation of continuing violation of human rights and freedom; 
+verification of the facts, full and public disclosure of the truth to the extent that such disclosure does not cause further harm or threaten the safety and interest of the victims, victims’ relatives, witnesses or persons who have intervened to assist the victim to prevent the occurrence or further violation; 
+restoring the dignity, the reputation and the rights of the victim and of persons closely connected with the victim; 
+public apology including acknowledgement of the facts and acceptance of responsibility;
+criminal and other judicial and administrative sanctions against persons liable for the violations;
+guarantees of non-repetition.
 
-    3) Restitution, compensation, rehabilitation or any other payment ordered by the court under this section shall be a civil debt owed to the victim of the human rights violation.
-    4) All orders made by court under this section shall be complied with within six months from the date of determination unless appealed against. 
+Restitution, compensation, rehabilitation or any other payment ordered by the court under this section shall be a civil debt owed to the victim of the human rights violation.
+All orders made by court under this section shall be complied with within six months from the date of determination unless appealed against. 
 
 The justification is:
 
-    i. To make the provision applicable to all courts of law and not High Court alone.
-    ii. To prescribe the nature of compensation, restitution as well as satisfaction that court may grant.
-    iii. To prescribe a time within which to comply with orders of court. 
+To make the provision applicable to all courts of law and not High Court alone.
+To prescribe the nature of compensation, restitution as well as satisfaction that court may grant.
+To prescribe a time within which to comply with orders of court. 
 
 Thank you. 
 
@@ -1320,15 +1320,15 @@ THE VICE-CHAIRPERSON, COMMITTEE ON COMMISSIONS, STATUTORY AUTHORITIES AND STATE 
 
 I beg to lay on Table the report of the Committee on Commissions, Statutory Authorities and State Enterprises (COSASE) for nine selected institutions that include:
 
-    1. Kampala Capital City Authority
-    2. National Information Technology Authority – Uganda
-    3. Bank of Uganda
-    4. Parliamentary Commission
-    5. Uganda Communications Commission
-    6. Uganda Electricity Distribution Company Limited
-    7. Rural Electrification Agency
-    8. National Agricultural Advisory Services 
-    9. National Council of Sports.
+Kampala Capital City Authority
+National Information Technology Authority – Uganda
+Bank of Uganda
+Parliamentary Commission
+Uganda Communications Commission
+Uganda Electricity Distribution Company Limited
+Rural Electrification Agency
+National Agricultural Advisory Services 
+National Council of Sports.
 
 I beg to lay the report on the Table together with the minutes of the committee. We have the executive summary of the report and part B, the main report. I beg to lay.
 
@@ -1362,4 +1362,3 @@ THE DEPUTY SPEAKER: Thank you. Honourable members, this is a serious matter. We 
 There is an announcement. Honourable members, the T-shirts for the charity walk on Sunday, 13 January 2019 are available for collection in the foyer. The charity walk will kick-start the Third Annual Parliament Week scheduled for 13 to 19 January 2019. Please take note and pick your T-shirts accordingly. House adjourned to Tuesday at 2 o’clock.
 
 (The House rose at 6.20 p.m. and adjourned until Tuesday, 15 January 2018 at 2.00 p.m.) 
-

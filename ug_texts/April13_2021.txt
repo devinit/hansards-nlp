@@ -1,4 +1,4 @@
-﻿
+
 
 Tuesday, 13 April 2021
 
@@ -530,32 +530,32 @@ THE SPEAKER: It is sent to the Committee on Finance for perusal and report back.
 
 REPORTS OF THE AUDITOR-GENERAL ON THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 30TH JUNE 2014 FOR SUBCOUNTIES IN THE FOLLOWING DISTRICTS:
 
-    1. Kibaale District
-    2. Zombo District
-    3. Kasese District
-    4. Bundibugyo District
-    5. Oyam District
-    6. Sironko District
-    7. Moyo District
-    8. Dokolo District
-    9. Agago District
-    10. Amudat District
+Kibaale District
+Zombo District
+Kasese District
+Bundibugyo District
+Oyam District
+Sironko District
+Moyo District
+Dokolo District
+Agago District
+Amudat District
 
 4.39
 MR FRANCIS MWIJUKYE    (FDC, Buhweju County, Buhweju): Madam Speaker, I beg to read through the list and lay them together.
 
 Reports of the Auditor-General on the financial statements for the year ended 30th June, 2014 for subcounties in the following districts:
 
-    1. Kibale District
-    2. Zombo District
-    3. Kasese District
-    4. Bundibugyo District
-    5. Oyam District
-    6. Sironko District
-    7. Moyo District
-    8. Dokolo District
-    9. Agago District and 
-    10. Amudat District.                         
+Kibale District
+Zombo District
+Kasese District
+Bundibugyo District
+Oyam District
+Sironko District
+Moyo District
+Dokolo District
+Agago District and 
+Amudat District.                         
 
 I beg to lay.
 
@@ -569,28 +569,28 @@ THE SPEAKER: Honourable members, it is sent to the Committee on Public Accounts 
 
 REPORTS OF THE AUDITOR-GENERAL ON THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 30TH JUNE 2020 FOR THE FOLLOWING ENTITIES:
 
-    1. National Medical Stores
-    2. Uganda Civil Aviation Authority
-    3. Uganda Railways Corporation
-    4. Mulago National Referral Hospital
-    5. Uganda Virus Research Institute
-    6. Uganda Reproductive, Maternal And Child Health
-    7. Service Improvement Project
-    8. East Africa Public Health Laboratory Networking Project
-    9. East Africa’s Centres Of Excellence For Skills And Tertiary Education In Biomedical Science – Phase 1 (Eaoi) Project Id No. P-Zi-Ibo-24, Loan No.21001500319962 (Adb - Support To Uganda Cancer Institute)
-    10. Ministry of Works and Transport
+National Medical Stores
+Uganda Civil Aviation Authority
+Uganda Railways Corporation
+Mulago National Referral Hospital
+Uganda Virus Research Institute
+Uganda Reproductive, Maternal And Child Health
+Service Improvement Project
+East Africa Public Health Laboratory Networking Project
+East Africa’s Centres Of Excellence For Skills And Tertiary Education In Biomedical Science – Phase 1 (Eaoi) Project Id No. P-Zi-Ibo-24, Loan No.21001500319962 (Adb - Support To Uganda Cancer Institute)
+Ministry of Works and Transport
 
 MR MWIJUKYE: Madam Speaker, I beg to lay reports of the Auditor-General on the financial statements for the year ended 30th June, 2020 for the following entities:
 
-    1. National Medical Stores.
-    2. Uganda Civil Aviation Authority.
-    3. Uganda Railways Corporation.
-    4. Mulago National Referral Hospital.
-    5. Uganda Virus Research Institute.
-    6. Uganda Reproductive, Maternal and Child health Service Improvement Project.
-    7. East Africa Public Health Laboratory Networking Project.
-    8. East Africa’s Centres of Excellence for Skills and Tertiary Education in Biomedical Science - Phase I (EAOI) Project ID No.P-ZI-IBO-24, loan No.21001500319962, (ADB support to Uganda Cancer Institute).
-    9.  Ministry of Works and Transport.
+National Medical Stores.
+Uganda Civil Aviation Authority.
+Uganda Railways Corporation.
+Mulago National Referral Hospital.
+Uganda Virus Research Institute.
+Uganda Reproductive, Maternal and Child health Service Improvement Project.
+East Africa Public Health Laboratory Networking Project.
+East Africa’s Centres of Excellence for Skills and Tertiary Education in Biomedical Science - Phase I (EAOI) Project ID No.P-ZI-IBO-24, loan No.21001500319962, (ADB support to Uganda Cancer Institute).
+ Ministry of Works and Transport.
 
 I beg to lay.
 
@@ -682,9 +682,9 @@ The State shall promote and implement energy policies that will ensure that peop
 
 Promote the national use of natural resources so as to safeguard and protect the biodiversity of Uganda. Article 17(1) mandates every citizen of Uganda to create and protect a clean and healthy environment, while under Article 39, every Ugandan has a right to a clean and healthy environment. Article 245 states, “Parliament shall, by law, provide for measures intended: 
 
-    a.  To protect and preserve the environment from abuse, pollution and degradation; 
-    b. To manage the environment for sustainable development; 
-    c. To promote environmental awareness.” 
+ To protect and preserve the environment from abuse, pollution and degradation; 
+To manage the environment for sustainable development; 
+To promote environmental awareness.” 
 
 Domestication of international climate change treaties ratified by Uganda. I have already highlighted that; I beg to make a summary of it. Over the years, Uganda ratified many climate change related treaties but particularly for this is the United Nations Framework Convention on Climate Change (UNFCCC), the Kyoto Protocol and Paris Agreement.
 
@@ -768,9 +768,9 @@ Recommendations
 
 The committee recommends that Clause 20 of the Bill be amended to create a Climate Change Fund, subject to the Public Finance Management Act, 2015 whose sources of funding shall include the following:
 
-    1.  Money appropriated by Parliament for the purposes of the fund;
-    2. Fees and money paid to the department for services rendered;
-    3. Money from environmental levies, loans, grants, gifts or donations from Government and other sources made with the approval of the Minister.
+ Money appropriated by Parliament for the purposes of the fund;
+Fees and money paid to the department for services rendered;
+Money from environmental levies, loans, grants, gifts or donations from Government and other sources made with the approval of the Minister.
 
 b) 	The committee further recommends that the Ministry of Finance should ensure that national, sectoral and district-level budgets and other indicative planning figures integrate climate change through appropriate provisions.
 
@@ -992,13 +992,13 @@ Madam Speaker, I beg to submit. Those were the questions raised. Thank you.
 
 THE SPEAKER: Honourable minister, I do not know whether you answered my questions on the failure to absorb four loans: 
 
-    i. The Integrated Water Management and Development Project, loan taken in December 2018. Only 3.2 per cent has been utilised.
+The Integrated Water Management and Development Project, loan taken in December 2018. Only 3.2 per cent has been utilised.
 
-    ii. Development of Solar Powered Irrigation and Water Supply System, loan taken in September 2019; no utilisation whatsoever.
+Development of Solar Powered Irrigation and Water Supply System, loan taken in September 2019; no utilisation whatsoever.
 
-    iii. Irrigation for Climate Resilience, loan taken in August 2020; no utilisation.
+Irrigation for Climate Resilience, loan taken in August 2020; no utilisation.
 
-    iv. Supply and Installation of Solar-Powered Water Pumping Systems in Rural Areas, loan taken in October 2020; no implementation.
+Supply and Installation of Solar-Powered Water Pumping Systems in Rural Areas, loan taken in October 2020; no implementation.
 
 We want to know why you have failed to utilise this money and you are still taking more.
 
@@ -1115,22 +1115,22 @@ The Bill was tabled in the House on 14 July 2020 and consequently referred to th
 
 His Excellency the President returned to Parliament for reconsideration:
 
-    i)  Clause 3 (amending Section [3] of the principal Act),
-    ii) Inserted Clause 5 (amending Section 5 (1) of the principal Act),
-    iii) Clause 6 of the Bill (amending Section 8(1)(b)),
-    iv) Clause 22 (2) (c) and 2 (d) of the Bill;
-    v)  Clause 35 (Repealing Section 88(L) of the Principal Act),
-    vi) Clause 36 of the Bill, (amending Section 89 of the principal Act),
-    vii) Clause 37 of the Bill (amending Section 90 of the principal Act),
-    viii) Inserted Clause 35 (amending Section 91(b) of the principal Act),
-    ix) Inserted Clause 37 (inserting a new Section 91(c)(a) to the principal Act,
-    x)  Clause 39 of the Bill (amending Section 91(I) of the principal Act),
-    xi) Clause 41 of the Bil1, (repealing Section 91L of the principal Act), 
-    xii) Clause 42 amending Section 91M of the principal Act,
-    xiii) Clause 45, amending Section 94 of the principal Act,
-    xiv)  Clause 46, amending Section 95 of the principal Act,
-    xv) Clause 51, on miscellaneous amendments,
-    xvi) Clause 52 and the inserted clause 55.
+ Clause 3 (amending Section [3] of the principal Act),
+Inserted Clause 5 (amending Section 5 (1) of the principal Act),
+Clause 6 of the Bill (amending Section 8(1)(b)),
+Clause 22 (2) (c) and 2 (d) of the Bill;
+ Clause 35 (Repealing Section 88(L) of the Principal Act),
+Clause 36 of the Bill, (amending Section 89 of the principal Act),
+Clause 37 of the Bill (amending Section 90 of the principal Act),
+Inserted Clause 35 (amending Section 91(b) of the principal Act),
+Inserted Clause 37 (inserting a new Section 91(c)(a) to the principal Act,
+ Clause 39 of the Bill (amending Section 91(I) of the principal Act),
+Clause 41 of the Bil1, (repealing Section 91L of the principal Act), 
+Clause 42 amending Section 91M of the principal Act,
+Clause 45, amending Section 94 of the principal Act,
+ Clause 46, amending Section 95 of the principal Act,
+Clause 51, on miscellaneous amendments,
+Clause 52 and the inserted clause 55.
 
 Madam Speaker, the committee considered the returned Bill and made the following observations: 
 
@@ -1220,9 +1220,9 @@ xvi. The inserted clause 55 may be interpreted to mean that there are two distin
 
  With these observations, the committee recommends that:
 
-    1. The returned clauses of the Public Procurement and Disposal of Assets (Amendment) Bill, 2020 be passed by the House. 
-    2. 
-    3. The Public Procurement Disposal of Assets Amendment Bill, 2020 be passed by the House. I beg to move. 
+The returned clauses of the Public Procurement and Disposal of Assets (Amendment) Bill, 2020 be passed by the House. 
+
+The Public Procurement Disposal of Assets Amendment Bill, 2020 be passed by the House. I beg to move. 
 
 Madam Speaker, I would like to lay on the Table the minutes of the committee that we generated in the process of reconsidering the Bill, together with other materials we received from the stakeholders. I beg to move.
 
@@ -1245,6 +1245,5 @@ As the chairperson said, when I saw the list of Bills I sent to him last week, I
 Let us try to work as quickly as possible and see how far we can go before the Fifth Session of the Tenth Parliament ends. House is adjourned to tomorrow at 2.00 p.m. Members just go and look at the Bill.
 
 (The House rose at 6.38 p.m. and adjourned until Wednesday, 14 April 2021 at 2.00 p.m.)
-
 
 

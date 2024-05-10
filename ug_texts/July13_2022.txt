@@ -1,4 +1,4 @@
-﻿
+
 PARLIAMENT OF UGANDA
 
 Wednesday, 13 July 2022
@@ -79,21 +79,21 @@ The Deputy Speaker: Two minutes each.
 
 Mr okupa: Thank you, Mr Speaker. I want to stick to the issue of the rules. Rule 156 of the Parliament of Uganda regarding the committees of Parliament gives powers to this House that:
 
-    1. “In accordance with the rule 90 of the Constitution, the House shall appoint Committees of Parliament necessary for the efficient discharge of its functions.”
+“In accordance with the rule 90 of the Constitution, the House shall appoint Committees of Parliament necessary for the efficient discharge of its functions.”
 
-    2. “For the avoidance of doubt, these rules shall prescribe the powers, composition and the functions of the committees.”
+“For the avoidance of doubt, these rules shall prescribe the powers, composition and the functions of the committees.”
 
 Therefore, the issue of the select committees as per rule 190 specifies that:
 
-    1. “The House may, at any time upon a motion moved after notice given, appoint a select committee to investigate a particular matter.”
+“The House may, at any time upon a motion moved after notice given, appoint a select committee to investigate a particular matter.”
 
-    2. “A select committee shall comprise at least five Members who shall be designated by the Party Whips on the basis of proportional Party representation in the House, taking into consideration interests of the independent Members in the House.”
+“A select committee shall comprise at least five Members who shall be designated by the Party Whips on the basis of proportional Party representation in the House, taking into consideration interests of the independent Members in the House.”
 
-    3. “The Speaker shall, in consultation with the Government Chief Whip and the Chief Opposition Whip, appoint the members and the chairpersons of the select committee.”
+“The Speaker shall, in consultation with the Government Chief Whip and the Chief Opposition Whip, appoint the members and the chairpersons of the select committee.”
 
-    4. “Three members shall form a quorum if the committee consists of five members, and if the committee consists of more than five Members, the quorum shall be 1/3 of all the members.
+“Three members shall form a quorum if the committee consists of five members, and if the committee consists of more than five Members, the quorum shall be 1/3 of all the members.
 
-    5. “Where for any reason a member of the select committee is unable to act, another Member may be appointed in his or her place, taking into consideration party proportionality in the House.”
+“Where for any reason a member of the select committee is unable to act, another Member may be appointed in his or her place, taking into consideration party proportionality in the House.”
 
 Mr Speaker, the select committee that you formed was something that was decided by your Office and the whips of both sides. Where does the minister get the powers to question your authority? Does the minister want to be a Speaker? Does she want to direct the works of this House? 
 
@@ -294,13 +294,13 @@ Lastly, to make matters worse, there is no bio-medical engineer to help in maint
 
 My prayers are that:
 
-    1. Procurement of an automatic generator with enough fuel be done;
+Procurement of an automatic generator with enough fuel be done;
 
-    2. The Government fast-tracks the stabilisation of electricity from the national grid;
+The Government fast-tracks the stabilisation of electricity from the national grid;
 
-    3. Recruitment of more hospital staff including a bio-medical engineer, be done; and
+Recruitment of more hospital staff including a bio-medical engineer, be done; and
 
-    4. There is need for a brand new and more powerful solar battery for Moyo General Hospital because this hospital serves refuges in Obongi, Yumbe, Adjumani, Palorinya and as far as Yeyi and Kajokegi in South Sudan. 
+There is need for a brand new and more powerful solar battery for Moyo General Hospital because this hospital serves refuges in Obongi, Yumbe, Adjumani, Palorinya and as far as Yeyi and Kajokegi in South Sudan. 
 
 Thank you very much, Mr Speaker. 
 
@@ -560,13 +560,13 @@ Relatedly, at the Tenth Sitting of the First Session of the 11th Parliament held
 
 The following key issues were highlighted in that petition: 
 
-    1. Poor quality of service/dropped calls, billing practices for voice calls charged for a full minute even when it is not consumed due to dropped calls. 
+Poor quality of service/dropped calls, billing practices for voice calls charged for a full minute even when it is not consumed due to dropped calls. 
 
-    2. Exorbitant rates on data bundles, unrealistic consumption patterns and expiry of internet bundles.
+Exorbitant rates on data bundles, unrealistic consumption patterns and expiry of internet bundles.
 
-    3. Challenges with the mobile money transactions.
+Challenges with the mobile money transactions.
 
-    4. Disconnection of free-to-air television channels on pay platforms upon expiry of subscription periods. 
+Disconnection of free-to-air television channels on pay platforms upon expiry of subscription periods. 
 
 The petitioners prayed that Parliament investigates the quality of the services provided by the service providers, that is the telecom and television companies in Uganda, to enable local content creators, subscribers and consumers realise value for money. 
 
@@ -591,11 +591,11 @@ Poor quality of service/dropped calls, billing practices and voice calls
 
 On the matter of poor quality of service and dropped calls, billing practices for voice calls, internal and external factors may be cited as a challenge leading to deteriorated quality of service of calls, sometimes manifesting as dropped calls. These include: 
 
-    a) Caller movements from over served to underserved areas 
+Caller movements from over served to underserved areas 
 
 The drop-in calls were attributed to subscriber motion to an area with inadequate or no coverage due to obstacles in the signal path; temporary network outage or its absence; interference from other radio transmitters, usually illegally installed network boosters, and congestion due to insufficiency of network resources against the traffic being handled. 
 
-    b) Unfavourable socio-economic factors
+Unfavourable socio-economic factors
 
 1. 	Poor quality of service in the country has also been attributed to: vandalism and theft of communication infrastructure equipment; unreliable power supply especially in rural areas where UMEME supply is intermittent; inadequate level of investment in networks sites and equipment for coverage and network capacity. 
 
@@ -605,21 +605,21 @@ The drop-in calls were attributed to subscriber motion to an area with inadequat
 
 The committee recommends that: 
 
-    i. Government should designate telecommunication infrastructure as critical national infrastructure, as envisaged by the National Broadcast Policy, 2018. 
+Government should designate telecommunication infrastructure as critical national infrastructure, as envisaged by the National Broadcast Policy, 2018. 
 
-    ii. Government should create a one-stop licensing and permitting centre for telecommunication infrastructure. At the moment, there are different permits that are required to be able to install these towers; the Civil Aviation Authority, the KCCA. All these are different authorities. The recommendation of the committee is that we should have a one-stop licensing and permitting centre. 
+Government should create a one-stop licensing and permitting centre for telecommunication infrastructure. At the moment, there are different permits that are required to be able to install these towers; the Civil Aviation Authority, the KCCA. All these are different authorities. The recommendation of the committee is that we should have a one-stop licensing and permitting centre. 
 
-    iii. Government should develop a standardised and streamlined regulatory framework for permitting new telecommunication infrastructure. 
+Government should develop a standardised and streamlined regulatory framework for permitting new telecommunication infrastructure. 
 
-    iv. The prosecution of criminals involved in the theft and vandalism of telecom equipment should be enhanced. We are aware that UCC set up a specialised investigation and prosecution unit of six lawyers, licensed by the DPP, to prosecute communication-related offences such as vandalism of equipment. The committee recommends for the boosting of this department. 
+The prosecution of criminals involved in the theft and vandalism of telecom equipment should be enhanced. We are aware that UCC set up a specialised investigation and prosecution unit of six lawyers, licensed by the DPP, to prosecute communication-related offences such as vandalism of equipment. The committee recommends for the boosting of this department. 
 
-    v. Further investment in the telecommunication equipment should be undertaken to enhance the quality of service assessment of operators to ensure that the measured performance aligns with the subscriber experiences. 
+Further investment in the telecommunication equipment should be undertaken to enhance the quality of service assessment of operators to ensure that the measured performance aligns with the subscriber experiences. 
 
-    vi. There should be enhanced working relationship between UCC and the operators to address specific network challenges such as enforcement against illegal radio boosters found to be causing interference. 
+There should be enhanced working relationship between UCC and the operators to address specific network challenges such as enforcement against illegal radio boosters found to be causing interference. 
 
-    vii. The operators should enhance their network coverage by installing booster towers and sites on buildings and high altitude installation in order to reduce the black spots. 
+The operators should enhance their network coverage by installing booster towers and sites on buildings and high altitude installation in order to reduce the black spots. 
 
-    viii. UCC should engage the Government, through the Ministry of Finance, Planning and Economic Development, on the reduction of the levy on imported steel in alignment with the East African tax regime. Presently, Ugandan tax on steel is at 25 per cent yet for the East African Community, it is 10 per cent. 
+UCC should engage the Government, through the Ministry of Finance, Planning and Economic Development, on the reduction of the levy on imported steel in alignment with the East African tax regime. Presently, Ugandan tax on steel is at 25 per cent yet for the East African Community, it is 10 per cent. 
 
 Exorbitant rates on data bundles, unrealistic consumption patterns and expiry of internet bundles. These are the observations of the committee. 
 
@@ -682,9 +682,9 @@ iv. UCC liaising with law enforcement agencies in the investigation and prosecut
 
 In the area of regulation of mobile money, the committee recommends that:
 
-    i) Government enforces the National Payments Act, 2020 as enacted. 
+Government enforces the National Payments Act, 2020 as enacted. 
 
-    ii) More sensitisation is made to the public about the procedures for the beneficiaries to access the money on the mobile money account of the deceased subscribers.
+More sensitisation is made to the public about the procedures for the beneficiaries to access the money on the mobile money account of the deceased subscribers.
 
 Regarding income streams, the committee recommends that the Central Bank comes up with a policy that will provide for uniformity while determining the rates that the telecommunications companies charge customers while providing the different services. 
 
@@ -692,22 +692,22 @@ Consumer protection
 
 The committee recommends that:
 
-    i. Mobile money providers establish a system that issues automatic receipts to customers in real-time to improve the security of mobile money transactions since the receipts can capture actual details of each transaction. 
+Mobile money providers establish a system that issues automatic receipts to customers in real-time to improve the security of mobile money transactions since the receipts can capture actual details of each transaction. 
 
-    ii. UCC and the mobile money providers undertake massive awareness campaigns of the rights and obligations of the subscribers.
+UCC and the mobile money providers undertake massive awareness campaigns of the rights and obligations of the subscribers.
 
 Mr Speaker, there was also an issue on the disconnection of free-to-air television channels on pay platforms upon expiry. There was an analysis done. We looked at the different licenses that UCC issued. We made observations and the committee recommends that:
 
-    i) UCC enhances the engagement of the relevant stakeholders to reconsider the taxes imposed on communication services and communications assets, which tax reduction eventually trickles down to the final consumer of the telecommunication and television services.
+UCC enhances the engagement of the relevant stakeholders to reconsider the taxes imposed on communication services and communications assets, which tax reduction eventually trickles down to the final consumer of the telecommunication and television services.
 
-    ii) UCC should continuously run advertisements on television and other forms of media to remind customers of the available choices for the customers to voluntarily exercise their freedom. 
-    iii) Regulations are enacted to require Single Stream Pay-Tv Broadcasters and Multiple Stream Pay-Tv providers licenses to:
+UCC should continuously run advertisements on television and other forms of media to remind customers of the available choices for the customers to voluntarily exercise their freedom. 
+Regulations are enacted to require Single Stream Pay-Tv Broadcasters and Multiple Stream Pay-Tv providers licenses to:
 
-    a. Pay and broadcast a minimum amount of local content of at least 50 per cent. At the moment, aggregators have no law that requires them to provide minimum local content. So, you are going to be watching a lot of foreign content provided by the aggregators. The law only provides a percentage of local content to the channels but not to the aggregators. 
+Pay and broadcast a minimum amount of local content of at least 50 per cent. At the moment, aggregators have no law that requires them to provide minimum local content. So, you are going to be watching a lot of foreign content provided by the aggregators. The law only provides a percentage of local content to the channels but not to the aggregators. 
 
-    iv) A policy should be enacted such that local content by Pay TVs is categorised across different genres.
+A policy should be enacted such that local content by Pay TVs is categorised across different genres.
  
-    v) The licensee carriage fees are reduced and harmonised and the UCC license fees should be charged in Uganda shillings not in United States Dollars. 
+The licensee carriage fees are reduced and harmonised and the UCC license fees should be charged in Uganda shillings not in United States Dollars. 
 
 Mr Speaker, there were also incidental observations and recommendations in the process of this investigation. 
 
@@ -715,33 +715,33 @@ Levy on gross annual revenues of licensed operators comes from Section 68 of the
 
 The committee recommends that: 
 
-    i) charging 2 per cent of the gross revenues on radio and television broadcasters are removed. 
+charging 2 per cent of the gross revenues on radio and television broadcasters are removed. 
 
-    ii) the levy collected by UCC in this regard be earmarked - because it is not even being collected at the moment.As we speak, it is not enforceable. 
+the levy collected by UCC in this regard be earmarked - because it is not even being collected at the moment.As we speak, it is not enforceable. 
 
 We also observed that there was no communications tribunal and the committee recommends that:
 
-    i) The Ministry of ICT and National Guidance, UCC, the First Parliamentary Counsel, constitute a communications tribunal. The approval of the communications tribunal should also be fast-tracked at Cabinet.
-    ii) Government allocates Shs 5.4 billion for the installation of the communications tribunal. 
+The Ministry of ICT and National Guidance, UCC, the First Parliamentary Counsel, constitute a communications tribunal. The approval of the communications tribunal should also be fast-tracked at Cabinet.
+Government allocates Shs 5.4 billion for the installation of the communications tribunal. 
 
 We also observed that the deployment of the Direct to Home (DTH) one beam Free-to-Air satellite television solution be provided. The observations made on why people are not able to watch TV - I want to go straight to the recommendations.
 
 The committee recommends that:
 
-    i) SIGNET is legally disengaged from UBC by creating its own company fully owned by Government with its own mandate, deliverables, Board and Secretariat different from UBC.
+SIGNET is legally disengaged from UBC by creating its own company fully owned by Government with its own mandate, deliverables, Board and Secretariat different from UBC.
 
-    ii) Government invests in the expansion of the SIGNET Network by:
+Government invests in the expansion of the SIGNET Network by:
 
-    a. allocating Shs 2.5 billion to rehabilitate Kololo; and 
+allocating Shs 2.5 billion to rehabilitate Kololo; and 
 
-    b. Shs 7.5 billion to be able to provide the satellite feed in every inch of this country. 
+Shs 7.5 billion to be able to provide the satellite feed in every inch of this country. 
 
 I want to report to the House that in the Budget for the Financial Year 2022/2023, these funds have been provided. 
 
 The committee recommends that:
-    i) the monthly carriage fees be reduced from Shs 12 million to Shs 5 million because they are exorbitant. 
+the monthly carriage fees be reduced from Shs 12 million to Shs 5 million because they are exorbitant. 
 
-    ii) Government provides incentives and reductions in taxes on DTH decoders and dishes to ensure that these are affordable. Let me explain this a little bit. The objective of this is to make sure that every Ugandan is able to watch the free-to-air channels without paying. At the moment, we have to pay to watch the various channels that are supposed to be licensed as free-to-air because we do not have a platform. 
+Government provides incentives and reductions in taxes on DTH decoders and dishes to ensure that these are affordable. Let me explain this a little bit. The objective of this is to make sure that every Ugandan is able to watch the free-to-air channels without paying. At the moment, we have to pay to watch the various channels that are supposed to be licensed as free-to-air because we do not have a platform. 
 
 When you connect to Direct to Home (DTH), it means that you buy the decoder and the dishes once then you do not have to pay monthly fees. 
 
@@ -759,33 +759,33 @@ Need for a national telecom player
 
 The committee observed that:
 
-    i. Currently, there are two major players in the telecommunication industry after the closure of Africell. This does not cause enough competition in the market that would, in the end, ensure quality service production and competitive pricing of services. 
+Currently, there are two major players in the telecommunication industry after the closure of Africell. This does not cause enough competition in the market that would, in the end, ensure quality service production and competitive pricing of services. 
 
-    ii. There is un-coordinated and parallel nationwide data, voice, and video signal distribution, where each telecom, the Pay-Tv and data carriers have constructed parallel backbone infrastructure. 
+There is un-coordinated and parallel nationwide data, voice, and video signal distribution, where each telecom, the Pay-Tv and data carriers have constructed parallel backbone infrastructure. 
 
 The committee recommends that:
 
-    i. A national telecom is revamped. Remember, we had UTL, which has since gone to sleep. The national telecom should be revamped or created in the business of data, video and voice, at both business-to-business and business-to-consumer or retail levels. 
+A national telecom is revamped. Remember, we had UTL, which has since gone to sleep. The national telecom should be revamped or created in the business of data, video and voice, at both business-to-business and business-to-consumer or retail levels. 
 
-    ii. The national telecom created or revamped should be the monopoly national telecom distance signal carrier as this will definitely reduce the cost of usage of the subscribers. 
+The national telecom created or revamped should be the monopoly national telecom distance signal carrier as this will definitely reduce the cost of usage of the subscribers. 
 
 There was also an observation of unfair management of Pay-Tv subscribers’ assets. The committee observed that the Pay-Tv companies are monopoly vendors of dishes and decoders to their respective platforms and these organisations go ahead to discontinue the use of services without due consideration. 
 
 The committee recommends that:
 
-    i) A policy is created to regulate the devices required and used for television. 
+A policy is created to regulate the devices required and used for television. 
 
-    ii) A billing policy is issued to regulate the payment structure in order to ensure that Pay-Tv subscribers only pay for the time and content they are viewing. At the moment, even when your decoder is switched off, you pay. When you do not want to watch, you will still pay because the subscription is monthly instead of paying as you go.
+A billing policy is issued to regulate the payment structure in order to ensure that Pay-Tv subscribers only pay for the time and content they are viewing. At the moment, even when your decoder is switched off, you pay. When you do not want to watch, you will still pay because the subscription is monthly instead of paying as you go.
 
 Management of electronic devices
 
 Mr Speaker, there was an observation that many electronic devices are imported to the country and the two following issues are not adequately addressed: 
 
-    1. The standard and quality of the devices imported are not ascertained at the point of importation by UNBS and they do not have the technical capacity to enforce;
+The standard and quality of the devices imported are not ascertained at the point of importation by UNBS and they do not have the technical capacity to enforce;
 
-    2. Electronic devices contain beryllium, cadmium, mercury, and lead. At the end of the life of these electronic devices, they are dumped in the environment, which contaminates our soil, air, water and wildlife;
+Electronic devices contain beryllium, cadmium, mercury, and lead. At the end of the life of these electronic devices, they are dumped in the environment, which contaminates our soil, air, water and wildlife;
 
-    3. There are no e-waste management procedures being enforced and neither do the telecom and television industry players contribute to alleviate the situation. 
+There are no e-waste management procedures being enforced and neither do the telecom and television industry players contribute to alleviate the situation. 
 
 The committee recommends that resources be availed to build capacity for UNBS to manage the counterfeit electronic devices and apolicy be created and enforced to regulate e-waste management. 
 
@@ -838,9 +838,9 @@ In the recommendations, I would urge you to please inform them to always give us
 4.36
 MR RICHARD SEBAMALA (DP, Bukoto County South, Masaka): Thank you, Mr Speaker. I thank the chairman for the report. Mine are just two issues.
 
-    1. TV companies such as DStv keep repeating the same content. We go back home and find our kids actually cramming everything that is on TV – you are with them and they know the next cartoon and everything. There is duplication and repetitive content with the TVs. This has to stop. If we are paying almost $70 for a station monthly then they should be able to give us new content.
+TV companies such as DStv keep repeating the same content. We go back home and find our kids actually cramming everything that is on TV – you are with them and they know the next cartoon and everything. There is duplication and repetitive content with the TVs. This has to stop. If we are paying almost $70 for a station monthly then they should be able to give us new content.
 
-    2. The other is a very sensitive issue, which I want the committee to be concerned about. There is a lot of money that goes to mobile money companies and it is suspended. People send money from the UK or US to your mobile money account and somehow, it bounces or you send money to someone and you lose it along the way – maybe because you have skipped a number or something – and then it is not reverted back to you. I understand this money is now going to almost Shs 2 trillion on a suspense account in BoU or something like that. There is need for this committee to take keen interest in this money. 
+The other is a very sensitive issue, which I want the committee to be concerned about. There is a lot of money that goes to mobile money companies and it is suspended. People send money from the UK or US to your mobile money account and somehow, it bounces or you send money to someone and you lose it along the way – maybe because you have skipped a number or something – and then it is not reverted back to you. I understand this money is now going to almost Shs 2 trillion on a suspense account in BoU or something like that. There is need for this committee to take keen interest in this money. 
 
 By now, it might be going to Shs 4 trillion – where people have sent money and they haven’t been able to get it back. In the villages, some people do not know how to claim it back. These telecom companies remain with that money and the committee has not taken keen interest in it. We want to know where this money is and how they intend to put it back into -(Member was timed out.)
 
@@ -1350,7 +1350,7 @@ On the other hand, whereas Government revalidated the pensioners arrears for the
 
 Therefore, by this petition, the petitioners pray that Parliament urges Government:
 
-    1. To repeal the Pensions Act (Amendment) First Schedule Instrument, 2018, which provides for periodic review of the pension payable to take into account the changes in the value of money and revert back to the policy where increment or adjustment to the pension payable was based on the enhancement of salary payable to public serving officers, especially these days that we have seen some public officers salaries being enhanced so we envisage that there will be more enhancement in future. And if the pensioners are not well catered for, they will still get a peanut.
+To repeal the Pensions Act (Amendment) First Schedule Instrument, 2018, which provides for periodic review of the pension payable to take into account the changes in the value of money and revert back to the policy where increment or adjustment to the pension payable was based on the enhancement of salary payable to public serving officers, especially these days that we have seen some public officers salaries being enhanced so we envisage that there will be more enhancement in future. And if the pensioners are not well catered for, they will still get a peanut.
 
 2. 	To pay all the arrears that have since accrued to the petitioners. That the payment of eligible pensioners attaining the age of 75 years should be automatic, rather than going to apply for full pension.
 
@@ -1385,29 +1385,29 @@ SHOWETH AND STATES THAT:
 
 3. Your petitioners state that –
 
-    a. Government, through Uganda National Roads Authority, undertook upgrading of the Hoima-Kaiso-Tonya Road from gravel to bitumen standard; 
+Government, through Uganda National Roads Authority, undertook upgrading of the Hoima-Kaiso-Tonya Road from gravel to bitumen standard; 
 
-    b. the road construction project required appropriation of land and destruction of property along the 92kilometre road corridor;
+the road construction project required appropriation of land and destruction of property along the 92kilometre road corridor;
 
-    c. UNRA commissioned Comptran Engineering and Planning Associates to carry out a feasibility study, detailed engineering designs, environmental impact assessments and a resettlement action plan;
+UNRA commissioned Comptran Engineering and Planning Associates to carry out a feasibility study, detailed engineering designs, environmental impact assessments and a resettlement action plan;
 
 
-    d. Comptran Engineering and Planning Associates carried out an evaluation exercise of the land and property to be affected by the road project and obtained, through UNRA, approval of the evaluation report from the Chief Government Valuer; 
+Comptran Engineering and Planning Associates carried out an evaluation exercise of the land and property to be affected by the road project and obtained, through UNRA, approval of the evaluation report from the Chief Government Valuer; 
 
-    e. the evaluation and compensation process was not carried out in a transparent manner since the project affected persons were not informed of the evaluation placed on their land and other properties and were forced to sign for and receive compensation without being informed of the value attached to their land and property  since 2012 thereby resulting into –
+the evaluation and compensation process was not carried out in a transparent manner since the project affected persons were not informed of the evaluation placed on their land and other properties and were forced to sign for and receive compensation without being informed of the value attached to their land and property  since 2012 thereby resulting into –
 
-    i) undervaluation of land appropriated for and property affected by the road project;
-    ii) the non-compensation of project-affected persons for property and land appropriated or destroyed or the payment of compensation below the market price of the appropriated land and properties affected by the road project; 
-    iii) the irregular appropriation and non-payment of land beyond the requirement of the road project; and 
-    iv) the exclusion of some project-affected persons from compensation. 
+undervaluation of land appropriated for and property affected by the road project;
+the non-compensation of project-affected persons for property and land appropriated or destroyed or the payment of compensation below the market price of the appropriated land and properties affected by the road project; 
+the irregular appropriation and non-payment of land beyond the requirement of the road project; and 
+the exclusion of some project-affected persons from compensation. 
 
 4. 	Your petitioners further aver that the construction of the Hoima-Kaiso-Tonya-Road was done with little regard to the communities that live along the road, which has hindered the project affected persons from accessing their land or properties due to lack of access roads, the existence of gullies and open trenches along the project area, flooding due to poor drainage and destruction of their properties, which are outside the project area. 
 
 THEREFORE, by this petition, the petitioners pray that: 
 
-    1. Parliament urges the Government to revalue all the properties of the project-affected persons and pays compensation to all persons whose property was appropriated or destroyed during the construction of the Hoima-Kaiso-Tonya Road.
+Parliament urges the Government to revalue all the properties of the project-affected persons and pays compensation to all persons whose property was appropriated or destroyed during the construction of the Hoima-Kaiso-Tonya Road.
 
-    2. A relevant committee of Parliament investigates the conduct of UNRA and Comptran Engineering and Planning Associates in the evaluation and compensation of persons affected by the upgrading of the Hoima-Kaiso-Tonya Road.
+A relevant committee of Parliament investigates the conduct of UNRA and Comptran Engineering and Planning Associates in the evaluation and compensation of persons affected by the upgrading of the Hoima-Kaiso-Tonya Road.
 
 Your humble petitioners as in duty bound will ever pray and hereto appended their signatures. I beg to lay the petition.
 
@@ -1442,15 +1442,15 @@ Mr Speaker, the Government of the Republic of Uganda, spearheaded by the Ministr
 The conference will be held under the theme: “Enhancing Cooperation in Relation to Climate Change-Induced Human Mobility: Migration, Displacement and Planned Relocation.”
 
 Mr Speaker, the objectives of the conference are:
-    1. To bring together high-level participants from 12 regional member states and other African member states to enact to enhance cooperation in relation to climate change-induced human mobility, including migration, displacement and planned relocation.
+To bring together high-level participants from 12 regional member states and other African member states to enact to enhance cooperation in relation to climate change-induced human mobility, including migration, displacement and planned relocation.
 
-    2. To advance understanding on the links between climate change, human mobility and the importance of regional collaboration to ensure effective and accelerated action. 
+To advance understanding on the links between climate change, human mobility and the importance of regional collaboration to ensure effective and accelerated action. 
 
-    3. To explore areas of cooperation in mitigating the adverse effects and taking advantage of the opportunities of climate change-related morbidities.
+To explore areas of cooperation in mitigating the adverse effects and taking advantage of the opportunities of climate change-related morbidities.
 
-    4. To consider how the mitigation, environment and climate change nexus can be elevated through collaborative effort at the global platform and in particular, at UNFCCC COPs, including through a joint declaration towards an action- oriented, forward-looking common position.
+To consider how the mitigation, environment and climate change nexus can be elevated through collaborative effort at the global platform and in particular, at UNFCCC COPs, including through a joint declaration towards an action- oriented, forward-looking common position.
 
-    5. To identify possible areas of strategic intervention by states, partners and the wider UN family and regional bodies.
+To identify possible areas of strategic intervention by states, partners and the wider UN family and regional bodies.
 
 Mr Speaker, in attendance at the conference will be the two heads of state: the honourable excellencies, the President of the Republic of Uganda and the Republic of Kenya, regional ministers from several member states that include, but not limited to Burundi, Djibouti, the DR Congo, Eritrea, Ethiopia, Kenya, Rwanda, Somalia, South Sudan, Sudan, the United Republic of Tanzania and Uganda.
 
@@ -1489,21 +1489,21 @@ Prosecution has substantially disclosed the evidence and materials that they int
 
 Mr Speaker, this is a summary, as I conclude:
 
-    1. There are 221 accused persons indicted and committed to the High Court over the Rwenzururu Kingdom uprising of 2016.
+There are 221 accused persons indicted and committed to the High Court over the Rwenzururu Kingdom uprising of 2016.
 
-    2. They are jointly and severally indicted. While 154 of the above are on bail, the others still remain on remand.
+They are jointly and severally indicted. While 154 of the above are on bail, the others still remain on remand.
 
-    3.  The case is for pre-trial hearing in accordance with the rules of procedure of the International Crimes Division.
+ The case is for pre-trial hearing in accordance with the rules of procedure of the International Crimes Division.
 
 Mr Speaker, let me also place this on record. 
 
-    (a) According to information given to me by the Commissioner-General of Prisons, as of today, the prisoners that are of interest to Hon. Katusabe look well-kept and nutritionally fit. 
+According to information given to me by the Commissioner-General of Prisons, as of today, the prisoners that are of interest to Hon. Katusabe look well-kept and nutritionally fit. 
 
-    (b) They receive regular medical consultation from the prison’s health team on the ground and receive frequent outreach services delivered both at Murchison Bay health facilities and other Government referral hospitals.
+They receive regular medical consultation from the prison’s health team on the ground and receive frequent outreach services delivered both at Murchison Bay health facilities and other Government referral hospitals.
  
-    (c) Prescription medicine, which might not be available on the list of essential medicines or health supplies provided by the National Medical Stores, are supplied by a credible pharmacy in Jinja with which Uganda Prisons Service has a memorandum of understanding. 
+Prescription medicine, which might not be available on the list of essential medicines or health supplies provided by the National Medical Stores, are supplied by a credible pharmacy in Jinja with which Uganda Prisons Service has a memorandum of understanding. 
 
-    (d) Lastly, further, there is food supplementation for the elderly accused persons as part of their medical needs. This is on top of the routine psycho-social and welfare counselling by the psychiatric personnel that attend to them. 
+Lastly, further, there is food supplementation for the elderly accused persons as part of their medical needs. This is on top of the routine psycho-social and welfare counselling by the psychiatric personnel that attend to them. 
 
 I beg to submit and hope that this is enough to satisfy Hon. Katusabe’s concerns. Thank you.
 
@@ -1578,4 +1578,3 @@ Clerk –(Text Expunged) - So, expunge that part of the record of Parliament -(T
 This matter is concluded. Honourable minister, your statement has been received. Hon. Katusabe, you can continue engaging with the Attorney-General on this matter. I hereby adjourn the House until tomorrow at 2.00 p.m.
 
 (The House rose at 6.56 p.m., and adjourned until Thursday, 14 July 2022 at 2.00 p.m.) 
-

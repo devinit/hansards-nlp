@@ -1,4 +1,4 @@
-﻿Disclaimer: The electronic version of the Official Report of the proceedings of Parliament (Hansard) is for information purposes only. A certified version of this Report can be obtained from the Office of the Clerk to Parliament.
+Disclaimer: The electronic version of the Official Report of the proceedings of Parliament (Hansard) is for information purposes only. A certified version of this Report can be obtained from the Office of the Clerk to Parliament.
 
 
 
@@ -86,9 +86,9 @@ Madam Speaker, the National Information System embeds elaborate processes and co
 
 The system also controls duplication of identity through the use of three identification systems which include; 
 
-    1. Facial Recognition System 
-    2. Automatic Fingerprint Identification System and, 
-    3. Textual Data Check. 
+Facial Recognition System 
+Automatic Fingerprint Identification System and, 
+Textual Data Check. 
 
 Using the above systems, every new application received is checked against the existing persons in the database to ensure that there is no duplication before a NIN is assigned. Yesterday and elsewhere, I had said that NIN is the National Identification Number which once given to you, it remains yours for life and thereafter. It will not be assigned to anybody else. Even when you die, it will not be reassigned to anybody. Life will continue without your NIN. 
 
@@ -96,13 +96,13 @@ The system further checks applicants against existing relatives in the database 
 
 The data processing and production stages include the following:
 
-    1. Data input into the Central System 
-    2. Automatic identification 
-    3. Image enhancement - enhancing and approval of images/picture 
-    4. Manual identification
-    5. Approval manual - approving replacement applications and
-    6. Citizenship verification - verifying support documents to confirm citizenship and approval.
-    7. Finally, the ID Production; once it is printed, you need quality control, batch them and scan the cards produced and then prepare the cards from quality control for dispatch to the centres where people pick them.
+Data input into the Central System 
+Automatic identification 
+Image enhancement - enhancing and approval of images/picture 
+Manual identification
+Approval manual - approving replacement applications and
+Citizenship verification - verifying support documents to confirm citizenship and approval.
+Finally, the ID Production; once it is printed, you need quality control, batch them and scan the cards produced and then prepare the cards from quality control for dispatch to the centres where people pick them.
 
 On average, a data processing officer handles 400 records per day while at production quality control and preparing IDs for dispatch, an officer handles an average of 600 records per day. Therefore, at production, we handle 400 cards but at dispatch, we are able to dispatch more; 600 per day per person handling them. This is shown in the table below; the number of applications at each of the stages, the current number of staff allocated and the daily output.
 
@@ -120,10 +120,10 @@ Initially, the replacement of National Identification cards was done centrally a
 
 The role of the district offices in this respect includes:
 
-    1. Providing the forms for ID replacement to the applicants;
-    2. Financial verification of the payment and receipts, which have been made – because as I told you, replacements are not free; one has to pay Shs 50,000 for replacing a lost ID;
-    3. Capturing the applicants’ information on the ID system; and
-    4. Preparing the data for onward transmission to NIRA Head Office in Kampala.
+Providing the forms for ID replacement to the applicants;
+Financial verification of the payment and receipts, which have been made – because as I told you, replacements are not free; one has to pay Shs 50,000 for replacing a lost ID;
+Capturing the applicants’ information on the ID system; and
+Preparing the data for onward transmission to NIRA Head Office in Kampala.
 
 The status of replacement in district offices per region, as of 30 June 2019, is attached as Appendix 2. I will not go into detail; I kindly ask Members to refer to it. It indicates that we have a significant number of cards, which are pending. For example, the central region has 100,000 cards pending replacement. Mid-West - that is places like Buliisa, Kiboga and Ntoroko and so on have 4,726, among others. 
 
@@ -147,10 +147,10 @@ However, some are not staff of NIRA but persons purporting to be.  For example, 
 
 NIRA is doing that by:
 
-    i) Implementing staff uniforms for all client-facing staff;
-    ii) Enforcing wearing of staff identity cards and name tags at all times while on duty;
-    iii) Introducing complaint registers at all district offices and in Kampala itself; and
-    iv) Introducing a toll-free line to enable clients call in.
+Implementing staff uniforms for all client-facing staff;
+Enforcing wearing of staff identity cards and name tags at all times while on duty;
+Introducing complaint registers at all district offices and in Kampala itself; and
+Introducing a toll-free line to enable clients call in.
 
 The Authority also commits to continuous retraining of staff in soft skills in order to reduce such occurrences.
 
@@ -170,35 +170,35 @@ Short term planned interventions;
 
 In order to improve processing time, the Authority plans short term and medium to long-term measures including:
 
-    i. Re-assignment of some staff from less busy registration centres to headquarters to support data processing. NIRA is going to recall people from some centres where activities are low in the short run to the headquarters to increase the number of people who are at Kololo.
+Re-assignment of some staff from less busy registration centres to headquarters to support data processing. NIRA is going to recall people from some centres where activities are low in the short run to the headquarters to increase the number of people who are at Kololo.
 
-    ii. Employment of temporary staff to handle the backlog. This will be for a short period until the backlog is reduced.
+Employment of temporary staff to handle the backlog. This will be for a short period until the backlog is reduced.
 
-    iii. Review of the registration and operations processes and procedures with the view of improving efficiency and turnaround times.
+Review of the registration and operations processes and procedures with the view of improving efficiency and turnaround times.
 
-    iv. Contracting courier services for timely delivery of cards and data to and from the service centres. Here, there are a number of courier services including our public transport. However, what we are looking at are those which are secure enough to deliver this without creating another problem of cards getting lost.
+Contracting courier services for timely delivery of cards and data to and from the service centres. Here, there are a number of courier services including our public transport. However, what we are looking at are those which are secure enough to deliver this without creating another problem of cards getting lost.
 
-    v.  Enhanced sensitisation of the public to desist from multiple applications because it impacts the first application.
+ Enhanced sensitisation of the public to desist from multiple applications because it impacts the first application.
 
-    vi. Decentralising this service to the district offices with clear guidelines so that a number of the services are done at the district rather than continue to be done at the headquarters.
+Decentralising this service to the district offices with clear guidelines so that a number of the services are done at the district rather than continue to be done at the headquarters.
 
-    vii.  Improve the user platform to use other features to obtain the status of application and the National Identification Number (NIN). For example, the ability to obtain your information using another person linked to you like a parent or child. I told you earlier that we trying to create a family platform. Once that family platform is created a member of that family will be able to give permission through the e-system as to who can access that platform to get the immediate information that they will require at any given time instead of coming to print. 
+ Improve the user platform to use other features to obtain the status of application and the National Identification Number (NIN). For example, the ability to obtain your information using another person linked to you like a parent or child. I told you earlier that we trying to create a family platform. Once that family platform is created a member of that family will be able to give permission through the e-system as to who can access that platform to get the immediate information that they will require at any given time instead of coming to print. 
 
 The medium to long term measures include;
 
-    i. Connectivity of service centres for immediate online transmission of data to headquarters. This was presented earlier yesterday when we said that one of the two options where we want to do registration online.
+Connectivity of service centres for immediate online transmission of data to headquarters. This was presented earlier yesterday when we said that one of the two options where we want to do registration online.
 
-    ii. Review of the existing structure to meet the growing demand.
+Review of the existing structure to meet the growing demand.
 
-    iii.  Develop a module on the third-party interface to facilitate agencies without adequate infrastructure to access information via the web portal. The Ministry of Public Service is already doing this one very well. They can access information from the central server of NIRA.
+ Develop a module on the third-party interface to facilitate agencies without adequate infrastructure to access information via the web portal. The Ministry of Public Service is already doing this one very well. They can access information from the central server of NIRA.
 
-    iv. Enable online applications with instant notification of biometric match.
+Enable online applications with instant notification of biometric match.
 
-    v. Upgrade the system to include capture of iris for biometric identification.
+Upgrade the system to include capture of iris for biometric identification.
 
-    vi. An in-built notification system so that applicants can be notified of any changes which are required.
+An in-built notification system so that applicants can be notified of any changes which are required.
 
-    vii. Web-portal where applicants will be able to check their application progress.
+Web-portal where applicants will be able to check their application progress.
 
 Why replacement of lost IDs is paid at Shs 50,000
 
@@ -501,7 +501,7 @@ What we see here, any sane entity cannot afford to stand it. In the private sect
 4.01
 MR GEOFFREY MACHO (NRM, Busia Municipality, Busia): Madam Speaker, I would like to thank the minister for his submission which I still remain confused about because he did not specify the challenges he is getting. That is why I have stood up.
 
-On the border, we having challenges –(Interjections)-­ Madam Speaker, I need your protection.
+On the border, we having challenges –(Interjections)- Madam Speaker, I need your protection.
 
 THE SPEAKER: Order, Members!
 
@@ -581,13 +581,13 @@ APPRECIATING that more than 400 African Bishops have converged in Kampala this J
 
 NOW, THEREFORE, be it resolved by this Parliament that;
 
-    i. Parliament honours St Pope Paul VI and the late Archbishop Joseph Kiwanuka.
+Parliament honours St Pope Paul VI and the late Archbishop Joseph Kiwanuka.
 
-    ii.  Parliament takes cognisance of the distinguished service rendered and contribution made by St Pope Paul VI and the late Archbishop Joseph Kiwanuka not only in religious realms but also in the social development of Uganda.
+ Parliament takes cognisance of the distinguished service rendered and contribution made by St Pope Paul VI and the late Archbishop Joseph Kiwanuka not only in religious realms but also in the social development of Uganda.
 
-    iii. Parliament urges Government to install monuments of St Pope Paul VI and the late Archbishop Joseph Kiwanuka in commemoration of their works towards the development of Uganda.
+Parliament urges Government to install monuments of St Pope Paul VI and the late Archbishop Joseph Kiwanuka in commemoration of their works towards the development of Uganda.
 
-    iv. Parliament welcomes all Bishops and dignitaries to the 50th SECAM meeting and wishes them fruitful deliberations.”
+Parliament welcomes all Bishops and dignitaries to the 50th SECAM meeting and wishes them fruitful deliberations.”
 
 
 I beg to move, Madam Speaker.
@@ -1539,7 +1539,6 @@ Let the Clerk extract the recommendations so that we deal with them one by one t
 House adjourned to 2.00 p.m. tomorrow.
 
 (The House rose at exactly 7.44 p.m. and adjourned until Thursday, 25 July 2019 at 2.00 p.m.) 
-
 
 
 

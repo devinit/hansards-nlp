@@ -1,4 +1,4 @@
-﻿
+
 
 Thursday, 28 February 2019
 
@@ -18,11 +18,11 @@ Honourable members, yesterday, I informed you that I was copied in a letter from
 
 The letter makes the following allegations:
 
-    a) That the Chairperson of COSASE, hon. Abdul Katuntu and his Deputy, hon. Among are known associates of Dr Sudhir Ruparelia and that they regularly met with him, his son Rajiv Ruparelia and their lawyers from Kampala Associated  Advocates, during the course of the investigations.
-    b) That the Chairperson of COSASE, hon. Abdul Katuntu and his Deputy, hon. Among, received cash payments from Dr Sudhir Ruparelia, which is suspected to be the real reason why they refused to yield leadership of the COSASE when its term ended.
-    c) Hon. Katuntu was one of the debtors of Global Trust Bank, at the time the bank was closed on 25 July 2012 and he owed approximately Shs 180 million, a matter he did not declare yet the debts were among the causes for the bank’s collapse.
-    d) That the Governor of Bank of Uganda, Prof. Emmanuel Tumusiime Mutebile authorised payment of Shs 400 million to hon. Abdu Katuntu to enable COSASE carryout benchmarking exercise with other central banks and the money was neither declared by hon. Katuntu nor accounted for.
-    e) That Dr Twinemanzi Tumubweine and members of the COSASE leaked confidential information to Dr Sudhir Ruparelia. 
+That the Chairperson of COSASE, hon. Abdul Katuntu and his Deputy, hon. Among are known associates of Dr Sudhir Ruparelia and that they regularly met with him, his son Rajiv Ruparelia and their lawyers from Kampala Associated  Advocates, during the course of the investigations.
+That the Chairperson of COSASE, hon. Abdul Katuntu and his Deputy, hon. Among, received cash payments from Dr Sudhir Ruparelia, which is suspected to be the real reason why they refused to yield leadership of the COSASE when its term ended.
+Hon. Katuntu was one of the debtors of Global Trust Bank, at the time the bank was closed on 25 July 2012 and he owed approximately Shs 180 million, a matter he did not declare yet the debts were among the causes for the bank’s collapse.
+That the Governor of Bank of Uganda, Prof. Emmanuel Tumusiime Mutebile authorised payment of Shs 400 million to hon. Abdu Katuntu to enable COSASE carryout benchmarking exercise with other central banks and the money was neither declared by hon. Katuntu nor accounted for.
+That Dr Twinemanzi Tumubweine and members of the COSASE leaked confidential information to Dr Sudhir Ruparelia. 
 
 Honourable members, I find the contents of this letter to be an attack on the Parliament of Uganda; an attempt to muzzle parliamentary investigations; stifle the voice of the people, intimidate and blackmail Parliament and its Members, in the performance of its constitutionally granted functions. (Applause)
 
@@ -179,9 +179,9 @@ I wish to draw your attention to the increasing cases of piracy on the waters of
 
 My prayers are:
 
-    1. The Uganda Police Marine Unit carries out 24 hour surveillance on the waters of Lake Victoria with the view to securing the fishermen and their fishing gears.
-    2. The Uganda Police Force investigates the increasing piracy incidents on the waters with a view to bringing the culprits to book and if convicted, to return the stolen engines to the owners.
-    3. The Minister of Internal Affairs files an update to this august House on the findings of the crime. 
+The Uganda Police Marine Unit carries out 24 hour surveillance on the waters of Lake Victoria with the view to securing the fishermen and their fishing gears.
+The Uganda Police Force investigates the increasing piracy incidents on the waters with a view to bringing the culprits to book and if convicted, to return the stolen engines to the owners.
+The Minister of Internal Affairs files an update to this august House on the findings of the crime. 
 
 I beg to submit.
 
@@ -898,11 +898,11 @@ Objective one
 
 It is recommended that –
 
-    1. The Central Bank should strictly fo1low the provisions of section 89 (3) of the Financial Institution Act, 2004 and invoke its mandate of appointing auditors only when it is in statutory management.
-    2. The Bank of Uganda Board, in consultation with the Minister of Finance, Planning and Economic Development should, by Statutory Instrument in not more than six months, issue procedures and guidelines under the Financial Institution Act, on the resolution of financial institutions in distress.
-    3. The Financial Institutions Act, 2004 should be amended to make specific provision for the timelines of undertaking all the activities related to and connected with resolution of financial institutions.
-    4. Whereas the resolution of financial institutions in distress has been under the Bank of Uganda Supervision department, it is recommended that the mandate of resolving financial institutions in distress be independent of the bank supervision function. This would mitigate the risk of conflict of interest.
-    5. The Central Bank should strengthen the supervision function to ensure that it is able to adequately supervise financial institutions in real time. This may require investment in human resource and systems, technological or otherwise.
+The Central Bank should strictly fo1low the provisions of section 89 (3) of the Financial Institution Act, 2004 and invoke its mandate of appointing auditors only when it is in statutory management.
+The Bank of Uganda Board, in consultation with the Minister of Finance, Planning and Economic Development should, by Statutory Instrument in not more than six months, issue procedures and guidelines under the Financial Institution Act, on the resolution of financial institutions in distress.
+The Financial Institutions Act, 2004 should be amended to make specific provision for the timelines of undertaking all the activities related to and connected with resolution of financial institutions.
+Whereas the resolution of financial institutions in distress has been under the Bank of Uganda Supervision department, it is recommended that the mandate of resolving financial institutions in distress be independent of the bank supervision function. This would mitigate the risk of conflict of interest.
+The Central Bank should strengthen the supervision function to ensure that it is able to adequately supervise financial institutions in real time. This may require investment in human resource and systems, technological or otherwise.
 
 THE SPEAKER: Honourable members, you have heard the five recommendations. I put the question that those recommendations be adopted.
 
@@ -914,7 +914,7 @@ MR KATUNTU: Madam Speaker, the second objective was “to establish whether the 
 
  We recommend that –
 
-    1. Bank of Uganda should never resolve any financial institution without strictly adhering to the provisions of the 1aw to wit sections 95 (3) (a) and (b) of the Financial Institutions Act, 2004, section 40(3) of the Bank of Uganda Act and section 7 of the National Records and Archives Act, 2001.
+Bank of Uganda should never resolve any financial institution without strictly adhering to the provisions of the 1aw to wit sections 95 (3) (a) and (b) of the Financial Institutions Act, 2004, section 40(3) of the Bank of Uganda Act and section 7 of the National Records and Archives Act, 2001.
 
 2. 	The individual officers who handled the transaction should be held personally responsible.
 
@@ -1141,16 +1141,16 @@ Recommendations
 
 The committee recommends that:
 
-    1) Bank of Uganda should immediately put in place procedures and guidelines for the proper functioning of all liquidation related activities;
-    2) Bank of Uganda should strengthen the legal and compliance functions to ensure compliance with all legal requirements related to resolution of financial institutions;
-    3) Government should consider amending the FIA, 2004 to provide for sanctions against non-compliance with any provision by the bank or any agent thereof, including but not limited to liquidation agents;
-    4) Bank of Uganda should end the winding up processes of all defunct banks within a period not exceeding one year;
-    5) Government should consider amending the FIA, 2004 to provide a time limit within which liquidation of financial institutions in distress should be concluded;
-    6) Bank of Uganda should, at all times, produce reports regarding the affairs of the financial institutions in issue and share the same with the shareholders who ultimately shoulder the burden of the management costs incurred by the Central Bank as per section 93 of the FIA, 2004;
-    7) The law and policy regulating resolution of financial institutions should expressly provide a mechanism of sharing information on accountability for funds generated from the financial institutions as well as injected by Bank of Uganda as liquidity support;
-    8) The law should provide penalties and sanctions against non-compliant bank officers;
-    9) The statutory manager should be involved in matters regarding the resolution of financial institutions under his or her management;
-    10) Further investigations should be carried out by the Uganda Police Force to establish if financial loss was occasioned and hold the responsible officers personally accountable to the extent of the loss, if any.  
+Bank of Uganda should immediately put in place procedures and guidelines for the proper functioning of all liquidation related activities;
+Bank of Uganda should strengthen the legal and compliance functions to ensure compliance with all legal requirements related to resolution of financial institutions;
+Government should consider amending the FIA, 2004 to provide for sanctions against non-compliance with any provision by the bank or any agent thereof, including but not limited to liquidation agents;
+Bank of Uganda should end the winding up processes of all defunct banks within a period not exceeding one year;
+Government should consider amending the FIA, 2004 to provide a time limit within which liquidation of financial institutions in distress should be concluded;
+Bank of Uganda should, at all times, produce reports regarding the affairs of the financial institutions in issue and share the same with the shareholders who ultimately shoulder the burden of the management costs incurred by the Central Bank as per section 93 of the FIA, 2004;
+The law and policy regulating resolution of financial institutions should expressly provide a mechanism of sharing information on accountability for funds generated from the financial institutions as well as injected by Bank of Uganda as liquidity support;
+The law should provide penalties and sanctions against non-compliant bank officers;
+The statutory manager should be involved in matters regarding the resolution of financial institutions under his or her management;
+Further investigations should be carried out by the Uganda Police Force to establish if financial loss was occasioned and hold the responsible officers personally accountable to the extent of the loss, if any.  
 
 I beg to move, Madam Speaker.
 
@@ -1164,8 +1164,8 @@ MR KATUNTU: Madam Speaker, objective 4 was to ascertain whether the funds from t
 
 Recommendations
 
-    1. The DPF should, within one month, refund the Shs 21.9 billion due to Government, to the Consolidated Fund. As you realise, honourable colleagues, this was money, which was lent out and is still lying on some other account. It should go to the Consolidated Fund.
-    2. The Minister of Finance, Planning and Economic Development should regularly review and fix the size of the fund to ensure sufficient protection of the depositors’ interests and avoid recourse to the public purse.
+The DPF should, within one month, refund the Shs 21.9 billion due to Government, to the Consolidated Fund. As you realise, honourable colleagues, this was money, which was lent out and is still lying on some other account. It should go to the Consolidated Fund.
+The Minister of Finance, Planning and Economic Development should regularly review and fix the size of the fund to ensure sufficient protection of the depositors’ interests and avoid recourse to the public purse.
 
 THE SPEAKER: Honourable members, those are two recommendations. I put the question that those recommendations be adopted.
 
@@ -1177,9 +1177,9 @@ MR KATUNTU: Madam Speaker, objective 5 was to establish the total cost of liquid
 
 Recommendations
 
-    1. Bank of Uganda should strictly adhere to the requirements of section 106(1) of the FIA, 2004 by keeping proper financial ledgers and financial records in a manner prescribed by the Central Bank in which shall be recorded all financial transactions relating to the liquidation.
-    2. The fiduciary duty owed to the person who is ultimately bearing the burden of paying the liquidation costs dictates that such costs should be minimised. 
-    3. Decisions to hire external professional help should be done under the authority of the Board upon justification by management.
+Bank of Uganda should strictly adhere to the requirements of section 106(1) of the FIA, 2004 by keeping proper financial ledgers and financial records in a manner prescribed by the Central Bank in which shall be recorded all financial transactions relating to the liquidation.
+The fiduciary duty owed to the person who is ultimately bearing the burden of paying the liquidation costs dictates that such costs should be minimised. 
+Decisions to hire external professional help should be done under the authority of the Board upon justification by management.
 
 THE SPEAKER: Honourable members, those are three recommendations. Yes, hon. Waluswaka, is it one of your proposals?
 
@@ -1203,8 +1203,8 @@ MR KATUNTU: Objective six was to establish whether the statutory manager perform
 
 The committee recommends that:
 
-    1. In the process of taking a decision to liquidate a financial institution, detailed plans for the revival should be exhausted before taking the most extreme action of liquidating a financial institution, which act has far reaching implications to the financial sector. The absence of such plans would connote premeditated intentions to wind up a financial institution instead of reviving it to the extent that such is possible.
-    2. The committee further recommends that the statutory manager’s assessment, as may be revealed in his report, prior to liquidation, should be key in forming the basis for the decisions of the Central Bank in relation to liquidation. Such a report would reveal the financial status of the institution, including its ability to return to prudential compliance.
+In the process of taking a decision to liquidate a financial institution, detailed plans for the revival should be exhausted before taking the most extreme action of liquidating a financial institution, which act has far reaching implications to the financial sector. The absence of such plans would connote premeditated intentions to wind up a financial institution instead of reviving it to the extent that such is possible.
+The committee further recommends that the statutory manager’s assessment, as may be revealed in his report, prior to liquidation, should be key in forming the basis for the decisions of the Central Bank in relation to liquidation. Such a report would reveal the financial status of the institution, including its ability to return to prudential compliance.
 
 I beg to move. 
 
@@ -1218,11 +1218,11 @@ MR KATUNTU: Thank you very much, Madam Speaker. Objective seven was to carry out
 
 The committee recommends that:
 
-    1. Bank of Uganda, Ministry of Trade, Industry and Cooperatives and the Ministry of Finance, Planning and Economic Development resolve the concerns of the Uganda Cooperative Alliance regarding the closure and assets of the Cooperative Bank of 1964.
-    2. Government reports on this matter to this House within a period of six months.
-    3. The Secretary to the Treasury or his or her representative (not below the rank of commissioner) like it is in other jurisdictions, should be a non-voting member of the Board. This will be a good safeguard against any likely compromising of the Bank of Uganda independence guaranteed under Article 162(2) of the Constitution.
-    4. The Board reminds itself of its obligations and mandate under the Constitution of Uganda and the Bank of Uganda Act. The appointing authority may, in the event of any failure on the part of the Board in effective supervision of the management of Bank of Uganda, consider reviewing their appointments.
-    5. The Constitution of Uganda in Article 161 (4) provides that the Governor and Deputy Governor shall be Chairperson and Vice Chairperson of the Board respectively. Good corporate governance principles would require that the position of Chairperson and Vice Chairperson of the Board is separated from the position of Chief Executive Officer and his Deputy. 
+Bank of Uganda, Ministry of Trade, Industry and Cooperatives and the Ministry of Finance, Planning and Economic Development resolve the concerns of the Uganda Cooperative Alliance regarding the closure and assets of the Cooperative Bank of 1964.
+Government reports on this matter to this House within a period of six months.
+The Secretary to the Treasury or his or her representative (not below the rank of commissioner) like it is in other jurisdictions, should be a non-voting member of the Board. This will be a good safeguard against any likely compromising of the Bank of Uganda independence guaranteed under Article 162(2) of the Constitution.
+The Board reminds itself of its obligations and mandate under the Constitution of Uganda and the Bank of Uganda Act. The appointing authority may, in the event of any failure on the part of the Board in effective supervision of the management of Bank of Uganda, consider reviewing their appointments.
+The Constitution of Uganda in Article 161 (4) provides that the Governor and Deputy Governor shall be Chairperson and Vice Chairperson of the Board respectively. Good corporate governance principles would require that the position of Chairperson and Vice Chairperson of the Board is separated from the position of Chief Executive Officer and his Deputy. 
 
 In line with G20/OECD Principles of Corporate Governance, 2015, it is observed that in countries with single Tier Board systems, objectivity of the Board and its independence from management may be strengthened by the separation of the role of the Chief Executive and Chair of the Board. 
 
@@ -1230,20 +1230,20 @@ Separation of these two positions is generally regarded as good practice as it c
 
 As proposed by hon. Cecilia Ogwal and conceded to by the Leader of Government Business, this amendment should be brought to this House within 90 days from the adoption of this report. 
 
-    1. The Bank strengthens its monitoring and observance of its security policy.
-    2. All bank officials should strictly adhere to the security policy and anyone found in breach should be subjected to the disciplinary procedures of the Bank.
-    3. It is recommended that section 40(3) of the Bank of Uganda Act be amended to provide for exceptional circumstances in case of liquidation of banks.
-    4. The committee, therefore, recommends that Bank of Uganda establishes a mechanism of receiving and resolving complaints, including against its liquidation agents.
+The Bank strengthens its monitoring and observance of its security policy.
+All bank officials should strictly adhere to the security policy and anyone found in breach should be subjected to the disciplinary procedures of the Bank.
+It is recommended that section 40(3) of the Bank of Uganda Act be amended to provide for exceptional circumstances in case of liquidation of banks.
+The committee, therefore, recommends that Bank of Uganda establishes a mechanism of receiving and resolving complaints, including against its liquidation agents.
 
 I beg to move, Madam Speaker. 
 
 MS OGWAL: Madam Speaker, I have two amendments to add to objective seven: 
 
-    1. The fact that some banks were closed 20 years ago and no report has ever been filed detailing the reasons for the closure is evidence that the Ministry of Finance, Planning and Economic Development failed to effectively supervise Bank of Uganda. Therefore, in accordance with Article 164(2) of the Constitution, the Minister of Finance, Planning and Economic Development should be held politically responsible for failing to implement section 48 of the Bank of Uganda Act, which mandates the minister, in consultation with the Governor, to give financial and economic policy directives to the bank.
+The fact that some banks were closed 20 years ago and no report has ever been filed detailing the reasons for the closure is evidence that the Ministry of Finance, Planning and Economic Development failed to effectively supervise Bank of Uganda. Therefore, in accordance with Article 164(2) of the Constitution, the Minister of Finance, Planning and Economic Development should be held politically responsible for failing to implement section 48 of the Bank of Uganda Act, which mandates the minister, in consultation with the Governor, to give financial and economic policy directives to the bank.
 
 Madam Speaker, I would like to clarify that this amendment does not, in any way compromise, the independence of Bank of Uganda.
  
-    2. The Minister of Finance, Planning and Economic Development should present proposals for amendment of the Bank of Uganda Act to allow Bank of Uganda to concentrate on the monetary policy of the country. Aspects of regulation, supervision, control and discipline should be removed and given to an independent body. 
+The Minister of Finance, Planning and Economic Development should present proposals for amendment of the Bank of Uganda Act to allow Bank of Uganda to concentrate on the monetary policy of the country. Aspects of regulation, supervision, control and discipline should be removed and given to an independent body. 
 
 I beg to move. 
 

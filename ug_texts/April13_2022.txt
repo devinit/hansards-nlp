@@ -1,4 +1,4 @@
-﻿
+
 
 PARLIAMENT OF UGANDA
 
@@ -128,17 +128,17 @@ There is a table which indicates the properties disposed of under Phase I.
 
 Observations
 
-    1. The criteria that was used to classify those assets as core or non-core was not clear. As a result, some of the properties that were determined to be non-core assets were core assets. Some properties were classified as core while others within the same locality were classified as non-core, for example, Plot 122 Block 264 Kyadondo, Mutundwe and Plot 27-33 Kyadondo Mutundwe.
+The criteria that was used to classify those assets as core or non-core was not clear. As a result, some of the properties that were determined to be non-core assets were core assets. Some properties were classified as core while others within the same locality were classified as non-core, for example, Plot 122 Block 264 Kyadondo, Mutundwe and Plot 27-33 Kyadondo Mutundwe.
 
 They say that this property is non-core and so, we must be able to sell it but then just adjacent to it, there is another property in the same area and for the same usage and they say “No, the other one is core and this one is non-core. Let us sell this one.” We queried that. How do they say the other is core and this one is non-core?
 
-    2.  The committee noted that only 10 out of 15 properties were advertised. There is no evidence to show that those which were not advertised were sold through the right procedure.
+ The committee noted that only 10 out of 15 properties were advertised. There is no evidence to show that those which were not advertised were sold through the right procedure.
 
 This is Government land and for it to be sold, there are procurement processes that have got to be abided by and one of which is advertising. They only advertised 10 properties but eventually sold 15. So, how were the other five sold?
 
-    3.  There was no evidence of payment for these properties.
+ There was no evidence of payment for these properties.
 
-    4.  There was no evidence of a valuer’s report determining the reserve price. 
+ There was no evidence of a valuer’s report determining the reserve price. 
 
 In that particular regard of Phase I, we advised, as a committee, that the Inspectorate of Government should investigate this matter and prosecute all those found culpable because Government land cannot be sold without following particular procurement procedures – and receipts being availed.
 
@@ -188,11 +188,11 @@ These local investors challenged the legality of the transaction and Government 
 
 Observations
 
-    1) Despite the fact that the presidential directive and a Cabinet memo indicated only 32.35 acres to be allocated to the above beneficiaries, 72.78 acres was allocated bringing  an over-allocation of Shs 40.43 acres without authorisation. Who authorised this extra because the presidential directive and Cabinet memo talked about 32.35 acres but the people who we handling this process decided to allocate a lot more whether to themselves or whatever the case might be.
+Despite the fact that the presidential directive and a Cabinet memo indicated only 32.35 acres to be allocated to the above beneficiaries, 72.78 acres was allocated bringing  an over-allocation of Shs 40.43 acres without authorisation. Who authorised this extra because the presidential directive and Cabinet memo talked about 32.35 acres but the people who we handling this process decided to allocate a lot more whether to themselves or whatever the case might be.
 
-    2) Some beneficiaries that were included in the presidential directive and Cabinet memo (annexure “A”) were denied land. For example, National Library (two acres), Nakawa Disabled Vocational Training Institute (0.6 acre), Quakers (0.43) acres and church of Uganda (0.39 acres). 
+Some beneficiaries that were included in the presidential directive and Cabinet memo (annexure “A”) were denied land. For example, National Library (two acres), Nakawa Disabled Vocational Training Institute (0.6 acre), Quakers (0.43) acres and church of Uganda (0.39 acres). 
 
-    3) Some individuals and entities were not meant to be beneficiaries but were allocated land. For example, Kampala International University, which did not appear in the Cabinet memo and the presidential directive, was allocated 14 acres for the development of the university. However, as we speak now, a shopping mall called Arena Mall was eventually built on the said land and that is problematic. They were not meant to be beneficiaries. Eventually, they were given land to develop the university but today we see a shopping mall on this land. The taxpayer was short-changed as far as we are concerned.
+Some individuals and entities were not meant to be beneficiaries but were allocated land. For example, Kampala International University, which did not appear in the Cabinet memo and the presidential directive, was allocated 14 acres for the development of the university. However, as we speak now, a shopping mall called Arena Mall was eventually built on the said land and that is problematic. They were not meant to be beneficiaries. Eventually, they were given land to develop the university but today we see a shopping mall on this land. The taxpayer was short-changed as far as we are concerned.
 
 The committee noted that some individuals and entities did not pay premium or ground rent for the land that was allocated to them. For example, the lease for Ms Janet Kobusingye, the proprietor of Mestil Hotel and Residences in Nsambya, was extended from 10 years to forty 49 years and then to 99 years with no premium or ground rent paid for the 89 years. 
 
@@ -228,11 +228,11 @@ Several requests by URC to these land boards to cancel the said illegal leases h
 
 Our recommendations, Madam Speaker:
 
-    1. All illegal leases on URC land should be cancelled by the issuing authorities.
+All illegal leases on URC land should be cancelled by the issuing authorities.
 
-    2. The officers in the district land boards involved in issuing these illegal leases should be held responsible because what they are doing is illegal. So, action has got to be taken against them. 
+The officers in the district land boards involved in issuing these illegal leases should be held responsible because what they are doing is illegal. So, action has got to be taken against them. 
 
-    3. URC should come up with clear mechanisms on how to lease its land so that the appropriate value of the assets can be ascertained. When it is done in a haphazard manner, that is when everybody will grab some land from them and others will pay less for the value, etcetera.
+URC should come up with clear mechanisms on how to lease its land so that the appropriate value of the assets can be ascertained. When it is done in a haphazard manner, that is when everybody will grab some land from them and others will pay less for the value, etcetera.
 
 Madam Speaker, the other issue that we interrogated was locomotive engines. The committee inquired from management about the inventory list of locomotive engines for the corporation, the status of operation, engine capacities, location, and whether they possess fuel registers. The committee was informed that URC is maintaining the fleet of all locomotives under its use, indicating the status of operation, etc. Further, the corporation maintained the fuel register.
 
@@ -260,9 +260,9 @@ Secondly, the committee notes that this was all because older yet more expensive
 
 Observations
 
-    1. The Ministry of Works and Transport deviated from the government policy of procuring new equipment and recommended and approved the purchase of used and refurbished locomotives, because the approval came from the Ministry. 
+The Ministry of Works and Transport deviated from the government policy of procuring new equipment and recommended and approved the purchase of used and refurbished locomotives, because the approval came from the Ministry. 
 
-    2. The procurement and disposal unit and the contracts committee of URC recommended open international bidding because of the amount of money involved. However, management opted for restricted international bidding without proper justification. So, again, the procurement and disposal unit and the contracts committee of URC said, “Look, because of the monies involved here, let us not get ourselves in trouble. Let us do open international bidding. That is what is required.” However, the people who actualised this decided that “No, we shall deviate from what our committee has advised and do restricted international bidding.” Therefore, they went for a particular individual and said, “Supply to us.” Could that be the reason they bought the older, yet, more expensive locomotives? 
+The procurement and disposal unit and the contracts committee of URC recommended open international bidding because of the amount of money involved. However, management opted for restricted international bidding without proper justification. So, again, the procurement and disposal unit and the contracts committee of URC said, “Look, because of the monies involved here, let us not get ourselves in trouble. Let us do open international bidding. That is what is required.” However, the people who actualised this decided that “No, we shall deviate from what our committee has advised and do restricted international bidding.” Therefore, they went for a particular individual and said, “Supply to us.” Could that be the reason they bought the older, yet, more expensive locomotives? 
 
 Thirdly, URC had to incur unplanned costs of modifications to improve the triangles and provide turning points for these locomotives. 
 
@@ -270,9 +270,9 @@ Fourth, the compatibility of the locomotives to the Uganda Railway lines should 
 
 Recommendations
 
-    1. The Ministry of Works and Transport should take responsibility for failure to follow the Government policy on the procurement of equipment.
+The Ministry of Works and Transport should take responsibility for failure to follow the Government policy on the procurement of equipment.
 
-    2. The management of URC, which was involved in the procurement, should be held responsible for flouting procurement regulations and the unplanned costs incurred and modifications of railway triangles in Jinja and Tororo and the U-turn in Kampala. 
+The management of URC, which was involved in the procurement, should be held responsible for flouting procurement regulations and the unplanned costs incurred and modifications of railway triangles in Jinja and Tororo and the U-turn in Kampala. 
 
 You did not do your homework and you are now costing the taxpayer money, - modify here, modify there, and so on. 
 
@@ -284,9 +284,9 @@ Uganda Railways Cooperation prioritised and remitted PAYE without meeting the ob
 
 Recommendations
 
-    1. The committee recommends that URC management should prioritise remittance of NSSF since this directly affects individual employees who are missing out on an annual interest earned on the outstanding NSSF remittance. 
+The committee recommends that URC management should prioritise remittance of NSSF since this directly affects individual employees who are missing out on an annual interest earned on the outstanding NSSF remittance. 
 
-    2. Uganda Railways Cooperation should ensure that the outstanding NSSF remittances should include interest, which should have been earned by the employees. 
+Uganda Railways Cooperation should ensure that the outstanding NSSF remittances should include interest, which should have been earned by the employees. 
 
 Madam Speaker, when this money is not remitted, the workers lose interest for that year. Even when you eventually pay it - I do not know how many years. If they eventually pay, it will be minus the interest to these workers. That is not fair to the workers of this country because they will have missed this interest for, I do not know how many years. 
 
@@ -526,7 +526,7 @@ DR KUGONZA: Thank you, Madam Speaker. And the report was uploaded and I am only 
 
 Madam Speaker, a comprehensive analysis, observations, and recommendations to the Bill are contained in the report. I will, however, make brief remarks on some of the pertinent observations and recommendations made by the committee.
 
-    1. Funds of the authority
+Funds of the authority
 
 Clause five of the Bill seeks to amend section 22 of the principal Act by substituting the figure point three with the figure point seven to increase funding to the authority, and to provide for additional funding to the authority. 
 
@@ -534,7 +534,7 @@ The committee noted that the authority currently has a funding gap of Shs 8.3 bi
 
 The committee is in agreement with the proposed amendment and a more detailed analysis of this clause is contained under paragraph 6.3 of the report.
 
-    2.  The Energy Development Fund:
+ The Energy Development Fund:
 
 Madam Speaker and honourable colleagues, the electricity supply industry has a significant deficit in transmission and distribution infrastructure. The committee observed that the transmission and distribution networks require an estimate of $2.5 billion and $1.5 billion in new investments respectively, to repair and rehabilitate the network. 
 
@@ -542,13 +542,13 @@ This level of required financing is so high, and it would require additional loa
 
 The committee contends that the creation of the fund will help to provide financing for electricity infrastructure like transmission and distribution of grid-network infrastructure. This would boost the demand for electricity leading to a further reduction in the distribution tariffs and ultimately, less profitability of the sector companies as they sell more units of electricity and increase the economies of scale. It is, therefore, this committee’s recommendation that an energy development run be created. I refer you to paragraph 6.3.1 of the report for a more detailed analysis.
 
-    3.  Bulk supply
+ Bulk supply
 
 Madam Speaker, clause 14 of the Bill seeks to amend section 56 of the principal Act to remove monopoly over the bulk supplier and prescribe the circumstances under which a holder of a generation or transmission license may supply the electricity in bulk to a holder of a distribution license or directly to a specified class or category of customers. 
 
 The committee, among others, recommends that the supply of electricity to a specified class or category of customers be open to a licensee and not just the holder of a generation license. A more detailed analysis of this clause is contained in paragraph 6.4 of the report.
 
-    4. Vandalism:
+Vandalism:
 
 Madam Speaker, the committee noted that clause 19 seeks to amend section 85 of the principal Act by providing for deterrent penalties for vandalism of electrical facilities. The committee observed that UETCL spent, on average, over Shs 600 million per annum to repair vandalised towers on the existing lines across the country. Given the current rate of vandalism and the growing size of the transmission lines, these costs will increase unless the vice is contained. 
 
@@ -922,9 +922,9 @@ The principal Act is amended in section 5 by inserting immediately after subsect
 
 The justification for these proposed insertions are:
 
-    1. To provide for a clear academic qualification of a member, considering the nature of the functions of the authority, which require education up to a higher level.
+To provide for a clear academic qualification of a member, considering the nature of the functions of the authority, which require education up to a higher level.
 
-    2.  In order to cater for affirmative action for women.
+ In order to cater for affirmative action for women.
 
 I beg to submit.
 
@@ -978,19 +978,19 @@ Clause 4
 
 DR OTAALA: Madam Chairperson, we are proposing to amend clause 4 by inserting a new paragraph immediately after paragraph (a) as follows:
 
-    (a) by deleting paragraph (l).
+by deleting paragraph (l).
 
-    (b) in paragraph (qb), we are proposing to insert the word “research” immediately after the word “consultancies”.
+in paragraph (qb), we are proposing to insert the word “research” immediately after the word “consultancies”.
 
-    (c) We are proposing to delete the proposed paragraph (qc). 
+We are proposing to delete the proposed paragraph (qc). 
 
 The justifications for these amendments are: 
 
-    1. Paragraph (l) has been catered for under the new insertion of paragraph (qd) in the Bill.
+Paragraph (l) has been catered for under the new insertion of paragraph (qd) in the Bill.
 
-    2. “Research” should be inserted under paragraph (qb) because it is one of the crucial roles that should be undertaken by the authority.
+“Research” should be inserted under paragraph (qb) because it is one of the crucial roles that should be undertaken by the authority.
 
-    3. The insertion of for 4 (qc) seeks to take on some of the powers of the minister who holds the role of overseeing and developing the sector.
+The insertion of for 4 (qc) seeks to take on some of the powers of the minister who holds the role of overseeing and developing the sector.
  
 Madam Chairperson, I beg to submit. 
 
@@ -1194,23 +1194,23 @@ DR OTAALA: Madam Chairperson, we are proposing an insertion immediately after cl
 
 Section 64 of the principal Act is amended – 
 
-    a. In the headnote by substituting for the words “Rural Electrification Fund”, the words “Electricity Development Fund”.
+In the headnote by substituting for the words “Rural Electrification Fund”, the words “Electricity Development Fund”.
 
-    b. In subsection (1), by substituting for the words “Rural Electrification Fund” the words “Electricity Development Fund”
+In subsection (1), by substituting for the words “Rural Electrification Fund” the words “Electricity Development Fund”
 
-    c. In subsection (2), by deleting paragraph (c). 
+In subsection (2), by deleting paragraph (c). 
 
-    d. In subsection (3)(d), by substituting for the words “rural electrification”, the words “development of the electricity supply industry”. 
+In subsection (3)(d), by substituting for the words “rural electrification”, the words “development of the electricity supply industry”. 
 
-    e. By inserting immediately after subsection (3), a new subsection as follows; ‘The minister shall lay before Parliament, approved annual estimates of revenue and expenditure drawn from the fund in accordance with section 13 of the Public Finance Management Act.’” 
+By inserting immediately after subsection (3), a new subsection as follows; ‘The minister shall lay before Parliament, approved annual estimates of revenue and expenditure drawn from the fund in accordance with section 13 of the Public Finance Management Act.’” 
 
 Madam Chairperson, the justification for these insertions are;
 
-    1. The Rural Electrification Programme has been mainstreamed into the Ministry of Energy and Mineral Development 
+The Rural Electrification Programme has been mainstreamed into the Ministry of Energy and Mineral Development 
 
-    2. The committee observed that the rural electrification levy intended for rural electrification is currently deposited in the Consolidated Fund as part of the national budget. The levy is currently charged at five per cent of the transmission bulk purchases of electricity from generation stations therefore, need not be charged to the end-user consumer. 
+The committee observed that the rural electrification levy intended for rural electrification is currently deposited in the Consolidated Fund as part of the national budget. The levy is currently charged at five per cent of the transmission bulk purchases of electricity from generation stations therefore, need not be charged to the end-user consumer. 
 
-    3. The laying of approval of annual estimates in Parliament is for transparency and accountability. 
+The laying of approval of annual estimates in Parliament is for transparency and accountability. 
 
 Madam Chairperson, I beg to submit.
 
@@ -1378,7 +1378,7 @@ Clause 20
 
 DR OTAALA: Madam Chairperson, clause 20 is amended by:
 
-    a. In the headnote by substituting for the words “substitution of section 86 of the principal Act” the words “insertion of a new section 86A” 
+In the headnote by substituting for the words “substitution of section 86 of the principal Act” the words “insertion of a new section 86A” 
 
 The justification is that section 86 has been maintained in the principal Act, and so, the new provision should appear as an insertion into the Bill and not as a substitution. I beg to submit.
 

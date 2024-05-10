@@ -1,4 +1,4 @@
-﻿
+
 
 Tuesday, 22 May 2018
 
@@ -584,8 +584,8 @@ Madam Speaker, in the discussion, we had recommended that Shs 2 billion be used 
 
 Madam Speaker, allow me to also indicate that there is money to a tune of Shs 500 million. This money is budgeted by Kampala Capital City Authority (KCCA) as seed capital for the teachers’ and health workers’ SACCOs. The committee had recommended that this money be reallocated. However, I would like to indicate to you and Members in the House that:
 
-    1. The cost of living in Kampala is very high
-    2. Other public servants in Kampala get bigger salaries but the teachers and health workers do not get any top up.
+The cost of living in Kampala is very high
+Other public servants in Kampala get bigger salaries but the teachers and health workers do not get any top up.
 
 When the Authority sat and tried to propose a Shs 50,000 allowance for every teacher, it would translate into Shs 708 million per financial year. Therefore, the Authority decided that they get Shs 500 million and put it as seed capital to the SACCOs of the teachers and the health workers. I would like to request that we leave that money there because it helps to motivate our teachers and health workers and also help them to live comfortably in Kampala.
 
@@ -720,18 +720,18 @@ This file contains the original report of the committee on the Bill and also the
 
 I beg to straight away go to the observations 
 
-    1. The Bill is intended to provide for mediation as it is done in the courts of law. Mediation allows to foster a more amicable resolution of disputes. Under the current law, it is not possible for the tribunal to refer disputes for mediation. 
+The Bill is intended to provide for mediation as it is done in the courts of law. Mediation allows to foster a more amicable resolution of disputes. Under the current law, it is not possible for the tribunal to refer disputes for mediation. 
 
-    2. Currently, under the Tax Appeals Tribunal Act, the Tribunal has no powers to award damages to successful parties. For a successful taxpayer to get damages, he/she has to file a fresh suit in the High Court for that purpose. However, allowing the tribunal to engage in awarding damages will divert the tribunal from its core function of adjudicating tax disputes. Any applicant who wants damages should file a suit in the High Court to enable the tribunal concentrate on adjudicating tax disputes. 
+Currently, under the Tax Appeals Tribunal Act, the Tribunal has no powers to award damages to successful parties. For a successful taxpayer to get damages, he/she has to file a fresh suit in the High Court for that purpose. However, allowing the tribunal to engage in awarding damages will divert the tribunal from its core function of adjudicating tax disputes. Any applicant who wants damages should file a suit in the High Court to enable the tribunal concentrate on adjudicating tax disputes. 
 
 
-    3. The Bill will enable the Registrar to discharge judicial powers like taxing costs and handling interim orders. The Tax Appeals Tribunal Act is silent on the judicial responsibilities of the Registrar. The powers of the Registrar are only provided for by the regulations which may be challenged in future since the parent Act does not confer such duties.
+The Bill will enable the Registrar to discharge judicial powers like taxing costs and handling interim orders. The Tax Appeals Tribunal Act is silent on the judicial responsibilities of the Registrar. The powers of the Registrar are only provided for by the regulations which may be challenged in future since the parent Act does not confer such duties.
 
 Madam Speaker, the committee recommends that:
 
-    1. The Tax Appeals Tribunal should only handle tax disputes and leave matters of awarding costs and damages to the High Court.
+The Tax Appeals Tribunal should only handle tax disputes and leave matters of awarding costs and damages to the High Court.
 
-    2. The Tax Appeals Tribunal (Amendment) Bill, 20l8 be passed into law subject to the proposed amendments. 
+The Tax Appeals Tribunal (Amendment) Bill, 20l8 be passed into law subject to the proposed amendments. 
 
 I beg to move Madam Speaker.
 
@@ -948,7 +948,7 @@ Madam Speaker, before, I present the committee report, I would like to lay on th
 
 Observations  
 
-    1. The Bill provides for the manner in which tax returns are to be furnished to the Uganda Revenue Authority (URA). Licensed persons in the business of casinos, lotteries and gaming are obliged to furnish weekly and monthly returns in order to manage risks because pay-outs are done on a daily basis. 
+The Bill provides for the manner in which tax returns are to be furnished to the Uganda Revenue Authority (URA). Licensed persons in the business of casinos, lotteries and gaming are obliged to furnish weekly and monthly returns in order to manage risks because pay-outs are done on a daily basis. 
 
 2. 	Taxes owed by Government to URA will be waived as at 30 June 20l8 except withholding tax. Government makes commitments to pay taxes on behalf of some taxpayers in strategic sectors through agreements, memoranda of understanding or commitment letters. It is important that the authority of the minister to pay such taxes is clearly spelt out in the law to ensure certainty of the policy. Previously, the minister has paid taxes under the normal expenditure framework. However, direct taxes like Pay As You Earn (PAYE) and income tax should not be exempted or waived. 
 
@@ -1355,15 +1355,14 @@ The Rules of Procedure of the Parliament of Uganda, under rule 170 (3)(l), manda
 
 I have analysed the situation at hand and I refer the supplementary expenditure to the Committee on Budget for scrutiny for the following reasons:
 
-    1. The Committee on Budget, under rule 170(2), comprises of chairpersons of standing and sectoral committees as ex officio members.
+The Committee on Budget, under rule 170(2), comprises of chairpersons of standing and sectoral committees as ex officio members.
 
-    2. The Committee on Budget, under rule 170(3)(k), is mandated to consider the national budget, compile amendments and report to the House.
+The Committee on Budget, under rule 170(3)(k), is mandated to consider the national budget, compile amendments and report to the House.
 
-    3. In the event that the sectoral committees have any concerns regarding the supplementary requests, such concerns can be properly articulated by the chairpersons who are by virtue of rule 170(2) ex officio members of the Committee on Budget.
+In the event that the sectoral committees have any concerns regarding the supplementary requests, such concerns can be properly articulated by the chairpersons who are by virtue of rule 170(2) ex officio members of the Committee on Budget.
 
 In view of the limited timelines before the current budget lapses, the Committee on Budget is directed to expeditiously scrutinise the schedule and its compliance with the relevant laws and report back before the expiry of the current financial year.
 
 Honourable members, I would like to thank you. We cannot go any further because we need to release our friends to go and break their fast. House adjourned to tomorrow at 2.00 p.m.
 
 (The House rose at 7.12 p.m. and adjourned until Wednesday, 23 May 2018 at 2.00 p.m.) 
-

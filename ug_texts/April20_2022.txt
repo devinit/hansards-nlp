@@ -1,4 +1,4 @@
-﻿
+
 
 PARLIAMENT OF UGANDA
 
@@ -27,33 +27,33 @@ The chairperson, committee on environment and natural resources (Dr Emmanuel Ota
 
 In light of the above, I now have the honour and pleasure to present, for your consideration and adoption, the report of the Committee on Environment and Natural Resources in respect of the policy statements and budgetary provisions for the Financial Year 2022/2023 covering the following votes: 
 
-    1. Vote 017: Ministry of Energy and Mineral Development;
-    2. Vote 139: Petroleum Authority of Uganda;
-    3. Vote 019: Ministry of Water and Environment;
-    4. Vote 150: National Environment Management Authority (NEMA);
-    5. Vote 157: National Forestry Authority;
-    6. Vote 109: Uganda National Meteorological Authority; and
-    7. Subvention: National Water and Sewerage Corporation.
+Vote 017: Ministry of Energy and Mineral Development;
+Vote 139: Petroleum Authority of Uganda;
+Vote 019: Ministry of Water and Environment;
+Vote 150: National Environment Management Authority (NEMA);
+Vote 157: National Forestry Authority;
+Vote 109: Uganda National Meteorological Authority; and
+Subvention: National Water and Sewerage Corporation.
 
 Madam Speaker, it should however be noted that the following votes, although not under the jurisdiction of this committee, are allocated funds for water projects under the programme on climate change, natural resources, environment and water management. These are:
 
-    1. Vote 801-999: Local Governments; and
-    2. Vote 122: Kampala Capital City Authority (KCCA).
+Vote 801-999: Local Governments; and
+Vote 122: Kampala Capital City Authority (KCCA).
 
 These two votes will be presented by the relevant ministry.
 
 The structure of our report is as set in such away that we have given the committee report highlights:
 
-    a) The national budget allocation by programme;
-    b) Compliance of ministerial policy statements to the PFMA requirements;
-    c) Functions and alignment of plans for votes with the NDPIII;
-    d) Half-year budget performance for the Financial Year 2021/2022; 
-    e) Proposed budget allocations by votes for the Financial Year 2022/2023; and
-    f) Observations and recommendations.
+The national budget allocation by programme;
+Compliance of ministerial policy statements to the PFMA requirements;
+Functions and alignment of plans for votes with the NDPIII;
+Half-year budget performance for the Financial Year 2021/2022; 
+Proposed budget allocations by votes for the Financial Year 2022/2023; and
+Observations and recommendations.
 
 I am presenting an abridged version so suffice it for me to dive directly into observations and recommendations under the Energy and Mineral Development sector.
 
-    a) Provision for deemed energy.
+Provision for deemed energy.
 
 Non-existent or weak grid infrastructure and or, insufficient demand has consistently resulted into Government of Uganda incurring costs for deemed energy. For instance, the committee noted that failure to complete the 132KV Gulu-Agago transmission lines would result into deemed energy cost for unevacuated electricity from Achwa Hydro Power plant. 
 
@@ -61,13 +61,13 @@ Although Government has provided an additional Shs 80 billion in the next financ
 
 The committee, therefore, recommends as follows:
 
-    i) Government allocates an additional Shs 113 billion to cater for deemed energy cost of previous financial years and those of the Financial Year 2022/2023.
+Government allocates an additional Shs 113 billion to cater for deemed energy cost of previous financial years and those of the Financial Year 2022/2023.
 
-    ii) Funding for Gulu-Agago transmission line should be prioritised so as to complete the line by March 2023.
+Funding for Gulu-Agago transmission line should be prioritised so as to complete the line by March 2023.
 
-    iii) Government of Uganda should work out a robust plan to ensure that all power generated is evacuated and utilised so as to eliminate expenditure on deemed energy in the subsequent years.
+Government of Uganda should work out a robust plan to ensure that all power generated is evacuated and utilised so as to eliminate expenditure on deemed energy in the subsequent years.
 
-    b) Restoration of electricity connection policy
+Restoration of electricity connection policy
 
 Honourable members, all of you and indeed our citizens, have been crying about power lines just passing over and the people are not connected. 
 
@@ -87,17 +87,17 @@ The committee was informed that although rural electrification is intended to in
 
 For the Financial Year 2022/2023, the committee was informed that rural electrification has a funding shortfall of Shs 250 billion to address the following areas: 
 
-    i. Electrification of all subcounties; 
+Electrification of all subcounties; 
 
-    ii. Payment of outstanding obligations due to budget cuts; and
+Payment of outstanding obligations due to budget cuts; and
 
-    iii. Electrification of non-connected subcounties, key rural growth centres and the expansion of the rural network to upcoming rural growth centres. 
+Electrification of non-connected subcounties, key rural growth centres and the expansion of the rural network to upcoming rural growth centres. 
 
 Recommendations
 
-    i) The committee recommends that the funding for rural electrification be provided in a staggered manner over the next three years.
+The committee recommends that the funding for rural electrification be provided in a staggered manner over the next three years.
 
-    ii) The committee further recommends that Government provides an additional Shs 250 billion in the Financial Year 2022/2023 under rural electrification projects to undertake new projects in various constituencies throughout the country. 
+The committee further recommends that Government provides an additional Shs 250 billion in the Financial Year 2022/2023 under rural electrification projects to undertake new projects in various constituencies throughout the country. 
 
 Most of us campaign on, “We shall bring electricity closer to you.” Now, one year down the road, nothing is happening. Those that have already been constructed have not yet fired. Therefore, we need to ensure money is availed for these projects. 
 
@@ -157,14 +157,14 @@ Madam Speaker, we recommend that the additional funding amounting to Shs 133.3 b
 
 Regarding Eskom concession that ends in 2023, the committee recommends that: 
 
-    i) The Auditor-General conducts an audit to establish the actual amount for the buyout of Eskom, taking into consideration, among other parameters, the contracts awarded to Eskom.
+The Auditor-General conducts an audit to establish the actual amount for the buyout of Eskom, taking into consideration, among other parameters, the contracts awarded to Eskom.
 
-    ii)  Shs 45.7 billion which had been allocated for this activity in the MTEF be reallocated as follows:
-    a) Shs 20 billion to Karuma and Isimba Community Development Action Plan.
-    b) Shs12 billion to Isimba staff houses.
-    c) Shs 3 billion for rehabilitation of Maziba Dam.
-    d) Shs 7 billion to Orio Mini-Hydro Project, and
-    e) Shs 3.7 billion to the Atomic Energy Council.
+ Shs 45.7 billion which had been allocated for this activity in the MTEF be reallocated as follows:
+Shs 20 billion to Karuma and Isimba Community Development Action Plan.
+Shs12 billion to Isimba staff houses.
+Shs 3 billion for rehabilitation of Maziba Dam.
+Shs 7 billion to Orio Mini-Hydro Project, and
+Shs 3.7 billion to the Atomic Energy Council.
  
 Subvention to Atomic Energy Council
 
@@ -283,11 +283,11 @@ The committee recommends that Government allocates additional Shs 102.88 billion
 
 Lack of investment in sewerage network 
 
-    1. The committee recommends that the requisite budgeting for evacuation of wastewater from residential and industrial premises should be expedited and implementation of sewerage line connections made. 
+The committee recommends that the requisite budgeting for evacuation of wastewater from residential and industrial premises should be expedited and implementation of sewerage line connections made. 
 
-    2. A waste water management master plan should be developed in all NWSC serviced areas to guide sewerage connections. 
+A waste water management master plan should be developed in all NWSC serviced areas to guide sewerage connections. 
 
-    3. Future funding for waste water treatment plants in cities should include a component for increasing the number of sewerage line connections. 
+Future funding for waste water treatment plants in cities should include a component for increasing the number of sewerage line connections. 
 
 The National Environment Management Authority
 
@@ -305,19 +305,19 @@ Re-survey and marking forest reserve boundaries with concrete pillars
 
 The committee recommends that:  
 
-    i) An additional Shs 2.1 billion be allocated against forest encroachment by opening up the boundaries. 
+An additional Shs 2.1 billion be allocated against forest encroachment by opening up the boundaries. 
 
-    ii) NFA puts in place a coordination mechanism for forestry management for effective monitoring and protection of biodiversity forests of both the central and local forest reserves in order to ensure increased forest cover. 
+NFA puts in place a coordination mechanism for forestry management for effective monitoring and protection of biodiversity forests of both the central and local forest reserves in order to ensure increased forest cover. 
 
-    iii) An elaborate regulatory framework on commercial forest plantations should be put in place detailing the mode of issuance and cancellation of licences, transfer of interests between parties or entity, reverting interests to Government as well as co-existence. 
+An elaborate regulatory framework on commercial forest plantations should be put in place detailing the mode of issuance and cancellation of licences, transfer of interests between parties or entity, reverting interests to Government as well as co-existence. 
 
 Afforestation and re-afforestation
 
 The committee recommends that:
 
-    i) Government allocates Shs 6 billion towards the national tree planting campaign. 
+Government allocates Shs 6 billion towards the national tree planting campaign. 
 
-    ii) Government should explore the option of carbon trading as a mechanism for encouraging conservation of forests. 
+Government should explore the option of carbon trading as a mechanism for encouraging conservation of forests. 
 
 Raise and supply commercial (exotic) tree seedlings 
 
@@ -775,11 +775,11 @@ Madam Speaker, this, of course, gives hope for the continuation of UWEP and YLP.
 
 The recommendations of the committee:
 
-    a) An additional provision of Shs 2.1 billion be allocated to the Ministry of Gender for operations of Uganda Women Empowerment Project to enable it carry out activities to recover the money given out - that is still in the groups.
+An additional provision of Shs 2.1 billion be allocated to the Ministry of Gender for operations of Uganda Women Empowerment Project to enable it carry out activities to recover the money given out - that is still in the groups.
 
-    b) Shs 3.3 billion be allocated to the Ministry of Gender, Labour and Social Development for the operations of the secretariat of the Youth Livelihood Program to pursue the recoveries.
+Shs 3.3 billion be allocated to the Ministry of Gender, Labour and Social Development for the operations of the secretariat of the Youth Livelihood Program to pursue the recoveries.
 
-    c) Both projects be allowed, as it were before, to utilise 10 per cent of the recovered funds for the secretariat operations for the respective projects in order to run as per their roles to recover and revolve the funds.
+Both projects be allowed, as it were before, to utilise 10 per cent of the recovered funds for the secretariat operations for the respective projects in order to run as per their roles to recover and revolve the funds.
 
 Madam Speaker, we think that this will not shake the Fund because as they recover and revolve, 10 per cent would be used very effectively to operate –
 
@@ -817,12 +817,12 @@ The committee further observes that the lack of national social protection strat
 
 Recommendations:
 
-    1. Shs 21.6 billion be provided in the Financial Year 2022/2023 to cover arrears for 270,203 beneficiaries that did not receive their remittances in the fourth quarter of the Financial Year 2020/2021.
+Shs 21.6 billion be provided in the Financial Year 2022/2023 to cover arrears for 270,203 beneficiaries that did not receive their remittances in the fourth quarter of the Financial Year 2020/2021.
 
-    2. Shs 26.9 billion be provided to cover the shortfall to ensure that all the beneficiaries aged 80 and above are covered.
-    3. The Ministry of Finance, Planning and Economic Development provides to this Parliament a statement of assurance on the sustainability of sage programme after the withdrawal of the funding partners in June 2022.
+Shs 26.9 billion be provided to cover the shortfall to ensure that all the beneficiaries aged 80 and above are covered.
+The Ministry of Finance, Planning and Economic Development provides to this Parliament a statement of assurance on the sustainability of sage programme after the withdrawal of the funding partners in June 2022.
 
-    4. The Government puts in place a national social protection strategy that will take us to legislations on social protection, since we already have a running national social protection policy.
+The Government puts in place a national social protection strategy that will take us to legislations on social protection, since we already have a running national social protection policy.
 
 6.1.4: Green jobs and fair labour markets
 
@@ -866,9 +866,9 @@ The National Council for Older Persons, on the other hand, is allocated Shs 700 
 
 Recommendations:
 
-    a. Shs 2 billion and Shs 1.3 billion should respectively be allocated to the National Youth Council and National Council for Older Persons to enable them effectively execute their mandate.
+Shs 2 billion and Shs 1.3 billion should respectively be allocated to the National Youth Council and National Council for Older Persons to enable them effectively execute their mandate.
 
-    b. Shs 15 billion be allocated to all the statutory councils in fulfilment of the pledge by His Excellency the President. 
+Shs 15 billion be allocated to all the statutory councils in fulfilment of the pledge by His Excellency the President. 
 
 Funding for interventions to address challenge of street children
 
@@ -1168,17 +1168,17 @@ THE SPEAKER: Honourable members, when your report is handled, do not go away; wa
 
 MS RWAKOOJO: We are considering policy statements for the following votes:
 
-    1. Vote 007: Ministry of Justice and Constitutional Affairs;
-    2. Vote 133: Directorate of Public Prosecutions;
-    3. Vote 102: Electoral Commission;
-    4. Vote 105: Uganda Law Reform Commission;
-    5. Vote 104: Parliamentary Commission;
-    6. Vote 101: The Judiciary;
-    7. Vote 148: Judicial Service Commission;
-    8. Vote 109: Law Development Centre;
-    9. Vote 106: Uganda Human Rights Commission;
-    10. Vote 103: Inspectorate of Government;
-    11. Vote 119: Uganda Registration Services Bureau. I will tackle each institution with the recommendations we made. 
+Vote 007: Ministry of Justice and Constitutional Affairs;
+Vote 133: Directorate of Public Prosecutions;
+Vote 102: Electoral Commission;
+Vote 105: Uganda Law Reform Commission;
+Vote 104: Parliamentary Commission;
+Vote 101: The Judiciary;
+Vote 148: Judicial Service Commission;
+Vote 109: Law Development Centre;
+Vote 106: Uganda Human Rights Commission;
+Vote 103: Inspectorate of Government;
+Vote 119: Uganda Registration Services Bureau. I will tackle each institution with the recommendations we made. 
 
 Judiciary
 
@@ -1565,13 +1565,13 @@ RECOGNISING that Uganda’s commitment and interventions towards the elimination
 
 NOW, THEREFORE, be it resolved by Parliament as follows:
 
-    1. That Parliament urges the Government to increase the health sector budget for the prevention, control and elimination of malaria in a predictable manner over the medium term;
+That Parliament urges the Government to increase the health sector budget for the prevention, control and elimination of malaria in a predictable manner over the medium term;
 
-    2. That Parliament tracks all malaria support and presidential pledges for malaria control in Uganda;
+That Parliament tracks all malaria support and presidential pledges for malaria control in Uganda;
 
-    3. That Government, through the Ministry of Health, adopts and spearheads a clear multi-sectoral and relevant stakeholder coordinated mechanism to fight against malaria in Uganda; and
+That Government, through the Ministry of Health, adopts and spearheads a clear multi-sectoral and relevant stakeholder coordinated mechanism to fight against malaria in Uganda; and
 
-    4. The Government scales up malaria preventive programmes and innovations, including promotion of awareness among the malaria burdened areas.” I beg to move.
+The Government scales up malaria preventive programmes and innovations, including promotion of awareness among the malaria burdened areas.” I beg to move.
 
 THE SPEAKER: Thank you very much, Dr Batuwa. Is the motion seconded? It is seconded by the whole House. I can see the Member for Mitooma, Member for Kween, Member for Bugiri, Hon. John, Hon. Allan, Hon. Esther, Hon. Hellen, Hon. Achayo, Chairperson of UWOPA and Member for Serere. 
 
@@ -1777,11 +1777,11 @@ Vote 146 - Public Service Commission
 
 Madam Speaker, in accordance with Article 90 and 155 subsection four of the Constitution of the Republic of Uganda, section 14 of the Public Finance Management Act, 2015, and rule 189 of the Rules of Procedure of Parliament, Parliamentary sectoral committees are mandated, among other things to: 
 
-    i. Examine and comment on policy matters, affecting ministries and departments under their jurisdiction.
+Examine and comment on policy matters, affecting ministries and departments under their jurisdiction.
 
-    ii.  Examine critical Government recurrent and capital budget estimates and make recommendations on them for general debate in the House.
+ Examine critical Government recurrent and capital budget estimates and make recommendations on them for general debate in the House.
 
-    iii.  Monitor Government compliance with the approved plans and programmes.
+ Monitor Government compliance with the approved plans and programmes.
 
 Pursuant to the above mandate, the ministerial policy statements were laid on the Floor of Parliament on 19 March 2022. Consequently, the Rt Hon. Speaker referred these statements to the respective committees for scrutiny. 
 
@@ -1793,13 +1793,13 @@ The committee analysed the ministerial policy statement for the Local Government
 
 The committee also reviewed related electronic materials from the: 
 
-    i) Ministry of Local Government;
-    ii) Local Government Finance Commission; 
-    iii) Ministry of Public Service and; 
-    iv) Public Service Commission; 
-    v) Shadow Minister for Local Government 
-    vi) Uganda Local Government Association; and 
-    vii) Urban Authorities Associations of Uganda; 
+Ministry of Local Government;
+Local Government Finance Commission; 
+Ministry of Public Service and; 
+Public Service Commission; 
+Shadow Minister for Local Government 
+Uganda Local Government Association; and 
+Urban Authorities Associations of Uganda; 
 
 In addition, the committee reviewed and analysed the following documents: 
 
@@ -2121,9 +2121,9 @@ THE SPEAKER: Let the reports and minutes be captured on the record.
 
 MR KARUBANGA: Madam Speaker, in accordance with sections 12 and 13 of the Public Finance Management Act, 2015, and rules 146 and 149 of the Rules of Procedure of the Parliament of Uganda, sectoral committees are mandated:
 
-    1. To examine and comment on the policy matters affecting the MDAS under their jurisdiction; and 
+To examine and comment on the policy matters affecting the MDAS under their jurisdiction; and 
 
-    2. To critically examine Government's recurrent and government’s development budget estimates and make recommendations for debate. 
+To critically examine Government's recurrent and government’s development budget estimates and make recommendations for debate. 
 
 Composition of the committee 
 
@@ -2274,9 +2274,9 @@ There has been extensive engagement with China Exim Bank on project financing bu
 
 The other observation is that a large percentage of PAPs in the project path still await compensation before they can relocate. The committee recommends that: 
 
-    i. Government of Uganda should explore the option of Public Private Partnerships to finance the construction of the SGR. 
+Government of Uganda should explore the option of Public Private Partnerships to finance the construction of the SGR. 
 
-    ii. Government should provide Shs 200 billion for the acquisition of the Right of Way for the SGR project. 
+Government should provide Shs 200 billion for the acquisition of the Right of Way for the SGR project. 
 
 Uganda Railways Corporation (URC)
 
@@ -2370,11 +2370,11 @@ Failure to operationalise the Uganda Road Fund as a second-generation fund
 
 Section 21(3) of the Uganda Road Fund Act, 2008 provides that the monies of the fund shall consist of:
 
-    a. Road user charges including fuel levies, international transport fees collected from foreign vehicles entering the country road, licence fees, road fines, bridges tolls and road tolls and weigh distance charges.
+Road user charges including fuel levies, international transport fees collected from foreign vehicles entering the country road, licence fees, road fines, bridges tolls and road tolls and weigh distance charges.
 
-    b. Fines under the Traffic and Road Safety Act.
+Fines under the Traffic and Road Safety Act.
 
-    c. Monies appropriated by Parliament for the purpose of the fund. 
+Monies appropriated by Parliament for the purpose of the fund. 
 
 Parliament has, on several occasions, recommended that the Ministry of Finance should develop regulations for the operationalisation of the Road Fund as a second-generation fund to enable the Uganda Road Fund to tap into resources or funding stipulated in section 21 of the Act, to meet its road maintenance needs. 
 
@@ -2776,15 +2776,15 @@ I now beg to present the report of the Committee on Agriculture on the ministeri
 We have Annex II, which talks about the non-funded priorities. Annex III is the supply table for the Agro-industrialisation programme. Annex IV is the list of the members of the committee. 
 
 The report has the following votes;
-    1. Vote 010 - Ministry of Agriculture, Animal Industry and Fisheries,
-    2. Vote 121 - Dairy Development Authority,
-    3. Vote 125 - National Animal Genetic Resource Centre and Data Bank,
-    4. Vote 142 - National Agriculture Research Organization,
-    5. Vote 152 - National Agriculture Advisory Services (NAADS),
-    6. Vote 155 - Uganda Cotton Development Organisation,
-    7. Vote 160 - Uganda Coffee Development Authority,
-    8. Votes 501-850 - Local Governments, Agriculture and Commercial Services,
-    9. Vote 122 - KCCA Agricultural Grant.
+Vote 010 - Ministry of Agriculture, Animal Industry and Fisheries,
+Vote 121 - Dairy Development Authority,
+Vote 125 - National Animal Genetic Resource Centre and Data Bank,
+Vote 142 - National Agriculture Research Organization,
+Vote 152 - National Agriculture Advisory Services (NAADS),
+Vote 155 - Uganda Cotton Development Organisation,
+Vote 160 - Uganda Coffee Development Authority,
+Votes 501-850 - Local Governments, Agriculture and Commercial Services,
+Vote 122 - KCCA Agricultural Grant.
 
 Madam Speaker, the agricultural sector remains the mainstay of Uganda's economy, employing 68 per cent of the total population and seven per cent youth. Although its mandate is to promote and support market-oriented agriculture production, food security and household incomes, the sector continues to be neglected in budget allocations. 
 
@@ -2795,15 +2795,15 @@ We should note that Vision 2040 prioritises and recognises the role of agricultu
 MAAIF is the leader of the agro-industrialisation programme under the NDP III and PDM pillar one on production, storage, processing and marketing, which the Shs 100 million investment in parish SACCOs will not yield fruits. 
 
 Despite all the policy interventions by the Government to realise socio-economic transformation. The sector is still faced with many challenges, including, among others:
-    i. Inadequate budget allocations to the sector,
-    ii. Inadequate provision of extension services and advisory services to farmers across the country,
-    iii. Limited access to agricultural credit,
-    iv. Delayed implementation and finalisation of the National Irrigation Policy,
-    v. Low uptake of agro-processing technologies,
-    vi. Low prices of agricultural products on the market,
-    vii. High costs of agricultural inputs and associated problem of counterfeit on the market,
-    viii. Pre and post-service losses,
-    ix. The problem of land ownership, among others.
+Inadequate budget allocations to the sector,
+Inadequate provision of extension services and advisory services to farmers across the country,
+Limited access to agricultural credit,
+Delayed implementation and finalisation of the National Irrigation Policy,
+Low uptake of agro-processing technologies,
+Low prices of agricultural products on the market,
+High costs of agricultural inputs and associated problem of counterfeit on the market,
+Pre and post-service losses,
+The problem of land ownership, among others.
 
 For instance, in the Financial Year 2021/2022 Shs 44.77 trillion national budget approved by Parliament, the sector suffered budget cuts from Shs 1.3 trillion to Shs 799 billion, yet, it is the only sector that sustained the economy from the adverse effects of the COVID-19 pandemic. This negatively impacted the sector and our comparative advantage in the region. This, among others, affected the provision of seeds and seedlings and other inputs to farmers, which is vital in the improvement of agricultural production and productivity. (Interruption)  
 
@@ -2858,8 +2858,8 @@ High cost of agricultural inputs, counterfeit and low quality food products on t
 The committee notes the rise in the retail price of agricultural inputs on the market. This is in addition to counterfeit products that gravely affect agriculture. 
 
 Committee recommendations
-    i. Government should revamp the National Seed Company to ensure provision of improved quality seeds and subsidised inputs to farmers throughout the country. This will ensure availability of quality and affordable seeds on the market.
-    ii. Government should revamp the National Seeds Company to ensure provision of quality and improved seeds to farmers throughout the country. 
+Government should revamp the National Seed Company to ensure provision of improved quality seeds and subsidised inputs to farmers throughout the country. This will ensure availability of quality and affordable seeds on the market.
+Government should revamp the National Seeds Company to ensure provision of quality and improved seeds to farmers throughout the country. 
 
 Animal disease control and prevention
 The committee notes with great concern that animal diseases, specifically the Foot and Mouth Disease, has persistently over the years curtailed the development of the livestock subsector. 
@@ -2876,8 +2876,8 @@ The committee further recommends that the Government should support small-scale 
 
 High cost of agro-processing
 The committee recommends that:
-    i. Instead of establishing more agro-based industries, yet, some of the already established government industries are operating below capacity, the Government should use the earmarked resources to support the existing factories to run under full capacity.
-    ii. Government should consider implementation of agriculture zoning such that agro-processors can benefit from the reduced cost of production due to increased forward and backward linkages between production centres and industries.
+Instead of establishing more agro-based industries, yet, some of the already established government industries are operating below capacity, the Government should use the earmarked resources to support the existing factories to run under full capacity.
+Government should consider implementation of agriculture zoning such that agro-processors can benefit from the reduced cost of production due to increased forward and backward linkages between production centres and industries.
 
 Limited access to agricultural credit finance
 The committee recommends that the Government should consider establishing a national bank of agriculture by an Act of Parliament. 
@@ -2919,13 +2919,13 @@ The committee recommends that NAGRC&DB should plan and budget for regional centr
 
 Vote 142 - National Agricultural Research Organisation (NARO)
 The committee made the following recommendations:
-    a. Shs 20.4 billion be provided to equip agricultural research laboratories and retool institutes with research machinery.
-    b. Shs 20 billion be provided to revitalise National Agricultural Research Institutes;  NaSARRI, in Serere,  MBAZARDI, in Seeta and Ngeta in Lira.
-    c. Shs 5.2 billion be provided for domestication of the Nile Perch to promote fishing.
-    d. Shs 10 billion be provided to enable NARO finalise the construction and equipping of the animal vaccine facility at Nakyesasa. They have already started this and it is –
-    e. Shs 3.62 billion be provided to enable NARO to carry out this very important project of construction and equipping of the aflatoxin centre, which they are already doing. This centre will come up with chemicals to fight the problem of aflatoxins.
-    f. NARO be availed with at least Shs 10 billion to carry out technology transfer which will back up the Parish Development Model. 
-    g. That there should be enhancement of NARO staff within the set Government pay and support in order to attract and retain high quality agricultural research scientists.
+Shs 20.4 billion be provided to equip agricultural research laboratories and retool institutes with research machinery.
+Shs 20 billion be provided to revitalise National Agricultural Research Institutes;  NaSARRI, in Serere,  MBAZARDI, in Seeta and Ngeta in Lira.
+Shs 5.2 billion be provided for domestication of the Nile Perch to promote fishing.
+Shs 10 billion be provided to enable NARO finalise the construction and equipping of the animal vaccine facility at Nakyesasa. They have already started this and it is –
+Shs 3.62 billion be provided to enable NARO to carry out this very important project of construction and equipping of the aflatoxin centre, which they are already doing. This centre will come up with chemicals to fight the problem of aflatoxins.
+NARO be availed with at least Shs 10 billion to carry out technology transfer which will back up the Parish Development Model. 
+That there should be enhancement of NARO staff within the set Government pay and support in order to attract and retain high quality agricultural research scientists.
 
 
 Vote 152 - National Agricultural Advisory Services (NAADS)
@@ -2960,12 +2960,12 @@ reduced by Shs 50.650 billion (59 per cent) from Shs 85.590 
 billion. 
 
 Therefore, the committee recommends that:
-    1. Government should re-instate the UCDA’s MTEF ceiling of Shs 85.590 billion for non-wage recurrent and development budgets for the financial year coming.
-    2. A total of Shs 19.2 billion be provided for to pay arrears for coffee seedlings procured from the nursery operators. Some of the nursery operators are being arraigned in court. 
-    3. A total of Shs 40 billion be provided to enable procurement of additional coffee seedlings (Arabica and Robusta coffee in order to meet the 20 million bags by 2025 as spelled out by the coffee roadmap that was launched by the President in 2017. 
-    4. A total of Shs 20 billion be provided to procure equipment for primary processing of our coffee. You know, we are the poorest in taking our own coffee. So, if we provided this maybe, it would increase also our consumption
-    5.  A total of 16.6 billion be provided for pests and diseases that is one of the things that is affecting the coffee subsector and;
-    6. A total of 2 billion be provided for registration of coffee farmers at the parish level as provided for in Section 26 of the National Coffee Act, that was recently assented to by His Excellency the President. 
+Government should re-instate the UCDA’s MTEF ceiling of Shs 85.590 billion for non-wage recurrent and development budgets for the financial year coming.
+A total of Shs 19.2 billion be provided for to pay arrears for coffee seedlings procured from the nursery operators. Some of the nursery operators are being arraigned in court. 
+A total of Shs 40 billion be provided to enable procurement of additional coffee seedlings (Arabica and Robusta coffee in order to meet the 20 million bags by 2025 as spelled out by the coffee roadmap that was launched by the President in 2017. 
+A total of Shs 20 billion be provided to procure equipment for primary processing of our coffee. You know, we are the poorest in taking our own coffee. So, if we provided this maybe, it would increase also our consumption
+ A total of 16.6 billion be provided for pests and diseases that is one of the things that is affecting the coffee subsector and;
+A total of 2 billion be provided for registration of coffee farmers at the parish level as provided for in Section 26 of the National Coffee Act, that was recently assented to by His Excellency the President. 
 
 The committee notes Uganda’s withdrawal from the International Coffee Organisation and recommends that Government reviews our withdrawal stance from the International Coffee Organisation and its implication on the coffee. The committee also observes the agreement between government of Uganda and Uganda-VINCI Coffee Company Ltd that seeks to give special treatment to one company in the coffee business and therefore, disenfranchising the majority of Ugandans that deal in coffee.
 
@@ -3525,4 +3525,3 @@ Report adopted.
 THE SPEAKER: Honourable members, thank you very much for the sacrifice that you have made. I now adjourn the House to tomorrow at 2.00 p.m. 
 
 (The House rose at 8.46 p.m. and adjourned until Thursday, 21 April 2022 at 2.00 p.m.)
-

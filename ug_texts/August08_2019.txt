@@ -1,4 +1,4 @@
-﻿
+
 Disclaimer: The electronic version of the Official Report of the proceedings of Parliament (Hansard) is for information purposes only. A certified version of this Report can be obtained from the Office of the Clerk to Parliament.
 
 
@@ -691,17 +691,17 @@ THE LEADER OF THE OPPOSITION (Ms Betty Aol): Thank you, Madam Speaker. I thank t
 
 There were some issues, which after going through what you have given us, we feel they have been left out. Maybe the Committee on Presidential Affairs will take them up.
   
-    1. Does the Commissioner for Refugees have full access and custody of refugees register as required under Regulation 45 of the Refugee Regulations 2010?
-    2. Does the Government of Uganda have full access rights to the progress system?
-    3. When will Government table a status report regarding deportation of persons who have been denied refugee status?
-    4. When will the findings of the audit exercises into the refugee operation of both UNHCR and Government be made public?
-    5. What is the criterion for selection of beneficiaries within the host communities for Development Response to Displacement impact Project (DRDIP) and Uganda Support to Municipal infrastructure Development - Additional Funding (USMID-AF)?
-    6. When developing indicative figures for social services in host districts, do you incorporate refugee population in the budget allocation figures?
-    7. Regarding the definition advanced for host communities, what are the parameters for geographical proximity?
-    8. How many health facilities within the host districts have been assessed and considered for upgrading?
-    9. How many schools within the host districts have been assessed and considered for coding?
-    10. How many cases have been registered regarding encroachment of settlement areas?
-    11. Have exemptions on creams used by albinos in treatment of their skin, as provided in the Excise Duty Act, had effect on the pricing of some creams? Thank You.
+Does the Commissioner for Refugees have full access and custody of refugees register as required under Regulation 45 of the Refugee Regulations 2010?
+Does the Government of Uganda have full access rights to the progress system?
+When will Government table a status report regarding deportation of persons who have been denied refugee status?
+When will the findings of the audit exercises into the refugee operation of both UNHCR and Government be made public?
+What is the criterion for selection of beneficiaries within the host communities for Development Response to Displacement impact Project (DRDIP) and Uganda Support to Municipal infrastructure Development - Additional Funding (USMID-AF)?
+When developing indicative figures for social services in host districts, do you incorporate refugee population in the budget allocation figures?
+Regarding the definition advanced for host communities, what are the parameters for geographical proximity?
+How many health facilities within the host districts have been assessed and considered for upgrading?
+How many schools within the host districts have been assessed and considered for coding?
+How many cases have been registered regarding encroachment of settlement areas?
+Have exemptions on creams used by albinos in treatment of their skin, as provided in the Excise Duty Act, had effect on the pricing of some creams? Thank You.
 
 THE SPEAKER: Honourable members, they are new issues for interrogation. I stick to my proposal that the Committee on Presidential Affairs takes the report of the Leader of the Opposition, response of the minister and these new issues and interrogate them and bring us the report.  Thank you very much.
 
@@ -740,12 +740,12 @@ Qatar joined the IPU in 2006 and it was hosting its first IPU Assembly. The IPU 
 
 The composition of the delegation was as follows:
 
-    1. Hon Mourine Osoru
-    2. Hon. Esther Anyakun
-    3. Hon. Abdullatif Sebaggala
-    4. Hon. Francis Mwijukye
-    5. Hon. Paul Akamba 
-    6. Hon. Rose Kabagyenyi 
+Hon Mourine Osoru
+Hon. Esther Anyakun
+Hon. Abdullatif Sebaggala
+Hon. Francis Mwijukye
+Hon. Paul Akamba 
+Hon. Rose Kabagyenyi 
 
 The following key topics were discussed at the 140th IPU Assembly:
 
@@ -784,24 +784,24 @@ The Assembly commenced its general debate on 7th April 2019 under the theme “P
 
 At its sitting on 10th April 2019, the Assembly adopted resolutions and their documentations as follows:
 
-    1. The Doha Declaration on Parliament as platform to enhance education for peace, security and rule of law;
-    2. The resolution on the appeal for urgent support to Malawi, Mozambique and Zimbabwe affected by cyclones proposed by the Netherlands; 
-    3. The resolution on none admissibility of using machineries  and foreign fighters as a means of undermining peace, international security, the territorial integrity  of States and violating human rights;
-    4. The resolution on the role of fair and free trade investment in achieving the Sustainable Development Goals especially, regarding economic quality, sustainable infrastructure, industrialisation  and innovation; 
-    5. The report by the Standing Committee on Peace and  International Security; 
-    6. The report by the Standing Committee on Sustainable Development Finance and Trade and;
-    7. The report by the Standing Committee on United Nations. 
+The Doha Declaration on Parliament as platform to enhance education for peace, security and rule of law;
+The resolution on the appeal for urgent support to Malawi, Mozambique and Zimbabwe affected by cyclones proposed by the Netherlands; 
+The resolution on none admissibility of using machineries  and foreign fighters as a means of undermining peace, international security, the territorial integrity  of States and violating human rights;
+The resolution on the role of fair and free trade investment in achieving the Sustainable Development Goals especially, regarding economic quality, sustainable infrastructure, industrialisation  and innovation; 
+The report by the Standing Committee on Peace and  International Security; 
+The report by the Standing Committee on Sustainable Development Finance and Trade and;
+The report by the Standing Committee on United Nations. 
 
 The Uganda delegation ensured country representation in the following meetings:
 
-    1. The Governing Council;
-    2. The Assembly;
-    3. The executive committee;
-    4. The four standing committees namely; the Standing Committee on Peace and International Security, the Standing Committee on Sustainable Development, Finance  and Trade, the Standing Committee on United Nations Affairs and the Standing Committee on Democracy and Human Rights.
-    5. Two forum meetings - the Forum of Women Parliamentarians and the Forum of Young Parliamentarians of IPU;
-    6. The Association of Secretary Generals of parliaments; 
-    7. The Parliamentary Union of Organisation of the Islamic Conference  Member States (PUIC);
-    8. The following geopolitical group notably at the meeting of the Africa Geo-political Group, hon. Paul Akamba, Member of the delegation was elected as a Member of the Bureau of Standing Committee on United Nations Affairs and approved by the Assembly on its sitting on 10th April 2019.
+The Governing Council;
+The Assembly;
+The executive committee;
+The four standing committees namely; the Standing Committee on Peace and International Security, the Standing Committee on Sustainable Development, Finance  and Trade, the Standing Committee on United Nations Affairs and the Standing Committee on Democracy and Human Rights.
+Two forum meetings - the Forum of Women Parliamentarians and the Forum of Young Parliamentarians of IPU;
+The Association of Secretary Generals of parliaments; 
+The Parliamentary Union of Organisation of the Islamic Conference  Member States (PUIC);
+The following geopolitical group notably at the meeting of the Africa Geo-political Group, hon. Paul Akamba, Member of the delegation was elected as a Member of the Bureau of Standing Committee on United Nations Affairs and approved by the Assembly on its sitting on 10th April 2019.
 
 At the 140th IPU, hon. Mourine Osoru, President of the forum of the young Parliamentarians concluded her term of office and expressed gratitude to the IPU for the support rendered to her throughout the term.
 
@@ -1269,9 +1269,9 @@ Therefore, we are replacing the word “chairperson” with “the head of the e
 (4) Members of the division executive committee shall serve on a full time basis. 
 
 28B. Functions of the Division Executive Committee
-    (a) Perform the executive functions of the division urban council; 
-    (b) Present the annual budget of the division urban council to the Council; and
-    (c) Assist the mayor of the division urban council in the performance of his or her functions under this Act.
+Perform the executive functions of the division urban council; 
+Present the annual budget of the division urban council to the Council; and
+Assist the mayor of the division urban council in the performance of his or her functions under this Act.
 
 The justification is to provide for executive body of a division urban council, which shall also support the mayor of a division urban council.
 
@@ -1298,33 +1298,33 @@ There shall be a speaker and deputy speaker of a division urban council elected 
 
 29B. Election of Speaker and deputy speaker of the division urban council
 
-    (1) The speaker and deputy speaker of a division urban council shall be elected through a secret ballot; 
-    (2) A person shall not be declared elected speaker or deputy speaker of the division urban council unless that person gets more than 50 per cent of the votes of all members of the council cast in his or her favor; 
-    (3) Where a person does not obtain more than 50 per cent of the votes cast, the elections shall be repeated between the first two persons getting the highest votes until one of them gets more than 50 per cent of the votes;
-    (4) Where, during the election of a speaker or deputy speaker of the division urban council only one person is nominated, that person shall be declared elected speaker or deputy speaker of the division urban council; 
-    (5) A Chief Magistrate shall preside at an election of a speaker or deputy speaker of the division urban council; and
-    (6) Except for the taking of oath of the members of the council, no business shall be transacted in the council before the election of the speaker and deputy speaker of the division urban council at any time that the office is vacant.
+The speaker and deputy speaker of a division urban council shall be elected through a secret ballot; 
+A person shall not be declared elected speaker or deputy speaker of the division urban council unless that person gets more than 50 per cent of the votes of all members of the council cast in his or her favor; 
+Where a person does not obtain more than 50 per cent of the votes cast, the elections shall be repeated between the first two persons getting the highest votes until one of them gets more than 50 per cent of the votes;
+Where, during the election of a speaker or deputy speaker of the division urban council only one person is nominated, that person shall be declared elected speaker or deputy speaker of the division urban council; 
+A Chief Magistrate shall preside at an election of a speaker or deputy speaker of the division urban council; and
+Except for the taking of oath of the members of the council, no business shall be transacted in the council before the election of the speaker and deputy speaker of the division urban council at any time that the office is vacant.
 
 29C. Functions of the speaker and the deputy speaker of the division urban council. 
 
 The speaker of the division urban council shall:
 
-    (a) Preside at all meetings of a division urban council; and
-    (b) Be charged with the overall authority for the preservation of order in the division urban council and ensuring the enforcement of the ru1es of procedure of the division urban council. 
+Preside at all meetings of a division urban council; and
+Be charged with the overall authority for the preservation of order in the division urban council and ensuring the enforcement of the ru1es of procedure of the division urban council. 
 
 29D. Removal of speaker or deputy speaker of the division urban council from office 
 
-    (1) The speaker or deputy speaker of the division urban council may be removed from office by the division urban council by a resolution supported by not less than two-thirds of the members of the division urban council on any of the following grounds:
-    (a) Abuse of office; 
-    (b) Incompetence; 
-    (c) Misconduct or misbehaviour;
-    (d) Such physical or mental incapacity as would render the speaker or deputy speaker of the division urban council incapable of performing the duties of speaker or deputy speaker of the division urban council; or 
-    (e) Failure to convene two consecutive meetings of the division urban council without reasonable cause. 
+The speaker or deputy speaker of the division urban council may be removed from office by the division urban council by a resolution supported by not less than two-thirds of the members of the division urban council on any of the following grounds:
+Abuse of office; 
+Incompetence; 
+Misconduct or misbehaviour;
+Such physical or mental incapacity as would render the speaker or deputy speaker of the division urban council incapable of performing the duties of speaker or deputy speaker of the division urban council; or 
+Failure to convene two consecutive meetings of the division urban council without reasonable cause. 
 
-    (2) The office of speaker or deputy speaker of a division urban council shall fall vacant if the holder:
-    (a) Resigns the office in writing addressed to the division town clerk 
-    (b) Accepts appointment to a public office; or 
-    (c) Dies.
+The office of speaker or deputy speaker of a division urban council shall fall vacant if the holder:
+Resigns the office in writing addressed to the division town clerk 
+Accepts appointment to a public office; or 
+Dies.
 
 The justification is to avoid conflict of roles between the mayor of a division urban council and the speaker of the division urban council.
 
@@ -1458,8 +1458,8 @@ MS ABABIKU: We are replacing the entire clause as follows:
 Amendment of section 34 of the principal Act
 
 Section 34 of the principal Act is amended -
-    a) In sub-section (1), by substituting for the word “Authority” with the word “Council”;
-    b) by inserting immediately after subsection (1) the following –
+In sub-section (1), by substituting for the word “Authority” with the word “Council”;
+by inserting immediately after subsection (1) the following –
 (a) 	for the purposes of subsection 1, the town clerk shall, within seven days from the date of a decision of the division urban council, transmit the decision to the council.
 
 The justification is that it is a consequential amendment arising from the change of nomenclature of the governing body from authority to council. Thank you.
@@ -1681,7 +1681,6 @@ MR ABDULATIF SEBAGGALA (Independent, Kawempe Division North, Kampala): Thank you
 THE SPEAKER: Thank you very much. House adjourned to Tuesday at 2.00 p.m.
 
 (The House rose at 6.52 p.m. and adjourned until Tuesday, 13 August 2019, at 2.00 p.m.)
-
 
 
 

@@ -1,4 +1,4 @@
-﻿
+
 
 
 Wednesday, 24 March 2021
@@ -170,13 +170,13 @@ As we commemorate this year’s World Meteorological Day, we intend to have Ugan
 
 A number of activities have been planned within the week to 30 March 2021. These include: 
 
-    a) Planting of trees in selected areas identified by the district of Jinja. 
-    b) Open weather and climate week for the stakeholders of the nearest Uganda National Meteorological Authority (UNMA) station - the Jinja Aerodrome weather station. Stakeholders will be able to freely interact with the staff to have questions answered. 
-    c) Exhibitions of new developments at the celebration venue. 
-    d) Corporate social responsibility activities at vulnerable schools in Butagaya Subcounty, Kagoma County, Jinja District where a water harvesting system will be donated. 
-    e) An awareness media campaign to raise awareness on the day where different leaders and staff will have talk shows on radio stations.
-    f) The Directorate of Forecasting Services and that of Applied Meteorology Data and Climate Services will each have exhibition activities at Jinja District headquarters and at the Source of the Nile Hotel. 
-    g) A stakeholders’ dialogue will crown the activity on 30 March 2021 at the Source of the Nile Hotel. 
+Planting of trees in selected areas identified by the district of Jinja. 
+Open weather and climate week for the stakeholders of the nearest Uganda National Meteorological Authority (UNMA) station - the Jinja Aerodrome weather station. Stakeholders will be able to freely interact with the staff to have questions answered. 
+Exhibitions of new developments at the celebration venue. 
+Corporate social responsibility activities at vulnerable schools in Butagaya Subcounty, Kagoma County, Jinja District where a water harvesting system will be donated. 
+An awareness media campaign to raise awareness on the day where different leaders and staff will have talk shows on radio stations.
+The Directorate of Forecasting Services and that of Applied Meteorology Data and Climate Services will each have exhibition activities at Jinja District headquarters and at the Source of the Nile Hotel. 
+A stakeholders’ dialogue will crown the activity on 30 March 2021 at the Source of the Nile Hotel. 
 
 As you are aware, the UNMA was established by an Act of Parliament 2012. It doubles as the national focal institution for the Intergovernmental Panel on Climate Change (IPCC) in Uganda. The IPCC is hosted by the World Meteorological Organisation (WMO) and co-supported by the UN Environment – those are former United Nations Environmental Programme and WMO - constituted by thousands of experts from all over the world, mandated to analyse scientific research findings on climate change through different working groups. 
 
@@ -377,9 +377,9 @@ MR OBOTH: Madam Chairperson, in clause 6, we propose to amend section 13 by redr
 
 The justifications are: 
 
-    1. To make provision for a child’s domicile where the parents of a child have a different domicile; and 
+To make provision for a child’s domicile where the parents of a child have a different domicile; and 
 
-    2. To make the provision broadly apply to any child in Uganda regardless of the domicile of the parent, since the 2018 Bill proposes to restrict it to situations where the parent of a child is domiciled in Uganda. 
+To make the provision broadly apply to any child in Uganda regardless of the domicile of the parent, since the 2018 Bill proposes to restrict it to situations where the parent of a child is domiciled in Uganda. 
 
 THE CHAIRPERSON: Honourable members, I put the question that Clause 6 be amended as proposed. 
 
@@ -502,8 +502,8 @@ For clause l2, there is substituted the following-
 “12. Amendment of Section 26 of the principal Act
 
 Section 26 of the principal Act is amended-
-    (a) In subsection (1) by substituting for the term “legal heir” the words “spouse or lineal descendants”.
-    (b) By inserting immediately after subsection (2) the following-
+In subsection (1) by substituting for the term “legal heir” the words “spouse or lineal descendants”.
+By inserting immediately after subsection (2) the following-
 
 “(2a) Upon the death of the surviving spouse, the residential holding or any other residential holding shall devolve to the lineal descendants equally and shall occupy it subject to terms and conditions set out in the Second Schedule to this Act.
 
@@ -534,10 +534,10 @@ Clause 13
 MR OBOTH: We propose to amend clause 13 by substituting for the proposed subclause (1) (a) the following:
 
  “(a) where the intestate is survived by a spouse, a lineal descendant and a dependent relative – 
-    i. the spouse shall receive 20 per cent;
-    ii. the dependent relatives shall receive 4 per cent;
-    iii. the lineal descendants shall receive 75 per cent;
-    iv. the customary heir shall receive 1 per cent” 
+the spouse shall receive 20 per cent;
+the dependent relatives shall receive 4 per cent;
+the lineal descendants shall receive 75 per cent;
+the customary heir shall receive 1 per cent” 
 
 (b)	by inserting immediately after the proposed subclause (1) the following new sub clauses:
 
@@ -564,13 +564,13 @@ MR OBOTH: We propose to amend clause 13 by substituting for the proposed subclau
 
 Justification:
 
-    1. To ensure that the children of the deceased person who are school going continue to be provided for from the estate of the deceased person; 
+To ensure that the children of the deceased person who are school going continue to be provided for from the estate of the deceased person; 
 
-    2. To reduce the entitlement of the surviving spouse from 50 per cent, as proposed in the Bill to 20 per cent, since 20 per cent, of the estate is already reserved for the spouse and lineal dependents, thereby increasing the entitlement of such persons. This will increase the entitlement of lineal descendants (children of the deceased) to 75 per cent from 41 per cent. This is intended to ensure that a large percentage of the estate goes to the children of the deceased person since, in most cases, they are the neediest of all the beneficiaries under the estate and they constitute about 70 per cent, of the total population of Uganda;
+To reduce the entitlement of the surviving spouse from 50 per cent, as proposed in the Bill to 20 per cent, since 20 per cent, of the estate is already reserved for the spouse and lineal dependents, thereby increasing the entitlement of such persons. This will increase the entitlement of lineal descendants (children of the deceased) to 75 per cent from 41 per cent. This is intended to ensure that a large percentage of the estate goes to the children of the deceased person since, in most cases, they are the neediest of all the beneficiaries under the estate and they constitute about 70 per cent, of the total population of Uganda;
 
-    3. To ensure equity and fairness in the distribution of the estate of the deceased person by taking into account the unique circumstances of the beneficiaries, especially those who are infant and those persons with disabilities;
+To ensure equity and fairness in the distribution of the estate of the deceased person by taking into account the unique circumstances of the beneficiaries, especially those who are infant and those persons with disabilities;
 
-    4. To incorporate proposals contained in Clause 7 of The Government Bill, 2019 into Clause 13 of the 2018 Bill of hon. Mujungu. I beg to move.
+To incorporate proposals contained in Clause 7 of The Government Bill, 2019 into Clause 13 of the 2018 Bill of hon. Mujungu. I beg to move.
 
 MS AMONGIN: Madam Chairperson, I would like to make a proposal on – 
 
@@ -603,9 +603,9 @@ The justification is that the discretion proposed in sub-clause (1) of Clause 28
 
 Then again, how do you determine the non-monetary contributions if you were not there and the other spouse is dead. It may easily lead to a situation where widows compete for favours from the administrator.
 
-    (a) In addition, to grant a right to the lineal descendants of a deceased beneficiary to inherit the portion of the estate that would have accrued to their deceased parent. 
+In addition, to grant a right to the lineal descendants of a deceased beneficiary to inherit the portion of the estate that would have accrued to their deceased parent. 
 
-    (b) To incorporate proposals in clause 8 of the 2019 Bill into Clause 14 of the 2018 Bill.
+To incorporate proposals in clause 8 of the 2019 Bill into Clause 14 of the 2018 Bill.
 
 THE CHAIRPERSON: Honourable members, the question is that clause 14 be amended as proposed.
 
@@ -622,9 +622,9 @@ MR OBOTH: Clause 15 is on the replacement of Section 29 of the principal Act. Cl
 
 Justification 
 
-    1. To expand the provision to include other persons who are entitled to occupy the principal residential property as enumerated in Section 26.
+To expand the provision to include other persons who are entitled to occupy the principal residential property as enumerated in Section 26.
 
-    2. Lastly, the proposed sub-clause (2) is deleted since it is misplaced and has instead been inserted in Clause 12 where it is most appropriate.
+Lastly, the proposed sub-clause (2) is deleted since it is misplaced and has instead been inserted in Clause 12 where it is most appropriate.
 
 THE CHAIRPERSON: Honourable members, the question is that Clause 15 be amended as proposed.
 
@@ -641,8 +641,8 @@ MR OBOTH: For clause 16, substitutethe following:
 The principal Act is amended by substituting for section 30 the following:
 ‘30. separation of spouse
 (1) A surviving spouse of an intestate shall not take any interest in the estate of an intestate if, at the death of the intestate -
-    (a) the surviving spouse was separated from the intestate as member of the same household; or 
-    (b) the marriage between the surviving spouse and the intestate was suspended either by agreement or by judicial order.
+the surviving spouse was separated from the intestate as member of the same household; or 
+the marriage between the surviving spouse and the intestate was suspended either by agreement or by judicial order.
 
 (2) 	Subsection (1) shall not apply where –
 (a) 	the surviving spouse has been absent on an approved course of study in an educational institution; or
@@ -659,15 +659,15 @@ The principal Act is amended by substituting for section 30 the following:
 
 Justification
 
-    1. To consider as material the spouse at whose instance the separation occurred, and ensure that the spouse who was not at fault for the separation benefits from the estate of a deceased spouse, notwithstanding the separation of the parties prior to the death of the other spouse.
+To consider as material the spouse at whose instance the separation occurred, and ensure that the spouse who was not at fault for the separation benefits from the estate of a deceased spouse, notwithstanding the separation of the parties prior to the death of the other spouse.
 
-    2. To bar persons who separate from their spouses and contract other marriages from benefitting from the estate of deceased spouse.
+To bar persons who separate from their spouses and contract other marriages from benefitting from the estate of deceased spouse.
 
-    3. To empower a spouse who had separated from the intestate as a member of the same household to inherit a portion of the property that was acquired before the spouse separated from intestate as a member of the same household.
+To empower a spouse who had separated from the intestate as a member of the same household to inherit a portion of the property that was acquired before the spouse separated from intestate as a member of the same household.
 
-    4. Further, to incorporate proposals made in Clause 9 of the 2019 Bill with those made in Clause 16 of the 2018 Bill.
+Further, to incorporate proposals made in Clause 9 of the 2019 Bill with those made in Clause 16 of the 2018 Bill.
 
-    5. Lastly, to clearly allow children arising out of the marriage of the surviving spouse and the intestate to benefit from the estate, notwithstanding the separation of the surviving spouse from the intestate as a member of the same household. 
+Lastly, to clearly allow children arising out of the marriage of the surviving spouse and the intestate to benefit from the estate, notwithstanding the separation of the surviving spouse from the intestate as a member of the same household. 
 
 These are practical things, Madam Chairperson.
 
@@ -687,13 +687,13 @@ Section 34 of the principal Act is repealed.”
 
 Justification
 
-    1. Sections 31 and Section 34 are obsolete and need to be removed from the principal Act. 
+Sections 31 and Section 34 are obsolete and need to be removed from the principal Act. 
 
-    2. Section 31 currently requires the customary heir to give notice of his or her appointment to the Administrator-General and the deceased person’s personal representative. This provision is redundant.
+Section 31 currently requires the customary heir to give notice of his or her appointment to the Administrator-General and the deceased person’s personal representative. This provision is redundant.
 
-    3. Currently, Section 34 of the Succession Act bars a person not domiciled in Uganda and contracts a marriage with a person equally not domiciled in Uganda from acquiring interest in the property of their spouse unless they have a settlement providing otherwise. This section reverses the rights acquired at marriage and where it applies to Ugandan citizens, it is open to challenge for infringing on Article 21(1).
+Currently, Section 34 of the Succession Act bars a person not domiciled in Uganda and contracts a marriage with a person equally not domiciled in Uganda from acquiring interest in the property of their spouse unless they have a settlement providing otherwise. This section reverses the rights acquired at marriage and where it applies to Ugandan citizens, it is open to challenge for infringing on Article 21(1).
 
-    4. Finally, on this, to adopt proposals made by the 2019 Bill in clauses 10 and 11 of the Bill.
+Finally, on this, to adopt proposals made by the 2019 Bill in clauses 10 and 11 of the Bill.
 
 THE CHAIRPERSON: Honourable chairman, I just need clarification. I see here Section 31 of the principal Act is repealed and after that I see “repeal Section 34”. So, are both the sections repealed?
 
@@ -719,8 +719,8 @@ a) 	by substituting for paragraph 8 the following:
 ‘(2) a spouse may, during the subsistence of a marriage, hold property in his or her name and may by will dispose of such property.’”
 
 b) In paragraph (b) in the proposed subsection (3):
-    i. By substituting for the words “not incapacitated from”, the words “capable of”.
-    ii. By inserting, immediately before the word “hearing”, the words “physical impairment”.
+By substituting for the words “not incapacitated from”, the words “capable of”.
+By inserting, immediately before the word “hearing”, the words “physical impairment”.
 
 (c) 	In paragraph (c), the proposed sub-section (4), by substituting the words “is of sound mind”, with “does not have a mental illness”.
 
@@ -729,17 +729,17 @@ b) In paragraph (b) in the proposed subsection (3):
 
 The justification is that:
 
-    1. The proposal to delete sub-section (2) of Section 36 will create a lacuna in the law, as to whether spouses can, during the subsistence of a marriage, hold property in his or her individual name and dispose of such property by Will;
+The proposal to delete sub-section (2) of Section 36 will create a lacuna in the law, as to whether spouses can, during the subsistence of a marriage, hold property in his or her individual name and dispose of such property by Will;
 
-    2. In addition, to cater for persons who have physical impairments such as missing limbs, who may not be able to write Wills, witness Will or attest to Wills to be able to do all those acts without hindrance;
+In addition, to cater for persons who have physical impairments such as missing limbs, who may not be able to write Wills, witness Will or attest to Wills to be able to do all those acts without hindrance;
 
-    3. To expand sub-section (2) of Section 36 to all spouses, regardless of gender;
+To expand sub-section (2) of Section 36 to all spouses, regardless of gender;
 
-    4. To empower the provision of alternative accommodation by the testator, as proposed in clause 14 of the 2019 Succession (Amendment) Bill; 
+To empower the provision of alternative accommodation by the testator, as proposed in clause 14 of the 2019 Succession (Amendment) Bill; 
 
-    5. To incorporate the proposals made in 2019 - Succession (Amendment) Bill - that is the Government Bill. 
+To incorporate the proposals made in 2019 - Succession (Amendment) Bill - that is the Government Bill. 
 
-    6. For purposes of clarity.
+For purposes of clarity.
 
 I beg to report on that.
 
@@ -771,23 +771,23 @@ The principal Act is amended by substituting for Section 37, the following:
 
 37. Preservation of principal residence and maintenance of spouse, children, lineal descendants and dependents to be made in a Will.
 
-    1) A person who makes a Will shall make reasonable provision for the maintenance of his or her spouse, children, lineal descendants and dependent relatives;
+A person who makes a Will shall make reasonable provision for the maintenance of his or her spouse, children, lineal descendants and dependent relatives;
 
-    2) The principal residence of a testator shall not form part of the property to be disposed of in a Will, except where the testator makes reasonable provision for the accommodation at the same station in life for the spouse, children and lineal descendants referred to in Section 26(1), who occupy the principal residence at the time of his or her death;
+The principal residence of a testator shall not form part of the property to be disposed of in a Will, except where the testator makes reasonable provision for the accommodation at the same station in life for the spouse, children and lineal descendants referred to in Section 26(1), who occupy the principal residence at the time of his or her death;
 
-    3) Section (1) shall apply to a spouse, a child and; 
-    a) A lineal descendant who is unmarried or who is suffering a mental or physical disability and
-    b) A dependent relative who is wholly or substantially dependent on the deceased person.
+Section (1) shall apply to a spouse, a child and; 
+A lineal descendant who is unmarried or who is suffering a mental or physical disability and
+A dependent relative who is wholly or substantially dependent on the deceased person.
 
-    4) Section 38 shall apply where a deceased person, by his or her Will, disposes of all his or her property without making reasonable provision for the maintenance of his or her spouse, lineal descendants or dependent relatives.
+Section 38 shall apply where a deceased person, by his or her Will, disposes of all his or her property without making reasonable provision for the maintenance of his or her spouse, lineal descendants or dependent relatives.
 
 The justification is:
 
-    1. To impose a specific obligation on the testator to make provision for the maintenance of the surviving spouse, children, dependent relatives and lineal descendants, as proposed in the 2019 Succession (Amendment) Bill; 
+To impose a specific obligation on the testator to make provision for the maintenance of the surviving spouse, children, dependent relatives and lineal descendants, as proposed in the 2019 Succession (Amendment) Bill; 
 
-    2. Consequential amendment arising from the amendment of section 38, wherein it was expanded to cater, not only for dependent relatives, but also a spouse and lineal descendants;
+Consequential amendment arising from the amendment of section 38, wherein it was expanded to cater, not only for dependent relatives, but also a spouse and lineal descendants;
 
-    3. To incorporate proposals made in Clause 14 of the 2019 Bill, save for the proposed sub-section (2) of the proposed Section 37 in the 2019 Bill, which was incorporated in the amendment proposed to Section 36 in Clause 18 of the 2018 Bill.
+To incorporate proposals made in Clause 14 of the 2019 Bill, save for the proposed sub-section (2) of the proposed Section 37 in the 2019 Bill, which was incorporated in the amendment proposed to Section 36 in Clause 18 of the 2018 Bill.
 
 I beg to move.
 
@@ -887,8 +887,8 @@ iii) In paragraph (b), by substituting for the proposed subsection (2) the follo
 “(2) The provision for maintenance to be made by an order under subsection (1) shall-
 
 (a) where the deceased’s estate produces an income by way of periodical maintenance, the order shall provide for their termination not later than -
-    (i) in case of a spouse, until he or she remarries; 
-    (ii) in case of a child, until the child completes his or her education or attains the age of 25 years, whichever first occurs. 
+in case of a spouse, until he or she remarries; 
+in case of a child, until the child completes his or her education or attains the age of 25 years, whichever first occurs. 
 
 (c) 	in the case of a lineal descendant who has not been married, or who is, by reason of mental or physical disability, incapable of maintaining himself or herself, until he or she marries or upon the cessation of the disability, whichever first occurs; and
 
@@ -898,13 +898,13 @@ iv) 	By substituting “dependents” appearing in subsection (4) and “depende
 
 The justification is: 
 
-    1. To limit the termination of maintenance order to only where the surviving spouse remarries.
+To limit the termination of maintenance order to only where the surviving spouse remarries.
 
-    2. To limit the receipt of maintenance by a child to when the child completes his or her education or attains the age of 25 years, whichever first occurs. 
+To limit the receipt of maintenance by a child to when the child completes his or her education or attains the age of 25 years, whichever first occurs. 
 
-    3. To make provision for the maintenance of the deceased’s offspring who are above the age of majority. 
+To make provision for the maintenance of the deceased’s offspring who are above the age of majority. 
 
-    4. To incorporate proposals made in clause 15 of the 2019 Bill. 
+To incorporate proposals made in clause 15 of the 2019 Bill. 
 
 MR NANDALA-MAFABI: Thank you very much, Madam Chairperson and the chairperson of the committee. I thought a spouse is taken care of. Why? According to this law, we have said that you will share the property because he or she was your spouse. Why are we then bringing in the spouse here? 
 
@@ -945,11 +945,11 @@ Clause 20, agreed to.
 Clause 21
 
 MR OBOTH: In clause 21, in the proposed Section 44;
-    (a) Substitute for the word “infant” the word “child” wherever the word is used in the provision.
-    (b) In paragraph (b), delete the words “if the father and mother of the deceased parent of the infant are dead”
-    (c) In paragraph (c), delete the words “if the brothers and sisters of the deceased are dead”
-    (d) Delete paragraphs (d) and (e);
-    (e) Renumber the current provision as sub-clause (1) and insert immediately after it, the following new sub sections”
+Substitute for the word “infant” the word “child” wherever the word is used in the provision.
+In paragraph (b), delete the words “if the father and mother of the deceased parent of the infant are dead”
+In paragraph (c), delete the words “if the brothers and sisters of the deceased are dead”
+Delete paragraphs (d) and (e);
+Renumber the current provision as sub-clause (1) and insert immediately after it, the following new sub sections”
 
 (2) 	Where there is no person willing or entitled to be a guardian under subsection (1)(a) to (c), the court may, on the application of any person interested in the welfare of the infant, appoint a guardian.
 
@@ -1097,11 +1097,11 @@ MR OBOTH: Clause 24 is on replacement of Section 46 of the principal Act. In cla
 
 Justification 
  
-    1. For completeness, to ensure that the provision applies to all guardians appointed under the Act; 
+For completeness, to ensure that the provision applies to all guardians appointed under the Act; 
 
-    2. To specify the duties and functions of a guardian; 
+To specify the duties and functions of a guardian; 
 
-    3. To ensure prudent administration of the property of an infant by appointing the guardian a personal representative of the infant, requiring the guardian to account for the property of the infant and if he or she misapplies that property, he or she makes good the loss occasioned and may also face criminal sanctions. 
+To ensure prudent administration of the property of an infant by appointing the guardian a personal representative of the infant, requiring the guardian to account for the property of the infant and if he or she misapplies that property, he or she makes good the loss occasioned and may also face criminal sanctions. 
 
 I beg to move.
 
@@ -1137,9 +1137,9 @@ The principal Act is amended by inserting immediately after Section 46 the follo
 
 Justification
 
-    1. For completeness, to provide for the termination of guardianship of an infant; and 
+For completeness, to provide for the termination of guardianship of an infant; and 
 
-    2. To harmonise the provisions of this Act with those of the Children Act in regard to the appointment and operation of a guardian.
+To harmonise the provisions of this Act with those of the Children Act in regard to the appointment and operation of a guardian.
 
 THE CHAIRPERSON: Honourable members, the question is that a new clause be introduced as proposed.
 
@@ -1153,9 +1153,9 @@ In the proposed amendment to Section 47, replace the word “importunity” with
 
 Justification
 
-    1. To expand the provision to ensure that a will obtained by abuse of position of trust or vulnerability are also void. 
+To expand the provision to ensure that a will obtained by abuse of position of trust or vulnerability are also void. 
 
-    2. For us to use simple words.
+For us to use simple words.
 
 THE CHAIRPERSON: Honourable members, the question is that clause 25 be amended as proposed.
 
@@ -1174,8 +1174,8 @@ The principal Act is amended by substituting Section 54 with the following:
 
 ‘54. Effect of gift to attesting witnesses
 (1) 	A will shall not be considered as insufficiently attested by reason of any benefit given by the will, either by way of bequeath or by way of appointment to any person attesting it, or to his or her spouse, and the bequest or appointment shall not be void so far as concerns the person so attesting, or the spouse of that person, or any person claiming under either of them where the will-
-    (a) meets the requirements of Section 50(c); and 
-    (b) would be sufficiently attested if the signature of that person who attests is not included in the number of the required under Section 50 (c).
+meets the requirements of Section 50(c); and 
+would be sufficiently attested if the signature of that person who attests is not included in the number of the required under Section 50 (c).
 
 (2) 	A legatee under a Will shall not lose his or her legacy by attesting a codicil which confirms the Will;
 
@@ -1185,11 +1185,11 @@ The principal Act is amended by substituting Section 54 with the following:
 
 The justification is –
 
-    1. In Section 50, to make an addition to the legal requirements of making a Will that is valid in law, by requiring for each of the witnesses to write his or her name and address on the last page of a Will, in order to ensure his authentication of the persons who witnessed a Will.
+In Section 50, to make an addition to the legal requirements of making a Will that is valid in law, by requiring for each of the witnesses to write his or her name and address on the last page of a Will, in order to ensure his authentication of the persons who witnessed a Will.
 
-    2. In addition, in Section 50(4) to ensure that a person who witnesses a Will is not unreasonably precluded from getting a benefit under the Will, if the other signatures are sufficient to prove the authenticity of a Will, as required in Section 50.
+In addition, in Section 50(4) to ensure that a person who witnesses a Will is not unreasonably precluded from getting a benefit under the Will, if the other signatures are sufficient to prove the authenticity of a Will, as required in Section 50.
 
-    3. The proposal to bar persons presenting handwritten or typed Wills from benefitting from the Will presented by any other person, other than testator, is intended to ensure the authenticity and validity of such a Will is questionable and to ensure that there is no conflict of interest in proving such Wills.
+The proposal to bar persons presenting handwritten or typed Wills from benefitting from the Will presented by any other person, other than testator, is intended to ensure the authenticity and validity of such a Will is questionable and to ensure that there is no conflict of interest in proving such Wills.
 
 To adopt the proposal made in Clause 20 and 21 of the 2019 Succession (Amendment) Bill. I beg to move.
 

@@ -1,4 +1,4 @@
-﻿
+
 
 
 Wednesday, 7 November 2018
@@ -231,11 +231,11 @@ The committee also noted that in Greenwatch v. the Attorney General and NEMA of 
 
 The committee is recommends:
 
-    a) An introduction of a mandatory recycling on producers
-    b) Introduction of tax incentive to encourage production of packaging materials
-    c) Better partnership between manufacturers and the public sector on waste management
-    d) Plastics including those exempted should be labelled
-    e) The Minister of Finance, Planning and Economic Development should introduce polymer levy; a levy on plastic bags. We thought this should be on polymers near the banned threshold if that can be achieved.
+An introduction of a mandatory recycling on producers
+Introduction of tax incentive to encourage production of packaging materials
+Better partnership between manufacturers and the public sector on waste management
+Plastics including those exempted should be labelled
+The Minister of Finance, Planning and Economic Development should introduce polymer levy; a levy on plastic bags. We thought this should be on polymers near the banned threshold if that can be achieved.
 
 On international obligations, the committee noted the increasing priority on environmental protection and recognition of the need for international cooperation. The committee also noted emerging legal obligation at global, regional bilateral, international environmental agreement, prescribing certain international obligations of states, for instance, the agreements on marine environment, conservation of wildlife and their habitats and transboundary pollution and desertification.
 
@@ -247,13 +247,13 @@ In Clause 37, the Bill recommends the introduction of an environmental tribunal.
 
 Whereas it is a step in the right direction, the committee noted that:
 
-    a) It has been overtaken by events. Judiciary has established a standard wildlife and a utilities court dubbed as a specialised court on environmental matters.
+It has been overtaken by events. Judiciary has established a standard wildlife and a utilities court dubbed as a specialised court on environmental matters.
 
-    b) The bulging public expected expenditure and the ongoing process of the public sector is a welcome move.
+The bulging public expected expenditure and the ongoing process of the public sector is a welcome move.
 
-    c) Without the tribunal being a public sector burden. Here we mean without the tribunal setting up satellite offices around the country, it will be a Kampala outfit.
+Without the tribunal being a public sector burden. Here we mean without the tribunal setting up satellite offices around the country, it will be a Kampala outfit.
 
-    d) We need to empower the local authorities to handle local disputes.
+We need to empower the local authorities to handle local disputes.
 	
 The committee is, therefore, recommending that the clauses on environmental tribunal, Clauses 140 to 160 be deleted.
 
@@ -279,9 +279,9 @@ Here, the committee has considered the possibility of cancelling titles in the w
 
 Therefore, the committee recommends: 
 
-    i. Increased sensitisation on wide views; the committee recommends that the responsible ministry should publish wetland view guidelines to provide guidance on land use in the wetlands. 
-    ii. The committee also recommends establishing conditional grants to fund local governments as lead agencies on management of natural resources.
-    iii. Finally, the Ministry of Water and Environment, as the responsible ministry, should gazette all wetlands and at least cancel the land titles issued illegally in the affected wetlands. Those that have degraded those wetlands should be made to restore them.
+Increased sensitisation on wide views; the committee recommends that the responsible ministry should publish wetland view guidelines to provide guidance on land use in the wetlands. 
+The committee also recommends establishing conditional grants to fund local governments as lead agencies on management of natural resources.
+Finally, the Ministry of Water and Environment, as the responsible ministry, should gazette all wetlands and at least cancel the land titles issued illegally in the affected wetlands. Those that have degraded those wetlands should be made to restore them.
 
 Mr Speaker, as I mentioned at the beginning, this is being presented and intended as a framework law, from which other lead agencies will draw their sectoral laws. 
 
@@ -534,9 +534,9 @@ MS BEATRICE ANYWAR (Independent, Woman representative Kitgum): Thank you, Mr Spe
 
 However, since then, we have not gone an extra mile to make sure that this force we put in place is working. The reason is that: 
 
-    1. The number which is allocated does not meet the task it is supposed to do.
-    2.  The funding from the minister to that effect is not enabling them do their work
-    3. We have conflict of interest. When we give our own force to go and do works; then we frustrate them when they are implementing it, it pulls them down.
+The number which is allocated does not meet the task it is supposed to do.
+ The funding from the minister to that effect is not enabling them do their work
+We have conflict of interest. When we give our own force to go and do works; then we frustrate them when they are implementing it, it pulls them down.
 
 We need to let this force be able to do its work by doing what is necessary.
 
@@ -588,11 +588,11 @@ MS JACQUELINE AMONGIN (NRM, Woman Representative Ngora): Thank you, Mr Speaker. 
 
 However, aware that Uganda is one of the countries that committed in Paris, the Climate Change Commitment in Paris Declaration on carbons reduction, Uganda came up with a percentage. Therefore, this makes me to make the following recommendations:
 
-    1. The Kaveera is still a pending issue even when we resolved in this very Parliament that we should stop kaveera, no implementation has been taken up to now. I would like us to propose that at least if we must insist on using kaveera, we should emphasise on industrial and medical kaveera only
+The Kaveera is still a pending issue even when we resolved in this very Parliament that we should stop kaveera, no implementation has been taken up to now. I would like us to propose that at least if we must insist on using kaveera, we should emphasise on industrial and medical kaveera only
 
-    2. As an environmentalist that I am, we have EIS and also the modus operandi that should be followed by the stakeholders or the departments concerned like National Environment Management Authority (NEMA) but political influence is still very important and it is down-playing our role in achieving the goal by 2030 that we are committed to in the SDGs.
+As an environmentalist that I am, we have EIS and also the modus operandi that should be followed by the stakeholders or the departments concerned like National Environment Management Authority (NEMA) but political influence is still very important and it is down-playing our role in achieving the goal by 2030 that we are committed to in the SDGs.
 
-    3. Mr Speaker, we are talking about the National Environment Fund but currently even the environmental levy that is supposed to be utilised by NEMA is not taken into consideration. Modalities must be put in place as we adopt this Bill.
+Mr Speaker, we are talking about the National Environment Fund but currently even the environmental levy that is supposed to be utilised by NEMA is not taken into consideration. Modalities must be put in place as we adopt this Bill.
 
 Lastly, industrial pollution is still a big concern in this country. There is no modality put in place; for example, in Nakivubo where the industrial waste is just released into the channel, which is a big pollution to the economy. We must ensure that most of these –(Member timed out.)
 
@@ -805,8 +805,8 @@ Insertion of a new clause
 DR KIWANUKA: This is the new clause that we have inserted immediately after clause 8, “Power of the Authority over lead agencies; 
 
 (1)	the Authority may, after giving reasonable notice of its intention, direct a lead agency to perform within such time and in such manner, as it shall specify, any of the duties imposed upon the lead agency by or under this Act or any other written law in the field of environment. 
-    (2) while the lead agency fails to comply with such directives, the Authority may itself perform or cause to be performed the duties in question and expense incurred by it in so doing shall be a civil debt recoverable by the Authority from the lead agency. 
-    (3) any person who fails to comply with subsection (1) commits an offence.”
+while the lead agency fails to comply with such directives, the Authority may itself perform or cause to be performed the duties in question and expense incurred by it in so doing shall be a civil debt recoverable by the Authority from the lead agency. 
+any person who fails to comply with subsection (1) commits an offence.”
 
 The justification is that it is intended to empower NEMA to issue orders to a lead agency to fulfil any duty imposed on it by law. 
 
@@ -1121,19 +1121,19 @@ Clause 25
 DR KIWANUKA: Clause 25 is on Urban, district local environment committees. We propose that Clause 25 is replaced as follows:
 
 “District Environment and Natural Resources Committee
-    (1) Every district shall establish the district environment committee, which shall be composed as follows:
-    a) The District Chairperson;
-    b) The members of Parliament from the district;
-    c) The Resident District Commissioner; 
-    d) The secretary for environment;
-    e) The district natural resources officer, who shall be secretary; 
-    f) The Chief Administrative Officer;
-    g) The district engineer;
-    h) The town clerk;
-    i) The mayor, town clerk and secretary responsible for environment at the Urban Council;
-    j) The district planner;
-    k) The physical planning officer; and 
-    l) The community development officer.
+Every district shall establish the district environment committee, which shall be composed as follows:
+The District Chairperson;
+The members of Parliament from the district;
+The Resident District Commissioner; 
+The secretary for environment;
+The district natural resources officer, who shall be secretary; 
+The Chief Administrative Officer;
+The district engineer;
+The town clerk;
+The mayor, town clerk and secretary responsible for environment at the Urban Council;
+The district planner;
+The physical planning officer; and 
+The community development officer.
 
 (2)	The members of the committee shall elect from amongst themselves a chairperson and a vice chairperson of the committee;
 
@@ -1443,11 +1443,11 @@ In sub-clause (9), subject to sub-section (2), the minister shall, by regulation
 
 Justification:
 
-    1. The environmental fund should be strictly for environmental management;
+The environmental fund should be strictly for environmental management;
 
-    2. To provide funding for restoration activities by lead agencies;
+To provide funding for restoration activities by lead agencies;
 
-    3. For transparency and accountability, the minister should report to Parliament.
+For transparency and accountability, the minister should report to Parliament.
 
 Of course, it is another way of ensuring that we get the information as to whether the law is being followed as enacted.
 
@@ -1559,12 +1559,12 @@ Clause 43
 
 DR KIWANUKA: This is about planning for the environment at the national level. Under sub-clause (2)(a), we propose to replace, “four” with “two and a half.” We are also proposing that we insert a new subclause (4) as follows, “The National Environment Action Plan shall include among others; 
 
-    a) an analysis of the natural resources of Uganda with an indication as to any person obtained in their distribution and quantity over time;
-    b) operational guidelines for the operation and management of the environment and natural resources; 
-    c) actual or likely problems, which may affect the natural resources and the broader environment context in which they exist; 
-    d) trends in the development of urban and rural settlements, their impact on the environment and strategies for the amelioration of their negative impact; 
-    e) proposed guidelines for the integration of standards of environmental protection into development planning and management; 
-    f) recommendations on policy and legislative approaches – 
+an analysis of the natural resources of Uganda with an indication as to any person obtained in their distribution and quantity over time;
+operational guidelines for the operation and management of the environment and natural resources; 
+actual or likely problems, which may affect the natural resources and the broader environment context in which they exist; 
+trends in the development of urban and rural settlements, their impact on the environment and strategies for the amelioration of their negative impact; 
+proposed guidelines for the integration of standards of environmental protection into development planning and management; 
+recommendations on policy and legislative approaches – 
 
 THE DEPUTY CHAIRPERSON: Mr Chairman, it would do us well if you stated what you are reading. 
 
@@ -2087,12 +2087,12 @@ DR KIWANUKA: Clause 96 is about prohibition of littering and we propose that the
 
 “Clause 96: Prohibition of Littering
 
-    1. Littering is prohibited.
-    2. The minister shall, by regulation, prescribe additional provisions relating to littering.
-    3. A natural person who contravenes sub-section (1) commits an offence and he is liable, on conviction, to a fine not exceeding 5 currency points or imprisonment not exceeding three months or both.
-    4. A corporate body which contravenes sub-section (1) commits an offence and is liable, on conviction, to a fine not exceeding 150 currency points. 
-    5. In addition to the penalty in sub-sections (3) and (4), the person may be required to remove the substance littered and to properly dispose it of or be subjected to an express penalty prescribed under section 193.
-    6. For purposes of this Act, littering means disposing waste in a place not designated as a dumping area or waste collection point.”
+Littering is prohibited.
+The minister shall, by regulation, prescribe additional provisions relating to littering.
+A natural person who contravenes sub-section (1) commits an offence and he is liable, on conviction, to a fine not exceeding 5 currency points or imprisonment not exceeding three months or both.
+A corporate body which contravenes sub-section (1) commits an offence and is liable, on conviction, to a fine not exceeding 150 currency points. 
+In addition to the penalty in sub-sections (3) and (4), the person may be required to remove the substance littered and to properly dispose it of or be subjected to an express penalty prescribed under section 193.
+For purposes of this Act, littering means disposing waste in a place not designated as a dumping area or waste collection point.”
 
 The justification for this is to impose fines on the natural persons and companies. Actually, we are just raising the fine because it is already there.
 

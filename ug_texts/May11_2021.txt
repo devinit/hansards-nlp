@@ -1,4 +1,4 @@
-﻿
+
 
 PARLIAMENT OF UGANDA
 
@@ -10,7 +10,7 @@ PRAYERS
 
 (The Speaker, Ms Rebecca Alitwala Kadaga, in the Chair.)
 
-The House was called to order.­
+The House was called to order.
 
 COMMUNICATION FROM THE CHAIR
 
@@ -55,30 +55,30 @@ THE CHAIRPERSON, COMMITTEE ON NATIONAL ECONOMY (Ms Syda Bbumba): Thank you very 
 
 Madam Speaker, before I proceed, I would like to lay on Table the following documents, which we analysed during the scrutiny of the loan request. I have: 
 
-    1. Report of the committee, which I am presenting;
-    2. Minutes of the various meetings, which we held;
-    3. A brief to Parliament from the Ministry of Finance, Planning and Economic Development;
-    4. Clearance of the financial implications for counterpart funding;
-    5. The credit facility agreement between the Government of Spain and Government of Uganda;
-    6. Concessional loan term sheets;
-    7. Commercial loan term sheets;
-    8. A letter from the Ministry of Finance, Planning and Economic Development to the Director-General on regional development;
-    9. His Excellency the President’s letter approving the loan;
-    10.  Status of the report on construction of the Gulu logistic hub;
-    11. Monthly progress report on construction of the Gulu logistics hub;
-    12.  Brief project status report of the rehabilitation of the Tororo-Gulu Railway line;
-    13. Evidence of consistency with National Planning Authority’s plans;
-    14. List of key activities in the proposed project;
-    15. Uganda Railways Corporation (URC) procurement approval flow chart;
-    16.  ADB funds works procurement plan;
-    17. Brief on capacity building for the project;
-    18. Brief on the refurbishment of Kampala-Malaba Meter Gauge Railway project;
-    19. Capacity building project mechanical details;
-    20. Annual performance report of URC;
-    21. URC completion report of the supply and installation of precast railway reserve boundary markers;
-    22. Feasibility study report of Uganda Railways Corporation;
-    23. Contract for consultancy services for URC; and
-    24. Inception report of the consultancy services to undertake the environmental and social impact assessment. 
+Report of the committee, which I am presenting;
+Minutes of the various meetings, which we held;
+A brief to Parliament from the Ministry of Finance, Planning and Economic Development;
+Clearance of the financial implications for counterpart funding;
+The credit facility agreement between the Government of Spain and Government of Uganda;
+Concessional loan term sheets;
+Commercial loan term sheets;
+A letter from the Ministry of Finance, Planning and Economic Development to the Director-General on regional development;
+His Excellency the President’s letter approving the loan;
+ Status of the report on construction of the Gulu logistic hub;
+Monthly progress report on construction of the Gulu logistics hub;
+ Brief project status report of the rehabilitation of the Tororo-Gulu Railway line;
+Evidence of consistency with National Planning Authority’s plans;
+List of key activities in the proposed project;
+Uganda Railways Corporation (URC) procurement approval flow chart;
+ ADB funds works procurement plan;
+Brief on capacity building for the project;
+Brief on the refurbishment of Kampala-Malaba Meter Gauge Railway project;
+Capacity building project mechanical details;
+Annual performance report of URC;
+URC completion report of the supply and installation of precast railway reserve boundary markers;
+Feasibility study report of Uganda Railways Corporation;
+Contract for consultancy services for URC; and
+Inception report of the consultancy services to undertake the environmental and social impact assessment. 
 
 Madam Speaker, I beg to lay. 
 
@@ -114,11 +114,11 @@ On the project profile, the development objective of the project is to accelerat
 
 The specific objectives of the project are to-
 
-    i) achieve an efficient and reliable transport service (freight and passengers); 
+achieve an efficient and reliable transport service (freight and passengers); 
 
-    ii) improve railway operations together with marine and road services due to their complementarity - We passed the marine transport Bill yesterday.
+improve railway operations together with marine and road services due to their complementarity - We passed the marine transport Bill yesterday.
 
-    iii) ensure railway safety and optimise the number and quality of available assets.
+ensure railway safety and optimise the number and quality of available assets.
 
 5.2 Location
 
@@ -126,8 +126,8 @@ The project is going to be located mainly in the eastern region. The biggest par
 
 The project shall be implemented in two phases namely:
 
-    1. Phase one: emergency investments period;
-    2. Phase two: medium term investments and the detailed scope during each phase is attached in Annexes attached. 
+Phase one: emergency investments period;
+Phase two: medium term investments and the detailed scope during each phase is attached in Annexes attached. 
 
 Project components are covered under 5.3. This covers civil works, rolling stock, consultancy, human resource capacity development, consultancy on engineering design and environmental impact.
 
@@ -143,9 +143,9 @@ The loans have got the following terms and conditions.
 
 Approval by Parliament
 
-    1. Legal opinion of the Attorney-General
+Legal opinion of the Attorney-General
 
-    2. Before the date of the loan agreement, the Government shall submit a procurement plan to the lender covering the entire project period.
+Before the date of the loan agreement, the Government shall submit a procurement plan to the lender covering the entire project period.
 
 On the concessionality of the loans, the ADB and ADF loans are concessional and the one from the French, under tranche one, is also concessional. Tranche two of the Spanish loan is non-concessional. These are covered under table five. 
 
@@ -568,18 +568,18 @@ THE CHAIRPERSON, COMMITTEE ON NATIONAL ECONOMY (MS SYDA BBUMBA): Thank you, Mada
 
 The proposal was presented to the committee by this august House on the 18th December, last year. In accordance with rule 175(2)(b) of the parliamentary rules, we now wish to report. Before I proceed, I would like to lay on the Table the following documents: 
 
-    1. A report of the Committee on National Economy on the proposal by the Government to borrow the said amount.
-    2. Minutes of the various meetings we held.
-    3. A brief to Parliament by the Ministry of Finance, Planning and Economic Development.
-    4. Clearance by His Excellency President.
-    5. Certificate of Financial implementation.
-    6. The National Planning Authority letter giving clearance.
-    7. Financing agreement for additional financing.
-    8. Communication from the Ministry of Finance, Planning and Economic Development on additional allocations for the budget and several annexes.
-    9. The World Bank Programme Paper on Uganda Inter-Governmental Fiscal Transfers. 
-    10. The World Bank Programme Information Document.
-    11.  The World Bank Programme Paper on proposed additional credit, and 
-    12. A list of Government secondary schools by sub-county. I beg to lay. 
+A report of the Committee on National Economy on the proposal by the Government to borrow the said amount.
+Minutes of the various meetings we held.
+A brief to Parliament by the Ministry of Finance, Planning and Economic Development.
+Clearance by His Excellency President.
+Certificate of Financial implementation.
+The National Planning Authority letter giving clearance.
+Financing agreement for additional financing.
+Communication from the Ministry of Finance, Planning and Economic Development on additional allocations for the budget and several annexes.
+The World Bank Programme Paper on Uganda Inter-Governmental Fiscal Transfers. 
+The World Bank Programme Information Document.
+ The World Bank Programme Paper on proposed additional credit, and 
+A list of Government secondary schools by sub-county. I beg to lay. 
 
 Madam Speaker, I would like to thank colleagues for their contribution in processing this loan - I mean members of the committee. The methodology and documentary review are all covered under paragraph 2.
 
@@ -593,9 +593,9 @@ THE SPEAKER: Please use the microphone well.
 
 MS BBUMBA: Government began implementing the Intergovernmental Fiscal Transfer Reform Programmes, and these reforms are meant to support the Government to strengthen the implementation of the decentralisation policy, through focusing on achieving three key objectives:
 
-    1. Providing adequate financing to local governments for service delivery.
-    2. Ensuring equity in allocation of resources to LGs. 
-    3. Improving the efficiency of local governments in the delivery of services.
+Providing adequate financing to local governments for service delivery.
+Ensuring equity in allocation of resources to LGs. 
+Improving the efficiency of local governments in the delivery of services.
 
 To support this reform, in 2018, Parliament approved the borrowing of $200 million from the IDA of the World Bank. The entire loan was committed to construction of 232 Seed Secondary Schools, and upgrading of 285 health centres II and III in sub-counties without such facilities. By December 2020, the World Bank had released over 50 per cent of that money. 
 
@@ -605,9 +605,9 @@ On the performance of the original UGIFT programme;   the Shs 200 million I have
 
 Based on the mapping undertaken in May 2018, the infrastructure gap in the sectors of health and education, in line with the above policy, were as follows:
 
-    1. 259 sub-counties had no secondary schools; 
-    2. 331 sub-counties had no health centres III but had health centres II that needed upgrading; and 
-    3. 134 sub-counties had no health facility at all. 
+259 sub-counties had no secondary schools; 
+331 sub-counties had no health centres III but had health centres II that needed upgrading; and 
+134 sub-counties had no health facility at all. 
 
 Madam Speaker, the interventions under the UGIFT were expected to reduce the number of sub counties without schools to 27, ensuring that the sub-counties which had no health centres III but health centres II were upgraded to health centre III. 
 
@@ -627,10 +627,10 @@ On cost of financing under paragraph 8.2, in table 2, we have the financing term
 
 Other loan conditions which have been put up on this loan are:
 
-    i) Approval by Parliament; 
-    ii) Issuance of the legal opinion by the Attorney-General; 
-    iii) Preparation and adoption of a programme operational manual; and 
-    iv) Dissemination of sector grant guidelines to local governments and cost centres before the first year of implementation, to ensure proper utilisation of resources. 
+Approval by Parliament; 
+Issuance of the legal opinion by the Attorney-General; 
+Preparation and adoption of a programme operational manual; and 
+Dissemination of sector grant guidelines to local governments and cost centres before the first year of implementation, to ensure proper utilisation of resources. 
 
 Concessionality 
 
@@ -915,16 +915,16 @@ THE SPEAKER: Can I invite our chairperson, if they have considered this proposal
 1.48
 THE VICE-CHAIRPERSON, COMMITTEE ON NATIONAL ECONOMY (MR Lawrence Bategeka):  Madam Speaker, I am here to present a report of the Committee on National Economy on the proposal by Government to borrow up to UA 23 million, equivalent to $31.64 million, from the African Development Fund to finance the revenue shortfalls. Before I do, allow me to lay on Table the documents the committee considered when considering this loan request:
 
-    1. The report of the Committee on National Economy on the proposal of Government to borrow up to UA 23 million, equivalent to $31.64 million, from the African Development Fund to finance revenue shortfalls.
+The report of the Committee on National Economy on the proposal of Government to borrow up to UA 23 million, equivalent to $31.64 million, from the African Development Fund to finance revenue shortfalls.
 
-    2. The minutes of meetings held to consider the proposal by Government to borrow UA 23 million, equivalent to $31.64 million, from African Development Fund to finance revenue shortfalls. 
+The minutes of meetings held to consider the proposal by Government to borrow UA 23 million, equivalent to $31.64 million, from African Development Fund to finance revenue shortfalls. 
 
-    3. A brief to Parliament on the proposal by Government to borrow up to UA 23 million, equivalent to $36.64 million, from the African Development Fund to finance the revenue shortfalls.
-    4. The loan agreement between the Republic of Uganda and the African Development Fund, COVID-19 response support programme, dated 17 July 2020.
+A brief to Parliament on the proposal by Government to borrow up to UA 23 million, equivalent to $36.64 million, from the African Development Fund to finance the revenue shortfalls.
+The loan agreement between the Republic of Uganda and the African Development Fund, COVID-19 response support programme, dated 17 July 2020.
 
-    5. Negotiated disbursement letter from the African Development Group to the Permanent Secretary/Secretary to the Treasury, Ministry of Finance, Planning and Economic Development, dated 17 July 2020. 
+Negotiated disbursement letter from the African Development Group to the Permanent Secretary/Secretary to the Treasury, Ministry of Finance, Planning and Economic Development, dated 17 July 2020. 
 
-    6. The appraisal report of Uganda COVID-19 crisis response support programme, dated 30 July 2020. 
+The appraisal report of Uganda COVID-19 crisis response support programme, dated 30 July 2020. 
 
 I beg to lay.
 
@@ -938,11 +938,11 @@ Methodology
 
 The committee held meetings with the following:
 
-    i) The Ministry of Finance, Planning and Economic Development.
-    ii) The Ministry of Health.
-    iii) The Ministry of Gender, Labour and Social Development.
-    iv) Uganda Revenue Authority. 
-    v) The Private Sector Foundation Uganda.
+The Ministry of Finance, Planning and Economic Development.
+The Ministry of Health.
+The Ministry of Gender, Labour and Social Development.
+Uganda Revenue Authority. 
+The Private Sector Foundation Uganda.
 
 The current proposal to borrow up to UA 23 million, equivalent to $31.64 million, from the African Development Fund was meant to cover revenue shortfalls, particularly to benefit the health sector to implement the COVID-19 emergency response plan.
 
@@ -954,9 +954,9 @@ The budget for Financial Year 2020/2021 that was approved had within it, budget 
 
 The Shs 368.1 billion will be financed as follows: 
 
-    i) Shs 190 billion, equivalent to $49 million, is from the original Uganda Inter-Governmental Fiscal Transfers Programme resulting from the loan of $200 million that was approved by Parliament in 2018. Shs 163 billion, equivalent to $42.5 million, is the first disbursement out of the $240 million as additional financing for the UGIFT loan proposal that was just approved this morning.
+Shs 190 billion, equivalent to $49 million, is from the original Uganda Inter-Governmental Fiscal Transfers Programme resulting from the loan of $200 million that was approved by Parliament in 2018. Shs 163 billion, equivalent to $42.5 million, is the first disbursement out of the $240 million as additional financing for the UGIFT loan proposal that was just approved this morning.
 
-    ii) The balance – Shs 15.1 billion – is expected to be financed from the loan request before Parliament of UA23 million, equivalent to $31.64 million, from African Development Fund.
+The balance – Shs 15.1 billion – is expected to be financed from the loan request before Parliament of UA23 million, equivalent to $31.64 million, from African Development Fund.
 
 Government will, therefore, require additional financing to meet the inevitable extra revenue shortfall. 
 
@@ -966,15 +966,15 @@ Madam Speaker, let me turn to the proposed programme support from the African De
 
 The programme consists of three broad reinforcing components namely: 
 
-    1. Strengthening the COVID-19 outbreak health response mechanisms
+Strengthening the COVID-19 outbreak health response mechanisms
 
 Uganda remains at high risk of infections from the neighbouring countries due to trade, travel and indigenous transmission from social linkages. The measures supported by the programme will help to reduce the importation and risk of community transmission of COVID-l9 through: 
 
-    (i) Achieving COVID-19 testing of at least 2.5 per cent of the population, is about one million tests and at least 50 per cent, of health workers, which is 45,000 tests and 
+Achieving COVID-19 testing of at least 2.5 per cent of the population, is about one million tests and at least 50 per cent, of health workers, which is 45,000 tests and 
 
-    (ii) Increasing the number of designated acute healthcare facilities, with isolation capacity and equipment that meet the Ministry of Health standards from 20 to 100. These are critical for contact tracing, isolation, and eventual saving of lives. 
+Increasing the number of designated acute healthcare facilities, with isolation capacity and equipment that meet the Ministry of Health standards from 20 to 100. These are critical for contact tracing, isolation, and eventual saving of lives. 
 
-    2. Strengthening livelihoods and social protection against COVID-19; 
+Strengthening livelihoods and social protection against COVID-19; 
 
 The Ministry of Finance, Planning and Economic Development projected low activity in industry and services sectors, leading to loss of jobs, further leading to a decline in economic growth and an increase in the level of poverty. 
 
@@ -982,28 +982,28 @@ The informal sector, which is a key sector of Uganda’s economy and employs a c
 
 The Government announced a package of measures to enhance social protection and cushion the poor and vulnerable groups against the impacts of the pandemic. These include: 
 
-    (i) Supplementary budget for additional social expenditure of Shs 284 billion, equivalent to $76 million; 
+Supplementary budget for additional social expenditure of Shs 284 billion, equivalent to $76 million; 
 
-    (ii) Introduction of tax exemptions for items used for medical support to COVID-19 Pandemic; 
+Introduction of tax exemptions for items used for medical support to COVID-19 Pandemic; 
 
-    (iii) Coverage expansion of social assistance to new vulnerable populations, such as urban poor and informal sector workers; including food distribution campaign for maize flour, beans, and sugar to vulnerable people in Kampala and Wakiso Districts;
+Coverage expansion of social assistance to new vulnerable populations, such as urban poor and informal sector workers; including food distribution campaign for maize flour, beans, and sugar to vulnerable people in Kampala and Wakiso Districts;
 
-    (iv) Increase access to essential hygiene supplies and clean water to vulnerable populations;
+Increase access to essential hygiene supplies and clean water to vulnerable populations;
 
-    (v) Reduction of fees on mobile money transactions and other electronic payment charges. 
+Reduction of fees on mobile money transactions and other electronic payment charges. 
 
 The proposed programme will support a range of measures, geared towards strengthening livelihoods and social protection. These include:
 
-    (i) Approval of COVID-19 social protection response plan and targeting guidelines; 
-    (ii) Development of response plans for education to ensure continuous learning; 
-    (iii) Approval of an investment plan to increase access to essential hygiene supplies and clean water to vulnerable populations; 
-    (iv) Development of a plan to expand coverage of social assistance to vulnerable populations and informal sector workers; 
-    (v) Approval of tax exemptions for items used for medical support to COVID-l9 pandemic and 
-    (vi) Approval of fee reduction on person-to-person mobile money transactions and other electronic payment charges. 
+Approval of COVID-19 social protection response plan and targeting guidelines; 
+Development of response plans for education to ensure continuous learning; 
+Approval of an investment plan to increase access to essential hygiene supplies and clean water to vulnerable populations; 
+Development of a plan to expand coverage of social assistance to vulnerable populations and informal sector workers; 
+Approval of tax exemptions for items used for medical support to COVID-l9 pandemic and 
+Approval of fee reduction on person-to-person mobile money transactions and other electronic payment charges. 
 
 The measures supported by the programme will help to increase the population covered by social protection from 3 per cent to at least 7 per cent. The COVID-19 pandemic has heightened vulnerabilities and significant expansion of the social protection has become critical to save lives and livelihoods. 
 
-    3. Protecting economic activities against COVID-19 shocks
+Protecting economic activities against COVID-19 shocks
 
 The extreme challenge remains on how to manage the impact of COVID-19, to enable local businesses to gradually normalise, while bringing fiscal consolidation on track. The longer social distancing measures continue, the worse businesses will be affected, requiring liquidity support to avoid bankruptcy. 
 
@@ -1023,23 +1023,23 @@ Madam Speaker, the Minister of Finance, Planning and Economic Development propos
 
 The ADF financing terms are as follows:
 
-    1. Loan amount - Unit of Account 23 million, equivalent to $31.64 million
-    2. Maturity period – 40 years
-    3. Grace period – 10 years
-    4. Repayment period – 30 years
-    5. Service charge – the loan has no interest charge but it has a service charge of 0.75 per cent per annum and a commitment percent per annum on the withdrawn loan amount and
-    6. A commitment fee of 0.5 per cent, per annum on the undisbursed loan amount.
+Loan amount - Unit of Account 23 million, equivalent to $31.64 million
+Maturity period – 40 years
+Grace period – 10 years
+Repayment period – 30 years
+Service charge – the loan has no interest charge but it has a service charge of 0.75 per cent per annum and a commitment percent per annum on the withdrawn loan amount and
+A commitment fee of 0.5 per cent, per annum on the undisbursed loan amount.
 
 Loan terms and conditions 
 
 The loan has the following terms and conditions: 
 
-    1. Approval by Parliament; 
-    2. Legal opinion of the Attorney-General on the loan documentation; 
-    3. Letter to the bank, authorising persons to sign withdrawal applications together with specimen signatures; 
-    4. Uganda’s economic response strategies to COVID-19; 
-    5. Approved amendment Bills on fiscal policy by Parliament; and 
-    6. Tax Procedures Code (Amendment) Bill, 2020, allowing deferment of the payment of income taxes for companies and other persons involved in the business of manufacturing, tourism and floricultural sectors, whose turnover is less than Shs 500 million.
+Approval by Parliament; 
+Legal opinion of the Attorney-General on the loan documentation; 
+Letter to the bank, authorising persons to sign withdrawal applications together with specimen signatures; 
+Uganda’s economic response strategies to COVID-19; 
+Approved amendment Bills on fiscal policy by Parliament; and 
+Tax Procedures Code (Amendment) Bill, 2020, allowing deferment of the payment of income taxes for companies and other persons involved in the business of manufacturing, tourism and floricultural sectors, whose turnover is less than Shs 500 million.
 
 Concessionality of the loan 
 
@@ -1207,11 +1207,11 @@ The committee recommends the approval of Shs 481 billion as part of Uganda’s 1
 
 The other category of request comes under Addendum 1 to Schedule No. 5. This contains:
 
-    a) Vote 002: State House requesting for Shs 28.352 billion. State House is requesting for this money to comprise Shs 25 billion as classified expenditure and Shs 3.352 billion to cater for operational expenses at the Secretariat of the Project on the Presidential Scientific Initiative (PRESIDE) on Epidemics.
+Vote 002: State House requesting for Shs 28.352 billion. State House is requesting for this money to comprise Shs 25 billion as classified expenditure and Shs 3.352 billion to cater for operational expenses at the Secretariat of the Project on the Presidential Scientific Initiative (PRESIDE) on Epidemics.
 
 The committee recommends the approval of Shs 28.352 billion to State House for the purpose as stated above.
 
-    b) Vote 008: Ministry of Finance, Planning and Economic Development - Shs 2.7 billion
+Vote 008: Ministry of Finance, Planning and Economic Development - Shs 2.7 billion
 
 The Ministry of Finance, Planning and Economic Development has requested for additional resources amounting to Shs 2.7 billion to be spent as follows:
 
@@ -1221,31 +1221,31 @@ ii) 	A total of Shs 1.491 billion for transfer to the Privatisation Unit to faci
 
 The committee recommends the approval of Shs 2.7 billion to the Ministry of Finance, Planning and Economic Development for the activities as specified above.
 
-    c) Vote 170: Mbale Regional Referral Hospital - Shs 0.73 billion
+Vote 170: Mbale Regional Referral Hospital - Shs 0.73 billion
 
 Mbale Regional Referral Hospital has requested for an additional Shs 730,000,000 to complete construction of the Surgical Complex. The committee was informed that the construction had stalled for two years because of the failure by Government to release money as per the signed contract. 
 
 The committee recommends the approval of Shs 730,000,000 to Mbale Regional Referral Hospital to complete the Surgical Complex.
 
-    d) Vote 113: Uganda National Roads Authority
+Vote 113: Uganda National Roads Authority
 
 They are requesting Shs 101,999,242,715. The amount is required to cater for external financing for three projects, namely: 
 
-    1. Hoima-Wanseko Road Project;
-    2. Kampala-Northern Bypass Project, and 
-    3. Mbale-Bubulo-Lwakhakha Road Project - given the disbursement of funds by the development partners for each project.
+Hoima-Wanseko Road Project;
+Kampala-Northern Bypass Project, and 
+Mbale-Bubulo-Lwakhakha Road Project - given the disbursement of funds by the development partners for each project.
 
 The committee was informed that the funding comes from the European Union, the African Development Bank and Exim Bank, China as summarised in Table 1 below. From the China Exim Bank, we are funding the critical oil roads and in this case for Hoima-Wanseko, the request is Shs 77.1 billion. Kampala-Northern Bypass by the European Union, the request is Shs 4 billion and from the African Development Bank to upgrade Mbale-Bubulo-Lwakhakha, the request is Shs 20.8 billion, which totals to Shs 101,999,242,715.
 
 The committee recommends the approval of Shs 101,999,242,715 to cater for external financing of the said three projects. 
 
-    e) Vote 784: Kitgum Municipal Council – Shs 96.8 million. This municipality requested for an additional Shs 0.097 billion to cater for unreleased education capitation grants in the Financial Year 2018/2019 to the Kitgum Core Primary Teachers College. 
+Vote 784: Kitgum Municipal Council – Shs 96.8 million. This municipality requested for an additional Shs 0.097 billion to cater for unreleased education capitation grants in the Financial Year 2018/2019 to the Kitgum Core Primary Teachers College. 
 
 The committee found no problem with that and has recommended for its approval. 
 
 f) 	Vote 500 – 797: Local Governments (Uganda Government Inter-governmental Fiscal Transfer) UGIFT – Shs 10.7 billion. The committee was informed that additional co-funding of Shs 10.7 billion is required under the Uganda Inter-governmental Fiscal Transfer project for respective Local Governments to upgrade Health Centre IIs and IIIs and construction of Seed Secondary Schools): 
 
-    i) A total of Shs 1.5 billion is required for the completion of construction of seed secondary schools under UGIFT. These are unspent balances in the Financial Year 20l9/2020. We present these unspent balances and request in Table 4. We have presented the districts of Adjumani, Busia, Yumbe and Bugweri.
+A total of Shs 1.5 billion is required for the completion of construction of seed secondary schools under UGIFT. These are unspent balances in the Financial Year 20l9/2020. We present these unspent balances and request in Table 4. We have presented the districts of Adjumani, Busia, Yumbe and Bugweri.
 
 ii) 	A total of Shs 4,353,787,738 for the upgrade of Health Centre IIs to IIIs under Uganda UGIFT. These were also unspent balances for the Financial Year 2019/2020. The affected districts are presented in Table 5 below.
 
@@ -1265,7 +1265,7 @@ The committee was informed that the Ministry of Finance, Planning and Economic D
 
 The following are some of the measures:
 
-    i) Developing the Human Capital Management System (HCMS) which shall seamlessly interface with the Programme Budgeting System (PBS) and the Integrated Financial Management System (IFMS) to ensure that recruitment plans are directly linked to the funding available in the Budget and that the Wage payments on the IFMS are based on the payroll captured in the HCMS.
+Developing the Human Capital Management System (HCMS) which shall seamlessly interface with the Programme Budgeting System (PBS) and the Integrated Financial Management System (IFMS) to ensure that recruitment plans are directly linked to the funding available in the Budget and that the Wage payments on the IFMS are based on the payroll captured in the HCMS.
 
 Table 8 presents those Central and Local Governments institutions that are sharing this wage allocation, which amounts to Shs 69,992,622,471. That money has been distributed within various central government institutions as indicated in Table 8 as Part I and in Part II, we present the beneficiary local governments. The table stretches from pages 12,13,14,14,16 to 17.
 
@@ -1296,12 +1296,12 @@ Pursuant to Rule 202 of our Rules of Procedure of the Parliament of Uganda, we h
 
 Areas of dissent are as follows:
 
-    1. National stake in the oil pipeline project, which is the main in this supplementary.
-    2. No source of funding has been identified as yet.
-    3. An-unaudited historical cost.
-    4. Wrong computation for historical cost.
-    5. Foreseeability of the $70 billion of the same project.
-    6. Transfer of civil servants is supposed to be budget neutral
+National stake in the oil pipeline project, which is the main in this supplementary.
+No source of funding has been identified as yet.
+An-unaudited historical cost.
+Wrong computation for historical cost.
+Foreseeability of the $70 billion of the same project.
+Transfer of civil servants is supposed to be budget neutral
 
 Areas of dissent in detail
 
@@ -1309,7 +1309,7 @@ We dissented with the majority of the committee regarding sources of funding tow
 
 Dissenting observations are as follows:
 
-    1. Uganda’s national interest in the oil pipeline project at stake
+Uganda’s national interest in the oil pipeline project at stake
 
 On 11 March 2021, the ministry presented a request for Shs 481 billion to facilitate the Uganda National Oil Company (UNOC) signed off investment decision on projects under oil and gas related to the refinery and pipeline. The initial information indicated that Uganda has 15 per cent while Tanzania had 5 per cent. 
 
@@ -1348,7 +1348,7 @@ Therefore, this request of $60 million is in error; it is inflated, it should ha
 
 We recommend delay until we establish the correct computation of the share that Uganda should be responsible for.
 
-    5. Shareability of the $70 billion 
+Shareability of the $70 billion 
 
 The $70 billion that is required to meet our obligation for the next financial year was foreseeable at the time of doing the budget, which we passed a few days ago. I still wonder why it was not included in the budget figures that we supplied just two or three days ago. In any case, the Ministry of Finance has a virgin window of 3 per cent unconsolidated funds for any emergency operation that may emerge.
 
@@ -1621,7 +1621,7 @@ THE SPEAKER: Honourable members, we would like to take a break for one hour to a
 
 (The House was suspended at 3.53 p.m.)
 
-(On resumption at 5.00 p.m., the Speaker presiding­­_)
+(On resumption at 5.00 p.m., the Speaker presiding_)
 
 MOTION FOR ADOPTION OF THE REPORT OF THE AD HOC COMMITTEE ON COMPLAINTS REGARDING COMPENSATION FOR LAND UNDER SUPPLEMENTARY SCHEDULE NO.4 FOR FINANCIAL YEAR 2020/2021
 
@@ -1630,18 +1630,18 @@ MS VERONICA BICHETERO ISALA (NRM, Kaberamaido County, Kaberamaido): Madam Speake
 
 Allow me lay on the Table a couple of documents that relate to this report – 
 
-    1. I will start with the submission from the Uganda Land Commission; they have a full report. 
-    2. The Auditor-General’s report for the year ending June 2019. 
-    3. File of one of the claimants under the supplementary, Namuli Nantalia. 
-    4. We have another claimant, Twaha Lwakaana; 
-    5. Another claimant is Busuulwa Julius;
-    6. Benon Rwabukuru Asiimwe, Peninnah Kenkyeka, Catherine Kajwasya and others. That is the other file. 
-    7. We also have Mugisa Geoffrey; 
-    8. Another claimant is Stephen Peter Nagenda. 
-    9. We have a file on Ndeeba land; that is the St Peter’s Church of Uganda. 
-    10. We have a file on Lusanja land; that is Mr Kiconco. 
-    11. We have a couple of documents which we put in one file as submission to the ad hoc committee by various witnesses. 
-    12. Lastly, I would like to lay on the Table minutes of the meetings of the ad hoc committee on land compensation.
+I will start with the submission from the Uganda Land Commission; they have a full report. 
+The Auditor-General’s report for the year ending June 2019. 
+File of one of the claimants under the supplementary, Namuli Nantalia. 
+We have another claimant, Twaha Lwakaana; 
+Another claimant is Busuulwa Julius;
+Benon Rwabukuru Asiimwe, Peninnah Kenkyeka, Catherine Kajwasya and others. That is the other file. 
+We also have Mugisa Geoffrey; 
+Another claimant is Stephen Peter Nagenda. 
+We have a file on Ndeeba land; that is the St Peter’s Church of Uganda. 
+We have a file on Lusanja land; that is Mr Kiconco. 
+We have a couple of documents which we put in one file as submission to the ad hoc committee by various witnesses. 
+Lastly, I would like to lay on the Table minutes of the meetings of the ad hoc committee on land compensation.
 
 I am going to try and save time. 
 
@@ -1657,9 +1657,9 @@ Relatedly, on 2 March 2021, the Speaker of Parliament relayed to the House for t
 
 The House was informed that compensations for land under supplementary expenditure schedule No. 4 for financial year 2020/2021 contained irregularities specifically relating to –
 
-    1. size of lands in question whose values were allegedly inflated; 
-    2. inflated quantum; and 
-    3. concerns that some of the beneficiaries had not received payments as alleged.
+size of lands in question whose values were allegedly inflated; 
+inflated quantum; and 
+concerns that some of the beneficiaries had not received payments as alleged.
 
 During the plenary sitting of 2 March 2021, the Minister of State for Finance, Planning and Economic Development, hon. Gabriel Ajedra, on the advice of the Speaker, tabled a motion seeking to withdraw specific items contained in the resolution of Parliament on the supplementary expenditure schedule No.4 to wit: a payment of Shs 3,803,500,000 of M/s Ephraim Enterprises for the compulsory acquisition of land for St Peter's Ndeeba Church of Uganda under vote 012, Ministry of Lands, Housing and Urban Development. The valuation was allegedly inflated by Shs 2 billion. 
 
@@ -1699,11 +1699,11 @@ Recommendation: The committee recommends that the claim by Mr Yisaka Lwakaana be
 
 The land is composed of three plots – 
 
-    i) Plot 243 Block 19, measuring 200 hectares, valued at Shs 1,975,000,000; vide VAL/187/274/01, dated 6 May 2019;
+Plot 243 Block 19, measuring 200 hectares, valued at Shs 1,975,000,000; vide VAL/187/274/01, dated 6 May 2019;
 
-    ii) Plot 244 Block 19, measuring 309.870 hectares, valued on 6 May 2019 at Shs 3,060,000,000; vide VAL/187/274/01;
+Plot 244 Block 19, measuring 309.870 hectares, valued on 6 May 2019 at Shs 3,060,000,000; vide VAL/187/274/01;
 
-    iii) Plot 49 Block 20, measuring 355.74 hectares valued at Shs 4,395,000,000.
+Plot 49 Block 20, measuring 355.74 hectares valued at Shs 4,395,000,000.
 
 The total claim for the three plots is Shs 9,430,000,000. Records at Uganda Land Commission indicate that the total amount paid as at 23 November 2020 was Shs 3,216,800,000, and the amount outstanding is Shs 6,213,200,000.
 
@@ -1787,13 +1787,13 @@ This is very important. We noted that almost all this land in question was alrea
 
 Recommendations 
 
-    (i) The commission should take note of Article 26(2) and the Supreme Court decision in the case of Uganda National Roads Authority v Irumba Asumani & Peter Magellah, Supreme Court Constitutional Appeal No.2 of 2014. In the said case, it was held that the Government should ensure prompt payment of fair and adequate compensation prior to the taking of possession or acquisition of the property. 
+The commission should take note of Article 26(2) and the Supreme Court decision in the case of Uganda National Roads Authority v Irumba Asumani & Peter Magellah, Supreme Court Constitutional Appeal No.2 of 2014. In the said case, it was held that the Government should ensure prompt payment of fair and adequate compensation prior to the taking of possession or acquisition of the property. 
 
-    (ii) The commission should consider halting receiving new applications and arrange to clear the backlog of the outstanding claims before taking on new claims, as per the moratorium issued by the Permanent Secretary/Secretary to the Treasury, Ministry of Finance, Planning and Economic Development on 13 January 2017. The letter is attached as Annex VI. 
+The commission should consider halting receiving new applications and arrange to clear the backlog of the outstanding claims before taking on new claims, as per the moratorium issued by the Permanent Secretary/Secretary to the Treasury, Ministry of Finance, Planning and Economic Development on 13 January 2017. The letter is attached as Annex VI. 
 
-    (iii) Government should consider obtaining money specifically for the purpose of clearing the backlog of claims for the Land Fund.
+Government should consider obtaining money specifically for the purpose of clearing the backlog of claims for the Land Fund.
 
-    (iv) The commission should establish and maintain a proper and accurate record of all its transactions. We found that they did not have records of claimants. When we asked, we were told that even if we gave them two months, they would still not give us the accurate records of claimants at the Uganda Land Commission. 
+The commission should establish and maintain a proper and accurate record of all its transactions. We found that they did not have records of claimants. When we asked, we were told that even if we gave them two months, they would still not give us the accurate records of claimants at the Uganda Land Commission. 
 
 Urgency of Compensation Under Supplementary Expenditure
 
@@ -1803,9 +1803,9 @@ Members were dismayed to find that provisions in the Public Finance Management A
 
 Recommendations
 
-    i) Parliament should reinstate the repealed subsections of the original Public Finance Management Act providing for the criteria for considering a supplementary appropriation.
+Parliament should reinstate the repealed subsections of the original Public Finance Management Act providing for the criteria for considering a supplementary appropriation.
 
-    ii) Parliament should amend its Rules of Procedure to assign the sectoral committees to look into supplementary appropriations for their sectors in detail, before reporting to the Budget Committee. 
+Parliament should amend its Rules of Procedure to assign the sectoral committees to look into supplementary appropriations for their sectors in detail, before reporting to the Budget Committee. 
 
 Initiation of Supplementary Expenditure 
 
@@ -1827,11 +1827,11 @@ The two supplementary expenditure initiation requests under the same schedule No
 
 Recommendations
 
-    i) The Uganda Land Commission should be left to carry out its mandate as established by law.
+The Uganda Land Commission should be left to carry out its mandate as established by law.
 
-    ii) The Minister of Lands, Housing and Urban Development should adopt a well-coordinated approach of initiating supplementary budgets, and in all cases the accounting officer should be involved.
+The Minister of Lands, Housing and Urban Development should adopt a well-coordinated approach of initiating supplementary budgets, and in all cases the accounting officer should be involved.
 
-    iii) The minister should take note of the requirement of the law and desist from usurping the powers of the accounting officer by initiating a supplementary expenditure without the officer’s input.
+The minister should take note of the requirement of the law and desist from usurping the powers of the accounting officer by initiating a supplementary expenditure without the officer’s input.
 
 Madam Speaker, we have the seventh claim under the supplementary. 
 
@@ -1888,11 +1888,11 @@ Members will read for themselves what we observed under this. We have listed a n
 
 Recommendations
  
-    (i) Government should continue to implement the decision of the Supreme Court of Uganda in the case of Uganda National Roads Authority v Irumba Asumani, which I had stated earlier, also indicating that Article 26 of the Constitution must be followed;
+Government should continue to implement the decision of the Supreme Court of Uganda in the case of Uganda National Roads Authority v Irumba Asumani, which I had stated earlier, also indicating that Article 26 of the Constitution must be followed;
 
-    (ii) The Uganda Land Commission should always be involved in the acquisition of all land by Government since it is the custodian of all Government land;
+The Uganda Land Commission should always be involved in the acquisition of all land by Government since it is the custodian of all Government land;
 
-    (iii) The Minister of Lands, Housing and Urban Development should develop and foster a harmonious working relationship with the Uganda Land Commission and operate in a co-ordinated manner in all the operations of the commission. 
+The Minister of Lands, Housing and Urban Development should develop and foster a harmonious working relationship with the Uganda Land Commission and operate in a co-ordinated manner in all the operations of the commission. 
 
 Other Matters Incidental to the Terms of Reference
 
@@ -1917,11 +1917,11 @@ I mentioned that titles have been transferred to the Uganda Land Commission.
 
 Recommendations
 
-    (i) The Uganda Land Commission should establish and maintain an inventory of all the lands acquired so far by Government;
+The Uganda Land Commission should establish and maintain an inventory of all the lands acquired so far by Government;
 
-    (ii) The Uganda Land Commission should allow able bibanja holders on already acquired land to process land titles for the land held by them;
+The Uganda Land Commission should allow able bibanja holders on already acquired land to process land titles for the land held by them;
 
-    (iii) The commission should sensitise the settlers on the land as to their status on the land acquired for them.
+The commission should sensitise the settlers on the land as to their status on the land acquired for them.
 
 3. 	Uganda Land Commission Bill/Staffing
 
@@ -1937,9 +1937,9 @@ The committee noted that the Ministry of Lands, Housing and Urban Development ru
 
 Recommendations
 
-    (i) The committee recommends that whereas the process of compulsory land acquisition should be initiated by the minister as provided for in the Act, the Uganda Land Commission should be involved ln the actual acquisition process right from the beginning since the commission is the custodian of all Government land;
+The committee recommends that whereas the process of compulsory land acquisition should be initiated by the minister as provided for in the Act, the Uganda Land Commission should be involved ln the actual acquisition process right from the beginning since the commission is the custodian of all Government land;
 
-    (ii) All monies meant for such acquisitions should be budgeted for by the Uganda Land Commission under the Uganda Land Fund and spent for that purpose in accordance with the commission’s mandate.
+All monies meant for such acquisitions should be budgeted for by the Uganda Land Commission under the Uganda Land Fund and spent for that purpose in accordance with the commission’s mandate.
 
 5. 	Commission of Inquiry into Land Related Matters 
 
@@ -1947,9 +1947,9 @@ The committee was informed that the Justice Bamugemereire commission of inquiry 
 
 Recommendations
 
-    (i) The Minister of Lands, Housing and Urban Development should expedite the process of tabling the white paper on the commission of inquiry’s investigations into land matters before Parliament for consideration, with a view to fast-tracking the implementation of the recommendations therein.
+The Minister of Lands, Housing and Urban Development should expedite the process of tabling the white paper on the commission of inquiry’s investigations into land matters before Parliament for consideration, with a view to fast-tracking the implementation of the recommendations therein.
 
-    (ii) The parliamentary Committee on Physical Infrastructure should take keen interest in the operations of Uganda Land Commission.
+The parliamentary Committee on Physical Infrastructure should take keen interest in the operations of Uganda Land Commission.
 
 6. 	Public Land Vis-À-Vis Government Land Under Uganda Land Commission 
 
@@ -1957,9 +1957,9 @@ The committee noted with concern that a lot of land being titled and sold to Gov
 
 Recommendations 
 
-    (i) The Uganda Land Commission should secure funds to title all public land and all pieces of land held by Government in trust for the citizens of Uganda.
+The Uganda Land Commission should secure funds to title all public land and all pieces of land held by Government in trust for the citizens of Uganda.
 
-    (ii) The Uganda land Commission should maintain a clear databank of all the public land and land under its custody.
+The Uganda land Commission should maintain a clear databank of all the public land and land under its custody.
 
 Conclusion
 
@@ -2243,13 +2243,13 @@ The committee undertook the visit to Kenya as fact finding on the status of the 
 
 The committee was guided by the following terms of reference:
 
-    1. To establish the condition and status of Uganda's properties in Nairobi, Mombasa, and Kisumu;
+To establish the condition and status of Uganda's properties in Nairobi, Mombasa, and Kisumu;
 
-    2.  To assess the management of Uganda's properties in Kenya;
+ To assess the management of Uganda's properties in Kenya;
 
-    3. To assess and establish the likely impact of the Kenya Land Amendment Law, 2016 on the ownership of Uganda's properties in Kenya;
+To assess and establish the likely impact of the Kenya Land Amendment Law, 2016 on the ownership of Uganda's properties in Kenya;
 
-    4.  To examine any other matters incidental thereto.
+ To examine any other matters incidental thereto.
 
 On the methodology, we had meetings but I will not go into the details and who we met. We had meetings, physical visits to the properties especially in Mombasa, Nairobi and Kisumu.
 
@@ -2335,7 +2335,7 @@ Under the Uganda High Commission in Nairobi, I would not want to go into those d
 
 Let me go to page 11, the mission focused on minimal maintenance and refurbishment of the three Ugandan properties in Nairobi. However, all the three properties require complete overhaul to upgrade them to modern buildings so as to collect more revenue and portray a good Ugandan image abroad. The three properties that the mission is managing:
 
-    i) The Uganda House
+The Uganda House
 
 The committee observed that Uganda House, which is a commercial four storeyed building, owned by the Government of Uganda was built in the early 1960s and is now an eyesore in the central business district of Nairobi due its dilapidated state and because of such a state, the High Commission in Nairobi thought it wise to carry out major renovations of the structure, since it had been condemned by Kenyan authorities; being in a deplorable state and causing diplomatic embarrassment to the nation.
 
@@ -2758,11 +2758,11 @@ Madam Speaker, I want to assure the House that the NRM Government will continue 
 
 During the 10th Parliament, which commenced on 19 May, 2016, we have been able together to achieve the following on the side of Government business:
 
-    1. 118 Bills were passed and enacted. (Applause) This is a big victory for this Parliament.
+118 Bills were passed and enacted. (Applause) This is a big victory for this Parliament.
 
-    2. Resolutions to the tune of 75 in number were passed to authorise Government to borrow. (Interjections) Yes we should keep counting. Resolutions to the tune of 47 were passed to pay tribute and then;
+Resolutions to the tune of 75 in number were passed to authorise Government to borrow. (Interjections) Yes we should keep counting. Resolutions to the tune of 47 were passed to pay tribute and then;
 
-    3. 349 Ministerial statements were considered. Urgent questions, which were responded to were 653, questions for oral answers that were responded to are 49. Questions responded to during the Prime Minister’s Question Time were 858.
+349 Ministerial statements were considered. Urgent questions, which were responded to were 653, questions for oral answers that were responded to are 49. Questions responded to during the Prime Minister’s Question Time were 858.
 
 Madam Speaker and honourable colleagues, I once again thank you for according me all the necessary cooperation that enabled me and the entire cabinet to deliver on our mandate. Thank you. (Applause)
 
@@ -2813,7 +2813,6 @@ GIVEN UNDER my hand at Parliament House Kampala, this 11th day of May 2021, Rebe
 (The House rose at 8.55 p.m. and was adjourned sine die.)
 
 Thus concluded the proceedings of the 10th Parliament of the Republic of Uganda.
-
 
 
 

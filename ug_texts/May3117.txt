@@ -1,4 +1,4 @@
-﻿
+
 
 Wednesday, 31 May 2017
 
@@ -416,9 +416,9 @@ Background
 
 The Development Response to Displacement Impacts Project in the Horn of Africa is a regional project that seeks to address challenges being faced by refugees and host communities in three refugee-hosting countries of Uganda, Djibouti and Ethiopia in the first phase. The three countries were chosen for their significant forced displacement challenges: 
 
-    1. Uganda has a very progressive refugee policy and is a favoured asylum destination.
-    2. Ethiopia is host to the largest number of refugees in Africa. 
-    3. Djibouti has a major problem with significant migrant inflows alongside refugees. 
+Uganda has a very progressive refugee policy and is a favoured asylum destination.
+Ethiopia is host to the largest number of refugees in Africa. 
+Djibouti has a major problem with significant migrant inflows alongside refugees. 
 
 Mr Speaker, In Uganda, refugee camps are in relatively underdeveloped and underserved areas compared to the rest of the country. The refugee hosting communities have a precarious socioeconomic situation plagued by food insecurity, limited access to basic social services and economic infrastructure, poor livelihood opportunities and degraded natural resource base. 
 
@@ -691,11 +691,11 @@ Budget strategy for the FY 2017/18
 
 The committee notes that the budget strategy for FY 2017/18 will focus on the following key interventions:
 
-    a) Increasing agricultural production and productivity for food security and strategic exports.
-    b) Enhancing private sector development for export promotion and import substitution.
-    c) Intensifying energy and transport infrastructure development to lower production costs.
-    d) Completing oil related infrastructure development to enable commercialisation and the first oil output in 2020.
-    e) Increasing affordable long term credit to finance private sector investment.
+Increasing agricultural production and productivity for food security and strategic exports.
+Enhancing private sector development for export promotion and import substitution.
+Intensifying energy and transport infrastructure development to lower production costs.
+Completing oil related infrastructure development to enable commercialisation and the first oil output in 2020.
+Increasing affordable long term credit to finance private sector investment.
 f) 	Improving service delivery through human capital development. 
 g) 	Intensifying the fight against corruption.
 h) 	Boosting domestic revenue mobilisation.  
@@ -715,13 +715,13 @@ Pursuant to section 5 of the Public Finance Management Act, Parliament approved 
 
 The charter specified the following measurable fiscal objectives: 
 
-    a) The Government fiscal balance, including grants, is reduced to deficit of not greater than three per cent of GDP by Financial Year 2020/2021;
-    b) Public debt in net present value terms is maintained below 50 per cent of GDP of which the net present value of external debt is maintained below 30 per cent of GDP and a net value of domestic debt is maintained below 20 per cent of GDP. 
+The Government fiscal balance, including grants, is reduced to deficit of not greater than three per cent of GDP by Financial Year 2020/2021;
+Public debt in net present value terms is maintained below 50 per cent of GDP of which the net present value of external debt is maintained below 30 per cent of GDP and a net value of domestic debt is maintained below 20 per cent of GDP. 
 
 Subject to section 13 (6) of the Public Finance Management Act, 2015, the committee assessed the fiscal measurable objectives of the charter against the proposed annual Budget for the Financial Year 2017/2018 and made the following observations:
 
-    a) The overall fiscal deficit is projected to rise to 5.1 per cent of GDP in Financial Year 2017/2018 from 4.6 per cent in Financial Year 2016/2017 but projected to decrease to two per cent by Financial Year 2021/2022. 
-    b) The public debt in the net present value terms is projected at 31.19 per cent of GDP in 2017/2018 of which NPV of external debt is 18.59 per cent of GDP and NPV of domestic debt is 12.6 per cent of GDP. 
+The overall fiscal deficit is projected to rise to 5.1 per cent of GDP in Financial Year 2017/2018 from 4.6 per cent in Financial Year 2016/2017 but projected to decrease to two per cent by Financial Year 2021/2022. 
+The public debt in the net present value terms is projected at 31.19 per cent of GDP in 2017/2018 of which NPV of external debt is 18.59 per cent of GDP and NPV of domestic debt is 12.6 per cent of GDP. 
 
 The committee was able to confirm that the annual Budget for 2017/2018 is consistent with the Charter of Fiscal Responsibility as required by section 13(6) of the Public Finance Management Act. 
 
@@ -741,16 +741,16 @@ The committee notes that most of the MDAs do not have performance indicators ali
 
 The committee recommends:
 
-    a) The accounting officers, who exhibited a poor performance in the compliance assessment, should be given warning letters from the Permanent Secretary/Secretary to Treasury. 
-    b) Government should strengthen planning units and inter-agency coordination to ensure harmonised targets that can be monitored by Parliament and other oversight agencies are well-established.  
-    c) NPA should spearhead an integrated planning approach to avoid MDAs fighting for projects.
-    d) Government explores the possibility of acquiring land for huge infrastructural development to avoid MDAs increased budgetary resources to cater for land compensation. Government should suspend disjointed land acquisitions for different projects on the same land, as evidence has it now.
-    e) Government should establish a metropolitan planning authority to ensure harmonised planning for the city and the neighbouring districts of Wakiso, Mukono, Mpigi and Luweero, among others.
-    f) NPA should issue clear guidelines to assist Government sectors to formulate strategic plans. 
-    g) All MDAs without strategic plans should be given one last opportunity this financial year to formulate strategic plans that are aligned to the NDP. 
-    h) Next financial year, all sectors and MDAs, which will have failed to produce strategic plans, will face strong sanctions including non-approval of their annual budgets.
-    i) All non-complaint MDAs will be treated in accordance with sections 78, 79 and 45(2) of the Public Finance Management Act, 2015.
-    j) Next financial year, names of accounting officers who will have failed to comply with the Public Finance Management Act, 2015 shall not be allowed to manage public funds. 
+The accounting officers, who exhibited a poor performance in the compliance assessment, should be given warning letters from the Permanent Secretary/Secretary to Treasury. 
+Government should strengthen planning units and inter-agency coordination to ensure harmonised targets that can be monitored by Parliament and other oversight agencies are well-established.  
+NPA should spearhead an integrated planning approach to avoid MDAs fighting for projects.
+Government explores the possibility of acquiring land for huge infrastructural development to avoid MDAs increased budgetary resources to cater for land compensation. Government should suspend disjointed land acquisitions for different projects on the same land, as evidence has it now.
+Government should establish a metropolitan planning authority to ensure harmonised planning for the city and the neighbouring districts of Wakiso, Mukono, Mpigi and Luweero, among others.
+NPA should issue clear guidelines to assist Government sectors to formulate strategic plans. 
+All MDAs without strategic plans should be given one last opportunity this financial year to formulate strategic plans that are aligned to the NDP. 
+Next financial year, all sectors and MDAs, which will have failed to produce strategic plans, will face strong sanctions including non-approval of their annual budgets.
+All non-complaint MDAs will be treated in accordance with sections 78, 79 and 45(2) of the Public Finance Management Act, 2015.
+Next financial year, names of accounting officers who will have failed to comply with the Public Finance Management Act, 2015 shall not be allowed to manage public funds. 
 
 Compliance of the ministerial policy statements to Gender and Equity Requirement
 The committee notes that some accounting officers have not fully appreciated the requirements under the Public Finance Management Act, 2015. This perhaps explains why some of the MDAs scored poorly with regard to gender and equity issues.
@@ -781,14 +781,14 @@ However, according to the Medium Term Expenditure Framework, the total developme
 
 The committee notes that the shortfall mostly affects the following sectors:
 
-    (a) Works and Transport - Shs 1.048 trillion shortfall
-    (b) Security - Shs 628 billion shortfall
-    (c) Energy and Mineral Development Sector - a shortfall of Shs 517 billion
-    (d) Social Development Sector - Shs 212.66 billion
+Works and Transport - Shs 1.048 trillion shortfall
+Security - Shs 628 billion shortfall
+Energy and Mineral Development Sector - a shortfall of Shs 517 billion
+Social Development Sector - Shs 212.66 billion
 
 The committee notes that there are some sectors that were allocated resources in the MTEF beyond the multi-year commitments for FY 2017/18.  These sectors include:
-    (a) Health Sector - Shs 477 billion
-    (b) Public Sector Management - Shs 160.3 billion
+Health Sector - Shs 477 billion
+Public Sector Management - Shs 160.3 billion
 
 The committee recommends that Government should reconcile the multi-year commitments and budget allocations for FY 2017/18, before Parliament pronounces itself to the multi-year commitments of Government, as required under the Public Finance Management Act, 2015. 
  
@@ -814,10 +814,10 @@ Challenges identified with the Programme Based Budgeting (PBB) tool
 This is a new tool, which the ministry has introduced. While Parliament observed during the BFP processing that the upgrading of the Government budgeting system from the Output Budgeting Tool (OBT) to Programme Based Budgeting (PBB) had been rushed through and that there was no proper policy guidance to MDAs, this has been confirmed during the scrutiny of the ministerial policy statements. 
 
 The committee noted that the current PBB framework will not be very effective because- 
-        a) most of the key outcome indicators lacked baseline information and the projections lacked means of verification;  
-        b) the outcome indicators have not been properly identified and agreed upon by the various multi-contributors (MDAs) to a single outcome;
-        c) there is no institution of Government that has been identified to monitor and report on the performance of the outcome indicators and the system does not capture such an arrangement;
-        d) while the outcomes are long term and their assessment has to be handled in that perspective, the annual budgets are short term. Government has to maintain the planning, approval, execution and assessment framework for the short term outputs that eventually feed into the long term outcomes.
+most of the key outcome indicators lacked baseline information and the projections lacked means of verification;  
+the outcome indicators have not been properly identified and agreed upon by the various multi-contributors (MDAs) to a single outcome;
+there is no institution of Government that has been identified to monitor and report on the performance of the outcome indicators and the system does not capture such an arrangement;
+while the outcomes are long term and their assessment has to be handled in that perspective, the annual budgets are short term. Government has to maintain the planning, approval, execution and assessment framework for the short term outputs that eventually feed into the long term outcomes.
 
 The committee recommends that these observations should be acted upon as a matter of urgency to ensure adequate monitoring of Government programmes.
 
@@ -904,15 +904,15 @@ MR LUGOLOOBI: I am about to do that, Mr Speaker.
 THE DEPUTY SPEAKER: Then you are much protected. 
 
 MR LUGOLOOBI: The committee recommends that Government takes measures to re-structure the budget as well as lowering budget ceilings, where possible.  For instance -
-    a) by reviewing some of the major construction projects such as developing the cheaper marine transport instead of the costly Standard Gauge Railway (SGR);
-    b) focusing on tarmacking priority roads with highest returns on investment for example tourism roads, oil/mineral roads and major agricultural roads;
-    c) cutting back on expenditure in public administration;
-    d) undertaking a policy reversal to allow cost-sharing in education and health services; 
-    e) reducing unit costs of Government scholarships and match the cost with unit cost of student loan scheme, thereby releasing resources for more students;
-    f) reducing national priorities and focusing on a few that Government has the capacity to support and to generate more economic dividends; 
-    g) scale down and eventually discouraging domestic borrowing;
-    h) creating an agricultural bank to effectively intermediate and support private sector growth, as the current arrangement through the agricultural financing facility of commercial banks is not effective; and
-    i) no new loan request should be approved by Parliament for any MDA whose total absorption of loans is less than 50 per cent. This will curb poor preparations and funding of non-priority development projects.
+by reviewing some of the major construction projects such as developing the cheaper marine transport instead of the costly Standard Gauge Railway (SGR);
+focusing on tarmacking priority roads with highest returns on investment for example tourism roads, oil/mineral roads and major agricultural roads;
+cutting back on expenditure in public administration;
+undertaking a policy reversal to allow cost-sharing in education and health services; 
+reducing unit costs of Government scholarships and match the cost with unit cost of student loan scheme, thereby releasing resources for more students;
+reducing national priorities and focusing on a few that Government has the capacity to support and to generate more economic dividends; 
+scale down and eventually discouraging domestic borrowing;
+creating an agricultural bank to effectively intermediate and support private sector growth, as the current arrangement through the agricultural financing facility of commercial banks is not effective; and
+no new loan request should be approved by Parliament for any MDA whose total absorption of loans is less than 50 per cent. This will curb poor preparations and funding of non-priority development projects.
 
 The high interest payments
 
@@ -928,11 +928,11 @@ The committee notes with concern a significant decline in economic activity acro
 
 The committee recommends that Government should – 
 
-    a) adopt a quantitative easing paradigm in order to provide the necessary stimuli in the economy that will boost aggregate demand;  
-    b) apply all measures available to lower interest rates in order to support private sector investment;  
-    c) explore the crop financing intervention and buffer-stocking in order to stimulate increased agricultural output and, therefore, employment;
-    d) make deliberate and direct interventions to boost industrialisation by supporting Small and Medium-sized Enterprises (SMEs), fast-track the boosting of local content in big procurements such as roads, undertake a special export promotion drive by supporting export zones, embark on massive export of labour especially the youth in order to stimulate the economy; and 
-    e) set up a special taskforce of experts to advise Government on economic stimulus. 
+adopt a quantitative easing paradigm in order to provide the necessary stimuli in the economy that will boost aggregate demand;  
+apply all measures available to lower interest rates in order to support private sector investment;  
+explore the crop financing intervention and buffer-stocking in order to stimulate increased agricultural output and, therefore, employment;
+make deliberate and direct interventions to boost industrialisation by supporting Small and Medium-sized Enterprises (SMEs), fast-track the boosting of local content in big procurements such as roads, undertake a special export promotion drive by supporting export zones, embark on massive export of labour especially the youth in order to stimulate the economy; and 
+set up a special taskforce of experts to advise Government on economic stimulus. 
 
 The Prime Minister’s Delivery Unit (PMDU)
 
@@ -965,16 +965,16 @@ MS CECILIA OGWAL (FDC, Woman Representative, Dokolo): Thank you, Mr Speaker. I w
 
 Mr Speaker, I am presenting the opinion based on Rule 194, of the Rule of Procedure of Parliament of Uganda. Our areas of disagreement include:
 
-    1. The Treasury Operation,  which takes a lot of resources 
-    2. Oil Roads Allocation
-    3. State House Scholarship  Scheme
-    4. Purchase of cattle for slaughtering
-    5. Kalangala Infrastructure Services 
-    6. Auditing of Public Private Partnerships 
-    7. Construction and upgrading of health facilities 
-    8.  Operations of the Uganda National  Cultural Centre
-    9.  Presidential Initiative on Banana and Industrial Development (PIBID, and
-    10. New Ministry of Kampala Capital City and Metropolitan Affairs.
+The Treasury Operation,  which takes a lot of resources 
+Oil Roads Allocation
+State House Scholarship  Scheme
+Purchase of cattle for slaughtering
+Kalangala Infrastructure Services 
+Auditing of Public Private Partnerships 
+Construction and upgrading of health facilities 
+ Operations of the Uganda National  Cultural Centre
+ Presidential Initiative on Banana and Industrial Development (PIBID, and
+New Ministry of Kampala Capital City and Metropolitan Affairs.
 
 Mr Speaker, I would like to start with the Treasury Operations. Vote 140 for the Treasury Operations is charged with the mandate of effectively and efficiently managing Government debt obligations, investments and contingency fund. 
 
@@ -995,9 +995,9 @@ Mr Speaker, in this financial year, Government seeks to borrow funds worth Shs 4
 Effort was undertaken by the committee leadership and individual members to avail the Ministry of Finance, Planning and Economic Development an opportunity to come and clarify on this illegal irregularity. However, the finance minister and his team failed to attend any of the three meetings set aside to meet the committee.  Mr Speaker, it is in that regard that we decided to come up with this minority report to express the concerns of the Members of the budget committee who disagreed with the content in the main report.
 
 Excessive domestic borrowing crowds out the private sector and contributes to the high prevailing commercial bank rates. High lending rates constrain private sector growth and hence, strangulate economic development. That is why, the Auditor-General, in the report on the Treasury Operations for the financial year, which ended on the 30 June 2016, confirmed this position that highlights the following:
-    a) Ever increasing cost of domestic borrowing was crowding out the private sector 
-    b)  Under section 2.3(3) of the Public Debt Management Framework 2013, Government of Uganda aims to ensure that the ratio of total normal interest payments on domestic and external debt combined to total Government revenue, excluding grants does not exceed 15 per cent, and that interest shall continue to be fixed. To the contrary, interest payments revealed that  in the financial year 2015/2016, the debt office was in breach of its debt management policy when finance interests repayments reached 16 per cent, of total Government revenue  excluding grants; and 
-    c) Treasury operation lacks investment policy, which otherwise, would have assisted in guiding its operation. This is of paramount importance to this Parliament. 
+Ever increasing cost of domestic borrowing was crowding out the private sector 
+ Under section 2.3(3) of the Public Debt Management Framework 2013, Government of Uganda aims to ensure that the ratio of total normal interest payments on domestic and external debt combined to total Government revenue, excluding grants does not exceed 15 per cent, and that interest shall continue to be fixed. To the contrary, interest payments revealed that  in the financial year 2015/2016, the debt office was in breach of its debt management policy when finance interests repayments reached 16 per cent, of total Government revenue  excluding grants; and 
+Treasury operation lacks investment policy, which otherwise, would have assisted in guiding its operation. This is of paramount importance to this Parliament. 
 
 Our recommendation, Mr Speaker, is that Parliament should reject the approval of Shs 3.2 trillion, which is above the legal 10 per cent threshold of the domestic revenue of Government. This will ensure compliance to Section 36 (5) (a) of the Public Finance Management Act, as amended. Unless otherwise, the Ministry of Finance, Planning and Economic Development wants Parliament to endorse it to continue operating illegally, which I doubt this institution would agree to.
 
@@ -1595,7 +1595,7 @@ THE DEPUTY CHAIRPERSON: Honourable members, it is against the rules of this Hous
 
 GEN. (RTD) MOSES ALI: Mr Chairperson, I am making proposals based on what has happened since we started this debate. 
 
-First, we received two reports; the main and the minority report, each with its own proposals recommending cuts here and there. I think before we reach the stage of cutting, we should vote on the two reports then from there we can move accordingly otherwise, I do not see - [Members rose­_]
+First, we received two reports; the main and the minority report, each with its own proposals recommending cuts here and there. I think before we reach the stage of cutting, we should vote on the two reports then from there we can move accordingly otherwise, I do not see - [Members rose_]
 
 THE DEPUTY CHAIRPERSON: Honourable members, the question I proposed for the vote was based on procedure. I explained that there is a gap in the rules on how to handle the new situation brought by the Public Finance Management Act. In the past, there was another procedure, which is still in the rules. We had been discussing the general framework of what had been proposed. 
 
@@ -1649,10 +1649,10 @@ I would like to move an amendment in the figures in the report on page 49. Vote 
 
 Mr Chairperson, given those figures, the summary that we should now have in the conclusion on page 46 of the majority report.  We amend those figures as follows – and you will see that Shs 25 billion factor in these figures. 
 
-    1. Total Recurrent Budget – Shs 7,605,606,623,000. That is the new total Recurrent Budget. 
-    2. The new Total Development Budget – Shs 11,427,609,750,000
-    3. Statutory Expenditure – Shs 9,975,326,836,000, remains the same.
-    4. Grand Total – Shs 29,008,543,209,000 has also remained the same.
+Total Recurrent Budget – Shs 7,605,606,623,000. That is the new total Recurrent Budget. 
+The new Total Development Budget – Shs 11,427,609,750,000
+Statutory Expenditure – Shs 9,975,326,836,000, remains the same.
+Grand Total – Shs 29,008,543,209,000 has also remained the same.
 
 Thank you very much. Those are the amendments  
 

@@ -1,4 +1,4 @@
-﻿
+
 
 Thursday, 4 October 2018
 
@@ -364,9 +364,9 @@ The guidelines are in tandem with the following laws and policies: the Employmen
 
 Mr Speaker, below are some of the specific sections that deal with job insecurity in private schools and institutions. Section 5 (8) of the staff employment guidelines stipulates that the recruited staff should be given appointment letters, duly signed by the chairperson of the board of governors, and ensure that the recruited staff sign contracts in accordance with section 59 of the Employment Act, 2006. The contracts should clearly indicate the following:
 
-    a) Duration of the contract with specific dates;
-    b) Type of employment/job;
-    c) Salary and the related benefits to the member of staff and   the means by which they are calculated – (Interruption)
+Duration of the contract with specific dates;
+Type of employment/job;
+Salary and the related benefits to the member of staff and   the means by which they are calculated – (Interruption)
 
 MR SSEWUNGU: Thank you, Mr Speaker. I would like to thank the minister for her submission. Actually, the responses of all the ministers who came before her were uploaded on the iPads. She has a number of answers to questions that were raised but nothing is on the iPads and yet they are pertinent. Therefore, are we proceeding well? I am a member of the Committee on Education and Sports and we take much interest in what she is submitting.
 
@@ -926,10 +926,10 @@ DESIGNATION OF MEMBERS TO SECTORAL AND STANDING COMMITTEES
 5.33
 THE GOVERNMENT CHIEF WHIP (Ms Ruth Nankabirwa): Mr Speaker, I would like to use rule 184(1), 157(2) to designate the following Members of Parliament who joined us later after I had designated the rest:
 
-    a) Hon. Abrahams Lokii from Kotido Municipality will be on the sectoral committee of defence and internal affairs and serve on the standing committee of rules and privileges.
-    b) Hon. Suleiman Hashim, Nebbi Municipality will serve on sectoral committee on foreign affairs and standing committee on rules, privilege and discipline.
-    c) Hon. Bishanga Rwaburindora Tarsis, Ibanda Municipality will serve on the Committee on Agriculture and Animal Husbandry and government assurance as standing committee.
-    d) Hon. Alex Byarugaba, who requested to be designated from the Committee on Science and Technology to Legal and Parliamentary Affairs. Mr Speaker, I beg to submit.
+Hon. Abrahams Lokii from Kotido Municipality will be on the sectoral committee of defence and internal affairs and serve on the standing committee of rules and privileges.
+Hon. Suleiman Hashim, Nebbi Municipality will serve on sectoral committee on foreign affairs and standing committee on rules, privilege and discipline.
+Hon. Bishanga Rwaburindora Tarsis, Ibanda Municipality will serve on the Committee on Agriculture and Animal Husbandry and government assurance as standing committee.
+Hon. Alex Byarugaba, who requested to be designated from the Committee on Science and Technology to Legal and Parliamentary Affairs. Mr Speaker, I beg to submit.
 
 THE DEPUTY SPEAKER: Honourable members, I noted that the Government Chief Whip decided to do both standing and sectoral committees. I will put the question to the first category of sectoral committee to the names that have been designated to sectoral committee. I put the question.
 
@@ -1055,10 +1055,10 @@ Observation and Recommendation
 
 The committee observed that –
 
-    i. the total Supplementary Appropriation Bill amounts to Shs 960,733,828,180 of which Shs 345,320,262,223 is recurrent expenditure and Shs 615,413,565,955 is development expenditure;
-    ii. Parliament approved supplementary expenditure for Financial Year 2016/17 amounting to Shs 960,779,006,917 under two separate schedules; schedule No. 1 and No.2. Schedule No.1 amounted to Shs 185,365,041,608 and schedule No.2 amounted to Shs 775,4I3,965,309;
-    iii. the Supplementary Appropriation Bill (No.2), 2017 is less than what Parliament approved by Shs 45,178,737;
-    iv. Parliament supplied Shs 3,662,977,072 for projected salary shortfalls to cover districts which had not been included in the schedule pending verification. 
+the total Supplementary Appropriation Bill amounts to Shs 960,733,828,180 of which Shs 345,320,262,223 is recurrent expenditure and Shs 615,413,565,955 is development expenditure;
+Parliament approved supplementary expenditure for Financial Year 2016/17 amounting to Shs 960,779,006,917 under two separate schedules; schedule No. 1 and No.2. Schedule No.1 amounted to Shs 185,365,041,608 and schedule No.2 amounted to Shs 775,4I3,965,309;
+the Supplementary Appropriation Bill (No.2), 2017 is less than what Parliament approved by Shs 45,178,737;
+Parliament supplied Shs 3,662,977,072 for projected salary shortfalls to cover districts which had not been included in the schedule pending verification. 
 
 The committee has noted that Government only utilised Shs 831,713,857 which was allocated as follows:
 Vote 571 – Budaka District – Wage allocation of Shs 182,417,538
@@ -1070,28 +1070,28 @@ This allocation has left a balance of Shs 2,786,084,420 to be offset from what w
 
 Mr Speaker, based on the above, we have proposed amendments in the Bill as follows:
 
-    i. Amend by substituting the words “Shs 000” in column 2 and row three of the Schedule with the words "Shs” on all pages of the Bill.
+Amend by substituting the words “Shs 000” in column 2 and row three of the Schedule with the words "Shs” on all pages of the Bill.
 
 The justification is that the inclusion of “000” gives different amounts from the ones being supplied.
 
-    ii. Amend the amounts in the following votes with amounts approved by Parliament as reflected in the table below.
+Amend the amounts in the following votes with amounts approved by Parliament as reflected in the table below.
 
 The figures are there for everybody to see. I will read these figures at an appropriate time when we go to the committee stage. The justification for this amendment has also been reflected.
 
-    iii. Substitute the word “Bugiri” appearing at the end of the sentence in column two, on page 8, under vote 505 to read “Bundibugyo”
+Substitute the word “Bugiri” appearing at the end of the sentence in column two, on page 8, under vote 505 to read “Bundibugyo”
 
 The justification is to correct an error.
 
-    iv. Delete Vote 113 appearing in column one, on page 5, of the Bill pertaining to recurrent expenditure on salaries and other expenses for Uganda National Road Authority for the financial year 2016/2017 to a tune of Shs 466,115,000.
+Delete Vote 113 appearing in column one, on page 5, of the Bill pertaining to recurrent expenditure on salaries and other expenses for Uganda National Road Authority for the financial year 2016/2017 to a tune of Shs 466,115,000.
 
 The justification is that these amounts were not supplied in the original report.
 
-    v. Substitute the word “Iganga” appearing at the end of the sentence in column 1, on page 19, under vote 776 to read “Busia”
+Substitute the word “Iganga” appearing at the end of the sentence in column 1, on page 19, under vote 776 to read “Busia”
 
 The justification is to correct an error.
 
-    vi. Amend the long title to read “A sum of nine hundred fifty seven billion, nine hundred ninety two million, nine hundred twenty two thousand, four hundred ninety seven shillings” in substitution of “a sum of nine hundred and sixty billion, seven hundred and thirty three million, eight hundred and twenty eight thousand, one hundred eighty shillings.”
-    vii. Amend the total in column two, on page 21, to read “957, 992,922,497” instead of “960,733,828,180”
+Amend the long title to read “A sum of nine hundred fifty seven billion, nine hundred ninety two million, nine hundred twenty two thousand, four hundred ninety seven shillings” in substitution of “a sum of nine hundred and sixty billion, seven hundred and thirty three million, eight hundred and twenty eight thousand, one hundred eighty shillings.”
+Amend the total in column two, on page 21, to read “957, 992,922,497” instead of “960,733,828,180”
 
 The justification is to reflect the right amount to be supplied.
 
@@ -1339,4 +1339,3 @@ Best wishes for independence; those of you, who are traveling, travel well. Howe
 This House adjourned to Tuesday, 6 November 2018 at 2 o’clock. House adjourned.
 
 (House rose at 6.28 p.m. and adjourned until Tuesday 6, November 2018 at 2.00 p.m.) 
-

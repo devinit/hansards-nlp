@@ -1,4 +1,4 @@
-﻿
+
 
 PARLIAMENT OF UGANDA
 
@@ -88,27 +88,27 @@ THE SPEAKER: Is it seconded? It is seconded by Hon. Silwany, MP for Aruu, Hon. A
 
 MR MUSASIZI: Madam Speaker, the Income Tax (Amendment) Bill, 2022 intends to amend The Income Tax Act, Cap. 340, to -
 
-    i) substitute the definition of “beneficial owner”; 
+substitute the definition of “beneficial owner”; 
 
-    ii) revise the definition of “exempt organisation”; 
+revise the definition of “exempt organisation”; 
 
-    iii) revise the tax rate applicable to individuals and companies for the purpose of rental income;
+revise the tax rate applicable to individuals and companies for the purpose of rental income;
 
-    iv) provide for a ceiling on deductible expenses on rental income for non-individuals;
+provide for a ceiling on deductible expenses on rental income for non-individuals;
 
-    v) provide for the extension of the tax holiday for the Bujagali Hydropower Project for five years;
+provide for the extension of the tax holiday for the Bujagali Hydropower Project for five years;
 
-    vi) provide for the harmonisation of the scope of qualifying sectors for tax incentives and related investment thresholds under The Income Tax Act, Cap. 340, The Value Added Tax Act, Cap. 349, Excise Duty Act, 2014 and Stamp Duty Act, 2014; 
+provide for the harmonisation of the scope of qualifying sectors for tax incentives and related investment thresholds under The Income Tax Act, Cap. 340, The Value Added Tax Act, Cap. 349, Excise Duty Act, 2014 and Stamp Duty Act, 2014; 
 
-    vii) provide for exclusion of income from transportation of cargo embarking outside Uganda; 
+provide for exclusion of income from transportation of cargo embarking outside Uganda; 
 
-    viii) clarify the apportionment of income qualifying for exemption under the 10-year tax holiday; 
+clarify the apportionment of income qualifying for exemption under the 10-year tax holiday; 
 
-    ix) provide for the definition of the business asset for purposes of section 118B;
+provide for the definition of the business asset for purposes of section 118B;
 
-    x) provide for International Development Law Organisation as a listed institution, and
+provide for International Development Law Organisation as a listed institution, and
 
-    xi) provide for other related matters.
+provide for other related matters.
 
 Madam Speaker, we formally tabled this Bill before the Committee on Finance, Planning and Economic Development. I understand they have scrutinised the Bill and are ready to report back to the House.
 
@@ -198,13 +198,13 @@ Widening the tax base
 
 The committee observed that there is an urgent need to widen the tax base through measures that stimulate growth in the economy. The strategic areas are as follows:
 
-    i) Enactment of the National Local Content Bill; 
+Enactment of the National Local Content Bill; 
 
-    ii) Enactment of the Real Estates Agency Bill. You can read the details, honourable members;
+Enactment of the Real Estates Agency Bill. You can read the details, honourable members;
 
-    iii) Reduction in illicit trade; and
+Reduction in illicit trade; and
 
-    iv) The committee noted that customers always shift to cheap smuggled and informal market products.
+The committee noted that customers always shift to cheap smuggled and informal market products.
 
 Recommendations
 
@@ -308,9 +308,9 @@ g) The return on equity for M/s Bujagali Energy Limited is 19 per cent per annum
 
 Recommendations
 
-    1. The committee was not, therefore, satisfied with the explanations justifying another five-year corporate income tax waiver for M/s Bujagali Energy Ltd. The committee is, therefore, recommending that the request be declined, because the cost has been exaggerated by M/s Bujagali Energy Limited – (Applause) – Why clap? I have not completed the report. Your people are hearing you clap for higher tariffs.
+The committee was not, therefore, satisfied with the explanations justifying another five-year corporate income tax waiver for M/s Bujagali Energy Ltd. The committee is, therefore, recommending that the request be declined, because the cost has been exaggerated by M/s Bujagali Energy Limited – (Applause) – Why clap? I have not completed the report. Your people are hearing you clap for higher tariffs.
 
-    2. The committee recommends that the Auditor-General of Uganda carries out a forensic audit on Bujagali Energy Limited to establish the excess money collected as a result of overpricing for tariffs and the same be remitted to the Consolidated Fund, among others.
+The committee recommends that the Auditor-General of Uganda carries out a forensic audit on Bujagali Energy Limited to establish the excess money collected as a result of overpricing for tariffs and the same be remitted to the Consolidated Fund, among others.
 
 4.7) Clause 7 - Amendment of section 89GB of the principal Act - Treatment of an intangible asset as a depreciable cost with a 100 per cent rate.
 
@@ -517,29 +517,29 @@ The committee further noted that Digital Tax Stamp increases the cost of exports
 
 Some of the benefits include:
 
-    1. Improvement in the capacity of URA to track and trace the capabilities of taxpayers As a means of improving compliance.
+Improvement in the capacity of URA to track and trace the capabilities of taxpayers As a means of improving compliance.
 
-    2. The increased production of real-time data.
+The increased production of real-time data.
 
-    3. The empowerment of consumers.
+The empowerment of consumers.
 
-    4. The improved protection of legitimate businesses against unfair competition.
+The improved protection of legitimate businesses against unfair competition.
 
-    5. The protection of the consumers against harmful products.
+The protection of the consumers against harmful products.
 
-    6. Improved prevention of illicit production and counterfeiting.
+Improved prevention of illicit production and counterfeiting.
 
-    7. Improved real-time tax accounting and reconciliation for tax stamps. 
+Improved real-time tax accounting and reconciliation for tax stamps. 
 
-    8. Real-time enforcement and prosecution.
+Real-time enforcement and prosecution.
 
 The committee, therefore, recommends:
 
-    1. That Digital Tax Stamp (DTS) payments be restructured to consider the increased excise duty collections to ensure Government and the country benefit commensurately from the solution.
+That Digital Tax Stamp (DTS) payments be restructured to consider the increased excise duty collections to ensure Government and the country benefit commensurately from the solution.
 
-    2. That DTS only be applied to taxpayers who have proven to be continuously under-declaring the right excise duty payable.
+That DTS only be applied to taxpayers who have proven to be continuously under-declaring the right excise duty payable.
 
-    3. Development of different tier thresholds on the excise duty regime. 
+Development of different tier thresholds on the excise duty regime. 
 
 The committee observed the need to promote local content through the development of a separate tier threshold for new innovative products which utilise local raw materials mainly in the agricultural industry. This should consider products at the introduction stage to enable them to benefit from the sunk cost, since targeting them for tax discourages innovation and reduces the expected revenue development through the value chain, especially the supply chains.
 
@@ -793,11 +793,11 @@ By deleting paragraph (d) to maintain the status quo.
 
 Justification
 
-    i) The amendment will encourage the reopening of companies that had closed as a consequence of the higher tax that had the effect of lowering the cost of production and seeks to lower the tax on opaque beer to enable the manufacturers.
+The amendment will encourage the reopening of companies that had closed as a consequence of the higher tax that had the effect of lowering the cost of production and seeks to lower the tax on opaque beer to enable the manufacturers.
 
-    ii) To provide for a low tax rate for the alcoholic beverages locally produced from fermented sugary tea solution with a combination of yeast and bacteria.
+To provide for a low tax rate for the alcoholic beverages locally produced from fermented sugary tea solution with a combination of yeast and bacteria.
 
-    iii) The proposed tax rates under paragraph (d) seek to impose a higher tax on the recyclable products and leave the non-recyclable products with a lower tax. The recyclable products are seven per cent and the non-recyclable products are 93 per cent. So, we thought that it is not so rational.
+The proposed tax rates under paragraph (d) seek to impose a higher tax on the recyclable products and leave the non-recyclable products with a lower tax. The recyclable products are seven per cent and the non-recyclable products are 93 per cent. So, we thought that it is not so rational.
 
 THE CHAIRPERSON: What was the tax before?
 
@@ -905,9 +905,9 @@ MR MUSASIZI: Madam Chairperson, under clause 3(d) amendment of item No.2 schedul
 
 We appeal to Parliament to approve our proposal because of the following reasons:
 
-    1. Our proposal is meant to tax manufacturers of plastics that do not have recycling plants in order to encourage cleaning and conservation of our environment.
+Our proposal is meant to tax manufacturers of plastics that do not have recycling plants in order to encourage cleaning and conservation of our environment.
 
-    2. If this clause is deleted, it means that plastics can be imported into Uganda without paying any taxes. Uganda will have to incur the costs of cleaning up of the environment that has been polluted by imported polythene bags, free of tax.
+If this clause is deleted, it means that plastics can be imported into Uganda without paying any taxes. Uganda will have to incur the costs of cleaning up of the environment that has been polluted by imported polythene bags, free of tax.
 
 Under clause 3(b), we propose to amend it as follows, “any other undenatured spirits of alcohol strength by volume of less than 80 per cent to attract excise duty of 80 per cent or Shs 1,700 per litre, whichever is higher.”
 
@@ -1147,9 +1147,9 @@ Therefore, what we have to address, for which we want to ask the finance and ene
 
 THE CHAIRPERSON: Thank you, Hon. Nandala. I put the question that clause 3 be amended as follows:
 
-    1. Under item 16 - that is, the sugar confectionaries, chewing gum, sweets and chocolates by introducing the 20 per cent.
+Under item 16 - that is, the sugar confectionaries, chewing gum, sweets and chocolates by introducing the 20 per cent.
 
-    2. Clause 3
+Clause 3
 
 (a) 	Opaque beer by maintaining what is in the Act of 12 per cent or Shs 150. 
 
@@ -1219,13 +1219,13 @@ Madam Speaker, I would like to state from the onset that there was no politics. 
 
 The issues we framed are the following: 
 
-    i) Whether we should grant an extension to Bujagali for another five years; 
+Whether we should grant an extension to Bujagali for another five years; 
 
-    ii) Whether the financial records of Bujagali Energy Limited represent a true picture; 
+Whether the financial records of Bujagali Energy Limited represent a true picture; 
 
-    iii) Whether the agreement between Government of Uganda and Bujagali Energy Ltd was made in good faith; and 
+Whether the agreement between Government of Uganda and Bujagali Energy Ltd was made in good faith; and 
 
-    iv) Whether the tariff being charged is the right tariff. 
+Whether the tariff being charged is the right tariff. 
 
 Madam Speaker, we considered the accounts of Bujagali Energy Ltd, which run from 2018 to 2021. The accounting period is 31st of December of every financial year. 
 
@@ -1239,41 +1239,41 @@ CP = RTD + ITD+ TERR+ CIT+ OT + MC + GoU + EER
 
 This is what it represents: 
 
-    a) Capacity building is CP. 
+Capacity building is CP. 
 
-    b) RTD means the amount of Repayment of Tariff Debt component for that month. There is a section. 
+RTD means the amount of Repayment of Tariff Debt component for that month. There is a section. 
 
-    c) ITD means the amount of Interest on Tariff Debt; the interest.
+ITD means the amount of Interest on Tariff Debt; the interest.
 
-    d) TERR means the Tariff Equity Repayment and the Return on that equity.
+TERR means the Tariff Equity Repayment and the Return on that equity.
 
-    e) CIT means the Corporate Income Tax. 
+CIT means the Corporate Income Tax. 
 
-    f) OT means the amount of Other Tax component. 
+OT means the amount of Other Tax component. 
 
-    g) OM means Monthly Operation and Maintenance Fee.
+OM means Monthly Operation and Maintenance Fee.
 
-    h) MC means Miscellaneous Charge. 
+MC means Miscellaneous Charge. 
 
-    i) GoU means the Government of Uganda
+GoU means the Government of Uganda
 
-    j) EER means Equity Return and Return on components. 
+EER means Equity Return and Return on components. 
 
 That is the formula. 
 
 The committee interrogated this and looked at the accounts. It discovered the following:
 
-    i) The debt is being paid on time; 
+The debt is being paid on time; 
 
-    ii) The interest on debt is being paid; 
+The interest on debt is being paid; 
 
-    iii) The return on equity is 19 per cent; 
+The return on equity is 19 per cent; 
 
-    iv) The corporation tax is supposed to be after making profit;
+The corporation tax is supposed to be after making profit;
 
-    v) The remaining charges are also being paid; and  
+The remaining charges are also being paid; and  
 
-    vi) In the financials, after payment of the return on equity, there is a payment of dividends. 
+In the financials, after payment of the return on equity, there is a payment of dividends. 
 
 The committee observed the following: 
 
@@ -1927,31 +1927,31 @@ The Nakawa-Naguru land is 142.5 acres. Of the 142.5 acres, 60 acres were realloc
 
 Following the termination of the PPP agreement by Government and subsequent re-entry into the land by the Uganda Land Commission (ULC), being the custodian of Government land, the land reverted to Government. The lease initially offered to M/s Opec Prime Properties (U) Ltd was cancelled and a record was re-entered into the register as the Uganda Land Commission, which subsequently allocated the land as follows - There is a table there.
 
-    i) Anil Damani - 3 acres; 
-    ii) Arab Oil Supplies and Exploration Ltd - 4 acres;
-    iii) Dashen (U) Ltd - 3 acres;
-    iv) Dembe Enterprises Ltd - 3 acres; 
-    v) Dominion Partners Ltd - 1 acre;
-    vi) EACOM International Ltd - 0.30 acres;
-    vii) Fakhruddin Properties Ltd - 1.42 acres;
-    viii) Phaneero International Ministries - 4 acres;
-    ix) Gash Logistics Ltd - 0.8 acres;
-    x) Global Paper Products Ltd - 0.6 acres;
-    xi) Master Links Uganda Ltd - 3 acres;
-    xii) Meera Investments Ltd - 3 acres;
-    xiii) Roko Construction Company - 2 acres;
-    xiv) Multi Consult Design Ltd - 2 acres;
-    xv) Rudra Hardware and Tools Ltd - 4 acres;
-    xvi) Seven Hills Apartments Ltd - 4 acres; 
-    xvii) Wash and Wills Country Home Ltd - 0.85 acres;
-    xviii) Internal Medicine of Virginia PC - 15 acres;
-    xix) Ntinda Wholesale Traders - 2 acres;
-    xx) National Library - 2 acres;
-    xxi) Uganda Heart Institute - 10 acres;
-    xxii) Nakawa Division - 3.09 acres;
-    xxiii) St Peter’s Church - 1.18 acres;
-    xxiv) Naguru Infant School - 1.0 acres;
-    xxv) Agha Khan Hospital - 60 acres. 
+Anil Damani - 3 acres; 
+Arab Oil Supplies and Exploration Ltd - 4 acres;
+Dashen (U) Ltd - 3 acres;
+Dembe Enterprises Ltd - 3 acres; 
+Dominion Partners Ltd - 1 acre;
+EACOM International Ltd - 0.30 acres;
+Fakhruddin Properties Ltd - 1.42 acres;
+Phaneero International Ministries - 4 acres;
+Gash Logistics Ltd - 0.8 acres;
+Global Paper Products Ltd - 0.6 acres;
+Master Links Uganda Ltd - 3 acres;
+Meera Investments Ltd - 3 acres;
+Roko Construction Company - 2 acres;
+Multi Consult Design Ltd - 2 acres;
+Rudra Hardware and Tools Ltd - 4 acres;
+Seven Hills Apartments Ltd - 4 acres; 
+Wash and Wills Country Home Ltd - 0.85 acres;
+Internal Medicine of Virginia PC - 15 acres;
+Ntinda Wholesale Traders - 2 acres;
+National Library - 2 acres;
+Uganda Heart Institute - 10 acres;
+Nakawa Division - 3.09 acres;
+St Peter’s Church - 1.18 acres;
+Naguru Infant School - 1.0 acres;
+Agha Khan Hospital - 60 acres. 
 
 The committee observed that M/s Fakruddin Properties Ltd and M/s EACOM Internationa Ltd have not yet been issued certificates of title because they have not yet completed the process of acquisition. However, it was noted that M/s Fakruddin has been frustrated by ULC who denied them a new assessment, yet the 45 days was still valid. These are the 45 days of the lease offer. The 45 days were still valid, but they were denied an assessment. M/s EACOM International Ltd declined the offer because it was too small for their project. 
 
@@ -1959,10 +1959,10 @@ Other claimants
 
 Despite the fact that land reverted to Government and was subsequently allocated to the beneficiaries listed above, there are some other persons that have made claims as follows:
 
-    i) Allocatees by the ULC;
-    ii) Registered tenants;
-    iii) Institutions; and
-    iv) Third party claimants.
+Allocatees by the ULC;
+Registered tenants;
+Institutions; and
+Third party claimants.
 
 Registered tenants of Nakawa-Naguru Housing Estate
 
@@ -1970,13 +1970,13 @@ As earlier pointed out, in 2007, Government of Uganda signed a memorandum of und
 
 In the said MoU, Government covenanted in paragraph (2) to:
 
-    i) Maintain a register of all tenants of Nakawa/Naguru Housing Estate.
+Maintain a register of all tenants of Nakawa/Naguru Housing Estate.
 
-    ii) Engage a private developer to undertake the redevelopment of the said estate.
+Engage a private developer to undertake the redevelopment of the said estate.
 
-    iii) Give periodic information as necessary to the registered tenants on the progress of the redevelopment of the said estate.
+Give periodic information as necessary to the registered tenants on the progress of the redevelopment of the said estate.
 
-    iv) Ensure that on completion of the construction of the dedicated flat, the registered tenants will be given the first priority to purchase the said flat erected by the developer.
+Ensure that on completion of the construction of the dedicated flat, the registered tenants will be given the first priority to purchase the said flat erected by the developer.
 
 Observations
 
@@ -2012,11 +2012,11 @@ Third party claimants
 
 This category includes parties that had entered into agreement with OPEC Prime Properties (U) Ltd and had developed their portions of the land. These include: 
 
-    1. M/s Lukyamuzi Investments Ltd;
-    2. Hakim Mulindwa;
-    3. Acacia Properties Ltd;
-    4. M/s Okecha, Baryayanga Advocates; and
-    5. Prof. Gakwandi Shatto.
+M/s Lukyamuzi Investments Ltd;
+Hakim Mulindwa;
+Acacia Properties Ltd;
+M/s Okecha, Baryayanga Advocates; and
+Prof. Gakwandi Shatto.
 
 This category claims an interest in a total of 12 properties on the said land.
 
@@ -2048,15 +2048,15 @@ The payment for M/s ROKO Construction of Shs 15 billion was irregular because it
 
 Recommendations
 
-    1. In light of the findings above, the committee recommends that the settlement agreement should not be implemented by both parties;
+In light of the findings above, the committee recommends that the settlement agreement should not be implemented by both parties;
 
-    2. The IGG should investigate further this matter with a view of bringing out any wrongdoing;
+The IGG should investigate further this matter with a view of bringing out any wrongdoing;
 
-    3. The Government should recover payment made to M/s ROKO Construction;
+The Government should recover payment made to M/s ROKO Construction;
 
-    4. The illegal structures on the Naguru land should be demolished and the responsible KCCA officers be held accountable; and
+The illegal structures on the Naguru land should be demolished and the responsible KCCA officers be held accountable; and
 
-    5. KCCA, in collaboration with the Ministry of Lands, Housing and Urban Development should develop a plan for Naguru and ensure strict compliance by developers.
+KCCA, in collaboration with the Ministry of Lands, Housing and Urban Development should develop a plan for Naguru and ensure strict compliance by developers.
 
 The next term of reference is to examine the status or fate of the former occupants of the Nakawa-Naguru Estate land in light of the ongoing disputes over the land.
 
@@ -2082,22 +2082,22 @@ According to the ULC Chairperson, after the Minister, Hon. Betty Kamya visited t
 
 ULC commenced on the process of re-allocation based on four criteria:
 
-    1. Presidential directives;
-    2. Ministerial directives;
-    3. Third party with development; and
-    4. Residue land for fresh applicants.
+Presidential directives;
+Ministerial directives;
+Third party with development; and
+Residue land for fresh applicants.
 
 ULC, in a meeting held between the 9th and 12th of February 2021, under Minute 3/2/21, came up with criteria that applicants were to follow. This was then placed on the noticeboard and included the following:
 
-    1. Legal existence of the company/partnership;
-    2. Particulars of directors;
-    3. Annual audited books of accounts;
-    4. Experience in handling similar projects;
-    5. Governance/company structure;
-    6. Business plan for development of the land;
-    7. Proof of tax compliance; 
-    8. Proof of source of funding; and
-    9. Submission of support documentation for the applications.
+Legal existence of the company/partnership;
+Particulars of directors;
+Annual audited books of accounts;
+Experience in handling similar projects;
+Governance/company structure;
+Business plan for development of the land;
+Proof of tax compliance; 
+Proof of source of funding; and
+Submission of support documentation for the applications.
 
 This process attracted the attention of His Excellency the President of Uganda, who vide a letter dated 26 June 2020, shared his concerns as follows, and I quote:
 
@@ -2115,69 +2115,69 @@ I, therefore, direct that the process of allocating land at Naguru beginning wit
 
 Madam Speaker, the committee observed as follows:
 
-    1. The committee saw no evidence of communication lifting the Presidential and ministerial directives. 
+The committee saw no evidence of communication lifting the Presidential and ministerial directives. 
 
-    2. The committee observed that ULC did not follow its own set criteria in allocating the Nakawa - Naguru land. 
+The committee observed that ULC did not follow its own set criteria in allocating the Nakawa - Naguru land. 
 
-    3. The documents from some of the applicants reviewed did not comply with the set parameters. 
+The documents from some of the applicants reviewed did not comply with the set parameters. 
 
 These entities are as follows: 
 
 M/s Internal Medicine of Virginia PC/Internal Medicine Virginia Limited
 
-    1. They never interacted with ULC as required. 
+They never interacted with ULC as required. 
 
-    2. They have no offer letters. 
+They have no offer letters. 
 
-    3. There are no forwarding letters from ULC.
+There are no forwarding letters from ULC.
 
-    4. They had no audited accounts. 
+They had no audited accounts. 
 
-    5. They had no proof of ability to execute similar projects.
+They had no proof of ability to execute similar projects.
 
-    6. No known address i.e., not traceable at all. 
+No known address i.e., not traceable at all. 
 
-    7. No original documents for consideration as required by law.
+No original documents for consideration as required by law.
 
 Phaneroo Ministries 
 
-    1. No experience in handling similar projects. 
+No experience in handling similar projects. 
 
-    2. No proof of source of funding. 
+No proof of source of funding. 
 
-    3. It is a company limited by guarantee and not permitted to do business. 
+It is a company limited by guarantee and not permitted to do business. 
 
-    4. No proof of tax compliance.
+No proof of tax compliance.
 
 Arab Oils Supplies and Exploration
 
-    1. No experience in handling similar projects. 
+No experience in handling similar projects. 
 
-    2. No proof of source of funding. 
+No proof of source of funding. 
 
-    3. No proof of tax compliance. 
+No proof of tax compliance. 
 
-    4. No audited accounts.
+No audited accounts.
 
 Master Links Uganda Limited 
 
-    1. No experience in handling similar projects.
+No experience in handling similar projects.
 
-    2. No proof of source of funding. 
+No proof of source of funding. 
 
-    3. No proof of tax compliance.
+No proof of tax compliance.
 
-    4. No audited accounts.
+No audited accounts.
 
-    5. No bank statements
+No bank statements
 
 However, due to influence peddling, the certificates of title were issued to the above entities, despite the obvious non-compliance to the ULC set parameters. With the above findings, it is clear that the actions of ULC in allocating and issuing certificates of title were in contravention of the set criteria. 
 
 Recommendations 
 
-    1. The ULC secretary and the commissioners should be held accountable and indeed retired in public interest, for the omissions in the allocation of the Naguru land. They should also vacate offices. 
+The ULC secretary and the commissioners should be held accountable and indeed retired in public interest, for the omissions in the allocation of the Naguru land. They should also vacate offices. 
 
-    2. The leases between ULC and the entities that did not qualify for allocation be terminated.
+The leases between ULC and the entities that did not qualify for allocation be terminated.
 
 THE SPEAKER: Honourable chairperson, you said, “due to influence peddling…” By who?
 
@@ -2314,19 +2314,19 @@ Term of Reference 6: To propose measures to safeguard the interest of Government
 
 Having highlighted several challenges throughout this report, the committee recommends the following measures to safeguard the interests of Government: 
 
-    1. In a bid to resolve the confusion that is evident in the relationship between the Uganda Lands Commission (ULC) and the lands ministry, and in the process of disposal of public land, the committee recommends that Government fast-tracks policy and legislative proposals.
+In a bid to resolve the confusion that is evident in the relationship between the Uganda Lands Commission (ULC) and the lands ministry, and in the process of disposal of public land, the committee recommends that Government fast-tracks policy and legislative proposals.
 
-    2. Having established that Uganda Land Commission does not have an inventory of the land it superintends over, administers and manages, the committee recommends that all Government land be identified, surveyed and titled to avoid loss. In this regard, the Uganda Land Commission should have a proper inventory and land register.
+Having established that Uganda Land Commission does not have an inventory of the land it superintends over, administers and manages, the committee recommends that all Government land be identified, surveyed and titled to avoid loss. In this regard, the Uganda Land Commission should have a proper inventory and land register.
 
-    3. The committee observed that the Uganda Land Commission lacks both financial and human resource capacity to satisfactorily execute its mandate, and has often relied on the Ministry of Lands, Housing and Urban Development to second personnel to help it out in technical aspects of land management, leaving it very vulnerable to unscrupulous land dealers. The committee, therefore, recommends that the personnel, their technical capacity and financial capacity of the commission be strengthened.
+The committee observed that the Uganda Land Commission lacks both financial and human resource capacity to satisfactorily execute its mandate, and has often relied on the Ministry of Lands, Housing and Urban Development to second personnel to help it out in technical aspects of land management, leaving it very vulnerable to unscrupulous land dealers. The committee, therefore, recommends that the personnel, their technical capacity and financial capacity of the commission be strengthened.
 
-    4. The committee also recommends appointment of a more technically competent commission with exposure and experience in land management.
+The committee also recommends appointment of a more technically competent commission with exposure and experience in land management.
 
-    5. The Uganda Land Commission should exercise its rights comprised in the lease agreements with the lessees, to ensure the terms and conditions of the lease are fully complied with and take timely appropriate action for those not compliant, to avoid further reoccurrence of the Opec Prime scandal.
+The Uganda Land Commission should exercise its rights comprised in the lease agreements with the lessees, to ensure the terms and conditions of the lease are fully complied with and take timely appropriate action for those not compliant, to avoid further reoccurrence of the Opec Prime scandal.
 
-    6. The current commission be retired in public interest for abuse of authority and violation of the executive authority.
+The current commission be retired in public interest for abuse of authority and violation of the executive authority.
 
-    7. Government should follow the law and obey court orders to avoid unnecessary reputational and litigation associated risks. 
+Government should follow the law and obey court orders to avoid unnecessary reputational and litigation associated risks. 
 
 Term of Reference 7: To investigate any other matters incidental to the Nakawa-Naguru Estate land.
 
@@ -2348,11 +2348,11 @@ Mr Ramathan Ggoobi, who signed the Deed of Settlement and Assignment on behalf o
 
 The committee recommends that:
 
-    1. The land allocated to M/s ROKO Construction Ltd should be revalued, taking into  consideration the appreciation in value and the fixtures thereon before the lease offer is made.
+The land allocated to M/s ROKO Construction Ltd should be revalued, taking into  consideration the appreciation in value and the fixtures thereon before the lease offer is made.
 
-    2. Government should recover Shs 15.72 billion paid to M/s ROKO from M/s Opec Prime Properties. (Applause).
+Government should recover Shs 15.72 billion paid to M/s ROKO from M/s Opec Prime Properties. (Applause).
 
-    3. Mr Ramathan Ggoobi should be cautioned for making payments to M/s ROKO Construction irregularly. 
+Mr Ramathan Ggoobi should be cautioned for making payments to M/s ROKO Construction irregularly. 
 
 4. 	The Presidential -
 
@@ -2983,17 +2983,17 @@ The amendments that we are making - honourable members, I am actually happy that
 
 The amendments that we have include – 
 
-    1. The same committee investigating ULC; 
+The same committee investigating ULC; 
 
-    2. The Shs 17 million ex gratia should be revised to the current market value; 
+The Shs 17 million ex gratia should be revised to the current market value; 
 
-    3. The purpose of the land should be considered and returned to its original use; 
+The purpose of the land should be considered and returned to its original use; 
 
-    4. That the entire transaction be cancelled; 
+That the entire transaction be cancelled; 
 
-    5. All those who acted on the alleged Presidential directives with disregard of the law must be held personally liable - that is from Hon. Nandala Mafabi; and 
+All those who acted on the alleged Presidential directives with disregard of the law must be held personally liable - that is from Hon. Nandala Mafabi; and 
 
-    6. Hon. Susan Amero says the PS/ST should be held responsible. 
+Hon. Susan Amero says the PS/ST should be held responsible. 
 
 I made a correction on the legality – Hon. Amero was speaking like a woman from Amuria. I made a correction. You said, “He should be retired”, but I said “Let us follow the law.” 
 
@@ -3051,27 +3051,27 @@ In response, the Rt Hon. Speaker referred the matter to the Committee on Trade, 
 
 Honourable members, the methodology is on page 4. We met various stakeholders and the petitioners: 
 
-    1. Hon. Abed Bwanika 
-    2. Hon. Gorreth Namugga
-    3. Hon. Richard Lumu
-    4. Hon. Joyce Bagala
-    5. Hon. Francis Katabaazi
+Hon. Abed Bwanika 
+Hon. Gorreth Namugga
+Hon. Richard Lumu
+Hon. Joyce Bagala
+Hon. Francis Katabaazi
 
-    6. The Ministry of Finance, Planning and Economic Development
-    7. The Office of the Attorney-General
-    8. Uganda Coffee Development Authority (UCDA) 
-    9. Public Procurement and Disposal Unit 
-    10. Uganda Law Society 
+The Ministry of Finance, Planning and Economic Development
+The Office of the Attorney-General
+Uganda Coffee Development Authority (UCDA) 
+Public Procurement and Disposal Unit 
+Uganda Law Society 
 
-    11. Uganda Vinci Coffee Company Limited 
-    12. Uganda Coffee Federation 
-    13. Esco Uganda
-    14. Uganda Quality Coffee Traders Association 
-    15. UGACOF 
+Uganda Vinci Coffee Company Limited 
+Uganda Coffee Federation 
+Esco Uganda
+Uganda Quality Coffee Traders Association 
+UGACOF 
 
-    16. Buganda Culture and Development Foundation (BUCADEF) 
-    17. Ankole Coffee Producers Cooperative Union (ACPCU)
-    18. Kawacom Uganda Ltd; and so many other stakeholders as seen on that page. 
+Buganda Culture and Development Foundation (BUCADEF) 
+Ankole Coffee Producers Cooperative Union (ACPCU)
+Kawacom Uganda Ltd; and so many other stakeholders as seen on that page. 
 
 Committee findings, observations and analysis:
 
@@ -3384,11 +3384,11 @@ Whereas the word “monopoly” is not defined in Uganda, it was defined in the 
 
 Based on the above definition, the committee expressly finds that the Agreement creates a monopoly where:
 
-    i) It gives priority in supply of premium quality coffee to the Company (4.2.1);
+It gives priority in supply of premium quality coffee to the Company (4.2.1);
 
-    ii) Limits licencing of coffee exporters until the company meets its demand, which is unlimited; and
+Limits licencing of coffee exporters until the company meets its demand, which is unlimited; and
 
-    iii) Grants the company powers to determine prices of coffee.
+Grants the company powers to determine prices of coffee.
 
 The committee observes that clause 4.2 creates a monopoly in favour of UVCCL to the purchase of superior quality coffee beans from Uganda by restricting Government from registering any contract or acknowledging any arrangement for the export of coffee beans. 
 
@@ -3480,17 +3480,17 @@ THE SPEAKER: If I could ask, why are you standing? Was this report uploaded? Don
 
 MR MPAKA: Honourable members, page 54 is on recommendations. The committee makes the following recommendations:
 
-    1. That in light of the violations of the various laws as highlighted above, specifically Articles 2, 79 and 152 of the Constitution of Uganda, sections 4(1), 7(1), 19 and 21 of the Income Tax Act Cap. 314, sections 4 and 5 of the Value Added Tax Cap. 349, sections 4(1) of the Excise Duty Act 2014, section 7 of the National Social Security Fund Act Cap. 222, sections 54 and 59 of the Uganda Citizenship and Immigration Control Act Cap. 66, and section 80 of the Local Government Act Cap. 243, the Agreement executed between the Government of Uganda and Uganda Vinci Coffee Company Limited is unconstitutional, illegal, void ab initio and unenforceable at law. Government is directed to terminate this Agreement and report to Parliament within six months from the date of adoption of this report.
+That in light of the violations of the various laws as highlighted above, specifically Articles 2, 79 and 152 of the Constitution of Uganda, sections 4(1), 7(1), 19 and 21 of the Income Tax Act Cap. 314, sections 4 and 5 of the Value Added Tax Cap. 349, sections 4(1) of the Excise Duty Act 2014, section 7 of the National Social Security Fund Act Cap. 222, sections 54 and 59 of the Uganda Citizenship and Immigration Control Act Cap. 66, and section 80 of the Local Government Act Cap. 243, the Agreement executed between the Government of Uganda and Uganda Vinci Coffee Company Limited is unconstitutional, illegal, void ab initio and unenforceable at law. Government is directed to terminate this Agreement and report to Parliament within six months from the date of adoption of this report.
 
-    2. Upon termination, Government should regularise its relationship with Uganda Vinci Coffee Company Limited through proper due diligence, due process and proper stakeholder consultation before any further business can proceed thus, initiating fresh negotiations.
+Upon termination, Government should regularise its relationship with Uganda Vinci Coffee Company Limited through proper due diligence, due process and proper stakeholder consultation before any further business can proceed thus, initiating fresh negotiations.
 
-    3. Government should consider extending appropriate incentives to the already existing 47 local companies that are doing value-addition.
+Government should consider extending appropriate incentives to the already existing 47 local companies that are doing value-addition.
 
-    4. Government should fast-track capitalisation of UDC to enable the corporation to invest in soluble coffee plants.
+Government should fast-track capitalisation of UDC to enable the corporation to invest in soluble coffee plants.
 
-    5. There is urgent need for a competition law to promote vigorous competition and prevent anti-competitive business practices.
+There is urgent need for a competition law to promote vigorous competition and prevent anti-competitive business practices.
 
-    6. The officials who committed Government to such illegalities should be penalised as a deterrent mechanism to stop similar occurrences in the future. I beg to submit. (Applause)
+The officials who committed Government to such illegalities should be penalised as a deterrent mechanism to stop similar occurrences in the future. I beg to submit. (Applause)
 
 Before I take leave, Madam Speaker, allow me to clarify on a matter that was in the media concerning the committee meeting with the President of the Republic of Uganda, His Excellency Yoweri Kaguta Museveni. 
 
@@ -3838,4 +3838,3 @@ Report adopted.
 THE SPEAKER: The House is adjourned to tomorrow at 10.00 o’clock. 
 
 (The House rose at 9.02 p.m. and adjourned until Thursday, 19 May 2022 at 10.00 a.m.) 
-

@@ -1,4 +1,4 @@
-﻿
+
 
 PARLIAMENT OF UGANDA
 
@@ -518,11 +518,11 @@ So far, the NOC has held five technical-level meetings in preparations for the f
 
 The overall readiness of the key subcommittees of the NOC stands as follows – please, allow me give a brief summary on the specific committees other than reading what each committee is doing since you already have the statement. 
 
-    1. Decoration Subcommittee 
-    2. Construction Subcommittee 
-    3. Invitation Subcommittee
-    4. Ceremonies Subcommittee
-    5. Entertainment Subcommittee
+Decoration Subcommittee 
+Construction Subcommittee 
+Invitation Subcommittee
+Ceremonies Subcommittee
+Entertainment Subcommittee
 
 A snapshot of the actors who contributed to the attainment of our independence
 
@@ -566,10 +566,10 @@ ICT has created 500,000 direct and indirect jobs with a lot of space for further
 
 The figures of telephone and internet subscription currently stands as follows, as of December 2020:
 
-    1. 27.78 mobile phone subscribers from 22.37 million in 2016.
-    2. 21.4 million Internet users from 0.4 million users in 2016.
-    3. 26.4 mobile money subscribers with an active user base of 15.6 million.
-    4. Mobile transactions have reached a high of Shs 93.7 trillion.
+27.78 mobile phone subscribers from 22.37 million in 2016.
+21.4 million Internet users from 0.4 million users in 2016.
+26.4 mobile money subscribers with an active user base of 15.6 million.
+Mobile transactions have reached a high of Shs 93.7 trillion.
 
 The Government is promoting ICT innovations to create jobs for import substitution and to avoid overdependence on foreign ICT products. 
 
@@ -903,7 +903,7 @@ MR FRANCIS ZAAKE (NUP, Mityana Municipality, Mityana): Madam Speaker, I beg to l
 
 THE DEPUTY SPEAKER: Honourable members, the report is sent to the Committee on Public Accounts (Central Government).
 
-    B) UNITED NATIONS POPULATION FUND (UNFPA) - DATA AND POPULATION DYNAMICS COMPONENT IMPLEMENTED BY THE UGANDA NATIONAL BUREAU OF STATISTICS 
+UNITED NATIONS POPULATION FUND (UNFPA) - DATA AND POPULATION DYNAMICS COMPONENT IMPLEMENTED BY THE UGANDA NATIONAL BUREAU OF STATISTICS 
 4.28
 MR FRANCIS ZAAKE (NUP, Mityana Municipality, Mityana): Madam Speaker, I beg to lay on the Table a report of the Auditor-General on the financial statements of the United Nations Population Fund (UNFPA)-Data and Population Dynamics Component implemented by the Uganda National Bureau of Statistics for the year ended 31 December 2020. I beg to lay.
 
@@ -934,9 +934,9 @@ Majanji Landing Site is one of the historical landing sites in Uganda, which had
 
 My prayers are:
 
-    1. The Government should provide updates on this project which has stalled for more than 10 years. 
+The Government should provide updates on this project which has stalled for more than 10 years. 
 
-    2. The minister concerned should pay a visit to this landing site to assess further the actual situation on the ground. I beg to submit.
+The minister concerned should pay a visit to this landing site to assess further the actual situation on the ground. I beg to submit.
 
 4.33
 THE MINISTER, OFFICE OF THE PRESIDENT (SECURITY) (Maj. Gen. (Rtd) Jim Muhwezi): Madam Speaker, I undertake to inform the relevant minister to look into this matter and come back to explain to Parliament. 
@@ -1267,4 +1267,3 @@ THE DEPUTY SPEAKER:  The report is referred to the Committee on PAC, Central Gov
 In the meantime, committees should process the reports that have been given to them and report to the House. You now have work. The House is adjourned.
 
 (The House rose at 5.35 p.m. and adjourned until Tuesday, 19 October 2021 at 2 p.m.) 
-

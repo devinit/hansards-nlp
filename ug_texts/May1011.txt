@@ -1,4 +1,4 @@
-﻿Tuesday, 10 May 2011
+Tuesday, 10 May 2011
 
 Parliament met at 2.30 p.m. in Parliament House, Kampala.
 
@@ -297,11 +297,11 @@ Clause 7, agreed to.
 Clause 8
 
 MR SEBUNYA: In clause 8, composition of the board: 
-    i) In sub-clause 1(c) insert the words, “Who shall be an ex-officio member and shall not vote”, at the end of the paragraph.
+In sub-clause 1(c) insert the words, “Who shall be an ex-officio member and shall not vote”, at the end of the paragraph.
 
 Justification is that the Executive Director is a staff of the Authority and a board member only by virtue of his office.
  
-    ii) Substitute for sub-clause 2(b) the following: (b) Include one person nominated by the minister who shall be a procurement specialist. 
+Substitute for sub-clause 2(b) the following: (b) Include one person nominated by the minister who shall be a procurement specialist. 
 
 Justification, it is important that the board has at least one person with a bias in procurement.
 
@@ -462,8 +462,8 @@ The justification is that procurement and disposing entities not only recommend 
 The justification is to ensure consistency in the use of words. 
 
 Amendment three is of Section 39 of the principal Act which is done by substituting Section 39: “39. Delegation of powers of the Accounting Officer: An accounting officer may: (a) delegate certain procurement and disposal functions of the accounting officer, contracts committee or procurement and disposal unit to – 
-    (i) A sub-division of the procuring and disposing entity or; 
-    (ii) A member of staff of the procuring and disposing entity and; 
+A sub-division of the procuring and disposing entity or; 
+A member of staff of the procuring and disposing entity and; 
 (b) 	Contract out certain procurement and disposal functions of the contracts committee, procurement and disposal unit or user departments to – 
 (i) 	Any other procuring and disposing entity or; (ii) A third party procurement or disposal provider in accordance with the terms and conditions specified in regulations made under this Act.” 
 
@@ -880,11 +880,11 @@ THE CHAIRMAN: Any amendments to clause 3?
 
 MR SEBUNYA: Mr Chairman, this clause is about definitions. I would like to propose the following: 
 
-    (i) Under the definition of “emergency situation” in paragraph (e) on page 9, replace the words “consultancy service” with the word “procurement”. 
+Under the definition of “emergency situation” in paragraph (e) on page 9, replace the words “consultancy service” with the word “procurement”. 
 	The justification is that “consultancy service” is too narrow yet the clause is intended to allow for emergency procurement of works, services - both consultancy and non-consultancy - and supplies.
 
-    (ii) On page 9, we propose that we substitute the definition of “information” with the following: “Information includes written, visual, aural and electronic information.”
-    (iii) Insert the definition of the word “record” after the words “public asset” as follows: “Record means any recorded information in any format including an electric format in the possession or control of a public body, whether or not the body created it.”
+On page 9, we propose that we substitute the definition of “information” with the following: “Information includes written, visual, aural and electronic information.”
+Insert the definition of the word “record” after the words “public asset” as follows: “Record means any recorded information in any format including an electric format in the possession or control of a public body, whether or not the body created it.”
 
 The justification is to align that definition with that which appears in the Access to Information Act, but this will also ensure the PPDA’s powers to access information, records and so on.
 

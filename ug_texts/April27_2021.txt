@@ -1,4 +1,4 @@
-﻿ 
+ 
 
 PARLIAMENT OF UGANDA
 
@@ -22,28 +22,28 @@ Let me also appeal to the committees with pending business to urgently expedite 
 
 Honourable members, last week, I indicated that I had received 22 names of Islamic scholars, which I am submitting to the Ministry of Finance, Planning and Economic Development. For the record, let me read out the names which I am submitting:
 
-    1. Dr Lujja Suleiman 
-    2. Dr Walusimbi Abdul Hafiz 
-    3. Dr Muhammad Hussein Bbowa
-    4. Sheik Waiswa Muhammad Ali 
-    5. Dr Sowedi Juma Mayanja 
-    6. Dr Muhammad Kisuule
-    7. Dr Ssemuddu Rashid
-    8. Dr Kasozi Edrisa
-    9. Yahaya Kasujja 
-    10. Sheikh Ismail Njuki
-    11. Katongole Imran Hussein
-    12. Nanyunja Shuki Nakato
-    13. Sheikh Faisal Abdulaziz Alzamir
-    14. Sheikh Associate Professor A. Hassan
-    15. Dr Sabir M Hassan 
-    16. Dr Seguja Hussein
-    17. Dr Semambo Hussein Kakembo
-    18. Dr Taaha Ahmed Kasule
-    19. Dr Ahmed Moses
-    20. Dr Tuma Teko
-    21. Mr Musobya Abdullatif
-    22. Ms Kasiimire Aisha.
+Dr Lujja Suleiman 
+Dr Walusimbi Abdul Hafiz 
+Dr Muhammad Hussein Bbowa
+Sheik Waiswa Muhammad Ali 
+Dr Sowedi Juma Mayanja 
+Dr Muhammad Kisuule
+Dr Ssemuddu Rashid
+Dr Kasozi Edrisa
+Yahaya Kasujja 
+Sheikh Ismail Njuki
+Katongole Imran Hussein
+Nanyunja Shuki Nakato
+Sheikh Faisal Abdulaziz Alzamir
+Sheikh Associate Professor A. Hassan
+Dr Sabir M Hassan 
+Dr Seguja Hussein
+Dr Semambo Hussein Kakembo
+Dr Taaha Ahmed Kasule
+Dr Ahmed Moses
+Dr Tuma Teko
+Mr Musobya Abdullatif
+Ms Kasiimire Aisha.
 
 Therefore, there is now no excuse not to execute the Islamic banking. These are the names I have submitted to the Ministry of Finance, Planning and Economic Development.
 
@@ -561,9 +561,9 @@ MR BIYIKA: Madam Chairperson, insert a new clause to read “Lead Agency Action 
 1) 	The lead agency shall prepare a Climate Change Action Plan in conformity with the National Climate Change Action Plan and Framework Strategy on climate Change. 
 
 2) 	The Climate Change Action Plan referred to in subsection (1) shall indicate: 
-    (a) An assessment and management of risk and vulnerability;
-    (b)  An identification of greenhouse gas mitigation potentials; and
-    (c) Options and prioritization of appropriate adaptation measures for joint projects of national and local governments.
+An assessment and management of risk and vulnerability;
+ An identification of greenhouse gas mitigation potentials; and
+Options and prioritization of appropriate adaptation measures for joint projects of national and local governments.
 
 (3) The Climate Change Action Plan referred to in subsection (1) shall be reviewed every five years or earlier as may be deemed necessary.”
 
@@ -670,9 +670,9 @@ In clause 12(7), we are deleting the words “as a verifier”, appearing in the
 
 The justification is:
 
-    1. To ensure internationally accredited verifiers are vetted for competence and compliance with the laws of Uganda by the department before practice in Uganda.
+To ensure internationally accredited verifiers are vetted for competence and compliance with the laws of Uganda by the department before practice in Uganda.
 
-    2. To provide for a sanction for verifiers, who give wrong or misleading verification and those who make verification while not registered. This is for clarity.
+To provide for a sanction for verifiers, who give wrong or misleading verification and those who make verification while not registered. This is for clarity.
 
 THE CHAIRPERSON: Honourable members, you have noted the proposal to delete clause 12(3), (5) and the proposals for substitution. I put the question – 
 
@@ -772,19 +772,19 @@ THE CHAIRPERSON: There is a new clause, honourable chairperson.
 
 MR BIYIKA: Yes, we have inserted a new clause to read, “The National Climate Change Advisory Committee.
 
-    1. The minister shall constitute a National Climate Change Advisory Committee, comprised of technical experts from the field of energy, minerals, environment, natural resources, works and transport, science and technology, agriculture or any other relevant field, as may be determined by the minister. Four other persons from the National Planning Authority, academia, private sector and civil society – one each.
+The minister shall constitute a National Climate Change Advisory Committee, comprised of technical experts from the field of energy, minerals, environment, natural resources, works and transport, science and technology, agriculture or any other relevant field, as may be determined by the minister. Four other persons from the National Planning Authority, academia, private sector and civil society – one each.
 
-    2. The National Climate Change Advisory Committee shall provide independent technical advice to the committee and minister on climate change science, technologies, interventional programmes on climate change and best practices for risk assessment, enhancement of the adaptive capacity to potential impact of climate change and establishment and achievement of the set targets.
+The National Climate Change Advisory Committee shall provide independent technical advice to the committee and minister on climate change science, technologies, interventional programmes on climate change and best practices for risk assessment, enhancement of the adaptive capacity to potential impact of climate change and establishment and achievement of the set targets.
 
-    3. In execution of its mandate, the National Climate Change Advisory Committee shall:
+In execution of its mandate, the National Climate Change Advisory Committee shall:
 
-    i. Advise on assessments of climate change impact at the sectoral level for given priorities identified in the Climate Change programmes.
-    ii. Advise on the identification of priorities and strategies for adaptation and mitigation programmes;
-    iii. Advise on the technical implementation of climate change programmes and initiatives;
-    iv. Analyse climate change impact and implications on the environment, agriculture, land use, fisheries and other sectors;
-    v. Advise on appropriate policies, laws and measures for effective implementation of adaptation and mitigation;
-    vi. Advise on new developments and technologies and anticipate emerging developments and trends in climate change research;
-    4. The Department shall be the administrative office of the National Climate Change Advisory Committee. The minister shall designate the chairperson of the National Climate Change Advisory Committee. The National Climate Change Advisory Committee shall meet at least four times in a year.
+Advise on assessments of climate change impact at the sectoral level for given priorities identified in the Climate Change programmes.
+Advise on the identification of priorities and strategies for adaptation and mitigation programmes;
+Advise on the technical implementation of climate change programmes and initiatives;
+Analyse climate change impact and implications on the environment, agriculture, land use, fisheries and other sectors;
+Advise on appropriate policies, laws and measures for effective implementation of adaptation and mitigation;
+Advise on new developments and technologies and anticipate emerging developments and trends in climate change research;
+The Department shall be the administrative office of the National Climate Change Advisory Committee. The minister shall designate the chairperson of the National Climate Change Advisory Committee. The National Climate Change Advisory Committee shall meet at least four times in a year.
 
 The justification is to provide for a technical forum for discussion of climate change and related issues and to ensure experts on the subject matter are involved in climate change policy and related matters.
 
@@ -932,10 +932,10 @@ Duties of private entities and individuals
 
 The minister shall make regulations prescribing:
 
-    a) climate change obligations on private entities and individuals;
-    b) activities for which private entities, and individuals shall be required to prepare mitigation and adaptation plans;
-    c) the nature and procedure for reporting on the performance of private entities and individuals with regard to the obligations imposed by the minister under this section; and
-    d) Mechanisms for monitoring and evaluating compliance with the Act.
+climate change obligations on private entities and individuals;
+activities for which private entities, and individuals shall be required to prepare mitigation and adaptation plans;
+the nature and procedure for reporting on the performance of private entities and individuals with regard to the obligations imposed by the minister under this section; and
+Mechanisms for monitoring and evaluating compliance with the Act.
 
 The justification is for clarity.
 
@@ -1007,13 +1007,13 @@ MR BIYIKA: We propose to replace clause 27 (a) (1) with the following:
 
 “1. Insert immediately after the word “development” the word “climate change.”
 
-    1. Substitute paragraph (b) with the following; 
-    2. 
+Substitute paragraph (b) with the following; 
+
 Insert immediately after sub-section (6) the following:-
 
-    a)  The minister, in consultation with the chairperson of the National Planning Authority, shall issue a certificate certifying that the Budget Framework Paper is climate change responsive and contains adequate allocation for funding climate change measures and actions. 
+ The minister, in consultation with the chairperson of the National Planning Authority, shall issue a certificate certifying that the Budget Framework Paper is climate change responsive and contains adequate allocation for funding climate change measures and actions. 
 
-    b) The minister and the chairperson of the National Planning Authority shall evaluate all Votes of the Budget Framework Paper before issuing the certificate referred to in 6 (a).”
+The minister and the chairperson of the National Planning Authority shall evaluate all Votes of the Budget Framework Paper before issuing the certificate referred to in 6 (a).”
 
 The justification is climate change issues are crosscutting hence budgeting for climate change should not be restricted to only Votes responsible for implementing climate change measures and actions but rather to all Votes. 
 
@@ -1053,7 +1053,7 @@ THE CHAIRPERSON: Yes, honourable chairperson.
 
 MR BIYIKA: We amended clause 14 to read, “Replace clause 14 (1) with the following: 
 
-    (1) The department shall submit biannual reports on climate change to the minister, who shall submit it to Cabinet for consideration and approval by 30 September of the year immediately following the year in which the reporting is due.” 
+The department shall submit biannual reports on climate change to the minister, who shall submit it to Cabinet for consideration and approval by 30 September of the year immediately following the year in which the reporting is due.” 
 
 In 14(2), we replace the words, “annual report” appearing in line 1 with the words “biannual report on climate change.” 
 
@@ -1338,9 +1338,9 @@ Terms of reference
 
 The Committee was guided by the following terms of reference, arising out of the matter raised by Hon. Alex Ruhunda:
 
-    1. To establish whether Kampala Capital City Authority is procuring buses from India.
-    2. To ascertain the capacity of Metu Zhongtong to manufacture buses for the local market.
-    3. To examine any other matters incidental, thereto.
+To establish whether Kampala Capital City Authority is procuring buses from India.
+To ascertain the capacity of Metu Zhongtong to manufacture buses for the local market.
+To examine any other matters incidental, thereto.
 
 The methodology 
 
@@ -1665,5 +1665,4 @@ I would like to indicate that the transport master plan for the city is there bu
 THE SPEAKER: Honourable members, we need to release our Muslim brethren to go and break the Sawm. Let me thank the honourable members for the work done today. The House adjourned to tomorrow at 2.00 p.m.
 
 (The House rose at 6.39 p.m. and adjourned until Wednesday, 28 April 2021 at 2.00 p.m.) 
-
 

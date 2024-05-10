@@ -1,4 +1,4 @@
-﻿
+
 PARLIAMENT OF UGANDA
 
 Wednesday, 5 May 2021
@@ -22,9 +22,9 @@ MINISTERIAL STATEMENT ON THE LAYING OF THE HOST GOVERNMENT AGREEMENT, TARIFF AND
 10.55
 THE MINISTER OF ENERGY AND MINERAL DEVELOPMENT (Ms Mary Goretti Kitutu): Madam Speaker, the purpose of this statement is to-
 
-    i. present the key terms agreed in the agreements for the East African Crude Oil Pipeline (EACOP);
+present the key terms agreed in the agreements for the East African Crude Oil Pipeline (EACOP);
 
-    ii. lay three agreements before the House namely, the Host Government Agreement, the Tariff and Transportation Agreement, and Shareholders Agreement for the EACOP.
+lay three agreements before the House namely, the Host Government Agreement, the Tariff and Transportation Agreement, and Shareholders Agreement for the EACOP.
 
 Madam Speaker, you will recall that I presented a statement to the House on 14 April 2021, on the key agreements that were signed on 11 April 2021 at a ceremony that was graced by the two heads of state: His Excellency, President Yoweri Kaguta Museveni and Her Excellency, Samia Suluhu Hassan, the President of the United Republic of Tanzania. 
 
@@ -52,17 +52,17 @@ The drafting process of the Bill has been concluded and it will soon be consider
 
 I wish to recognise the different ministries, departments and agencies that supported my ministry during the negotiations of the project agreements, namely: 
 
-    i) Ministry of Justice and Constitutional Affairs;
-    ii) Ministry of Finance, Planning and Economic Development;
-    iii) Ministry of Internal Affairs;
-    iv) Ministry of Foreign Affairs;
-    v) Ministry of Lands, Housing and Urban Development;
-    vi) Bank of Uganda;
-    vii) Petroleum Authority of Uganda;
-    viii) National Environment Management Authority;
-    ix) Insurance Regulatory Authority;
-    x) Uganda Revenue Authority and;
-    xi) Uganda National Oil Company.
+Ministry of Justice and Constitutional Affairs;
+Ministry of Finance, Planning and Economic Development;
+Ministry of Internal Affairs;
+Ministry of Foreign Affairs;
+Ministry of Lands, Housing and Urban Development;
+Bank of Uganda;
+Petroleum Authority of Uganda;
+National Environment Management Authority;
+Insurance Regulatory Authority;
+Uganda Revenue Authority and;
+Uganda National Oil Company.
 
 Key terms in the agreements
 
@@ -72,16 +72,16 @@ The purpose of this agreement is to provide a legal framework and contractual ob
 
 The key aspects covered in the agreement include, but are not limited to:
 
-    i) Commitment of each party to ensure the implementation of the project within the agreed timelines.
-    ii) The tariff for the crude oil transported through the pipeline of $12.77 per barrel, to be paid by the shippers. (Those are the owners of the crude oil and this includes Uganda.) 
-    iii) Protection of investments, including provisions concerning expropriation and nationalisation.
-    iv) Granting of land rights and necessary consents, permits and authorisations.
-    v) Freedom of transit and free movement of project personnel and goods associated with project activities.
-    vi) Government's role in providing for the safety and security of the project.
-    vii) Third party access to the pipeline.
-    viii) National content to ensure employment of Ugandans and supply of goods and services by Ugandans.
-    ix) Applicable Environmental, Health and Safety (EHS) standards, and 
-    x) Co-operation to ensure facilitation of financing of the project.
+Commitment of each party to ensure the implementation of the project within the agreed timelines.
+The tariff for the crude oil transported through the pipeline of $12.77 per barrel, to be paid by the shippers. (Those are the owners of the crude oil and this includes Uganda.) 
+Protection of investments, including provisions concerning expropriation and nationalisation.
+Granting of land rights and necessary consents, permits and authorisations.
+Freedom of transit and free movement of project personnel and goods associated with project activities.
+Government's role in providing for the safety and security of the project.
+Third party access to the pipeline.
+National content to ensure employment of Ugandans and supply of goods and services by Ugandans.
+Applicable Environmental, Health and Safety (EHS) standards, and 
+Co-operation to ensure facilitation of financing of the project.
 
 I wish to lay on the Table, before the House, a copy of the Host Government Agreement for the EACOP project. I beg to lay.
 
@@ -93,19 +93,19 @@ The TTA defines the framework under which oil will be transported including the 
 
 The key aspects covered by this agreement include but are not limited to:
 
-    1. Responsibility for facilities details the obligations of the transporter to construct, install, test, commission and operate the EACOP system and also the obligations of the crude oil owners to ensure construction and operation of upstream facilities. 
+Responsibility for facilities details the obligations of the transporter to construct, install, test, commission and operate the EACOP system and also the obligations of the crude oil owners to ensure construction and operation of upstream facilities. 
 
-    2. Tariff payment details the obligation by the crude oil owners  to pay the agreed tariff and also the mechanism for invoicing and payment. 
+Tariff payment details the obligation by the crude oil owners  to pay the agreed tariff and also the mechanism for invoicing and payment. 
 
-    3.  Crude oil measurements, tests and analysis.
+ Crude oil measurements, tests and analysis.
 
-    4. Delivery and offtake rights and obligations. 
+Delivery and offtake rights and obligations. 
 
-    5. Quality and off specification crude oil: specifies the specifications expected at the entry of the pipeline and how to treat off-spec crude oil. 
+Quality and off specification crude oil: specifies the specifications expected at the entry of the pipeline and how to treat off-spec crude oil. 
 
-    6. Sanctions: stipulates treatment of parties or any party that faces international sanctions that could hinder the operations of the project; and 
+Sanctions: stipulates treatment of parties or any party that faces international sanctions that could hinder the operations of the project; and 
 
-    7. Compensation for crude oil lost during transportation. It was agreed that in the event of loss of crude oil in the EACOP system beyond the allowable system operational losses, the transporter, EACOP company, shall compensate the Government of Uganda. 
+Compensation for crude oil lost during transportation. It was agreed that in the event of loss of crude oil in the EACOP system beyond the allowable system operational losses, the transporter, EACOP company, shall compensate the Government of Uganda. 
 
 I wish to lay on Table a copy of the Tariff and Transportation Agreement for the EACOP project. I beg to lay.
 
@@ -113,10 +113,10 @@ The Shareholders Agreement (SHA)
 
 This agreement was signed between the EACOP company and the shareholders who are:
 
-    1. The National Pipeline Company Uganda Limited (wholly owned subsidiary of UNOC). So, this is our company within the UNOC. 
-    2. Tanzania Petroleum Development Corporation (TPDC). 
-    3. Total Holdings International B.V (Total Shareholder), and 
-    4. China National Offshore Oil Company Shareholder (CNOOC).
+The National Pipeline Company Uganda Limited (wholly owned subsidiary of UNOC). So, this is our company within the UNOC. 
+Tanzania Petroleum Development Corporation (TPDC). 
+Total Holdings International B.V (Total Shareholder), and 
+China National Offshore Oil Company Shareholder (CNOOC).
 
 The Shareholders Agreement describes how the EACOP company shall be operated and defines shareholders' rights and obligations. The Shareholders Agreement covers aspects such as the mechanisms for approval and settlement of the historical costs, transfer to EACOP company of activities arising out of the historical activities, conditions for the Shareholders Agreement completion, governance structure, board matters, senior management and other staff, budgeting, financing arrangements, equity contribution mechanism, events of default and remedies, governing law and dispute resolution, among others.
 
@@ -124,33 +124,33 @@ Rt. Hon Speaker, I wish to inform you that this particular agreement was initial
 
 The shareholding is as follows: 
 
-    1.  Uganda National Oil Company (Government of Uganda Shareholder) is 15 per cent.
-    2. Tanzania Petroleum Development Corporation (TPDC) is either equal to or less than 15 per cent.
-    3. CNOOC Shareholder is eight percent. 
-    4. Total East Africa Midstream B.V is 62 per cent.
+ Uganda National Oil Company (Government of Uganda Shareholder) is 15 per cent.
+Tanzania Petroleum Development Corporation (TPDC) is either equal to or less than 15 per cent.
+CNOOC Shareholder is eight percent. 
+Total East Africa Midstream B.V is 62 per cent.
 
 I wish to inform you that Government of Tanzania represented by TPDC has a right to reduce its 15 per cent shareholding downwards to a minimum of five per cent within 30 days after signature date of the Shareholders Agreement. If TPDC elects such reduction, then –
 
-    1. CNOOC will have the first right to take up any percentage so released; and
-    2. thereafter, Total will take up any remaining percentage such that the overall shareholding totals to 100 per cent. 
+CNOOC will have the first right to take up any percentage so released; and
+thereafter, Total will take up any remaining percentage such that the overall shareholding totals to 100 per cent. 
 
 The Shareholders Agreement provides for the terms and conditions under which the shareholders will invest in the EACOP company including, but not limited to, the following:
 
-    a) The manner in which the equity contributions will be made by the shareholders to ensure successful completion of construction of the EACOP system. 
+The manner in which the equity contributions will be made by the shareholders to ensure successful completion of construction of the EACOP system. 
 
-    b) The level of participation of each shareholder with UNOC taking a 15 per cent stake through its wholly owned subsidiary, the National Pipeline Company Uganda Limited. 
+The level of participation of each shareholder with UNOC taking a 15 per cent stake through its wholly owned subsidiary, the National Pipeline Company Uganda Limited. 
 
-    c) A mechanism through which the project development costs (historical costs) borne by the shareholders prior to the incorporation of the EACOP company shall be reimbursed to such shareholders by the company. 
+A mechanism through which the project development costs (historical costs) borne by the shareholders prior to the incorporation of the EACOP company shall be reimbursed to such shareholders by the company. 
 
-    d) How the EACOP project will be financed. The agreed projection is a 60 to 40 debt to equity ratio. EACOP company has kicked off the process of sourcing for project financing. It is important to note that prior to draw down on any project financing, the shareholders will be investing the equity proportional to their respective shareholding. 
+How the EACOP project will be financed. The agreed projection is a 60 to 40 debt to equity ratio. EACOP company has kicked off the process of sourcing for project financing. It is important to note that prior to draw down on any project financing, the shareholders will be investing the equity proportional to their respective shareholding. 
 
-    e) A mechanism through which shares may be transferred amongst shareholders and from shareholders to third parties. 
+A mechanism through which shares may be transferred amongst shareholders and from shareholders to third parties. 
 
-    f) The governance mechanism for management of the EACOP company's affairs including board and shareholder decisions. 
+The governance mechanism for management of the EACOP company's affairs including board and shareholder decisions. 
 
-    g) Composition, appointment, and removal of the board of directors and senior management of the project company, and 
+Composition, appointment, and removal of the board of directors and senior management of the project company, and 
 
-    h) Tax treatment of payments due to shareholders from the project company. 
+Tax treatment of payments due to shareholders from the project company. 
 
 I wish to lay on Table a copy of the Shareholders Agreement for the EACOP project. I beg to lay. 
 
@@ -215,13 +215,13 @@ MR MICHEAL MAWANDA (Independent, Igara County East, Bushenyi): Thank you, Madam 
 
 Madam Speaker, oil is a finite resource. If we do not handle it properly, we might end up losing as a country. The areas I would like the minister to come back to us so that we can have time to discuss are:
 
-    i) Readiness of Uganda to benefit from this finite resource.
+Readiness of Uganda to benefit from this finite resource.
 
-    ii) Skilling of Ugandans. It is a specialised sector and it needs specialized labour. To what extent has Uganda prepared its citizens to be able to benefit from this?
+Skilling of Ugandans. It is a specialised sector and it needs specialized labour. To what extent has Uganda prepared its citizens to be able to benefit from this?
 
-    iii) She talked about harmonisation of the laws. It is a long process but how ready are they and how far have they gone in preparing the laws that will prepare Ugandans to benefit from this resource.
+She talked about harmonisation of the laws. It is a long process but how ready are they and how far have they gone in preparing the laws that will prepare Ugandans to benefit from this resource.
 
-    iv) The local content; have we ring-fenced some of the jobs, activities to be specifically done by Ugandans? When you open up, these people have brought their own money; they will say, “As long as we have brought our own money, we shall not be given conditions of how our money will be spent”.
+The local content; have we ring-fenced some of the jobs, activities to be specifically done by Ugandans? When you open up, these people have brought their own money; they will say, “As long as we have brought our own money, we shall not be given conditions of how our money will be spent”.
 
 Madam Speaker, if you can allow the ministry to come back to us so that Parliament is given enough time so that we can in detail discuss these issues. Thank you very much.
 
@@ -412,13 +412,13 @@ MR ONGALO-OBOTE: Rule 41; Prime Minister’s Time
 
 Insert new sub-rules, immediately after sub-rule (2) as follows:
 
-        (i) Questions to the Prime Minister shall be made in writing and submitted to the Clerk.
+Questions to the Prime Minister shall be made in writing and submitted to the Clerk.
 
-        (ii) The Clerk shall enter all the questions in the Prime Minister’s Questions records book; and select 15 questions by raffle, which shall be forwarded to the Prime Minister.
+The Clerk shall enter all the questions in the Prime Minister’s Questions records book; and select 15 questions by raffle, which shall be forwarded to the Prime Minister.
 
-        (iii) The Prime Minister shall provide written responses, copied to the relevant members, and respond to these questions during the Prime Minister’s Question Time.
+The Prime Minister shall provide written responses, copied to the relevant members, and respond to these questions during the Prime Minister’s Question Time.
 
-        (iv) The Clerk shall publish a list of all questions and the responses made every month.
+The Clerk shall publish a list of all questions and the responses made every month.
 
 Justification
 
@@ -742,19 +742,19 @@ Substitute rule 47 with the following: 
 
 “47 Manner of asking and answering questions 
 
-        (i) During question time, the Speaker shall call successively each member in whose names a question stands on the Order Paper.
+During question time, the Speaker shall call successively each member in whose names a question stands on the Order Paper.
 
-        (ii) The member called upon shall rise and read out the number assigned to the question against his or her name on the Order Paper.
+The member called upon shall rise and read out the number assigned to the question against his or her name on the Order Paper.
 
-        (iii)  In the absence of the member asking the question, any member authorised by the member may, with the Speaker’s prior permission, read the number of the question on behalf of the absent member.
+ In the absence of the member asking the question, any member authorised by the member may, with the Speaker’s prior permission, read the number of the question on behalf of the absent member.
 
-        (iv) The answer to any question shall be printed and a copy of it supplied to the member asking it not less than 15 minutes before the time fixed for the sitting at which the question is to be answered, and the answer shall be read by the member to whom the question is addressed or by the member acting for the member to whom the question is addressed.
+The answer to any question shall be printed and a copy of it supplied to the member asking it not less than 15 minutes before the time fixed for the sitting at which the question is to be answered, and the answer shall be read by the member to whom the question is addressed or by the member acting for the member to whom the question is addressed.
 
-        (v) The reply to a question shall be limited to three minutes. However, if the Speaker considers that the matter is of sufficient importance, up to an additional two minutes may be added to this time.
+The reply to a question shall be limited to three minutes. However, if the Speaker considers that the matter is of sufficient importance, up to an additional two minutes may be added to this time.
 
-        (vi) Without prejudice to the right to answer a question, no member shall address the House upon any question nor in asking the question, shall any argument or opinion be offered.
+Without prejudice to the right to answer a question, no member shall address the House upon any question nor in asking the question, shall any argument or opinion be offered.
 
-        (vii) When any question has been asked and answered, no debate on it shall be permitted.” 
+When any question has been asked and answered, no debate on it shall be permitted.” 
 
 Justification
 
@@ -782,11 +782,11 @@ Here we propose to substitute rule 48 with the following:
 
 “Rule 48 Supplementary questions
 
-    (1) As soon as a question is answered in the House, any member starting with the member who asked the question may, without notice, ask a supplementary question for the further elucidation of any matter or fact regarding the answer, which has been given.
+As soon as a question is answered in the House, any member starting with the member who asked the question may, without notice, ask a supplementary question for the further elucidation of any matter or fact regarding the answer, which has been given.
 
-    (2) Supplementary questions shall arise directly from the answer to the original question, and shall not be used to introduce matters not included in the original answer to the question.
+Supplementary questions shall arise directly from the answer to the original question, and shall not be used to introduce matters not included in the original answer to the question.
 
-    (3) The reply to each supplementary question shall, except with the permission of the Speaker, be limited to two minutes.”
+The reply to each supplementary question shall, except with the permission of the Speaker, be limited to two minutes.”
 
 Justification
 
@@ -804,15 +804,15 @@ MR ONGALO-OBOTE: Manner of asking and answering questions. In this we propose to
 
 “Notice of urgent questions 
 
-    (1) A question shall not be asked without notice unless it is of an urgent nature relating either to a matter of public importance or the arrangement of business.
+A question shall not be asked without notice unless it is of an urgent nature relating either to a matter of public importance or the arrangement of business.
 
-    (2) Questions without notice shall only be asked with the prior leave of the Speaker.
+Questions without notice shall only be asked with the prior leave of the Speaker.
 
-    (3) The Speaker shall determine the admissibility of a question in accordance with rule 44.
+The Speaker shall determine the admissibility of a question in accordance with rule 44.
 
-    (4) Where the Speaker is of the opinion that any question, which a member has sought leave to ask without notice infringes on any of the conditions set out in this rule, the Speaker may direct that it be printed or asked with such alterations as he or she shall direct or that it be returned to as he or she shall direct.
+Where the Speaker is of the opinion that any question, which a member has sought leave to ask without notice infringes on any of the conditions set out in this rule, the Speaker may direct that it be printed or asked with such alterations as he or she shall direct or that it be returned to as he or she shall direct.
 
-    (5) Where the Speaker has refused to admit any question under this rule, the member bringing the question is entitled to appeal in writing to the Business Committee for a decision.”
+Where the Speaker has refused to admit any question under this rule, the member bringing the question is entitled to appeal in writing to the Business Committee for a decision.”
 
 THE SPEAKER: Honourable members, I put the question that rule 49 be amended as proposed.
 
@@ -828,13 +828,13 @@ Substitute for rule 50 the following”
 
 “Rule 50 Ministers to attend the House to answer questions
 
-    (1) A minister shall attend sittings of the House to answer questions asked of him or her. 
+A minister shall attend sittings of the House to answer questions asked of him or her. 
 
-    (2) Question time to ministers shall ordinarily not exceed two hours except that the Speaker may, in exceptional cases, exercise his or her discretion and permit questions after the expiry of two hours.
+Question time to ministers shall ordinarily not exceed two hours except that the Speaker may, in exceptional cases, exercise his or her discretion and permit questions after the expiry of two hours.
 
-    (3) The questions shall be asked on Wednesdays and Thursdays of the week of the sitting of Parliament, and
+The questions shall be asked on Wednesdays and Thursdays of the week of the sitting of Parliament, and
 
-    (4) It shall be disorderly conduct of a member to fail to ask or for a minister to fail to answer a question listed on the Order Paper without the leave of the Speaker.”
+It shall be disorderly conduct of a member to fail to ask or for a minister to fail to answer a question listed on the Order Paper without the leave of the Speaker.”
 
 Justification
 
@@ -868,13 +868,13 @@ Rule 51
 
 MR ONGALO-OBOTE: Rule 51 Statement by ministers.
 
-    a) Sub-rule (1)
+Sub-rule (1)
 
 Delete the words “on the sequence of business prescribed by rule 25” appearing in lines two and three.
 
 The justification is for clarity.
 
-    b) New sub-rule
+New sub-rule
 
 Insert a new sub-rule, immediately after sub-rule (3), as follows:
 
@@ -905,43 +905,43 @@ Rule 142
 
 MR ONGALO-OBOTE: Rule 142 Bills returned by President
 
-    a) Subrule (1)
+Subrule (1)
 
 Substitute for subrule (1) the following:
 
 “Where a Bill passed by the House is returned to the House by the President with a request that the House reconsiders the Bill or a particular provision of it or any such amendments, as recommended in his or her request, the Speaker shall read the request of the President or, if the House is not in session, direct that the message be published in the Gazette”.
 
-    b) Sub-rule (2)
+Sub-rule (2)
 
 Substitute for sub-rule (2) the following:
 
 “(2) The Speaker shall refer the Bill to the relevant committee, which shall consider the recommendations of the President and report to the House within two weeks.”
 
-    c) Sub-rule (3)
+Sub-rule (3)
 
 Substitute for sub-rule (3) the following: 
 
 “The minister, in the case of a Government Bill or a member, in case of a private member’s Bill, shall move a motion for reconsideration of the Bill by the House.”
 
-    d) New sub-rule
+New sub-rule
 
 Insert a new sub-rule, immediately after sub-rule (4), as follows:
 
 “Where the motion for reconsideration is not carried, the request by the President shall be taken to have been considered and rejected, and the Bill, as originally passed by the House, shall be presented to the President for assent.”
 
-    e) Subrule (6)
+Subrule (6)
 
 Substitute for sub-rule (6) the following:
 
 “When all the amendments have been disposed of, the minister, in case of a Government Bill or a member, in case of a private member’s Bill, may move that the Bill be passed again or passed as amended, as the case may be.”
 
-    f) Sub-rule (7)
+Sub-rule (7)
 
 Substitute for sub-rule (7), the following:
 
 “(7) Where the Bill is passed it shall be presented to the President, indicating whether it was passed, with or without amendment.”
 
-    g) Sub-rule (8)
+Sub-rule (8)
 
 Substitute for sub-rule (8), the following:
 
@@ -1034,15 +1034,15 @@ MR ONGALO-OBOTE: Insert a new rule immediately after Rule 151 as follows:
 
 “Consideration of supplementary estimates
 
-    (1) The Minister of Finance, Planning and Economic Development shall, in accordance to Article 156(2) of the Constitution and Section 2(5) of the Public Finance Management Act, present before Parliament supplementary estimates on behalf of the President. 
+The Minister of Finance, Planning and Economic Development shall, in accordance to Article 156(2) of the Constitution and Section 2(5) of the Public Finance Management Act, present before Parliament supplementary estimates on behalf of the President. 
 
-    (2) The supplementary estimates presented in sub-rule (1) shall clearly spell out the sources of funding for the supplementary expenditure request for each vote.
+The supplementary estimates presented in sub-rule (1) shall clearly spell out the sources of funding for the supplementary expenditure request for each vote.
 
-    (3) The Speaker shall commit the proposed supplementary estimates to the Committee on Budget and to each sectoral committee the part of the supplementary that falls within the jurisdiction of the respective sectoral committees.
+The Speaker shall commit the proposed supplementary estimates to the Committee on Budget and to each sectoral committee the part of the supplementary that falls within the jurisdiction of the respective sectoral committees.
 
-    (4) The sectoral committees shall report back to the Committee on Budget within 14 days.
+The sectoral committees shall report back to the Committee on Budget within 14 days.
 
-    (5) The Committee on Budget shall then present the report on the supplementary budget request to the House.”
+The Committee on Budget shall then present the report on the supplementary budget request to the House.”
 
 Justification
 
@@ -1058,45 +1058,45 @@ MR ONGALO-OBOTE: Insert a new rule immediately after Rule 152 as follows:
 
 “Consideration of loans and guarantees
 
-    (1) The Minister of Finance, Planning and Economic Development shall, in accordance to Article 159 of the Constitution and Sections 36 and 39 of the Public Finance Management Act, present to Parliament the proposed loan guarantee request for approval.
+The Minister of Finance, Planning and Economic Development shall, in accordance to Article 159 of the Constitution and Sections 36 and 39 of the Public Finance Management Act, present to Parliament the proposed loan guarantee request for approval.
 
-    (2) The Speaker shall commit the proposed loan or guarantee request to the Committee on National Economy and to the relevant sectoral committee, to which the subject matter of the request falls.
+The Speaker shall commit the proposed loan or guarantee request to the Committee on National Economy and to the relevant sectoral committee, to which the subject matter of the request falls.
 
-    (3) The sectoral committee shall report to the Committee on National Economy within 14 days.
-
-
-    (4) The Committee on National Economy shall then present the report on the loan or guarantee request to the House.
-
-    (5) With exception of loans raised through issuance of securities, any loan request submitted before Parliament for approval, shall be accompanied by the following documents:
+The sectoral committee shall report to the Committee on National Economy within 14 days.
 
 
-        (a) Draft financing agreement;
-        (b) List of financing options considered when identifying the creditor;
-        (c) Loan disbursement and repayment schedule; and
-        (d) A letter from the National Planning Authority clearing the project or expenditure.
+The Committee on National Economy shall then present the report on the loan or guarantee request to the House.
 
-    6. Where a loan is raised through issuance of securities, the documents under sub-section (3) (b) to (d) shall apply. 
+With exception of loans raised through issuance of securities, any loan request submitted before Parliament for approval, shall be accompanied by the following documents:
 
-    7. Where a loan is a project specific loan, the following documents shall, in addition to the documents required under sub-section (3), accompany the loan request:
-        (a) Socio-economic assessment impact report;
-        (b) Performance reports for all the projects being implemented by the sector;
-        (c) Evidence of consistence with NDP and sector strategy;
-        (d) Evidence of availability of counterpart funds in the budget;
-        (e) Project appraisal documents;
-        (f) Procurement plan;
-        (g) Project implementation plan;
-        (h) Project management structure;
-        (i) Resettlement action plan where applicable;
-        (j) Environmental Impact Assessment report, where applicable; and
-        (k) Any other necessary documents.”
+
+Draft financing agreement;
+List of financing options considered when identifying the creditor;
+Loan disbursement and repayment schedule; and
+A letter from the National Planning Authority clearing the project or expenditure.
+
+Where a loan is raised through issuance of securities, the documents under sub-section (3) (b) to (d) shall apply. 
+
+Where a loan is a project specific loan, the following documents shall, in addition to the documents required under sub-section (3), accompany the loan request:
+Socio-economic assessment impact report;
+Performance reports for all the projects being implemented by the sector;
+Evidence of consistence with NDP and sector strategy;
+Evidence of availability of counterpart funds in the budget;
+Project appraisal documents;
+Procurement plan;
+Project implementation plan;
+Project management structure;
+Resettlement action plan where applicable;
+Environmental Impact Assessment report, where applicable; and
+Any other necessary documents.”
 
 Justification
 
-    1. To clearly provide that loans for domestic borrowing do not need to submit to terms and conditions as per Section 36(5) of the Public Finance Management Act, with regard to terms and conditions of loans being laid before Parliament.
+To clearly provide that loans for domestic borrowing do not need to submit to terms and conditions as per Section 36(5) of the Public Finance Management Act, with regard to terms and conditions of loans being laid before Parliament.
 
-    2. To ensure options and disbursement schedule for domestic borrowing is provided, and only terms excluded.
+To ensure options and disbursement schedule for domestic borrowing is provided, and only terms excluded.
 
-    3. To ensure that any project meets these requirements.
+To ensure that any project meets these requirements.
 
 THE SPEAKER: Honourable members, I put the question that a new rule be introduced as proposed –
 
@@ -1138,9 +1138,9 @@ For subrule (1), substitute the word “two’ with the word “one”.
 
 Justification
 
-    i) To cater for the ramifications of the increasing number of Members of Parliament such as space constraints. With the expected 547 members, belonging to one committee will have each committee with about 19 members, which is a manageable size for efficiency and effectiveness.
+To cater for the ramifications of the increasing number of Members of Parliament such as space constraints. With the expected 547 members, belonging to one committee will have each committee with about 19 members, which is a manageable size for efficiency and effectiveness.
 
-    ii) Conflicting schedule of sectoral and standing committees leave members with divided attention.
+Conflicting schedule of sectoral and standing committees leave members with divided attention.
   
 Mr oseku: Thank you, Madam Speaker. In order for Parliament to be abreast with business of Government, it is better that members remain belonging to both committees so that they have the experience and exposure and can be able to relate business from sessional and standing committees.
 
@@ -1567,7 +1567,7 @@ THE SPEAKER: Rule 178
 
 MR ONGALO-OBOTE: Rule 178: Functions of the Committee on Public Accounts Commissions, Statutory Authorities and State Enterprises
 
-    a. Sub-rule (1)(a) Delete the words, “and in the context of their autonomy and efficiency, ascertain whether their operations are being managed in accordance with the required competence and where applicable, in accordance with sound business principles and prudent commercial policies” appearing immediately after the word “Enterprises” appearing in line three. 
+Sub-rule (1)(a) Delete the words, “and in the context of their autonomy and efficiency, ascertain whether their operations are being managed in accordance with the required competence and where applicable, in accordance with sound business principles and prudent commercial policies” appearing immediately after the word “Enterprises” appearing in line three. 
 
 The justification is for clarity.
 
@@ -1619,7 +1619,7 @@ Rule 179, as amended, agreed to.
 
 MR ONGALO-OBOTE: Rule 181: Functions of the Committee on Human Immunity Deficiency Virus/Acquired Immune Deficiency Syndrome (HIV/AIDS)
 
-    a. Under the headnote, substitute for the words, “immunity deficiency”, the phrase “immuno-deficiency”. 
+Under the headnote, substitute for the words, “immunity deficiency”, the phrase “immuno-deficiency”. 
 
 The justification is to correct the phraseology of “immuno-deficiency”.
 
@@ -1665,11 +1665,11 @@ Rule 183, as amended, agreed to.
 
 MR ONGALO-OBOTE: Rule 185: Functions of sectoral committees
 
-    a. Paragraph (b) 
+Paragraph (b) 
 
 Delete the word “those” appearing in line three of paragraph (b).
 
-    b. Paragraph (c)
+Paragraph (c)
 
 Substitute for paragraph (c), the following –
 
@@ -1683,11 +1683,11 @@ Delete the word “critically” appearing in line one of paragraph (d).
 
 The justification is that the word “critically” is implied in the word “examine” and in committee processes.
 
-    c. Paragraph (e)
+Paragraph (e)
 
 Substitute for the words “ministries and departments”, the words “ministries, departments and agencies”.
 
-    d. Paragraph (f)
+Paragraph (f)
 
 Substitute for the word “ensure”, the word with “monitor”.
 
@@ -1783,13 +1783,13 @@ MR ONGALO-OBOTE: Rules 195 and 196 should be merged under the headnote;
 
 “Instructions to committees.
 
-    a) Subject to any instruction by the House, the deliberations of every committee shall be confined to the matter referred to it by the House and in case of a committee on a Bill to the Bill committed to it and any relevant amendments.
+Subject to any instruction by the House, the deliberations of every committee shall be confined to the matter referred to it by the House and in case of a committee on a Bill to the Bill committed to it and any relevant amendments.
 
-    b) Subject to sub-rule 4, instruction to a committee may empower a committee to consider matters not otherwise referred to it.
+Subject to sub-rule 4, instruction to a committee may empower a committee to consider matters not otherwise referred to it.
 
-    c) No instruction shall be given to a committee to do what it is already empowered to do or to deal with a question beyond the scope of a Bill or a matter referred to it.
+No instruction shall be given to a committee to do what it is already empowered to do or to deal with a question beyond the scope of a Bill or a matter referred to it.
 
-    d) An instruction to a committee extending or restricting the order of reference maybe moved in the House after notice on any day prior to the report of the committee.”
+An instruction to a committee extending or restricting the order of reference maybe moved in the House after notice on any day prior to the report of the committee.”
 
 The justification is for better certainty.
 
@@ -1841,7 +1841,7 @@ Rule 209
 
 MR ONGALO-OBOTE: Rule 209: Examination on oath or affirmation. Insert a new sub-rule immediately after sub-rule (2) as follows:
 
-    1. The oath or affirmation under this rule is prescribed under Appendix H to this rule.
+The oath or affirmation under this rule is prescribed under Appendix H to this rule.
 
  “(2) The oath or affirmation under this rule is prescribed under Appendix H to these rules.”
 
@@ -1873,13 +1873,13 @@ Rule 212
 
 MR ONGALO: Rule 212: Withdrawal of documents before Committees
 
-        a) New sub-rule
+New sub-rule
 
 Insert a new sub-rule, immediately before sub-rule (1), as follows:
 
 “The clerk to the committee shall receive all documents on behalf of the Committee.”
 
-        b) Sub-rule (2)
+Sub-rule (2)
 
 Substitute for sub-rule (2), the following:
 
@@ -2339,9 +2339,9 @@ Substitute for sub-rule (2) the following – 
 
 A person is not qualified to be elected Speaker if he or she:
 
-    a) Is a Vice-President, Prime Minister or a minister, or
+Is a Vice-President, Prime Minister or a minister, or
 
-    b) Campaigns or causes campaigns for his or her election, save for the procedure provided for under sub-rule 8.
+Campaigns or causes campaigns for his or her election, save for the procedure provided for under sub-rule 8.
 
 Justification
 
@@ -2355,7 +2355,7 @@ Justification
 
 To ensure consistent usage of the phrase person presiding as defined under rule 5(16) and as used in sub-rules 12, 13(b),(c),(f) and (g)
 
-    c. New sub-rule
+New sub-rule
 
 Insert a new sub-rule immediately after sub-rule 16 as follows – 
 
@@ -2487,16 +2487,16 @@ Insert a new rule, immediately after rule 7 as follows:
 
 Resignation of Speaker or Deputy Speaker
 
-    1. A Speaker or Deputy Speaker, who intends to resign from his or her office, shall submit a letter of resignation, addressed to the Clerk to Parliament.
+A Speaker or Deputy Speaker, who intends to resign from his or her office, shall submit a letter of resignation, addressed to the Clerk to Parliament.
 
-    2. Upon receipt of a letter of resignation, the Clerk to Parliament shall, without delay:
+Upon receipt of a letter of resignation, the Clerk to Parliament shall, without delay:
 
-    a) In the case of resignation by the Speaker, inform the Deputy Speaker or
-    b) In the case of resignation by the Deputy Speaker, inform the Speaker.
+In the case of resignation by the Speaker, inform the Deputy Speaker or
+In the case of resignation by the Deputy Speaker, inform the Speaker.
 
-    3. The Speaker or Deputy Speaker, as the case may be, shall notify the House of their resignation within seven days.
+The Speaker or Deputy Speaker, as the case may be, shall notify the House of their resignation within seven days.
 
-    4. In accordance with rules 5(3) and 6(4), the business of the next sitting of Parliament, after the resignation of the Speaker or Deputy Speaker, shall be the election of the Speaker or Deputy Speaker, as the case may be.
+In accordance with rules 5(3) and 6(4), the business of the next sitting of Parliament, after the resignation of the Speaker or Deputy Speaker, shall be the election of the Speaker or Deputy Speaker, as the case may be.
 
 The justification is to provide for the procedure of resignation of a Speaker and Deputy Speaker, which the rules are silent about. The rules only provide for the impeachment of the Speaker or the Deputy Speaker, under Rule 107.
 
@@ -2611,17 +2611,17 @@ In August 2016, the Auditor-General conducted a special audit report on the oper
 
 The committees of PAC-COSASE constituted a subcommittee to consider the two special audit reports and investigate the operations and management of properties of DAPCB under the following terms of reference:
 
-    i) To investigate the allegations that some properties of the Asians expelled by H.E. President Idi Amin regime were repossessed yet the owners had been compensated fully by the Government of Uganda;
+To investigate the allegations that some properties of the Asians expelled by H.E. President Idi Amin regime were repossessed yet the owners had been compensated fully by the Government of Uganda;
 
-    ii) To establish the total amount of proceeds from the sale or rent of the properties;
+To establish the total amount of proceeds from the sale or rent of the properties;
 
-    iii) To establish the number of court cases with the Board, how long they have been in courts of law and ascertain those concluded and in whose favour;
+To establish the number of court cases with the Board, how long they have been in courts of law and ascertain those concluded and in whose favour;
 
-    iv) To establish any possible fraudulent activities committed during the repossession of the properties;
+To establish any possible fraudulent activities committed during the repossession of the properties;
 
-    v)  To investigate any other matters incidental to the administration of the DAPCB; and,
+ To investigate any other matters incidental to the administration of the DAPCB; and,
 
-    vi) To propose measures to safeguard the assets against any fraudulent disposal.
+To propose measures to safeguard the assets against any fraudulent disposal.
 
 The committee held meetings with invited stakeholders, reviewed documents and carried out a fact-finding mission to selected districts and travelled to Canada and the United Kingdom to interface with some of the surviving departed Asians and Administrators of those who are deceased.
 
@@ -2629,13 +2629,13 @@ The challenges faced while executing its duties
 
 In the execution of its mandate, the committee faced some technical and logistical challenges. These included:
 
-    i) Disruption of the committee’s progress by individuals through forum shopping. The committee received various petitions from aggrieved parties. However, many of these petitioners were either in court or the cases had been concluded and judgements passed. As such, the committee could neither deliberate on matters in court nor even hear the potential witnesses as this was subjudice.
+Disruption of the committee’s progress by individuals through forum shopping. The committee received various petitions from aggrieved parties. However, many of these petitioners were either in court or the cases had been concluded and judgements passed. As such, the committee could neither deliberate on matters in court nor even hear the potential witnesses as this was subjudice.
 
-    ii) The complexity of investigating the alleged fraud. Fraud being such a discrete vice and further noting that one of the terms of reference of the committee was to establish any possible fraudulent activities committed during the repossession of the properties; and considering that the alleged fraudulent repossessions are said to have been facilitated by different public office holders, inevitably, there arose the need for sophisticated criminal investigative capabilities. 
+The complexity of investigating the alleged fraud. Fraud being such a discrete vice and further noting that one of the terms of reference of the committee was to establish any possible fraudulent activities committed during the repossession of the properties; and considering that the alleged fraudulent repossessions are said to have been facilitated by different public office holders, inevitably, there arose the need for sophisticated criminal investigative capabilities. 
 
 The committee relied on other relevant specialised institutions for information. Subsequently, the timeframe for the completion of the assignment was prolonged;
 
-    iii) Frustration by the Attorney-General. Despite the latitude extended to the Attorney-General by the committee, he never availed the required documentation to aid the work of the committee, despite undertaking to do so on his singular appearance. An example is his failure or refusal to render his opinion on several legal issues agreed upon with the committee.  
+Frustration by the Attorney-General. Despite the latitude extended to the Attorney-General by the committee, he never availed the required documentation to aid the work of the committee, despite undertaking to do so on his singular appearance. An example is his failure or refusal to render his opinion on several legal issues agreed upon with the committee.  
 
 Madam Speaker, if you can allow me to expound a bit on this. When the Attorney-General appeared before the committee, he requested the committee to form a committee between the Parliament, the Custodian Board, and his legal team. We went to Serena–Kigo for six days and came up with opinions, which we agreed upon with his team, that we thought he would append to as opinions and officially hand them over to us but up to date, he refused to assign those legal opinions. 
 
@@ -2681,19 +2681,19 @@ The Custodian Board Divestiture Committee’s handover report dated 20 January 2
 
 Observations 
 
-    1. Section 3 of the Assets of Departed Asians Act (ADAA) and section 2 of the Expropriated Properties Act (EPA) vested all the properties of the Departed Asians in the Government under the management of the DAPCA and the minister responsible for finance.
+Section 3 of the Assets of Departed Asians Act (ADAA) and section 2 of the Expropriated Properties Act (EPA) vested all the properties of the Departed Asians in the Government under the management of the DAPCA and the minister responsible for finance.
 
-    2. Section 12 of the EPA provides for the Government to pay compensation to any former owner, not being a citizen of Uganda, whose property or business is affected by section 9. 
+Section 12 of the EPA provides for the Government to pay compensation to any former owner, not being a citizen of Uganda, whose property or business is affected by section 9. 
 
-    3. Having compensated some departed Asians for their properties, such properties ceased to be properties of the Asian owners within the meaning of the Act and became properties of the Government of Uganda.
+Having compensated some departed Asians for their properties, such properties ceased to be properties of the Asian owners within the meaning of the Act and became properties of the Government of Uganda.
 
-    4.  The said properties compensated for by the Government of Uganda were not subject to the EPA and where a certificate of repossession was issued to a departed Asian who was compensated, the issuance was done in error as fortified by the Attorney-General of Uganda, hon. Bert Katureebe’s legal opinion dated 9 June 1997; refer to Appendix 4 of the comprehensive report.
+ The said properties compensated for by the Government of Uganda were not subject to the EPA and where a certificate of repossession was issued to a departed Asian who was compensated, the issuance was done in error as fortified by the Attorney-General of Uganda, hon. Bert Katureebe’s legal opinion dated 9 June 1997; refer to Appendix 4 of the comprehensive report.
 
 The committee recommends on TOR 1 –
 
-    1. That all Ugandans of Asian or Indian descent for whom compensation was passed to the Indian Government or United Nations have no further claim in Uganda.
+That all Ugandans of Asian or Indian descent for whom compensation was passed to the Indian Government or United Nations have no further claim in Uganda.
 
-    2. The Indians who claim that they did not get paid by their Government when in fact, they were listed for payment, should be advised to contact their Government. 
+The Indians who claim that they did not get paid by their Government when in fact, they were listed for payment, should be advised to contact their Government. 
 
 3. 	Persons found to have fraudulently reclaimed properties for which they had already been compensated should not only lose the property but also be prosecuted for misrepresentation, obtaining property by false pretense and fraudulent acquisition of property, which belongs to the Government of Uganda. 
 
@@ -2779,31 +2779,31 @@ It is perfectly legal, as long as a certificate of repossession has been issued 
 
 Observations
 
-    1. The board continues to issue temporary allocations in respect to repossessed properties, which is blatantly illegal but also explains the continued litigation against the board.
+The board continues to issue temporary allocations in respect to repossessed properties, which is blatantly illegal but also explains the continued litigation against the board.
 
-    2. Failure by DPAC to defend cases in courts of law has caused losses on a lot of cases and as a consequence, funds in costs and damages. Most cases have been in court for two years without any defence being filed by DPAC. 
+Failure by DPAC to defend cases in courts of law has caused losses on a lot of cases and as a consequence, funds in costs and damages. Most cases have been in court for two years without any defence being filed by DPAC. 
 
-    3. The involvement of the Attorney-General comes very late when the damage is already done and legal liability has accrued.
+The involvement of the Attorney-General comes very late when the damage is already done and legal liability has accrued.
 
-    4. The minister’s failure to issue purchase certificates to persons who purchased and paid for the properties, for example Plot 19 Main Street, Jinja also attracts litigations.
+The minister’s failure to issue purchase certificates to persons who purchased and paid for the properties, for example Plot 19 Main Street, Jinja also attracts litigations.
 
 The custodian board, in its defence, reported that it has received little assistance from the Attorney-General’s chambers in terms of defending cases against it.
 
-    1. In response, the Attorney-General, in his singular appearance before the committee, opined that his chambers are under-staffed and fully stretched.
+In response, the Attorney-General, in his singular appearance before the committee, opined that his chambers are under-staffed and fully stretched.
 
-    2. The committee recommends on that term of reference that all investigations into expropriated properties should only be done with the involvement of the office of the Attorney-General.
+The committee recommends on that term of reference that all investigations into expropriated properties should only be done with the involvement of the office of the Attorney-General.
 
-    3. The Attorney-General should immediately designate officers to work with the board in pursuit of the proprietary interest of the board.
+The Attorney-General should immediately designate officers to work with the board in pursuit of the proprietary interest of the board.
 
-    4. In light of the assertion by the Attorney-General to the effect that his office is understaffed, the board should retain a minimum of two private law firms to ensure that all the work of the board is in full compliance with the law and that all suits against it are dealt with in a manner that promotes justice and financial prudence.
+In light of the assertion by the Attorney-General to the effect that his office is understaffed, the board should retain a minimum of two private law firms to ensure that all the work of the board is in full compliance with the law and that all suits against it are dealt with in a manner that promotes justice and financial prudence.
 
-    5. The technical staff of the board should, at all times, act within the limits of the law.
+The technical staff of the board should, at all times, act within the limits of the law.
 
-    6. The technical staff of the board found to have perpetuated circumstances that result in loss as a result of court action should be held liable.
+The technical staff of the board found to have perpetuated circumstances that result in loss as a result of court action should be held liable.
 
-    7. All persons who have fully paid for properties of the board through the recognised legal channels should be immediately issued with the respective certificates of purchase.
+All persons who have fully paid for properties of the board through the recognised legal channels should be immediately issued with the respective certificates of purchase.
 
-    8. All remaining properties in the custody of the board should be immediately disposed of to ensure a smooth closure of the expropriation chapter in the country.
+All remaining properties in the custody of the board should be immediately disposed of to ensure a smooth closure of the expropriation chapter in the country.
 
 Term of reference No. (IV) was to establish any possible fraudulent activities committed during the repossession of the properties.
 
@@ -2840,7 +2840,7 @@ In a letter of Ref. ADM/85/2O7/01, dated 19 February 2021, the Permanent Secreta
 
 Madam Speaker, the committee further established that fraud was orchestrated under the following circumstances:
 
-    1. Letters of repossession being used to transfer title by the former owners, in light of Section 9 of the Expropriated Properties Act (EPA).
+Letters of repossession being used to transfer title by the former owners, in light of Section 9 of the Expropriated Properties Act (EPA).
 
 The allegation under this particular head was that most properties were obtained by letter, rather than the certificate of repossession, as provided for under the Expropriated Properties Act. 
 
@@ -2864,8 +2864,8 @@ It is noteworthy that all parties, whether agents or principles that repossessed
 
 On this understanding, the board, through the Minister of Finance, gazetted some of the properties for management, sale and disposal on numerous occasions, under the following statutory instruments:
 
-    i. The Expropriated (Management) (No. 1) SI. 87-1, and (No. 2) SI 87-2 order;
-    ii. The Expropriated Properties (Management and Disposal) Order SI 87-3;
+The Expropriated (Management) (No. 1) SI. 87-1, and (No. 2) SI 87-2 order;
+The Expropriated Properties (Management and Disposal) Order SI 87-3;
 iii. 	The Expropriated Properties (Sale and Disposal) (Replacement) Order SI 87-4;
 iv. 	The Expropriated Properties (Repossession and Disposal) (No. 1) Regulations SI 87-8 to (No. 2) Regulations SI 87-9
 
@@ -2875,13 +2875,13 @@ An example is the properties repossessed by Mr Balbinder Singh, who repossessed 
 
 Madam Speaker, the committee, having observed the above, went ahead to recommend the following on that term of reference: 
 
-    1. All repossessions, whose former owners did not physically return to manage the properties, as required by law, should be cancelled or revoked for being null and void.
+All repossessions, whose former owners did not physically return to manage the properties, as required by law, should be cancelled or revoked for being null and void.
 
-    2. The minister should invoke his or her powers, under Section 9(1) of the EPA, to make an order to either retain such properties as Government or the same be disposed of in a manner prescribed by Regulation 11 of the Expropriated Properties (Repossession and Disposal) Regulation, SI 6/ 83.
+The minister should invoke his or her powers, under Section 9(1) of the EPA, to make an order to either retain such properties as Government or the same be disposed of in a manner prescribed by Regulation 11 of the Expropriated Properties (Repossession and Disposal) Regulation, SI 6/ 83.
 
-    3. All transfers of ownership that were done, on the basis of letters of repossession, be revoked and the same be regularised by acquisition of the registrable instruments being repossession certificates.
+All transfers of ownership that were done, on the basis of letters of repossession, be revoked and the same be regularised by acquisition of the registrable instruments being repossession certificates.
 
-    4. Where a repossession certificate was acquired fraudulently, the perpetrators should be prosecuted for misrepresentation and fraudulent acquisition of property and subsequently, the repossession certificate be cancelled and the property revert to Government.
+Where a repossession certificate was acquired fraudulently, the perpetrators should be prosecuted for misrepresentation and fraudulent acquisition of property and subsequently, the repossession certificate be cancelled and the property revert to Government.
 
 Properties whose repossession certificates were withdrawn by the Minister of Finance in the Uganda Gazette of 8 November 1991
 
@@ -2913,19 +2913,19 @@ Another example is Plot 3, Portal Avenue where Custodian Board sits. All the doc
 
 After such observations, the committee recommends that:
 
-    1. All such properties whose certificates of repossession were recalled by the minister be immediately recovered and brought back to the Government of Uganda. 
+All such properties whose certificates of repossession were recalled by the minister be immediately recovered and brought back to the Government of Uganda. 
 
-    2. All certificates of title issued on such properties should be immediately cancelled and the register of titles be corrected to reflect the ownership prior to the purported repossessions.
+All certificates of title issued on such properties should be immediately cancelled and the register of titles be corrected to reflect the ownership prior to the purported repossessions.
 
-    3. All parties claiming to be bona fide purchasers for value without notice in respect to properties whose certificates were withdrawn should seek compensation from the persons that sold the properties to them as the sellers or vendors of such properties did not have good title to pass on.
+All parties claiming to be bona fide purchasers for value without notice in respect to properties whose certificates were withdrawn should seek compensation from the persons that sold the properties to them as the sellers or vendors of such properties did not have good title to pass on.
 
-    4. The subsequent transactions and transfers after the withdrawal of the certificate of title by the minister are null and void ab initio.
+The subsequent transactions and transfers after the withdrawal of the certificate of title by the minister are null and void ab initio.
 
-    5. DAPCB should, upon adoption of this report, institute the processes to recover these properties from the current illegal holders. 
+DAPCB should, upon adoption of this report, institute the processes to recover these properties from the current illegal holders. 
 
-    6. All properties whose repossession were recalled by the minister and gazetted and are currently being rented by Government itself, including but not limited to Plot 1 Parliamentary Avenue among others, should be allocated to Government agencies. 
+All properties whose repossession were recalled by the minister and gazetted and are currently being rented by Government itself, including but not limited to Plot 1 Parliamentary Avenue among others, should be allocated to Government agencies. 
 
-    7. The Minister of Finance, Planning and Economic Development should, within three months after adoption of this report, report to Parliament on the recovery processes.
+The Minister of Finance, Planning and Economic Development should, within three months after adoption of this report, report to Parliament on the recovery processes.
 
 The committee would like to inform the House that from its investigation, it was able to ascertain a total of 38 repossession certificates that had been issued by the Minister of Finance, Planning and Economic Development as required by law but were not picked by the former owners in favour of whom the same had been issued.
 
@@ -2943,11 +2943,11 @@ The committee has comprehensively enumerated how the fraud in both cases was orc
 
 Recommendations on Temangalo Land Fraud
 
-    1. Noting that this matter has, over the years, been raising a lot of anxiety among workers with the fear of losing their money, and further aware that the Government of Uganda has a Constitutional obligation to ensure that the property comprised in LRV 6 Folio 7 is handed over to its legitimate owners being M/s Temangalo Tea Estates to enjoy a quiet possession of the same, the National Social Security Fund should negotiate with the legitimate owners of the same within 45 days for a mutual settlement and a progress report brought to the House within the stated time. 
+Noting that this matter has, over the years, been raising a lot of anxiety among workers with the fear of losing their money, and further aware that the Government of Uganda has a Constitutional obligation to ensure that the property comprised in LRV 6 Folio 7 is handed over to its legitimate owners being M/s Temangalo Tea Estates to enjoy a quiet possession of the same, the National Social Security Fund should negotiate with the legitimate owners of the same within 45 days for a mutual settlement and a progress report brought to the House within the stated time. 
 
-    2. The questionable transactions in the Temangalo land perpetrated by A.K Mawanda, Amos Nzeyi and officials in the Ministry of Lands, Housing and Urban Development involved in the fraud should be investigated and if found liable, be prosecuted for perpetrating and committing fraud.
+The questionable transactions in the Temangalo land perpetrated by A.K Mawanda, Amos Nzeyi and officials in the Ministry of Lands, Housing and Urban Development involved in the fraud should be investigated and if found liable, be prosecuted for perpetrating and committing fraud.
 
-    3. NSSF should proceed against Amos Nzeyi for loss and damage through any means provided for by law, for having sold to them land on the basis of falsified documents aided by some unscrupulous officials in the Ministry of Lands, Housing and Urban Development. When you read the report, you will see how he did that forgery. 
+NSSF should proceed against Amos Nzeyi for loss and damage through any means provided for by law, for having sold to them land on the basis of falsified documents aided by some unscrupulous officials in the Ministry of Lands, Housing and Urban Development. When you read the report, you will see how he did that forgery. 
 
 Madam Speaker, on Namwambula Estate, the committee recommends that the Government should deal with the rightful owner and nullify any transaction with Mulowoza and Brothers Limited. Further, all monies transferred to Mulowoza and Brothers Limited should be recovered.
 
@@ -3101,13 +3101,13 @@ When the districts have dealt in those properties, and the money which accrued f
 
 Recommendations
 
-    1. The committee recommends that all titles issued by district land boards without authority in respect of expropriated properties should be cancelled for being void ab initio.
+The committee recommends that all titles issued by district land boards without authority in respect of expropriated properties should be cancelled for being void ab initio.
 
-    2. Government should re-capitalise the Departed Asians Special Fund from which money for compensations to former owners will be paid.
+Government should re-capitalise the Departed Asians Special Fund from which money for compensations to former owners will be paid.
 
-    3. Moving forward, any Government official involved in dealing with these properties without the express instructions from the Minister responsible for Finance, Planning and Economic Development and the Board should be personally held liable and prosecuted.
+Moving forward, any Government official involved in dealing with these properties without the express instructions from the Minister responsible for Finance, Planning and Economic Development and the Board should be personally held liable and prosecuted.
 
-    4. The DAPCB should furnish all district land boards with an inventory or list of all properties vested in the DAPCB that exist in respective districts.
+The DAPCB should furnish all district land boards with an inventory or list of all properties vested in the DAPCB that exist in respective districts.
 
 Properties of the custodian board under districts jurisdictions
 
@@ -3117,9 +3117,9 @@ Cognisant of the new developments that the Government has undertaken to elevate 
 
 With that observation, the committee recommends that:
 
-    i) The board should in a period not exceeding six months from the date of adoption of this report, value and dispose of all expropriated properties that Government does not intend to use.
+The board should in a period not exceeding six months from the date of adoption of this report, value and dispose of all expropriated properties that Government does not intend to use.
 
-    ii) Sitting tenants should be given first priority to purchase the properties subject of the disposal. In this case, the option to purchase should be accepted within not more than a month from the time of offer whereupon payment terms may be agreed.
+Sitting tenants should be given first priority to purchase the properties subject of the disposal. In this case, the option to purchase should be accepted within not more than a month from the time of offer whereupon payment terms may be agreed.
 
 
 
@@ -3149,11 +3149,11 @@ Even then, by his own testimony he admits to not having enough attorneys to hand
 
 With view of the above the committee recommends that;
 
-    1. The Expropriated Properties Act be amended to reflect the current legal position and precedents that have been made by courts of law.
+The Expropriated Properties Act be amended to reflect the current legal position and precedents that have been made by courts of law.
 
-    2. The minister should properly exercises his statutory responsibility to supervise, direct and guide the operations of the board, and furnishes quarterly reports to Parliament until such a time as the DAPCB is finally wound up.
+The minister should properly exercises his statutory responsibility to supervise, direct and guide the operations of the board, and furnishes quarterly reports to Parliament until such a time as the DAPCB is finally wound up.
 
-    3. The DAPCB should engage at least two law firms to not only handle the litigation and advisory needs of the board, but also act as a liaison between the board and the Attorney-General's chambers
+The DAPCB should engage at least two law firms to not only handle the litigation and advisory needs of the board, but also act as a liaison between the board and the Attorney-General's chambers
 
 Term of Reference No. 6 was to propose measures to safeguard the assets against any fraudulent disposal.
 The management of custodian board properties continues to generate revenue due to the fact that most buildings and properties have sitting tenants. 
@@ -3166,9 +3166,9 @@ Another agreement was made for the same property with the family of late Lt. Col
 
 The committee recommends that;
 
-    1. The custodian board fast-track the sale of these properties giving priority to sitting tenants so as to enhance growth and development in the various towns and cities.
+The custodian board fast-track the sale of these properties giving priority to sitting tenants so as to enhance growth and development in the various towns and cities.
 
-    2. All management officials cited in illicit transactions that have resulted in litigation should be investigated, prosecuted and be relieved of their membership on the committee.
+All management officials cited in illicit transactions that have resulted in litigation should be investigated, prosecuted and be relieved of their membership on the committee.
 
 In conclusion, therefore, the committee set out to investigate the operations of the DAPCB in light of the findings in the Auditor-General's special audits. The committee believes it has done so. 
 

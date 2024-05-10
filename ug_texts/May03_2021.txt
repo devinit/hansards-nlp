@@ -1,4 +1,4 @@
-﻿
+
 PARLIAMENT OF UGANDA
 
 Monday, 3 May 2021
@@ -143,22 +143,22 @@ THE MINISTER OF STATE FOR FINANCE, PLANNING AND ECONOMIC DEVELOPMENT (PLANNING) 
 
 I beg to lay the following reports from the Auditor-General’s office for the year ended 30 June 2020:
 
-    1. The Parliamentary Commission
-    2. State House
-    3. The Ministry of Public Service
-    4. The Judiciary
-    5. The Uganda Police Force
-    6. The Ministry of East African Community Affairs
-    7. The National Citizenship and Immigration Control
-    8. The Markets and Agricultural Trade Improvement Project II (Matip 2), under ADB Loan No.2000130013632
-    9. The Agricultural Value Chain Development Programme
-    10. The Uganda Multi-Sectoral Food Security and Nutrition Project
-    11. The Dairy Development Authority
-    12. The Electoral Commission 
-    13. The Amnesty Commission
-    14. The National Oil Palm Project (NOPP) IFAD Loan No.2000002292 and Grant No.2000002291
-    15. The National Agricultural Advisory Services (NAADs)
-    16. The Uganda Law Reform Commission.
+The Parliamentary Commission
+State House
+The Ministry of Public Service
+The Judiciary
+The Uganda Police Force
+The Ministry of East African Community Affairs
+The National Citizenship and Immigration Control
+The Markets and Agricultural Trade Improvement Project II (Matip 2), under ADB Loan No.2000130013632
+The Agricultural Value Chain Development Programme
+The Uganda Multi-Sectoral Food Security and Nutrition Project
+The Dairy Development Authority
+The Electoral Commission 
+The Amnesty Commission
+The National Oil Palm Project (NOPP) IFAD Loan No.2000002292 and Grant No.2000002291
+The National Agricultural Advisory Services (NAADs)
+The Uganda Law Reform Commission.
 
 Madam Speaker, I beg to lay.
 
@@ -473,9 +473,9 @@ The Supreme Court shall inquire and determine the appeal expeditiously and shall
 
 Justification 
 
-    1. To provide timelines within which the appeals in both the Court of appeal and the Supreme Court should be disposed off. 
+To provide timelines within which the appeals in both the Court of appeal and the Supreme Court should be disposed off. 
 
-    2. To be consistent with the criteria set out in the Civil Procedure Act, Cap. 71 for third appeals. 
+To be consistent with the criteria set out in the Civil Procedure Act, Cap. 71 for third appeals. 
 
 Madam Chairperson, those are the amendments and I beg to submit. 
 
@@ -605,15 +605,15 @@ Again, with your indulgence, I will leave the methodology and go to the committe
 
 Observations
 
-    i) The committee observed that whereas the proposal to impose export levy on wheat bran, cotton cake, maize bran or any other by-products of the milling industry, at a rate of US$ 0.4 per kilogramme of wheat bran, cotton cake, maize bran or other by-products of the milling industries, was intended to encourage local value addition and production of animal feeds in Uganda, there is currently very insufficient local capacity for production of animal feeds.
+The committee observed that whereas the proposal to impose export levy on wheat bran, cotton cake, maize bran or any other by-products of the milling industry, at a rate of US$ 0.4 per kilogramme of wheat bran, cotton cake, maize bran or other by-products of the milling industries, was intended to encourage local value addition and production of animal feeds in Uganda, there is currently very insufficient local capacity for production of animal feeds.
 
-    ii) There is not enough local demand for the brans. Therefore, imposing an export levy on brans would only serve to adversely impact the demand for the brans and would, therefore, be damaging to the local millers, who for now, depend on the regional market to dispose of their excess brans.
+There is not enough local demand for the brans. Therefore, imposing an export levy on brans would only serve to adversely impact the demand for the brans and would, therefore, be damaging to the local millers, who for now, depend on the regional market to dispose of their excess brans.
 
-    iii) Whereas, the value of a kilogramme of export of wheat bran was at Shs 450 and that of maize bran was at Shs 300, the export levy is specific at $0.4 per kilogramme, irrespective of value of a unit of export.
+Whereas, the value of a kilogramme of export of wheat bran was at Shs 450 and that of maize bran was at Shs 300, the export levy is specific at $0.4 per kilogramme, irrespective of value of a unit of export.
 
 In addition, the committee observed that a levy of $0.4 per kilogramme translates to four times the value of maize bran and six times the value of wheat bran. The imposition of the levy will make Uganda’s brans uncompetitive in the region and will result into Uganda’s brans being abandoned by the exporters yet Uganda does not have adequate local demand for the brands.
 
-    iv) It is also notable that Uganda imports animal feeds majorly from outside the East African Community (EAC). In 2020, the total value of animal feeds imports was Shs 184 billion, of which the imports from the EAC specifically, Kenya only amounted to Shs 6.1 billion, which represents only 0.03 per cent of the total value of animal feed imports.
+It is also notable that Uganda imports animal feeds majorly from outside the East African Community (EAC). In 2020, the total value of animal feeds imports was Shs 184 billion, of which the imports from the EAC specifically, Kenya only amounted to Shs 6.1 billion, which represents only 0.03 per cent of the total value of animal feed imports.
 
 The imposition of the levy only serves to curtail trade amongst the East African Community partner states, vis-a-vis the rest of the world. The committee recommends that the External Trade (Amendment) Bill, 2021 be rejected.  I beg to submit.
 
@@ -711,11 +711,11 @@ By this, Madam Speaker, the committee felt that the amendment that is in the pip
 
 Recommendations
 
-    1. The committee recommends and urges the Government to fast-track the Fisheries Bill, which is already before Parliament.
+The committee recommends and urges the Government to fast-track the Fisheries Bill, which is already before Parliament.
 
-    2. The committee recommends that the Government undertake analytical studies on the value of the fish maw internationally, with a view to increase the levy upwards.
+The committee recommends that the Government undertake analytical studies on the value of the fish maw internationally, with a view to increase the levy upwards.
 
-    3. The committee recommends that the Fish (Amendment) Bill, 2021 be passed into law, subject to the proposed amendments.
+The committee recommends that the Fish (Amendment) Bill, 2021 be passed into law, subject to the proposed amendments.
 
 I beg to submit, Madam Speaker.
 
@@ -1112,18 +1112,18 @@ The object of the Bill is to amend the Mining Act, 2003 to impose an export levy
 
 The committee observed that:
 
-    1. Clause 2 proposes to amend section 116 of the Mining Act to provide for a levy on processed gold and a levy on unprocessed minerals, as follows:
+Clause 2 proposes to amend section 116 of the Mining Act to provide for a levy on processed gold and a levy on unprocessed minerals, as follows:
 “Section 116 (a) Levy on processed gold
 
-    i. There shall be charged a levy on processed gold at the rate of $200 per kilogramme, which is exported out of Uganda.
+There shall be charged a levy on processed gold at the rate of $200 per kilogramme, which is exported out of Uganda.
 
-    ii. The levy referred to in sub-section (1) shall be paid by the exporter to the Uganda Revenue Authority, at the time when the processed gold is exported out of Uganda.”
+The levy referred to in sub-section (1) shall be paid by the exporter to the Uganda Revenue Authority, at the time when the processed gold is exported out of Uganda.”
 
 “116(b) Levy on unprocessed minerals
 
-    i. There shall be charged a levy on unprocessed minerals, at the rate of 1 per cent of the value of the unprocessed minerals, which is exported out of Uganda.
+There shall be charged a levy on unprocessed minerals, at the rate of 1 per cent of the value of the unprocessed minerals, which is exported out of Uganda.
 
-    ii. The levy referred to in sub-section (1) shall be paid by the exporter to the Uganda Revenue Authority, at the time when the unprocessed minerals are exported out of Uganda.
+The levy referred to in sub-section (1) shall be paid by the exporter to the Uganda Revenue Authority, at the time when the unprocessed minerals are exported out of Uganda.
 
 This proposal is intended to increase the country’s benefits from the export of the minerals that have been imported into the country for processing, as well as locally sourced minerals.
 
@@ -1240,11 +1240,11 @@ I am, therefore, in favour of giving these miners a period not exceeding six mon
 
 He signed it and gave copies to: 
 
-    1. H.E the Vice President
-    2. Rt Hon. Prime Minister
-    3. The Attorney-General
-    4. Members of Parliament, and
-    5.  Resident District Commissioners
+H.E the Vice President
+Rt Hon. Prime Minister
+The Attorney-General
+Members of Parliament, and
+ Resident District Commissioners
 
 Madam Speaker, may I take the honour to lay on the Table the said letter written by His Excellency the President. Thank you. 
 
@@ -1326,9 +1326,9 @@ THE VICE-CHAIRPERSON, COMMITTEE ON FINANCE, PLANNING AND ECONOMIC DEVELOPMENT (M
 
 Clause 2 is amended as follows:  
 
-    a. In the proposed section 116(a)(1) by substituting for the words “$ 200 per kilogram” – not $ 2 million as someone had earlier stated, the words “five per cent of the value of a kilogramme” 
+In the proposed section 116(a)(1) by substituting for the words “$ 200 per kilogram” – not $ 2 million as someone had earlier stated, the words “five per cent of the value of a kilogramme” 
 
-    b. In the proposed section 116(b) , by substituting for the words “one per cent” the committee is suggesting  “2.5”
+In the proposed section 116(b) , by substituting for the words “one per cent” the committee is suggesting  “2.5”
 
 Justification
 
@@ -1494,9 +1494,9 @@ THE SPEAKER: Can we ask the minister to report - because he had gone for consult
 2.41
 THE MINISTER OF STATE FOR FINANCE, PLANNING AND ECONOMIC DEVELOPMENT (PLANNING) (Mr David Bahati): Madam Speaker, after consultations with the technical team and members that moved a minority report, we are proposing that we consider the views by the hon. Migadde, by 
 
-    (i) moving that we amend clause 5, amendment of section 22 of the principal Act in subsection (i)c that in case of the rental income, 70 per cent of the rental income as expenditures and losses incurred by a person in production of income, subject to verification by URA.
+moving that we amend clause 5, amendment of section 22 of the principal Act in subsection (i)c that in case of the rental income, 70 per cent of the rental income as expenditures and losses incurred by a person in production of income, subject to verification by URA.
 
-    (ii) To cater for the local Governments, inserting immediately after paragraph (f), the following:
+To cater for the local Governments, inserting immediately after paragraph (f), the following:
 
 “Subject to paragraph (c) of the local Government rates paid under section 3 of the Local Governments (Rating) Act, 2005.”
 
@@ -1760,12 +1760,12 @@ This Bill is a resubmission of a Bill that was first introduced on the 14 April 
 
 The Bill seeks:
 
-    i) To enact a specific law on sexual offences for the effectual prevention of sexual violence;
-    ii) To enhance punishment of sexual offenders; 
-    iii) To provide for the protection of victims during sexual offences trials;
-    iv) To provide for extra territorial application of the law;
-    v)  To repeal some provisions of the Penal Code Act, Cap. 120; and
-    vi) For other related matters.
+To enact a specific law on sexual offences for the effectual prevention of sexual violence;
+To enhance punishment of sexual offenders; 
+To provide for the protection of victims during sexual offences trials;
+To provide for extra territorial application of the law;
+ To repeal some provisions of the Penal Code Act, Cap. 120; and
+For other related matters.
 
 Madam Speaker, I seek you indulgence that I read the abridged summary of the report as the main report has been uploaded.
 
@@ -1797,9 +1797,9 @@ The committee notes that the words “sexual act” are gender neutral meaning t
 
 In light of the above, the committee recommends that:
 
-    1. The words “sexual act” be used instead of “carnal knowledge.” 
+The words “sexual act” be used instead of “carnal knowledge.” 
 
-    2.  The definition of “sexual act” should only be limited to sexual organs since the rest of the provisions deals with acts that would constitute unnatural offences. 
+ The definition of “sexual act” should only be limited to sexual organs since the rest of the provisions deals with acts that would constitute unnatural offences. 
 
 Rape and Aggravated Rape
 
@@ -1828,10 +1828,10 @@ The committee has examined the proposal and is agreeable to the amendment since 
 
 In light of the above, the committee recommends that clauses 2 and 3 be adopted albeit with the amendments to-
 
-    a) Provide, as one of the aggravating circumstances, the rape of a person with mental illness;
-    b) Provide as one of circumstances that may negate consent where the consent is obtained by force or by fear of bodily harm, or by means of false representations as to the nature of the act;
-    c) Define advanced age; and
-    d) To require a medical test to be carried out against a person who is charged with an offence to determine his or her health status, including a test for his or her HIV Status.
+Provide, as one of the aggravating circumstances, the rape of a person with mental illness;
+Provide as one of circumstances that may negate consent where the consent is obtained by force or by fear of bodily harm, or by means of false representations as to the nature of the act;
+Define advanced age; and
+To require a medical test to be carried out against a person who is charged with an offence to determine his or her health status, including a test for his or her HIV Status.
 
 Unnatural Offences
 
@@ -2267,11 +2267,11 @@ Madam Chairperson, (f) actually covers some of the fears that members mentioned 
 
 The justification is:
 
-    1. For clarity.
+For clarity.
 
-    2. To include other grounds that vitiate consent such as fear of bodily harm, misrepresentation as to the true nature of the sexual act.
+To include other grounds that vitiate consent such as fear of bodily harm, misrepresentation as to the true nature of the sexual act.
 
-    3. To change the nomenclature used in paragraph (d) from “mental impairment”, which is a form of a disability, to “suffering from a mental illness” which is certifiable illness.
+To change the nomenclature used in paragraph (d) from “mental impairment”, which is a form of a disability, to “suffering from a mental illness” which is certifiable illness.
 
 That is for clause 2. I beg to move.
 
@@ -2305,17 +2305,17 @@ Clause 3
 
 MR OBOTH: Clause 3 is on aggravated rape.
 
-    (a) In sub-clause (1):
-    (b) 
-    i. Substitute for paragraph (c), the following:
+In sub-clause (1):
+
+Substitute for paragraph (c), the following:
 	“(c) The victim is a person with disability or suffers a disability, as a result of the sexual act”.
 
-    ii. Insert the following new paragraphs, immediately after paragraph (c) and renumber the provision accordingly. 
+Insert the following new paragraphs, immediately after paragraph (c) and renumber the provision accordingly. 
 	“The victim is suffering from a mental illness or suffers a mental illness, as a result of the sexual act.”
 
 	“The offence is committed by a relative of the victim of the offence.”
 
-    iii. Substitute for paragraph (f), the following:
+Substitute for paragraph (f), the following:
 
 “(f) Where the offender is a person in authority or person in position of trust.”
 
@@ -2327,14 +2327,14 @@ MR OBOTH: Clause 3 is on aggravated rape.
 
 The justification is:
 
-    1. To provide other circumstances aggravating the offence of rape.
+To provide other circumstances aggravating the offence of rape.
 
-    2. To require a medical test to be carried out against a person who is charged with an offence, to determine his or her health status, including a test for his or her HIV status.
+To require a medical test to be carried out against a person who is charged with an offence, to determine his or her health status, including a test for his or her HIV status.
 
 
-    3. To define advanced age, to be 70 years as prescribed in the sentencing guidelines(This sentence be removed here since it is captured in the definition clause.)
+To define advanced age, to be 70 years as prescribed in the sentencing guidelines(This sentence be removed here since it is captured in the definition clause.)
 
-    4. For clarity and better drafting.
+For clarity and better drafting.
 
 I beg to report.
 
@@ -2370,15 +2370,15 @@ Clause 4
 
 MR OBOTH: Administering substance with intent to commit a sexual act. Clause 4 of the Bill is amended by inserting:
 
-    a. The word, “knowingly” before the word, “person” in the first line.
+The word, “knowingly” before the word, “person” in the first line.
 
-    b. The words, “or to enable any other person perform a sexual act with that person” immediately before the word, “commit”. 
+The words, “or to enable any other person perform a sexual act with that person” immediately before the word, “commit”. 
 
 Justification
 
-    1. To require knowledge of the act constituting the offence. 
+To require knowledge of the act constituting the offence. 
 
-    2. To punish a person who administers or causes to be administered a substance to another person, in order to enable another person to perform a sexual act with the person.
+To punish a person who administers or causes to be administered a substance to another person, in order to enable another person to perform a sexual act with the person.
 
 MR AOGON: Madam Chair, my chairperson of the committee is saying I am enjoying the Bill. I am not enjoying the Bill. He is the one enjoying the Bill. 
 
@@ -2405,21 +2405,21 @@ Clause 5
 MR OBOTH: We substituted the following:
 
 “Sexual assault:
-    (1) A person who intentionally and without consent touches or comes into direct or indirect contact with the sexual organ, breast, buttocks or thighs of any person with-
-    (a) any part of his or her body;
-    (b) any part of the body of another person;
-    (c) any object including any part of the body of an animal,
+A person who intentionally and without consent touches or comes into direct or indirect contact with the sexual organ, breast, buttocks or thighs of any person with-
+any part of his or her body;
+any part of the body of another person;
+any object including any part of the body of an animal,
 commits an offence and is liable, upon conviction, to imprisonment for three years. 
 
-    (2) It is immaterial to a charge of sexual assault to prove that the child consented to the act constituting a sexual assault.
+It is immaterial to a charge of sexual assault to prove that the child consented to the act constituting a sexual assault.
 
-    (3) A person who commits the offence of sexual assault in the presence of a person’s spouse, family member or child, commits an offence and is liable, upon conviction, to imprisonment for seven years.” 
+A person who commits the offence of sexual assault in the presence of a person’s spouse, family member or child, commits an offence and is liable, upon conviction, to imprisonment for seven years.” 
 
 Justification
 
-    1. It is to differentiate between a sexual act and an indecent assault, which had been put in the same provision and yet these are two distinct offences. 
+It is to differentiate between a sexual act and an indecent assault, which had been put in the same provision and yet these are two distinct offences. 
 
-    2. It is for completeness to make irrelevant the consent of a child to a charge of sexual assault on a child. 
+It is for completeness to make irrelevant the consent of a child to a charge of sexual assault on a child. 
 
 Madam Chair, we also need to immediately after that – 
 
@@ -2524,8 +2524,8 @@ In sub clause (1)-
 
 Justification
 
-    1. To harmonise the provision with the provisions of Section 13 of the Anti-pornography Act.
-    2. To revise the penalty upwards. 
+To harmonise the provision with the provisions of Section 13 of the Anti-pornography Act.
+To revise the penalty upwards. 
 
 The Chairperson: Honourable members, I put the question that clause 6 be amended as proposed.
 
@@ -2557,11 +2557,11 @@ MR OBOTH: For clause 7, there is substituting the following-
 
 Justification
 
-    1. For clarity
+For clarity
 
-    2. To require that it is immaterial that the person consented to the sexual harassment or that the sexual harassment was welcome or did not have a detrimental effect.
+To require that it is immaterial that the person consented to the sexual harassment or that the sexual harassment was welcome or did not have a detrimental effect.
 
-    3. For completeness to require persons who commit the offence of sexual harassment while public officers to vacate their offices in addition to the penalty prescribed in the section. The examples are many here. 
+For completeness to require persons who commit the offence of sexual harassment while public officers to vacate their offices in addition to the penalty prescribed in the section. The examples are many here. 
 
 MR PETER LOKII: Madam Chairperson, I have listened and asked myself what provision we have provided for in terms of taking care of people with disabilities. I see deaf people communicating using signs and symbols. How are we taking care of them in this particular Bill? 
 
@@ -2603,25 +2603,25 @@ MR OBOTH: Detention with sexual intent. In clause 8, substitute the following:
 
 (ii) 	In this section, a person shall be deemed to have detained another person, where that person-
 
-    a) compels, induces, restrains or prevents other person by any means from leaving the premise, vehicle, vessel or any other place;
+compels, induces, restrains or prevents other person by any means from leaving the premise, vehicle, vessel or any other place;
 
-    b) with the intent to compel or induce the other person to remain in or upon the premises, vehicle, vessel or any other place, does any act which prevents that person from leaving such premises, vehicle, vessel or place; or
+with the intent to compel or induce the other person to remain in or upon the premises, vehicle, vessel or any other place, does any act which prevents that person from leaving such premises, vehicle, vessel or place; or
 
-    c) with the intent to compel or induce the other person to remain in or upon the premises, vehicle, vessel or any other place, that person withholds from the other person any clothing, apparel or other property belonging to the other person detained.
+with the intent to compel or induce the other person to remain in or upon the premises, vehicle, vessel or any other place, that person withholds from the other person any clothing, apparel or other property belonging to the other person detained.
 
 (iii)	The consent of a person in detention to a sexual act, shall not be a defence to a charge under sub section (i).”
 
 Justification
 
-    i) For clarity and better drafting.
+For clarity and better drafting.
 
-    ii) To expand the provision to include detention of a person for purposes of enabling another person to perform a sexual act with that person (somebody working for another person).
+To expand the provision to include detention of a person for purposes of enabling another person to perform a sexual act with that person (somebody working for another person).
 
-    iii) To clearly require that the consent of a person detained is not a defence to a charge under this section.
+To clearly require that the consent of a person detained is not a defence to a charge under this section.
 
-    iv) To remove the requirement for unlawfulness in the offence since there is no detention with intent to commit a sexual act that is lawful. In addition, to prescribe what amounts to unlawful detention.
+To remove the requirement for unlawfulness in the offence since there is no detention with intent to commit a sexual act that is lawful. In addition, to prescribe what amounts to unlawful detention.
 
-    v) To make consent of a person to a sexual act immaterial to a charge of detention with sexual intent.
+To make consent of a person to a sexual act immaterial to a charge of detention with sexual intent.
 
 THE CHAIRPERSON: Honourable members, I put the question that clause 8 be amended as proposed.
 
@@ -2645,9 +2645,9 @@ Clause 9
 
 MR OBOTH: Clause 9 is amended by:
 
-    a) Inserting immediately after the word “facility” the words “or inmate in a detention facility”.
+Inserting immediately after the word “facility” the words “or inmate in a detention facility”.
 
-    b) Renumbering the current provision as sub clause (1) and insert the following new sub clauses immediately after sub clause (1).
+Renumbering the current provision as sub clause (1) and insert the following new sub clauses immediately after sub clause (1).
 
 “(2) For avoidance of doubt, the consent of the person in custody to the sexual act shall not be a defence to a charge under sub section (1).
 
@@ -2655,11 +2655,11 @@ MR OBOTH: Clause 9 is amended by:
 
 Justification
 
-    i) For completeness to include an inmate in the provision.
+For completeness to include an inmate in the provision.
 
-    ii) To clearly require that the consent of a person detained is not a defence to a charge under this section.
+To clearly require that the consent of a person detained is not a defence to a charge under this section.
 
-    iii) To define place of detention.
+To define place of detention.
 
 THE CHAIRPERSON: Honourable members, I put the question that clause 9 be amended as proposed.
 
@@ -2671,7 +2671,7 @@ Clause 10
 
 MR OBOTH: Clause 10 is amended:
 
-    a) By substituting for sub clause (1) the following:
+By substituting for sub clause (1) the following:
 
 “(1) A person who for gain for himself or herself or another person-
 a) 	causes, encourages, induces, entices or incites another person to be sexually exploited; or
@@ -2684,9 +2684,9 @@ In addition, the consent of a victim to the sexual exploitation shall not be a d
 
 Justification
 
-    1. For clarity and better drafting.
-    2. To introduce a higher penalty where the victim of the offence is a child.
-    3. To make immaterial the consent of the victim of the offence of sexual exploitation.
+For clarity and better drafting.
+To introduce a higher penalty where the victim of the offence is a child.
+To make immaterial the consent of the victim of the offence of sexual exploitation.
 
 MR AOGON: This particular provision contains a very harsh punishment and therefore I would demand for proper examples from the chairperson. At least give one, two or three strong examples so that we understand exactly what you are talking about.
 
@@ -2709,10 +2709,10 @@ Clause 11
 
 MR OBOTH: For clause 11, they substituted the following: “Unnatural offences. 
 
-    (1)  A person who –(a) performs a sexual act with another person contrary to the order of nature; or (b) engages in a sexual act with an animal,
+ A person who –(a) performs a sexual act with another person contrary to the order of nature; or (b) engages in a sexual act with an animal,
 commits an offence and is liable on conviction to imprisonment for two years.
 
-    (2) For purposes of this section - (a) a person shall be taken to have performed the sexual act with another person contrary to the order of nature if that person- (i)penetrates another person’s anus with his or her sexual organ –“ I hope Hon. Silas will not ask me what is that. 
+For purposes of this section - (a) a person shall be taken to have performed the sexual act with another person contrary to the order of nature if that person- (i)penetrates another person’s anus with his or her sexual organ –“ I hope Hon. Silas will not ask me what is that. 
 
 “(ii) 	allows another person to penetrate his or her anus with that other person’s sexual organ; 
 (iii) 	penetrates or allows another person to penetrate his or that other person’s sexual organ or anus with another object; 
@@ -2723,8 +2723,8 @@ commits an offence and is liable on conviction to imprisonment for two years.
 
 Justification
 
-    1. To define what amounts to sexual unnatural offences.
-    2. I is a consequential amendment arising from the removal of words like “mouth and anus” from the definition of the word “sexual act.”
+To define what amounts to sexual unnatural offences.
+I is a consequential amendment arising from the removal of words like “mouth and anus” from the definition of the word “sexual act.”
 
 MR AOGON: Maybe we need to agree that whenever we find that monetary penalties have not been prescribed, we include them for consistence. I feel it is very important that we allow for that discretionary judgment.
 
@@ -2795,9 +2795,9 @@ A person who engages in a sexual act with a prostitute commits an offence and is
 
 The justification:
 
-    1. To prohibit prostitution, the operation of brothels and engaging in a sexual act with a prostitute and - finally on that – 
+To prohibit prostitution, the operation of brothels and engaging in a sexual act with a prostitute and - finally on that – 
 
-    2. To continue the criminalisation of prostitution. 
+To continue the criminalisation of prostitution. 
 
 THE CHAIRPERSON: Honourable members, I put the question that the new clause be -
 
@@ -2825,7 +2825,7 @@ Clause 14
 
 MR OBOTH: Clause 14: 
 
-    (a) In sub-clause (1):
+In sub-clause (1):
 
 (i) 	Substitute for paragraph (d), the following:
 	“(d) Offender is a parent, guardian, foster parent or a person in authority over the child;”
@@ -2839,13 +2839,13 @@ MR OBOTH: Clause 14:
 
 The justification:
 
-    1. To revise the penalty upwards from imprisonment for life to death sentence, as prescribed in section 129 of the Penal Code Act for the offence of aggravated defilement.
+To revise the penalty upwards from imprisonment for life to death sentence, as prescribed in section 129 of the Penal Code Act for the offence of aggravated defilement.
 
-    2. To define relative of a child.
+To define relative of a child.
 
-    3. To expand the provision to include parent, guardian, foster parent and other relations of a child.
+To expand the provision to include parent, guardian, foster parent and other relations of a child.
 
-    4. To require a person charged with aggravated defilement to undergo an HIV test, as required in section 129 of the Penal Code Act.
+To require a person charged with aggravated defilement to undergo an HIV test, as required in section 129 of the Penal Code Act.
  
 THE CHAIRPERSON:  Honourable members, I put the question that clause 14 be amended, as proposed.
 
@@ -2923,9 +2923,9 @@ We propose that clause 27 be redrafted as follows:
 
  “Uncorroborated evidence of a victim
 
-    1. Court may require the corroboration of evidence tendered in proof of an offence under this Act; and
+Court may require the corroboration of evidence tendered in proof of an offence under this Act; and
 
-    2. Notwithstanding sub-section (1), a person may be convicted of an offence under this Act based solely on the testimony of the victim of a sexual offence or a single witness provided that the victim of the offence or the witness, as the case may be, is truthful and reliable. “
+Notwithstanding sub-section (1), a person may be convicted of an offence under this Act based solely on the testimony of the victim of a sexual offence or a single witness provided that the victim of the offence or the witness, as the case may be, is truthful and reliable. “
 
 Justification
 
@@ -2947,13 +2947,13 @@ MR OBOTH: Clause 30 of the Bill is amended by renumbering the current provision 
 
 “(2) Without limiting the general effect of sub-section (1), the register shall contain the following information:
 
-    (a) The sex offender’s name and date of birth;
-    (b) The sex offender’s national identification number;
-    (c) The sex offender’s address;
-    (d) The offence for which the sex offender was convicted of;
-    (e) A sample of the offender’s fingerprint and any other unique identifying features;
-    (f) The photograph of the sex offender;
-    (g) Any other information that the minister may prescribe by regulations.
+The sex offender’s name and date of birth;
+The sex offender’s national identification number;
+The sex offender’s address;
+The offence for which the sex offender was convicted of;
+A sample of the offender’s fingerprint and any other unique identifying features;
+The photograph of the sex offender;
+Any other information that the minister may prescribe by regulations.
 
 (3) 	A person registered on the sex offenders’ register shall, within seven days of changes in any of the registered information on the sex offenders, notify in writing, the national identification and the registration authority.
 
@@ -2963,11 +2963,11 @@ MR OBOTH: Clause 30 of the Bill is amended by renumbering the current provision 
 
 Justification
 
-    1. To prescribe the matters that must be registered on the register. 
+To prescribe the matters that must be registered on the register. 
 
-    2. For completeness to impose an obligation on a person registered on the register to inform the authority of any changes to the register.
+For completeness to impose an obligation on a person registered on the register to inform the authority of any changes to the register.
 
-    3. To prescribe an offence for non-compliance.
+To prescribe an offence for non-compliance.
 
 THE CHAIRPERSON: Honourable members, the question is that clause 30 be – 
 
@@ -3043,7 +3043,7 @@ MR OBOTH: We move to insert the following immediately after clause 33:
 
 “Requirement to report presence 
 
-    1) Notwithstanding anything to the contrary, a person registered on the sex offender's register shall upon arrival in a district, where he or she is not ordinarily resident, give notification of his or her presence to the local authorities in the area. 
+Notwithstanding anything to the contrary, a person registered on the sex offender's register shall upon arrival in a district, where he or she is not ordinarily resident, give notification of his or her presence to the local authorities in the area. 
 
 2) 	A person who contravenes any provision of this section commits an offence and is liable on conviction to imprisonment for five years.”
 
@@ -3133,9 +3133,9 @@ MR OBOTH: Madam Chairperson, we propose to delete clause 36.
 
 Justification
 
-    1. The provision is redundant since it is already catered for in the offence of rape, wherein, the offence is committed when a person does a sexual act, with a person without that other person's consent.
+The provision is redundant since it is already catered for in the offence of rape, wherein, the offence is committed when a person does a sexual act, with a person without that other person's consent.
 
-    2. The provision is impractical since it did not specify the nature of withdrawal, or/and when it is effective. 
+The provision is impractical since it did not specify the nature of withdrawal, or/and when it is effective. 
 
 Madam Chairperson, in further giving information, our research team in the committee looked around for benchmarking on desk, and we found out that this withdrawal of consent; before or during sex – when it is before, it is still rape. During the sexual act – we only found that in the United States of America. There are two case laws in the State of Maryland and one in California. The one in California was a decision of 2003 and Maryland was in 2008. 
 
@@ -3207,17 +3207,17 @@ i) 	A person who does any act to obstruct, prevent, pervert, or defeat the cause
 
 ii) 	In this section, a person shall be taken to have obstructed, prevented, perverted, or defeated the cause of justice if that person-
 
-    a) subjects the victim of the offence or any other person to intimidation, harassment, fear, distress or harm as a means of preventing the-
-    i) reporting of an offense under this Act;
-    ii) victim or any other person from participating in the prosecution of an offence under this Act;
+subjects the victim of the offence or any other person to intimidation, harassment, fear, distress or harm as a means of preventing the-
+reporting of an offense under this Act;
+victim or any other person from participating in the prosecution of an offence under this Act;
 b) 	dissuades, hinders or prevents a person from reporting the commission of an offence under this Act;
 c) 	dissuades, hinders or prevents lawfully bound to appear and give evidence as a witness from appearing or from giving evidence.
 
 Justification
 
-    i) To create an offence against a person who perverts the cause of justice and interferes with the witness or victim of an offence.
+To create an offence against a person who perverts the cause of justice and interferes with the witness or victim of an offence.
 
-    ii) The proposal in clause 39 to allow court grant a harassment order against such a person is impractical; is not deterrent to prevent such conduct. I beg to move.
+The proposal in clause 39 to allow court grant a harassment order against such a person is impractical; is not deterrent to prevent such conduct. I beg to move.
 
 THE CHAIRPERSON: Honourable members, I put the question that clause 39 be amended as proposed.
 
@@ -3231,22 +3231,22 @@ MR OBOTH: Extra territorial application. For clause 40, there is substitution fo
 
 “Extra territorial jurisdiction
 
-    i) This Act shall apply to offences committed outside Uganda, where-
-    a) a person who, while being a citizen of, or permanently residing in Uganda, commits an act outside Uganda, which act would constitute an offence had it been committed in Uganda;
-    b) the victim of the offence was a citizen of Uganda at the time of commission of the offence;
-    c) the offence was committed partly inside and partially outside Uganda;
-    d) the offence is committed against the stateless person who has his or her habitual residence in Uganda; or
-    e)  a substantial proportion of the effects of the offence have occurred or taken place within the territory of Uganda.
+This Act shall apply to offences committed outside Uganda, where-
+a person who, while being a citizen of, or permanently residing in Uganda, commits an act outside Uganda, which act would constitute an offence had it been committed in Uganda;
+the victim of the offence was a citizen of Uganda at the time of commission of the offence;
+the offence was committed partly inside and partially outside Uganda;
+the offence is committed against the stateless person who has his or her habitual residence in Uganda; or
+ a substantial proportion of the effects of the offence have occurred or taken place within the territory of Uganda.
 
 ii) 	Notwithstanding subsection (i):
-    a) No proceedings shall be instituted under this section without the written consent of the Attorney-General.
-    b) If the consent of the Attorney-General is received, under (a), proceedings maybe instituted in any appropriate court and such court shall have jurisdiction to try the matter as if the offence or the offences had been committed within its jurisdiction.
-    c) A person shall not be tried for an offence under this section, if that person has been acquitted or convicted of the same offence in another country.
+No proceedings shall be instituted under this section without the written consent of the Attorney-General.
+If the consent of the Attorney-General is received, under (a), proceedings maybe instituted in any appropriate court and such court shall have jurisdiction to try the matter as if the offence or the offences had been committed within its jurisdiction.
+A person shall not be tried for an offence under this section, if that person has been acquitted or convicted of the same offence in another country.
 
 iii) 	A case under this Act shall be tried where-
-    a) the offence was committed;
-    b) any witness or elements occurred;
-    c) the victim of the offence resided at the time of the commission of the offence.
+the offence was committed;
+any witness or elements occurred;
+the victim of the offence resided at the time of the commission of the offence.
 
 iv) 	Notwithstanding subsection (iii), where the offence is committed outside Uganda, the case shall be tried as may be determined by the Director of Public Prosecutions.”
 
@@ -3280,29 +3280,29 @@ THE CHAIRPERSON: Are there any changes to the interpretation?
 
 MR OBOTH: Yes, Madam chairperson. Clause 1 is amended –
 
-    a) Insert immediately before the definition of the word “attempt” the following, “advanced age” which means 75 years and above. 
+Insert immediately before the definition of the word “attempt” the following, “advanced age” which means 75 years and above. 
 
-    b) Substitute for the definition of “sexual act” the following: “’Sexual act’ means the penetration however slight of a person’s sexual organ by another person’s sexual organ.”
+Substitute for the definition of “sexual act” the following: “’Sexual act’ means the penetration however slight of a person’s sexual organ by another person’s sexual organ.”
  
-    c) By substituting for the definition of sexual exploitation the following: “’Sexual exploitation’ means the obtaining of financial or other benefits through the involvement of another person in prostitution, pornographic acts or the production of pornographic material or the use of a person in sexual intercourse or other unlawful sexual conduct.”
-    d) In the definition of person in trust substitute the phrase “person in trust” with the “person in position of trust.”
+By substituting for the definition of sexual exploitation the following: “’Sexual exploitation’ means the obtaining of financial or other benefits through the involvement of another person in prostitution, pornographic acts or the production of pornographic material or the use of a person in sexual intercourse or other unlawful sexual conduct.”
+In the definition of person in trust substitute the phrase “person in trust” with the “person in position of trust.”
 
-    e) By substituting for the definition of the word “prostitute” the following: “’prostitute’ means a person – 
+By substituting for the definition of the word “prostitute” the following: “’prostitute’ means a person – 
 
 (a) who holds himself or herself out as available for sexual act or sexual gratification for monetary or other gain; or
 (b) who engages in a sexual act or sexual gratification for monetary or other gain.”
 
 Justification
 
-    1. To limit the definition of sexual act to only penetration of a person’s sexual organ with another person’s organ since the rest of the provision deals with acts that would constitute unnatural offences.
+To limit the definition of sexual act to only penetration of a person’s sexual organ with another person’s organ since the rest of the provision deals with acts that would constitute unnatural offences.
 
-    2. To align the definition of sexual exploitation with offence as created in clause 10.
+To align the definition of sexual exploitation with offence as created in clause 10.
 
-    3. In addition, in the definition of the word “prostitution”, to remove the words that require a person to have regularly offered him or herself for sex before he or she commits an offence.
+In addition, in the definition of the word “prostitution”, to remove the words that require a person to have regularly offered him or herself for sex before he or she commits an offence.
 
-    4. To expand the definition of the word “prostitute” to include persons who have engaged in sexual conduct for money or other monetary gain.
+To expand the definition of the word “prostitute” to include persons who have engaged in sexual conduct for money or other monetary gain.
 
-    5. To define “advanced age” in accordance with the Constitution, sentencing guidelines for courts of judicature, practice directives, 2013.
+To define “advanced age” in accordance with the Constitution, sentencing guidelines for courts of judicature, practice directives, 2013.
 
 THE CHAIRPERSON: Honourable members, I put the question that clause 1 be amended as proposed. 
 
@@ -3396,7 +3396,6 @@ THE SPEAKER: Thank you very much, honourable members, the Clerk and your team. I
 House is adjourned to tomorrow at 10 o’clock in the morning. Thank you.
 
 (The House rose at 8.05 p.m. and adjourned until Tuesday, 4 May, 2021 at 10.00 a.m.)
-
 
 
 

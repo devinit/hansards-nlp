@@ -1,4 +1,4 @@
-﻿
+
 
 Wednesday, 25 April 2018
 
@@ -328,14 +328,14 @@ Clause 8(2) needs to be clarified and this is to the minister, not the chairpers
 The third one, Mr Speaker, is on the re-composition of the board. First of all, if you look at the old composition of the board, I was asking this question: Who are we removing and who are we adding? This is because it was very clear at that time when we passed that law. We listed the composition and it was well thought out. I do not know whether time will allow me to read - I would build up the point from there. 
 
 Mr Speaker, it had:
-    a) The chairperson, who is appointed by the minister.
-    b) The executive director.
-    c) Five members with sound knowledge or practical experience in investment, who shall be appointed by the minister after consultation with the relevant bodies – This is where my colleagues had already raised challenges. Sometimes we end up appointing people who do not fit what is specified.
-    d) A representative of the Governor of Bank of Uganda.
-    e) A representative elected by the Uganda Chamber of Commerce.
-    f) A representative elected by the Uganda Manufacturers Association.
-    g) The Commissioner for Economic Affairs, Ministry of Finance, Planning and Economic Development.
-    h) The Chief Economist, Ministry of Finance, Planning and Economic Development – How can the ministry have two people representing it on the same board?
+The chairperson, who is appointed by the minister.
+The executive director.
+Five members with sound knowledge or practical experience in investment, who shall be appointed by the minister after consultation with the relevant bodies – This is where my colleagues had already raised challenges. Sometimes we end up appointing people who do not fit what is specified.
+A representative of the Governor of Bank of Uganda.
+A representative elected by the Uganda Chamber of Commerce.
+A representative elected by the Uganda Manufacturers Association.
+The Commissioner for Economic Affairs, Ministry of Finance, Planning and Economic Development.
+The Chief Economist, Ministry of Finance, Planning and Economic Development – How can the ministry have two people representing it on the same board?
 
 Now, when you look at the proposed amendments, they are even worse. We see here “permanent secretary, permanent secretary, permanent secretary…” First of all, we know the permanent secretaries are very busy. We have had a challenge. I serve on the Committee on Commissions, Statutory Authorities and State Enterprises (COSASE) where most of these authorities report for accountability. We have had a challenge that in almost all of them – where the permanent secretaries are members of the board – they do not show up for the meetings. We had a problem with Uganda Revenue Authority. We also had a problem with National Identification and Registration Authority (NIRA) where the permanent secretary wants to be on over five boards. He even wants power to take all the votes back to the ministry yet when it comes to appearing in the meeting, they are not there. 
 
@@ -580,14 +580,6 @@ MR MUSASIZI: Mr Speaker, I have a feeling that as a committee, we can reconvene 
 THE DEPUTY SPEAKER: Honourable members, those of you who have views that you would like to share with the committee, please go there. Also, if you have any amendment that you would like to propose, please have it in writing and submit it to that meeting so that they consider it together with all the other proposals and then they come back and we handle this matter.
 
 MR NIWAGABA: Mr Speaker, just to remind my colleague that Tuesday is a public holiday and we will be celebrating with the labourers.
-
-MR MUSASIZI: Mr Speaker, that is simple. If Tuesday is a public holiday then let us meet on Wednesday.
-
-THE DEPUTY SPEAKER: Okay. Honourable members, can we stop this matter; we have another Bill.
-
-MR MUSASIZI: Mr Speaker, we shall be in Room 220 at 10 o’clock.
- 
-
 THE DEPUTY SPEAKER: On Wednesday next week, honourable members, at 10.00a.m. in Room 220, please be there if you have views that you want to share with the committee on this matter. Thank you.
 
 BILLS
@@ -661,9 +653,9 @@ MR ONZIMA: Mr Speaker, on 22 June 207, hon. Rose Mutonyi Masaaba tabled the Loca
 Let me go to our findings, observations and recommendations.
 During the committee's interface with the leadership of the districts visited, the following concerns emerged:
 
-    a) That there was a need to amend the Local Government Act. There was an argument that existing holders of elective offices should be given an opportunity to choose whether to move to a newly created local government or to remain in the old one, once a new local government unit has been curved out of the old, without necessarily subjecting them to a fresh election.
+That there was a need to amend the Local Government Act. There was an argument that existing holders of elective offices should be given an opportunity to choose whether to move to a newly created local government or to remain in the old one, once a new local government unit has been curved out of the old, without necessarily subjecting them to a fresh election.
 
-    b) That the special interest groups like the persons with disabilities, the youth and women representatives who were resident in the newly created districts, usually continue representing people in the old district yet they are no longer in their electoral area. Such leaders are often viewed as aliens, rendering their representative role ineffective. 
+That the special interest groups like the persons with disabilities, the youth and women representatives who were resident in the newly created districts, usually continue representing people in the old district yet they are no longer in their electoral area. Such leaders are often viewed as aliens, rendering their representative role ineffective. 
 
 c) 	That the term of office of interim councils in some newly created local governments has always run for a period exceeding six months without conducting elections. According to the Local Government Act, the term of office for interim councils is six months. 
 
@@ -671,60 +663,60 @@ d) 	The Local Governments Act, Cap 243, has overtime since its enactment in 1997
 
 The following were given as main reasons in support of the proposed amendments by the people we interfaced with:
 
-    i) The chairperson was elected by the same electorate, which was later sub-divided into two different local governments. It would, therefore, be unfair to subject him/her to another election process. 
+The chairperson was elected by the same electorate, which was later sub-divided into two different local governments. It would, therefore, be unfair to subject him/her to another election process. 
 
-    ii) It would tantamount to a waste of taxpayers' money to conduct fresh elections in the same area for the same person. 
+It would tantamount to a waste of taxpayers' money to conduct fresh elections in the same area for the same person. 
 
-    iii) Going through another election would lead to serious financial implications on the same person within the same term of office. 
+Going through another election would lead to serious financial implications on the same person within the same term of office. 
 
-    iv) The provision in the principal Act does not cater for circumstances where the chairperson is resident in the newly created local government and wishes to remain chairperson of that newly created local government. 
+The provision in the principal Act does not cater for circumstances where the chairperson is resident in the newly created local government and wishes to remain chairperson of that newly created local government. 
 
-    v) Local government administration is based on ethnicity and in instances where a new local government is curved out of the old one and the chairperson does not come from the old one, it is most likely that he/she will be stigmatised and often times violence is meted on him/her. 
+Local government administration is based on ethnicity and in instances where a new local government is curved out of the old one and the chairperson does not come from the old one, it is most likely that he/she will be stigmatised and often times violence is meted on him/her. 
 
-    vi) There is loss of trust and cooperation in the leadership from the local people towards the chairperson and other elected leaders who happen to originate from the new district but remain the political leaders of the old district. 
+There is loss of trust and cooperation in the leadership from the local people towards the chairperson and other elected leaders who happen to originate from the new district but remain the political leaders of the old district. 
 
 There were also views against this proposed amendment, they were:
 
-    i. In some cases, the reason for creation of new districts is because the people want to be free from the old local government. Therefore, it would be unfair to impose on them leaders from the old local government.
-    ii. Once leaders are just imposed on the new local government, the people in the new local government are denied the right to vote for leaders of their choice. 
-    iii. The chairpersons will start moving from one local government to another for the wrong reasons.
-    iv. The chairpersons will influence the district councils to pass resolutions for creation of districts, which are in their favour, and this will lead to rampant emergence of new districts.
-    v. The chairperson leads an entire government of the district which he/she nominates. This includes executive members and members on statutory bodies such as District Service Commission, District Tender Board, District Land Board and the District Public Accounts Committee. If such a chairperson is given an opportunity to move to the newly created local government, the incoming chairperson for the original local government will most likely disband the entire original government because he/she will also want to work with those he trusts. 
-    vi. The formation and composition of the executive committee of the council has always faced challenges of raising the required quorum and this has crippled the service delivery, thus no need to have interim councils.
+In some cases, the reason for creation of new districts is because the people want to be free from the old local government. Therefore, it would be unfair to impose on them leaders from the old local government.
+Once leaders are just imposed on the new local government, the people in the new local government are denied the right to vote for leaders of their choice. 
+The chairpersons will start moving from one local government to another for the wrong reasons.
+The chairpersons will influence the district councils to pass resolutions for creation of districts, which are in their favour, and this will lead to rampant emergence of new districts.
+The chairperson leads an entire government of the district which he/she nominates. This includes executive members and members on statutory bodies such as District Service Commission, District Tender Board, District Land Board and the District Public Accounts Committee. If such a chairperson is given an opportunity to move to the newly created local government, the incoming chairperson for the original local government will most likely disband the entire original government because he/she will also want to work with those he trusts. 
+The formation and composition of the executive committee of the council has always faced challenges of raising the required quorum and this has crippled the service delivery, thus no need to have interim councils.
 
 Observations 
 
 The committee made the following observations: 
 
-    a) The Bill does not introduce anything new, except the need to give the chairperson of the original local government an opportunity to choose whether to move to a newly created local government or to remain in the old one, once a new local government has been curved out of the old one. This is, however, contrary to Article 1(4) of the Constitution and the principles contained in the Local Governments Act, which give the people the right to choose who shall govern them through regular, free and fair elections. 
+The Bill does not introduce anything new, except the need to give the chairperson of the original local government an opportunity to choose whether to move to a newly created local government or to remain in the old one, once a new local government has been curved out of the old one. This is, however, contrary to Article 1(4) of the Constitution and the principles contained in the Local Governments Act, which give the people the right to choose who shall govern them through regular, free and fair elections. 
 
-    b) Whereas the committee appreciates the intention of the proposed amendment Bill to give the chairpersons of local governments an opportunity to choose where to belong once a new local government has been created, the committee observes that this has its own shortcomings and implications since it is contrary to the Constitution and other laws that would also need to be amended first. 
+Whereas the committee appreciates the intention of the proposed amendment Bill to give the chairpersons of local governments an opportunity to choose where to belong once a new local government has been created, the committee observes that this has its own shortcomings and implications since it is contrary to the Constitution and other laws that would also need to be amended first. 
 
-    c) The argument that the proposed amendment would limit the financial burden on Government is misconceived because even if the chairperson is given the opportunity to move to the newly created local government, there would still be a vacancy created in the old one which would have to be filled through an election. 
+The argument that the proposed amendment would limit the financial burden on Government is misconceived because even if the chairperson is given the opportunity to move to the newly created local government, there would still be a vacancy created in the old one which would have to be filled through an election. 
 
-    d) The legal effect of the meaning of “interim council” in the proposed amendment seemingly creates two “interim councils” when a new local government is created out of the existing one; that is to say, an interim council of the original local government and an interim council of the new local government. This is not in conformity with interim councils as contained in Part XII of the Local Governments Act. 
+The legal effect of the meaning of “interim council” in the proposed amendment seemingly creates two “interim councils” when a new local government is created out of the existing one; that is to say, an interim council of the original local government and an interim council of the new local government. This is not in conformity with interim councils as contained in Part XII of the Local Governments Act. 
 
-    e) An existing council cannot be termed as an “interim council” on the basis that its chairperson has opted to join a newly created local government, yet the other persons that form the council are still in office. 
+An existing council cannot be termed as an “interim council” on the basis that its chairperson has opted to join a newly created local government, yet the other persons that form the council are still in office. 
 
-    f) Under Article 180 (2) (a) of the Constitution, a person elected as a chairperson of a local government is a member of the council of the district for which he or she was elected chairperson. This means that the chairperson of a local government is always part of the council of the local government for which he or she was elected and that the chairperson cannot constitutionally opt to be part of the new local government created out of his or her local government since that is not the council for which he or she was elected. This is a matter Parliament is not able to change without amending the Constitution. 
+Under Article 180 (2) (a) of the Constitution, a person elected as a chairperson of a local government is a member of the council of the district for which he or she was elected chairperson. This means that the chairperson of a local government is always part of the council of the local government for which he or she was elected and that the chairperson cannot constitutionally opt to be part of the new local government created out of his or her local government since that is not the council for which he or she was elected. This is a matter Parliament is not able to change without amending the Constitution. 
 
-    g) The chairperson elected under universal adult suffrage cannot simply move to another legal entity because under section 137 of the Local Governments Act, he/she will have been gazetted under the original local government. Section 137(1) provides that: “The Electoral Commission shall, as soon as practicable after the election, ascertain, declare and in writing under its seal, publish in the gazette the results of the election in each constituency.” In this case, the particular chairperson will have been gazetted under a particular district, so, he/she cannot simply opt for another district. 
+The chairperson elected under universal adult suffrage cannot simply move to another legal entity because under section 137 of the Local Governments Act, he/she will have been gazetted under the original local government. Section 137(1) provides that: “The Electoral Commission shall, as soon as practicable after the election, ascertain, declare and in writing under its seal, publish in the gazette the results of the election in each constituency.” In this case, the particular chairperson will have been gazetted under a particular district, so, he/she cannot simply opt for another district. 
 
-    h) The proposal to provide for the Electoral Commission as an institution to conduct the interim elections is already provided for under sections 101 and 187 (1) of the Local Government Act. There is, therefore, no need to create another provision on the same.
+The proposal to provide for the Electoral Commission as an institution to conduct the interim elections is already provided for under sections 101 and 187 (1) of the Local Government Act. There is, therefore, no need to create another provision on the same.
 
-    i) Once a new local government is created out of an existing local government, the chairperson of the original local government may become the chairperson of the new local government but only after vacating the office of the chairperson, in accordance with section 14 of the Local Government Act.
+Once a new local government is created out of an existing local government, the chairperson of the original local government may become the chairperson of the new local government but only after vacating the office of the chairperson, in accordance with section 14 of the Local Government Act.
 
-    j) Under section 184(2) (a) & (b) of the Local Governments Act, the powers and functions of interim councils and statutory bodies such as District Service Commission (DSC), District Public Accounts Committee (DPAC) and District Land Board have limited powers to perform certain duties. Most times, there is a delay in conducting elections in the newly created districts and this affects the formation of substantive bodies and as a result there is always poor delivery of services. 
+Under section 184(2) (a) & (b) of the Local Governments Act, the powers and functions of interim councils and statutory bodies such as District Service Commission (DSC), District Public Accounts Committee (DPAC) and District Land Board have limited powers to perform certain duties. Most times, there is a delay in conducting elections in the newly created districts and this affects the formation of substantive bodies and as a result there is always poor delivery of services. 
 
 In some cases, some districts are created comprising of two to three sub-counties, as an interim council, which is composed of a limited number of councillors to form the executive committee. This tends to pose a challenge in executing duties due to lack of quorum of the executive committees.
 
 The committee made the following recommendations: 
 
-    (i) After careful scrutiny of the Bill, the committee is of the considered opinion that the Local Government (Amendment) Bill, 20l7 should not be passed by the House because it is contrary to Articles 1(4) and 180 (2)(a) of the Constitution as already highlighted in the report.
+After careful scrutiny of the Bill, the committee is of the considered opinion that the Local Government (Amendment) Bill, 20l7 should not be passed by the House because it is contrary to Articles 1(4) and 180 (2)(a) of the Constitution as already highlighted in the report.
 
-    (ii) The Ministry of Local Government should undertake a comprehensive review of the Local Government Act and initiate comprehensive amendments to cater for emerging realities in the Local Government Act, as observed in this report. This amendment Bill should be tabled in Parliament within three months of adoption of this report.
+The Ministry of Local Government should undertake a comprehensive review of the Local Government Act and initiate comprehensive amendments to cater for emerging realities in the Local Government Act, as observed in this report. This amendment Bill should be tabled in Parliament within three months of adoption of this report.
 
-    (iii) The proposed amendment, among others, should also focus on repealing Part XII of the Local Government Act and synchronising the timing of elections in the newly created districts with presidential and parliamentary elections in order to give Government sufficient time for proper planning as well as to do away with interim issues.  
+The proposed amendment, among others, should also focus on repealing Part XII of the Local Government Act and synchronising the timing of elections in the newly created districts with presidential and parliamentary elections in order to give Government sufficient time for proper planning as well as to do away with interim issues.  
 
 Mr Speaker, I beg to report.
 
@@ -824,25 +816,25 @@ THE VICE-CHAIRPERSON, PUBLIC ACCOUNTS COMMITTEE (Mr Gerald Karuhanga): Thank you
 
 In accordance with the mandate given under rule 162 of the Rules of Procedure of Parliament and Article 90 of the Constitution of the Republic of Uganda, the Public Accounts Committee considered the Auditor-General’s report for the financial year 2014/2015 on 20 entities with unqualified opinion as follows:
 
-    1. Judiciary;
-    2. Directorate of Public Prosecutions;
-    3. Ministry of Justice And Constitutional Affairs; 
-    4. Ministry of Tourism, Wildlife and Antiquities;
-    5. Ministry of Trade, Industry and Cooperatives;
-    6. Ministry of Agriculture, Animal Industry and Fisheries;
-    7. Ministry of Information and Communications Technology;
-    8. Ministry of East African Community Affairs;
-    9. Ministry of Water and Environment;
-    10. Ministry of Foreign Affairs; 
-    11. Directorate of Ethics and Integrity;
-    12. Uganda Management Institute;
-    13. State House;
-    14. Ministry Of Gender, Labour and Social Development;
-    15. Makerere University;
-    16. Busitema University; 
-    17. Mbarara University of Science and Technology;
-    18. Ministry of Defence; 
-    19. Ministry of Education and Sports.
+Judiciary;
+Directorate of Public Prosecutions;
+Ministry of Justice And Constitutional Affairs; 
+Ministry of Tourism, Wildlife and Antiquities;
+Ministry of Trade, Industry and Cooperatives;
+Ministry of Agriculture, Animal Industry and Fisheries;
+Ministry of Information and Communications Technology;
+Ministry of East African Community Affairs;
+Ministry of Water and Environment;
+Ministry of Foreign Affairs; 
+Directorate of Ethics and Integrity;
+Uganda Management Institute;
+State House;
+Ministry Of Gender, Labour and Social Development;
+Makerere University;
+Busitema University; 
+Mbarara University of Science and Technology;
+Ministry of Defence; 
+Ministry of Education and Sports.
 
 Mr Speaker, we may know, there are a number of entities that are audited by the Public Accounts Committee or the audits that the Public Accounts Committee covers. In this particular financial year, there were 20 entities that had unqualified reports. Therefore, what we did as a committee was to make a comprehensive report on these 20 entities. 
 
@@ -929,25 +921,25 @@ Contrary to section 23(1) of the Public Finance Management Act (PFMA), 2015 that
 
 The observations are:
 
-    1. The accounting officer deliberately breached the established commitment control systems as enshrined in section 23 of the PFMA, 2015.
-    2. The rental liability of the Judiciary is unsustainable for the country.
-    3. Delayed payment of rent was as a result of poor planning, which may lead to possible eviction of the courts causing embarrassment to the country.
+The accounting officer deliberately breached the established commitment control systems as enshrined in section 23 of the PFMA, 2015.
+The rental liability of the Judiciary is unsustainable for the country.
+Delayed payment of rent was as a result of poor planning, which may lead to possible eviction of the courts causing embarrassment to the country.
  
 The committee recommends that:
-    1. The Permanent Secretary/Secretary to Treasury (PSST) should reprimand the accounting officer for failure to execute his obligations in accordance with the provisions of sections 78 and 79(1) (m) of the PFMA.
-    2. The accounting officer should, as a matter of urgency, follow up this matter within three months from the adoption of this report.
-    3. The Auditor-General should verify validity of the rental commitments and report to Parliament within one month from the adoption of this report.
+The Permanent Secretary/Secretary to Treasury (PSST) should reprimand the accounting officer for failure to execute his obligations in accordance with the provisions of sections 78 and 79(1) (m) of the PFMA.
+The accounting officer should, as a matter of urgency, follow up this matter within three months from the adoption of this report.
+The Auditor-General should verify validity of the rental commitments and report to Parliament within one month from the adoption of this report.
 
 The second issue is budget performance. Although the Judiciary received 100 per cent of its approved budget, audit noted that total payments amounted to Shs 87 billion resulting into an unutilised amount of Shs 119 million.
 
 The committee observations are:
-    1. While the Judiciary states that it is underfunded, its absorption capacity remains low due to reported understaffing in some departments and courts, which hampers utilisation of released funds.
-    2. The committee noted that as of January 2016, two Justices of the Supreme Court, two Justices of the Court of Appeal and 16 judges of the High Court were appointed, although belatedly.
+While the Judiciary states that it is underfunded, its absorption capacity remains low due to reported understaffing in some departments and courts, which hampers utilisation of released funds.
+The committee noted that as of January 2016, two Justices of the Supreme Court, two Justices of the Court of Appeal and 16 judges of the High Court were appointed, although belatedly.
 
 Recommendations
 
-    1. The Executive should prioritise recruitment and facilitation of the Judiciary for efficiency and effectiveness in delivering their mandate.
-    2. The balance of Shs 119 million, which was unutilised, should be accounted for.
+The Executive should prioritise recruitment and facilitation of the Judiciary for efficiency and effectiveness in delivering their mandate.
+The balance of Shs 119 million, which was unutilised, should be accounted for.
 
 The third issue is the staffing gap, which I have already alluded to in the earlier paragraph.
 
@@ -1020,27 +1012,27 @@ In pursuit of the above mandate, in a retreat of Government Ministers and Perman
 
 During the field visit, the committee interacted with staff members of the different schools, guardians/parents and the enrolment officers. The schools sampled included both private and Government aided schools. These are:
 
-    a) Noor Secondary School - Queens Way, Katwe
-    b) Kings Day Care and Boarding Primary School, Kabowa
-    c) St. Andrew's Primary School, Ndejje
-    d) St. Kizito Primary School, and
-    e) St. Kizito Senior Secondary School, Bugolobi.
+Noor Secondary School - Queens Way, Katwe
+Kings Day Care and Boarding Primary School, Kabowa
+St. Andrew's Primary School, Ndejje
+St. Kizito Primary School, and
+St. Kizito Senior Secondary School, Bugolobi.
 
 The committee also invited and interacted with the Minister for Internal Affairs and National Identification and Registration Authority technocrats in a meeting at Parliament. The committee was also guided by the following documents:
 
-    i. The Registration of Persons Act, 2015 
-    ii. The National Budget 2016/20I7 
-    iii.  The Ministry of Internal Affairs Ministerial Policy Statement for financial year 2017/2018
+The Registration of Persons Act, 2015 
+The National Budget 2016/20I7 
+ The Ministry of Internal Affairs Ministerial Policy Statement for financial year 2017/2018
 
 Terms of reference 
 
 The committee was guided by the following terms of reference; 
 
-    i) To ascertain the financial performance of the project 
-    ii) To ascertain the level of stakeholder's awareness 
-    iii) To ascertain the logistical and equipment related challenges faced by the project 
-    iv) To ascertain the purpose of the frequent supplementary budget requests 
-    v) To establish the general challenges faced by the enrolment officers.
+To ascertain the financial performance of the project 
+To ascertain the level of stakeholder's awareness 
+To ascertain the logistical and equipment related challenges faced by the project 
+To ascertain the purpose of the frequent supplementary budget requests 
+To establish the general challenges faced by the enrolment officers.
 
 Findings
 
@@ -1136,14 +1128,14 @@ General Recommendations
 
 Owing to the challenges above, it is clear that the results of the Registration of Learners Project are far from what Government expected. The committee therefore wishes to recommend generally as follows:
 
-    1. The committee strongly recommends that the Auditor-General should conduct a forensic audit on the entire Learners Project and this should include the procurement processes, method of recruitment, level of facilitation and mode of payment to the enrolment officers. NIRA Management should be held responsible for failure to pay some of the project staff, who up to date, still demand payment of their allowances.
+The committee strongly recommends that the Auditor-General should conduct a forensic audit on the entire Learners Project and this should include the procurement processes, method of recruitment, level of facilitation and mode of payment to the enrolment officers. NIRA Management should be held responsible for failure to pay some of the project staff, who up to date, still demand payment of their allowances.
 
-    2. The committee further recommends that for the project to be successful, there should be regular monitoring/evaluation by the mother ministry and adequate sensitisation and continuous awareness among all the stakeholders.
+The committee further recommends that for the project to be successful, there should be regular monitoring/evaluation by the mother ministry and adequate sensitisation and continuous awareness among all the stakeholders.
 
-    3. The committee also recommends that the remuneration of implementers of such an important project should be in tandem with the prevailing economic situation.
-    4. The committee further recommends that future requests for a supplementary should be in line with the Public Finance Management Act (PFM), 2005.
+The committee also recommends that the remuneration of implementers of such an important project should be in tandem with the prevailing economic situation.
+The committee further recommends that future requests for a supplementary should be in line with the Public Finance Management Act (PFM), 2005.
 
-    5. The committee further recommends that the complaints of enrolment officers and other staff should be investigated and NIRA management should be answerable for the pain caused to the Ugandans who were trying to earn a living.
+The committee further recommends that the complaints of enrolment officers and other staff should be investigated and NIRA management should be answerable for the pain caused to the Ugandans who were trying to earn a living.
 
 Conclusion
 
@@ -1165,4 +1157,3 @@ THE DEPUTY SPEAKER: Honourable members, really, the reason we publish the Order 
 However, honourable members, it is 6 O’clock. This House is adjourned to tomorrow at 2.00 p.m.
 
 (The House rose at 6.03 p.m. and adjourned until Thursday, 26 April 2018 at 2.00 p.m.) 
-

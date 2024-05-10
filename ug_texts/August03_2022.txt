@@ -1,4 +1,4 @@
-﻿
+
 
 Wednesday, 3 August, 2022
 
@@ -308,13 +308,13 @@ A similar scenario again happened in Palorinya in Pasu Refugee Settlement, where
 
 Madam Speaker, my prayers are:
 
-    1. Since Obongi District has few police stations in the district, I request the minister in charge to allocate more manpower to Obongi District. 
+Since Obongi District has few police stations in the district, I request the minister in charge to allocate more manpower to Obongi District. 
 
-    2. I also request that the UPDF detach that was established in Mureria Village and Kali Parish should be replaced. 
+I also request that the UPDF detach that was established in Mureria Village and Kali Parish should be replaced. 
 
-    3. I also request Government to deploy police officers in facilities that were constructed by UNHCR in the refugee camps.
+I also request Government to deploy police officers in facilities that were constructed by UNHCR in the refugee camps.
 
-    4. I also request the Office of the Prime Minister to take into account that the citizens whose money was taken, should be refunded.  Thank you.
+I also request the Office of the Prime Minister to take into account that the citizens whose money was taken, should be refunded.  Thank you.
 
 THE SPEAKER: Thank you. Minister of Internal Affairs, I have seen you somewhere there. 
 
@@ -817,15 +817,15 @@ On page 24, I have expressed our priorities in the second session, including but
 
 We also have:
 
-                1. Contract Farming Bill in the pipeline
-                2. The Land and Agricultural Bank Bill
-                3. Indigenous and Official Languages Bill
-                4. Political Parties and Organisations (Amendment) Bill
-                5. National Council of Sports (Amendment) Bill
-                6. Public Consultations Bill
-                7. Consumer Protection Bill
-                8. Education (Amendment) Bill and
-                9. Disaster Preparedness and Management Commission Bill, among others.
+Contract Farming Bill in the pipeline
+The Land and Agricultural Bank Bill
+Indigenous and Official Languages Bill
+Political Parties and Organisations (Amendment) Bill
+National Council of Sports (Amendment) Bill
+Public Consultations Bill
+Consumer Protection Bill
+Education (Amendment) Bill and
+Disaster Preparedness and Management Commission Bill, among others.
 
 Madam Speaker, I would like to thank you for the time. I also thank Members for their patience. Of course, pages 25 and 26 show the work we have done, which was no mean feat for the Opposition and, especially for NUP - a young party in the political arena, leading the Opposition for the first time. 
 
@@ -839,15 +839,15 @@ The Speaker: Honourable members, as you may recall, on Wednesday, 20 July 2022, 
 
 For purpose of this harmonisation, I appointed a team comprising:
 
-    1. The Chairperson of the Committee on Environment and Natural Resources
-    2. The Minister of Energy and Mineral Development
-    3. Hon. Katuntu
-    4. Hon. Aisha Nalule Kabanda
-    5. Hon. Nathan Nandala-Mafabi
-    6. Hon. Muwanga-Kivumbi
-    7. Hon. Patrick Nsamba
-    8. Hon. Wilfred Niwagaba and
-    9. Hon. Bahati.
+The Chairperson of the Committee on Environment and Natural Resources
+The Minister of Energy and Mineral Development
+Hon. Katuntu
+Hon. Aisha Nalule Kabanda
+Hon. Nathan Nandala-Mafabi
+Hon. Muwanga-Kivumbi
+Hon. Patrick Nsamba
+Hon. Wilfred Niwagaba and
+Hon. Bahati.
 
 The harmonisation process was supposed to last for two days. It is now two weeks. I, therefore, seek an update on the harmonisation process. Remember, once a Bill is returned by the President for reconsideration, it must be returned in two weeks’ time. We have run out of time. We must finish that Bill today and it goes back. 
 
@@ -905,11 +905,11 @@ The other amendment on clause 8 is by inserting a new definition of “capital i
 
 The justification for these two amendments is that determining the thresholds based on capital investment is a more stable factor as opposed to ore production volumes for the following reasons: 
 
-    1. The nature of mineral deposits vary within different groups and ore is produced in different volumes. For example, base metals such as copper, zinc, lead, and nickel are produced in high volumes, whereas metals such as wolfram or tungsten - as it is otherwise called - and the cassiterite or tin - as it is called - are produced in low volumes. Therefore, it is not ideal to prescribe the same threshold of production volumes for different minerals. 
+The nature of mineral deposits vary within different groups and ore is produced in different volumes. For example, base metals such as copper, zinc, lead, and nickel are produced in high volumes, whereas metals such as wolfram or tungsten - as it is otherwise called - and the cassiterite or tin - as it is called - are produced in low volumes. Therefore, it is not ideal to prescribe the same threshold of production volumes for different minerals. 
 
-    2. The estimation of thresholds based on annual ore volumes is constrained by a number of factors, such as availability of resources, the nature of mineralisation (that can actually be either a massive deposit, disseminated, low grade or in what is sometimes described as vein deposits) and the technology applied at the time, which may change from time to time and does not accurately define the required level of operations. 
+The estimation of thresholds based on annual ore volumes is constrained by a number of factors, such as availability of resources, the nature of mineralisation (that can actually be either a massive deposit, disseminated, low grade or in what is sometimes described as vein deposits) and the technology applied at the time, which may change from time to time and does not accurately define the required level of operations. 
 
-    3. Regional best practices show that it is more efficient to classify the different mining licences based on the expected capital investment. We have conducted desktop benchmarking on Tanzania, Ghana and Sierra Leone. These countries define the level of mining based on the capital investment. 
+Regional best practices show that it is more efficient to classify the different mining licences based on the expected capital investment. We have conducted desktop benchmarking on Tanzania, Ghana and Sierra Leone. These countries define the level of mining based on the capital investment. 
 
 The proposal of a definition of capital investment is therefore consequential as we proposed on Part B, based on the definition of large-scale mining. 
 
@@ -1064,7 +1064,7 @@ THE CHAIRPERSON: Clause 287 is equally consequential.
 
 DR OTAALA: Madam Chairperson, we have two amendments on clause 287.
 
-    (a) Amend sub clause (2) by inserting the words “and Schedule 3” immediately after the words “Schedule 2”.
+Amend sub clause (2) by inserting the words “and Schedule 3” immediately after the words “Schedule 2”.
 
 Justification
 
@@ -1072,7 +1072,7 @@ Is that it is consequential.
 
 The other amendment is –
 
-    (b) Insert a new sub clause (3) to read as follows: “The minister shall lay before Parliament any statutory instrument to amend schedule 3 and the statutory instrument shall not be effective unless approved by Parliament.” 
+Insert a new sub clause (3) to read as follows: “The minister shall lay before Parliament any statutory instrument to amend schedule 3 and the statutory instrument shall not be effective unless approved by Parliament.” 
 
 The justification is that for transparency and for Parliament to fulfil its legislative role as prescribed under Article 79(1) and (2) of the Constitution as this is paramount. Madam Chairperson, I beg to submit.
 
@@ -1092,13 +1092,13 @@ DR OTAALA: Madam Chairperson, we are proposing to insert a new schedule to read 
 
 Item, licence, capital investment in United States Dollars –
 
-    1. “Large scale mining licence. The capital investment prescribed in United States dollars is above US$ 100 million. 
+“Large scale mining licence. The capital investment prescribed in United States dollars is above US$ 100 million. 
 
-    2. Medium scale mining licence. The capital investment prescribed is US$ 300,000 to US$ 100 million. 
+Medium scale mining licence. The capital investment prescribed is US$ 300,000 to US$ 100 million. 
 
-    3. Small-scale mining licence is US$ 100,000 to US$ 5 million.
+Small-scale mining licence is US$ 100,000 to US$ 5 million.
 
-    4. Artisanal mining licence is up to US$ 100,000.”
+Artisanal mining licence is up to US$ 100,000.”
  
 Madam Chairperson, I beg to submit.
 
@@ -1470,4 +1470,3 @@ I would like also like to congratulate and thank all the Members of Parliament w
 I would also like to thank myself. (Laughter) The House is adjourned to tomorrow at 2 o’clock.
 
 (The House rose at 6.04 p.m. and adjourned until Thursday, 4 August 2022 at 2.00 p.m.) 
-

@@ -1,4 +1,4 @@
-﻿
+
 PARLIAMENT OF UGANDA
 
 Wednesday, 27 April 2022
@@ -571,7 +571,7 @@ MR SSEGGONA: Thank you, Mr Speaker. Rule 222 of the Rules of Procedure of Parlia
 
 “222. Reconsidering a decision of the House
 
-    1. It is out of order to attempt to reconsider a specific question upon which the House has come to a conclusion during the current session.” 
+It is out of order to attempt to reconsider a specific question upon which the House has come to a conclusion during the current session.” 
 
 This matter has been considered. It is out of order – reading the rule – not simply “to start”, but “to attempt”. (Laughter)
 
@@ -656,15 +656,15 @@ Case Law interpreting Article 50 of the Treaty
 
 The report provides around five cases including:
 
-    i.  Jacob Oulanyah v. the Attorney-General. 
+ Jacob Oulanyah v. the Attorney-General. 
 
-    ii. Prof. Peter Anyang' Nyong'o & Others v. the Attorney-General of Kenya.
+Prof. Peter Anyang' Nyong'o & Others v. the Attorney-General of Kenya.
 
-    iii.  Democratic Party & Mukasa Mbidde v. the Secretary-General.
+ Democratic Party & Mukasa Mbidde v. the Secretary-General.
 
-    iv. Abdu Katuntu v. the Attorney-General of Uganda & the Secretary-General of the East African Community.
+Abdu Katuntu v. the Attorney-General of Uganda & the Secretary-General of the East African Community.
 
-    v. Among A. Anita v. the Attorney-General of Uganda and the Secretary-General of the East African Community.
+Among A. Anita v. the Attorney-General of Uganda and the Secretary-General of the East African Community.
 
 Below is the summary of the rulings in those cases 
 
@@ -714,14 +714,14 @@ Recommendations
 
 These events include – 
 
-    a) resignation; 
-    b) ceasing to be qualified to be elected;
-    c) upon his or her election or nomination as a Member of the National Assembly of a partner state;
-    d) upon his or her appointment as a minister in the government of a partner state; 
-    e) upon conviction by a court of competent jurisdiction of an offence and sentenced to imprisonment for a term exceeding six months;
-    f) upon his or her appointment as an officer in the service of the community; 
-    g) upon the dissolution of the Assembly; or 
-    h) upon death.
+resignation; 
+ceasing to be qualified to be elected;
+upon his or her election or nomination as a Member of the National Assembly of a partner state;
+upon his or her appointment as a minister in the government of a partner state; 
+upon conviction by a court of competent jurisdiction of an offence and sentenced to imprisonment for a term exceeding six months;
+upon his or her appointment as an officer in the service of the community; 
+upon the dissolution of the Assembly; or 
+upon death.
 
 (iii) Regarding the timeframe within which the by-election should be held, the committee recommends that the election should be held within a period of 60 days to allow for any flexibility since the EALA Elections Act, 2011 provides for 90 days.
 
@@ -759,11 +759,11 @@ MR KATUNTU: Thank you very much for that direction and guidance, Mr Speaker. On 
 
 Mr Speaker, we recommend the following:
 
-    (i) The questions put to the Prime Minister should be both oral and written. 
+The questions put to the Prime Minister should be both oral and written. 
 
-    (ii) The criteria for selection of the question to the Prime Minister should be on a “first-in-first-out” basis and not a raffle – like some sort of Betway. (Applause)
+The criteria for selection of the question to the Prime Minister should be on a “first-in-first-out” basis and not a raffle – like some sort of Betway. (Applause)
 
-    (iii) The question time should be enlarged from 45 minutes to 60 minutes; 40 minutes dedicated to responses to the written questions and 20 minutes to responses to oral questions.
+The question time should be enlarged from 45 minutes to 60 minutes; 40 minutes dedicated to responses to the written questions and 20 minutes to responses to oral questions.
 
 The Committee on Science, Technology and Innovation (rules 158 and 187)
 
@@ -1089,13 +1089,13 @@ MR FOX ODOI-OYWELOWO (NRM, West Budama North East, Tororo): Thank you, Mr Speake
 
 I would like to address you in respect of 94(4), “The Rules of Procedure of Parliament shall include the following provisions – 
 
-    a) the Speaker shall determine the order of business in Parliament and shall give priority to government business; 
+the Speaker shall determine the order of business in Parliament and shall give priority to government business; 
 
-    b) a Member of Parliament has the right to move a Private Member's Bill; 
+a Member of Parliament has the right to move a Private Member's Bill; 
 
-    c) a Member moving a Private Member's Bill shall be afforded reasonable assistance by the department of Government whose area of operation is affected by the Bill; 
+a Member moving a Private Member's Bill shall be afforded reasonable assistance by the department of Government whose area of operation is affected by the Bill; 
 
-    d) the Office of the Attorney-General shall afford the Member moving the Private Member's Bill professional assistance in the drafting of the Bill.” 
+the Office of the Attorney-General shall afford the Member moving the Private Member's Bill professional assistance in the drafting of the Bill.” 
 
 Now, this afternoon, we are not dealing with any of those entrenched provisions of the rules. We are dealing with rules that are not entrenched. 
 
@@ -1165,15 +1165,15 @@ Rule 12
 MR KATUNTU: Mr Speaker, I move that rule 12 be amended by providing-
 
 “By-election” 
-    (1) A by-election of a member of the East African Legislative Assembly representing Uganda shall be conducted in accordance with rule 12(1) and (2) of these rules.
+A by-election of a member of the East African Legislative Assembly representing Uganda shall be conducted in accordance with rule 12(1) and (2) of these rules.
 
-    (2) A by-election shall be conducted whenever a Member of the Assembly -
-    a) Dies; or
-    b) where the seat of a Member of the Assembly becomes vacant upon the happening of and events provided for under Appendix B.
+A by-election shall be conducted whenever a Member of the Assembly -
+Dies; or
+where the seat of a Member of the Assembly becomes vacant upon the happening of and events provided for under Appendix B.
 
-    (3) A Member of the Assembly elected under this rule shall serve for the remaining term of the Assembly.
+A Member of the Assembly elected under this rule shall serve for the remaining term of the Assembly.
 
-    (4) A by-election shall not be held within six months prior to the expiration of the term of the Assembly except where failure to hold elections affects the quorum of the Assembly.”
+A by-election shall not be held within six months prior to the expiration of the term of the Assembly except where failure to hold elections affects the quorum of the Assembly.”
 
 The justification is to provide for a by-election by members representing the East African Legislative Assembly. I beg to move.
 
@@ -1227,14 +1227,14 @@ Rule 41 of the rules is amended -
 (e)	By inserting a new subrule immediately after subrule (8) as follows:
 
 “The 60 minutes referred to under subrule (8) shall be apportioned as follows -
-    (i) forty minutes for responding to the written questions; and 
-    (ii) twenty minutes for responding to the oral questions.”
+forty minutes for responding to the written questions; and 
+twenty minutes for responding to the oral questions.”
 
 Justification
 
 (i) 	To provide for the option of allowing Members to ask the Prime Minister oral questions.
 
-    (iii) To remove the selection of written questions by raffle.
+To remove the selection of written questions by raffle.
 
 (iii) 	To increase the Prime Minister’s Question Time to 60 minutes; apportioned for both written and oral questions. 
 
@@ -1500,11 +1500,11 @@ MR KATUNTU: Mr Speaker, the committee proposes that we substitute subrule (8) wi
 
 Justification
 
-    1. To provide for the option of allowing Members to ask the Prime Minister oral questions;
+To provide for the option of allowing Members to ask the Prime Minister oral questions;
 
-    2. To remove the selection of written questions by raffle, and;
+To remove the selection of written questions by raffle, and;
 
-    3. To increase the Prime Minister’s question time to 60 minutes; apportioned for both written and oral. Why? This is because, previously, the Prime Minister’s Time was less than an hour: it was 40 minutes. We are now increasing and dividing it up. 
+To increase the Prime Minister’s question time to 60 minutes; apportioned for both written and oral. Why? This is because, previously, the Prime Minister’s Time was less than an hour: it was 40 minutes. We are now increasing and dividing it up. 
 
 However, we are amiable to adjusting what sort of minutes go to the oral and written questions.
 
@@ -1529,7 +1529,7 @@ The rules are amended by inserting immediately after rule 186 the following-
 
 “Functions of the Committee on Science, Technology and Innovation 
 
-    (1) The Committee on Science, Technology and Innovation shall –
+The Committee on Science, Technology and Innovation shall –
 
 (a) 	review, discuss and make recommendations on scientific and technological content of all Bills laid before Parliament;
 
@@ -1541,7 +1541,7 @@ The rules are amended by inserting immediately after rule 186 the following-
  
 (e) 	examine, recommend and oversee adequate national budgetary provisions for the development of science and technology. 
 
-    (2) The committee shall report to Parliament at least twice in a year on its functions.” 
+The committee shall report to Parliament at least twice in a year on its functions.” 
 
 Justification 
 To provide for the functions of the standing committee on science, technology and innovation. I beg to move.
@@ -1566,9 +1566,9 @@ Rule 187
 
 MR KATUNTU: Mr Speaker, this is consequential. Rule 187 of the rules is amended; 
 
-    a) in paragraph (j) by adding a new sub-paragraph immediately after sub-paragraph (ix) the following, “science, technology and innovation”
+in paragraph (j) by adding a new sub-paragraph immediately after sub-paragraph (ix) the following, “science, technology and innovation”
 
-    b) by deleting paragraph (p)
+by deleting paragraph (p)
 
 Justification 
 
@@ -1629,9 +1629,9 @@ MR KATUNTU: I, therefore, withdraw any reference to the 60 days in respect to Ap
 
 The justification was to;
 
-    (i) provide for the report of the verification committee to be presented to the House; 
+provide for the report of the verification committee to be presented to the House; 
 
-    (ii) Paragraph 3 is a repetition of paragraph 12, so, there is no need to maintain the subparagraph. 
+Paragraph 3 is a repetition of paragraph 12, so, there is no need to maintain the subparagraph. 
 
 (iii) 	To specifically provide for all the circumstances that give rise to the occurrence of the vacancy;
 
@@ -1725,33 +1725,33 @@ Landslides
 
 One of the forms is landslides. We have categorised the causes to these landslides and they include: 
 
-    a) Torrential rains, and; 
+Torrential rains, and; 
 
-    b) Poor land use practices through uncontrolled land use practices such as deforestation, neglect of soil conservation practices such as terracing, bush fallowing and contour ploughing by surrounding communities. 
+Poor land use practices through uncontrolled land use practices such as deforestation, neglect of soil conservation practices such as terracing, bush fallowing and contour ploughing by surrounding communities. 
 
 Floods
 
 Floods are one of the forms of disasters in our country. The specific causes are outlined below:
 
-    a) Nature of terrain;
+Nature of terrain;
 
-    b) Deforestation – where encroachment and degazettement has been intensified in our forests;
+Deforestation – where encroachment and degazettement has been intensified in our forests;
 
-    c) Climate change;
+Climate change;
 
-    d) Diversion of original water channels, and;
+Diversion of original water channels, and;
 
-    e) Rising water levels on Lake Victoria. 
+Rising water levels on Lake Victoria. 
 
 Drought
 
 Mr Speaker, another form of disaster is drought. The specific causes are reflected from page nine. They are;
 
-    a) Cyclical weather patterns;
+Cyclical weather patterns;
 
-    b) Deforestation and soil degradation, and;
+Deforestation and soil degradation, and;
 
-    c) Climate change. 
+Climate change. 
 
 Hailstorms and windstorms
 
@@ -1847,11 +1847,11 @@ UNMA should be allocated adequate resources to modernise its meteorological obse
 
 Under the management of hilly and mountainous areas, we are recommending the following:
 
-    1. Governments should ensure that sustainable land-use practices such as contour ploughing or terracing are adhered to in hilly and mountainous areas of the country.
+Governments should ensure that sustainable land-use practices such as contour ploughing or terracing are adhered to in hilly and mountainous areas of the country.
 
-    2. Government undertakes deliberate efforts geared towards restoration, reforestation and afforestation of hilly and mountainous areas of the country.
+Government undertakes deliberate efforts geared towards restoration, reforestation and afforestation of hilly and mountainous areas of the country.
 
-    3.  NEMA enforces strict adherence and compliance with the provision embedded in section 57 and section 58 of the National Environment Act, 2019.
+ NEMA enforces strict adherence and compliance with the provision embedded in section 57 and section 58 of the National Environment Act, 2019.
 
 Management of lakes, rivers and wetlands
 
@@ -1861,9 +1861,9 @@ Adherence to Section 26 of the PFMA, 2015. Ideal 0.5% allocation to the continge
 
 Specific recommendations 
 
-    i. Government should adhere to the Act to ensure that approved budgets are consistent with section 26(1) of the Act.
+Government should adhere to the Act to ensure that approved budgets are consistent with section 26(1) of the Act.
 
-    ii. Government should focus the budgeting provisions at all levels towards building resilient communities, economies and infrastructures other than managing and responding to disasters.
+Government should focus the budgeting provisions at all levels towards building resilient communities, economies and infrastructures other than managing and responding to disasters.
 
 Increasing absorption capacity to the Contingency Fund 
 
@@ -1883,11 +1883,11 @@ Establishment of robust fire prevention and management system
 
 We recommend the following:
 
-    i) Government should sensitise communities on basic fire safety practices and enforce all the fire safety measures at all times. 
+Government should sensitise communities on basic fire safety practices and enforce all the fire safety measures at all times. 
 
-    ii) Government should ensure adequate distribution of well-stocked firefighting equipment.
+Government should ensure adequate distribution of well-stocked firefighting equipment.
 
-    iii) Urgently address the problem of high urban traffic congestion that slows down response from the firefighting teams 
+Urgently address the problem of high urban traffic congestion that slows down response from the firefighting teams 
 
 Commitment to Sendai Framework for Disaster Risk Reduction
 

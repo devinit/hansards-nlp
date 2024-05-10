@@ -1,4 +1,4 @@
-﻿
+
 
 Thursday, 29 March 2018
 
@@ -289,12 +289,12 @@ I hereby lay a copy of-
 THE DEPUTY SPEAKER: Is the motion seconded? It is seconded by the Member for Busiro.
 
 MR SSEKITOLEKO: Mr Speaker, my justifications: 
-    1. The Committee on Science, Technology and Innovation has found it necessary to propose a law in order to establish a legal framework to strengthen scientific and technological research and innovation at national level. 
-    2. It is also to enhance the implementation of Uganda National Science, Technology and Innovation. 
-    3. To promote competitiveness and job creation.
-    4. To consolidate science, technology and innovation activities to make innovation an integral part of all science and technology activities. 
-    5. To re-define the Uganda National Council for Science and Technology, which is housed right now under the Ministry of Finance, Planning and Economic Development even when we have a new Ministry of Science, Technology and Innovation.
-    6. It is also to establish a Science, Technology and Innovation fund. This law is also expected to expressly repeal the Uganda National Council for Science, Technology and Innovation, Science and Technology Act of 2009 but to also establish Uganda National Council for Science, Technology and Innovation under the ministry responsible for Science, Technology and Innovation.
+The Committee on Science, Technology and Innovation has found it necessary to propose a law in order to establish a legal framework to strengthen scientific and technological research and innovation at national level. 
+It is also to enhance the implementation of Uganda National Science, Technology and Innovation. 
+To promote competitiveness and job creation.
+To consolidate science, technology and innovation activities to make innovation an integral part of all science and technology activities. 
+To re-define the Uganda National Council for Science and Technology, which is housed right now under the Ministry of Finance, Planning and Economic Development even when we have a new Ministry of Science, Technology and Innovation.
+It is also to establish a Science, Technology and Innovation fund. This law is also expected to expressly repeal the Uganda National Council for Science, Technology and Innovation, Science and Technology Act of 2009 but to also establish Uganda National Council for Science, Technology and Innovation under the ministry responsible for Science, Technology and Innovation.
 
 Mr Speaker, the committee has identified some gaps in the sector of Science, Technology and Innovation, which if not addressed may cripple the smooth advancement of Science, Technology and Innovation in Uganda. These include but not limited to: a fragmented and inadequately coordinated science, technology and innovation system despite the existence of the ministry and Science, Technology and Innovation policy; the innovative capacity of Ugandan is eroded; there is poor or low knowledge and technology flaws from the science based into the industry; poor science, technology and innovation networking both within the region and global context –(Interruption)
 
@@ -320,13 +320,13 @@ MR PETER SEMATIMBA (NRM, Busiro County South, Wakiso): Thank you, Mr Speaker. I 
 
 Uganda lags behind in science and technology and the many incredible benefits thereof for many reasons. Key among them, is the fact that in Uganda, all the aspects that make up science and technology -  and this includes its various fields of discipline, the institutional frameworks, institutional domiciles, their processes, their operations, their funding and even their legislative mandate - all these aspects are scattered all over Uganda’s legislative institutional and administrative landscape. They are not streamlined and nor are they held together or even interlinked into a single cohesive and governable framework. As a result of this condition, Uganda has been affected negatively as follows:
 
-    1. The condition has and continues to rob our nation of the exponential benefits that come out of the science and technology synergies, which do not exist right now. These synergies are critical in maximising benefits.
+The condition has and continues to rob our nation of the exponential benefits that come out of the science and technology synergies, which do not exist right now. These synergies are critical in maximising benefits.
 
-    2. This condition gives our nation compromised efficiencies in the research, development, creation and transfer of relevant technological solutions to Uganda.
+This condition gives our nation compromised efficiencies in the research, development, creation and transfer of relevant technological solutions to Uganda.
 
-    3. The condition we are in currently gives us a very compromised monitoring system and a lack of transparency on the usage of national resources in the name of science and technology. A lack of transparency, which currently costs Uganda billions of shillings every year.
+The condition we are in currently gives us a very compromised monitoring system and a lack of transparency on the usage of national resources in the name of science and technology. A lack of transparency, which currently costs Uganda billions of shillings every year.
 
-    4. This condition also gives our country a compromised governance of science and technology especially as regards to giving science and technology relevant guidance vis-a-vis Uganda’s National Development Plan. All in all, Mr Speaker, this status quo greatly compromises Uganda’s capacity to fully harness her scientific and technological potential.
+This condition also gives our country a compromised governance of science and technology especially as regards to giving science and technology relevant guidance vis-a-vis Uganda’s National Development Plan. All in all, Mr Speaker, this status quo greatly compromises Uganda’s capacity to fully harness her scientific and technological potential.
 
 Therefore, in a bid to solve this problem and to emulate those countries where science and technology are very advanced, efficient and are indeed driving their nations to incredible heights of positive socio-economic transformation, there is a need for us to bring all these various fields of science that I mentioned before into one and all of them under one comprehensive and consolidated legislative and institutional framework on science, technology, engineering and innovation.
 
@@ -431,39 +431,39 @@ QUESTION 03/01/10 TO THE MINISTER OF WORKS AND TRANSPORT
 
 3.30
 MR ROBERT SSEKITOLEKO (NRM, Nakifuma County, Mukono): “Can the minister state:
-    (i) The current total national coverage of tarmac roads (Kms) in Uganda?
-    (ii) The current distribution of national tarmac roads (Kms) on a sub-regional basis like Lango, Acholi, Teso, Bugisu among others?
-    (iii) Plans the ministry has developed to construct tarmac roads connecting highways to all the district headquarters of Uganda as is being done by the Rural Electrification Agency (REA)
+The current total national coverage of tarmac roads (Kms) in Uganda?
+The current distribution of national tarmac roads (Kms) on a sub-regional basis like Lango, Acholi, Teso, Bugisu among others?
+Plans the ministry has developed to construct tarmac roads connecting highways to all the district headquarters of Uganda as is being done by the Rural Electrification Agency (REA)
 
 3.31
 THE MINISTER FOR WORKS AND TRANSPORT (Gen. Katumba Wamala): Mr Speaker, this is a response of the Minister of Works and Transport to the Question for Oral Answer, Question 03/01/10 to the Minister of Works and Transport raised by hon. Obua Denis Hamson, Member of Parliament for Ajuri County. The question is: Can the Minister of Transport and Works who is charged with the responsibility of implementing the primary priority of National Resistance Movements (NRM), contained in both the National Development Plan (NDP) and   NRM Party Manifesto 2016 - 2021 –
 
 Mr Speaker, below is the response from the ministry. The current proportion of tarmac roads across the country is as follows:
-    a) National roads – 4,257 kilometres paved, out of the total 20,544 kilometres. This represents 20 per cent.
-    b)  Urban roads - 570 kilometres paved, out of the total 10,108 kilometres. This represents only 5.6 per cent.
-    c) Kampala Capital City Roads – 575 kilometres paved, out of the total of 2,200 kilometres, representing 26.1 per cent.
-    d) District roads – 145 kilometres paved, out of the total 35,366 kilometres. This represents a mere 0.4 per cent.
+National roads – 4,257 kilometres paved, out of the total 20,544 kilometres. This represents 20 per cent.
+ Urban roads - 570 kilometres paved, out of the total 10,108 kilometres. This represents only 5.6 per cent.
+Kampala Capital City Roads – 575 kilometres paved, out of the total of 2,200 kilometres, representing 26.1 per cent.
+District roads – 145 kilometres paved, out of the total 35,366 kilometres. This represents a mere 0.4 per cent.
 
 Below is the sub-regional distribution:
-    1) Acholi region 
-    a) Gulu tarmac road – 290 kilometres 
-    b) Gravel road – 648 kilometres 
-    c) Upgrading works ongoing  - 62 kilometres
+Acholi region 
+Gulu tarmac road – 290 kilometres 
+Gravel road – 648 kilometres 
+Upgrading works ongoing  - 62 kilometres
  
-    2) Lango Region
-    a) Lira tarmac roads – 126 kilometres
-    b) Gravel roads – 939 kilometers 
-    c) Upgrading works ongoing – nil
-    d) Works and contracts under procurement – 215 kilometres 
+Lango Region
+Lira tarmac roads – 126 kilometres
+Gravel roads – 939 kilometers 
+Upgrading works ongoing – nil
+Works and contracts under procurement – 215 kilometres 
 
-    3) Teso region 
-    a) Soroti tarmac road – 635 kilometres 
-    b) Gravel roads – 836 kilometres
-    c) Upgrading works ongoing – 90 kilometres 
-    4) Bugisu region 
-    a) Mbale tarmac roads – 158 kilometres
-    b) Gravel roads – 753 kilometres
-    c) Upgrading works ongoing – 45 kilometres  
+Teso region 
+Soroti tarmac road – 635 kilometres 
+Gravel roads – 836 kilometres
+Upgrading works ongoing – 90 kilometres 
+Bugisu region 
+Mbale tarmac roads – 158 kilometres
+Gravel roads – 753 kilometres
+Upgrading works ongoing – 45 kilometres  
 
 From the above information, it is evident that the portion of the paved roads for the region mentioned above is approximately 17 per cent, over the total national tarmacked road network of 4,257 kilometres.
 
@@ -479,10 +479,10 @@ QUESTION 39/01/10 TO THE MINISTER OF WORKS AND TRANSPORT
 
 3.34
 MR WAIRA MAJEGERE (Independent, Bunya County East, Mayuge): “Mayuge Highway Bridge along Jinja Road is badly situated; it has one entry and exit and long vehicles have often had to negotiate within the main road causing heavy traffic jam and on a number of occasions, accidents.
-    i) Why did the ministry provide such minimal parking space and moreover with only one way for both entry and exit?
-    ii) What measures are being put in place to expand the narrow space and to ensure the trailers do not park alongside the road?
-    iii) What is being done to ensure that the transfer delays at the bridge are limited to not more than 30 minutes?
-    iv) How much money has been collected in penalties at the bridge in the last five years and how much of it has been ploughed back to Mayuge as the host district?”
+Why did the ministry provide such minimal parking space and moreover with only one way for both entry and exit?
+What measures are being put in place to expand the narrow space and to ensure the trailers do not park alongside the road?
+What is being done to ensure that the transfer delays at the bridge are limited to not more than 30 minutes?
+How much money has been collected in penalties at the bridge in the last five years and how much of it has been ploughed back to Mayuge as the host district?”
 
 THE DEPUTY SPEAKER: The honourable member is there. Would you like to rise so that they answer your question?
 
@@ -527,9 +527,9 @@ FURTHER RECOGNISING that access to education is one of the fundamental rights of
 
 NOW, THEREFORE, be it resolved by Parliament that the relevant committee of Parliament inquires into allegations of sexual harassment and abuse in:
 
-    1. All schools where the interdicted headmaster of Kibuli Secondary School has served as headmaster.
-    2. The St Lawrence schools, colleges and University.
-    3. Makerere University.”
+All schools where the interdicted headmaster of Kibuli Secondary School has served as headmaster.
+The St Lawrence schools, colleges and University.
+Makerere University.”
 
 Mr Speaker, I beg to move.
 
@@ -644,15 +644,15 @@ THE DEPUTY SPEAKER: Let the records capture that. It stands referred to the Comm
 
 MR KASAIJA: Mr Speaker, I wish to state that the budget has been accompanied by the following papers: 
 
-    i) The budget of self-accounting departments, commissions and organisations set up under the Constitution;
-    ii) A grant to local Government and subventions for Financial Year 2018/2019; 
-    iii) The Treasury Memorandum specifying the measures taken by the Ministry of Finance, Planning and Economic Development to implement the recommendations of Parliament in respect to the Auditor-General’s report of the proceeding financial year;
-    iv) A certificate confirming that the budget for financial year 2018/2019 is gender and equity responsive and has taken into account the specific needs of men and women, persons with disabilities and other marginalised groups;
-    v) A report of financial year 2017/2018 on the management of public debts, guarantees and other financial liabilities of Government;
-    vi) A statement of the budget attesting to the liability and completeness of the budget information provided;
-    vii) A list of accounting officers to be appointed in financial year 2018/2019;
-    viii) A Certificate of Financial Implication for the budget for financial year 2018/2019;
-    ix) A draft detailed estimate of revenue and expenditure for the financial year 2018/2019. 
+The budget of self-accounting departments, commissions and organisations set up under the Constitution;
+A grant to local Government and subventions for Financial Year 2018/2019; 
+The Treasury Memorandum specifying the measures taken by the Ministry of Finance, Planning and Economic Development to implement the recommendations of Parliament in respect to the Auditor-General’s report of the proceeding financial year;
+A certificate confirming that the budget for financial year 2018/2019 is gender and equity responsive and has taken into account the specific needs of men and women, persons with disabilities and other marginalised groups;
+A report of financial year 2017/2018 on the management of public debts, guarantees and other financial liabilities of Government;
+A statement of the budget attesting to the liability and completeness of the budget information provided;
+A list of accounting officers to be appointed in financial year 2018/2019;
+A Certificate of Financial Implication for the budget for financial year 2018/2019;
+A draft detailed estimate of revenue and expenditure for the financial year 2018/2019. 
 
 I beg to lay.
 
@@ -716,11 +716,11 @@ MR NZOGHU: Thank you, Mr Speaker. I am a member of the committee. We had a meeti
 On 28th February, the committee, through our chairperson, asked the Ministry of Finance, Planning and Economic Development to submit the following documents, which the ministry has never done. I would like to put them on record.
 
 We asked the ministry to provide:
-    i) The current performance of the contingencies fund.
-    ii) The current status of domestic revenue performance for financial year 2017/2018 as at February 2018.
-    iii) A copy of the country’s tax policy document.
-    iv) Itemised details and beneficiary MDAs for the Shs 736 billion and evidence that this money was appropriated by Parliament.
-    v) Details of the total supplementary and additional funding requests that amount to shillings - (Interruption) - I am not willing to take the information now.
+The current performance of the contingencies fund.
+The current status of domestic revenue performance for financial year 2017/2018 as at February 2018.
+A copy of the country’s tax policy document.
+Itemised details and beneficiary MDAs for the Shs 736 billion and evidence that this money was appropriated by Parliament.
+Details of the total supplementary and additional funding requests that amount to shillings - (Interruption) - I am not willing to take the information now.
 
 MS BBUMBA: Mr Speaker, hon. Nzoghu is a very productive member of the committee. Yesterday, the clerk to the committee convened a meeting to discuss and finalise the report. Members turned up this morning and the report was discussed and signed but hon. Nzoghu did not turn up for the meeting. 
 
@@ -877,12 +877,12 @@ MR KIVUMBI: Mr Speaker, I do not know why I should labour for something that is 
 Section 38 of the Public Management Act, 2015 reads: “Subject to the Constitution, the Authority to raise money by loan and to issue guarantees for and on behalf of Government shall vest solely in the minister and no any other person, public corporation, state enterprise or local government council shall, without the prior approval of the minister, raise any loan, issue any guarantees or take any other action which may in any way either directly or indirectly result into a liability being incurred by the Government.” 
 
 Subsection (2), for purposes of subsection (1), the minister may raise a loan:
-    a) To finance a budget deficit;
-    b) For management of monetary policy, this was amended to add all treasury operation;
-    c) To obtain foreign currency;
-    d) For on-lending to an approved institution; or
-    e) For defraying an expenditure which may lawfully be defrayed.
-    f) For value of Government Bills, bonds or stocks raised in a financial year to issue a loan in sub-section (2).
+To finance a budget deficit;
+For management of monetary policy, this was amended to add all treasury operation;
+To obtain foreign currency;
+For on-lending to an approved institution; or
+For defraying an expenditure which may lawfully be defrayed.
+For value of Government Bills, bonds or stocks raised in a financial year to issue a loan in sub-section (2).
 
 Except a loan specified in sub-section (2)(b), a loan raised through the issuance of security shall not exceed the value indicated in the respect of that loan or in the annual budget for the financial year. 
 (5)(b) With the exception of a loan raised for the purpose of sub-section (2)(b), which is for management of monetary policy or treasury operation. That is the only exception. Or a loan raised through issuance of security. The terms and conditions of the loan raised by the minister shall be laid before Parliament. 
@@ -1104,9 +1104,9 @@ Access to the project site and right of way: A report in respect to the social s
 
 Our recommendations on handling that issue are as follows:
 
-    a) All the outstanding issues surrounding the right of way be concluded expeditiously by Government to pave way for the full implementation of the programme and limit compensation claims by various contractors.
+All the outstanding issues surrounding the right of way be concluded expeditiously by Government to pave way for the full implementation of the programme and limit compensation claims by various contractors.
 
-    b) National Water and Sewerage Corporation should kick-start the process of procuring a service provider to remove parts of the infrastructure like the railway lines which are lying in the sewer line.
+National Water and Sewerage Corporation should kick-start the process of procuring a service provider to remove parts of the infrastructure like the railway lines which are lying in the sewer line.
 
 On the performance of the ongoing Kampala Sanitation Programme Phase I, the committee observed that the delayed release of funds to cater for compensation costs of the Kasokoso project affected persons has denied the contractor access to the site, and this is going to attract interest. 
 
@@ -1290,23 +1290,23 @@ Before I proceed –
 THE DEPUTY SPEAKER: No, but you have stated the wrong motion. This is not the motion to authorise the signing of the agreement. The agreement was already signed. Wasn’t it? Isn’t that what you presented? It is to authorise the implementation of the signed documents. That is the motion we are dealing with. 
 
 MR BATEGEKA: Let me first consult. Before I present the report of the committee, with me I have the following documents that I would love to lay on the Table: 
-    a) a signed report and signed minutes; 
-    b) the bilateral agreement between the Republic of South Sudan and the Government of Uganda
-    c) motion for a resolution of Parliament to support the bilateral agreement between the Government of Uganda and the Republic of South Sudan; 
-    d) the ministerial statement on unpaid claims of Ugandan traders in South Sudan; 
-    e) the Report of the South Sudan Trade Dispute Arbitration Committee; and 
-    f) a petition by South Sudan Ugandan traders that are owed money but are not on the list of companies to be paid. I beg to lay. 
+a signed report and signed minutes; 
+the bilateral agreement between the Republic of South Sudan and the Government of Uganda
+motion for a resolution of Parliament to support the bilateral agreement between the Government of Uganda and the Republic of South Sudan; 
+the ministerial statement on unpaid claims of Ugandan traders in South Sudan; 
+the Report of the South Sudan Trade Dispute Arbitration Committee; and 
+a petition by South Sudan Ugandan traders that are owed money but are not on the list of companies to be paid. I beg to lay. 
 
 THE DEPUTY SPEAKER: Let the records capture that. 
 
 MR BATEGEKA: I will go to the methodology. The committee held meetings with the Minister of Finance, Planning and Economic Development. The committee reviewed documents and made reference to the following documents:
-    i. The Constitution of the Republic of Uganda;
-    ii. The bilateral agreement between the Government of the Republic of South Sudan and the Government of Uganda, concerning payment of monies to Ugandan South Sudan traders by the Government of the Republic of South Sudan;
-    iii. The ministerial statement on unpaid claims of Ugandan traders in South Sudan;
-    iv. A report of the South Sudan Trade Dispute Arbitration Committee;
-    v. A letter from His Excellency the President of Uganda to the Minister of Finance in regard to non-payment for goods supplied to South Sudan;
-    vi. Bank of Uganda annual reports (Financial Year 2014/2015 to Financial Year 2016/20l7); and
-    vii. The Parliamentary Budget Office (PBO) report on the performance of the economy for the Financial Year 2016/2017. 
+The Constitution of the Republic of Uganda;
+The bilateral agreement between the Government of the Republic of South Sudan and the Government of Uganda, concerning payment of monies to Ugandan South Sudan traders by the Government of the Republic of South Sudan;
+The ministerial statement on unpaid claims of Ugandan traders in South Sudan;
+A report of the South Sudan Trade Dispute Arbitration Committee;
+A letter from His Excellency the President of Uganda to the Minister of Finance in regard to non-payment for goods supplied to South Sudan;
+Bank of Uganda annual reports (Financial Year 2014/2015 to Financial Year 2016/20l7); and
+The Parliamentary Budget Office (PBO) report on the performance of the economy for the Financial Year 2016/2017. 
 
 Background 
 
@@ -1385,7 +1385,6 @@ THE DEPUTY SPEAKER: Let the records capture that. It stands referred to the appr
 Honourable members, this House is now adjourned to Tuesday at 2.00 p.m.
 
 (The House rose at 6.26 p.m. and adjourned until Tuesday, 3 April 2018 at 2.00 p.m.) 
-
 
 
 

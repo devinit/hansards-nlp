@@ -1,4 +1,4 @@
-﻿
+
 PARLIAMENT OF UGANDA
 
 Wednesday, 4 May 2022
@@ -401,7 +401,7 @@ THE DEPUTY SPEAKER: I request you to come closer to the microphone so that you a
 MS LEMATIA: I rise under Rule 30 of the Rules of Procedure. This is the humble petition of nurses and medical interns presented by me, one of the most senior nurses in this country. (Applause)
 It showeth and states that:
 
-    1. Your humble petitioners are the leaders of several professional nursing bodies united under their professional nursing organisation, the Federation of Uganda Nurses and Midwives (FUNM).
+Your humble petitioners are the leaders of several professional nursing bodies united under their professional nursing organisation, the Federation of Uganda Nurses and Midwives (FUNM).
 
 2.	 The petitioners are aggrieved by the continued non-implementation of the terms of the 2018 Collective Bargaining Agreement intended to streamline the salary discrepancies amongst various categories of the medical practitioners.
 
@@ -419,13 +419,13 @@ It showeth and states that:
 
 NOW, THEREFORE, be it resolved by Parliament as follows:
 
-    1. Government fulfils its commitment under the Collective Bargaining Agreement to enhance nurses’ and midwives’ salaries in Fiscal Year 2022 and 2023. - I am sorry this is coming after the budget process; the primary arrangements are almost over, but Mr Speaker, I wish you could take this into consideration.
+Government fulfils its commitment under the Collective Bargaining Agreement to enhance nurses’ and midwives’ salaries in Fiscal Year 2022 and 2023. - I am sorry this is coming after the budget process; the primary arrangements are almost over, but Mr Speaker, I wish you could take this into consideration.
 
-    1.  Government, through the Ministry of Health, pays lower cadres (Diploma, certificates) the emoluments agreed upon in the collective bargaining agreement of 2018.
+ Government, through the Ministry of Health, pays lower cadres (Diploma, certificates) the emoluments agreed upon in the collective bargaining agreement of 2018.
 
-    2. Government, through the Ministries of Public Service and Health, harmonises the salary discrepancies between nurses, midwives, medical interns and other medical practitioners including doctors and pharmacists.
+Government, through the Ministries of Public Service and Health, harmonises the salary discrepancies between nurses, midwives, medical interns and other medical practitioners including doctors and pharmacists.
 
-    1. Parliament, through its relevant committee, should ensure that the Health Service Commission fast-tracks the re-designation of nurses according to the scheme service for nurses and midwives 2018, to regularise nursing and midwifery terms of services.
+Parliament, through its relevant committee, should ensure that the Health Service Commission fast-tracks the re-designation of nurses according to the scheme service for nurses and midwives 2018, to regularise nursing and midwifery terms of services.
 
 5. Government, through the Uganda Health Service Commission, should desist from advertising jobs that consider a bachelor's degree as an added advantage rather than as a requirement. Many times, when advertising jobs, they say it is for nurses but they say, “A nurse with a Bachelor of Nursing Degree or Masters will have added advantage.”
 
@@ -450,8 +450,8 @@ THE DEPUTY SPEAKER: Honourable Commissioner, read all of them as you lay them an
 3.26
 MR ESTHER AFOYOCHAN (NRM, Woman Representative, Zombo): Thank you, Mr Speaker. Allow me to lay reports of the Auditor-General on the financial statements for the financial year ended 30th June 2021 for the following districts:
 
-    1. Ngora District Local Government
-    2. Amuria District Local Government -
+Ngora District Local Government
+Amuria District Local Government -
 
 THE DEPUTY SPEAKER: Honourable commissioner, can I request that you lay on the Table each one you read, then I will refer. 
 
@@ -486,9 +486,9 @@ THE DEPUTY SPEAKER: No, honourable member, that one is coming under (b). The fir
 Honourable Commissioner, you can again lay the ones under (b). I am following our Order Paper. So, if you could have a copy, it would be better for you.
 
 MS AFOYOCHAN: Mr Speaker, allow me lay the following reports: 
-    i. Report on the Auditor-General on the Fund Accountability Statement of the COVID-19 Economic Recovery and Resilience Response Programme, implemented by Private Sector Foundation Uganda, for the period 22 May 2022 to 30 April 2021. 
+Report on the Auditor-General on the Fund Accountability Statement of the COVID-19 Economic Recovery and Resilience Response Programme, implemented by Private Sector Foundation Uganda, for the period 22 May 2022 to 30 April 2021. 
 
-    ii. The report of the Auditor-General on the Fund Accountability Statement of Young Africa Works Uganda – Lead Firm Structure Project for the period 5 November 2019 to 31 December 2020. 
+The report of the Auditor-General on the Fund Accountability Statement of Young Africa Works Uganda – Lead Firm Structure Project for the period 5 November 2019 to 31 December 2020. 
 
 I beg to lay.
 
@@ -496,13 +496,13 @@ THE DEPUTY SPEAKER: Thank you, honourable Commissioner, for the good job. (Appla
 
 Colleagues, in the public gallery, we have members from the National Malaria Control Division, under the Ministry of Health and other stakeholders in the fight against malaria. These include:
 
-    1. Dr Rek John     - Pilgrim Africa and the Ministry of Health 
-    2. Dr Silver Kasozi  - SBC Officer, National Malaria Control Division, Ministry of Health 
-    3. Robert Mugerwa  -   National Malaria Control Division, Ministry of Health 
-    4. Marion Natukunda      -  Senior Communications Officer, Ministry of Health 
-    5. Kenneth Wycliffe Mugisha  - Board Chairman, Malaria Free Uganda
-    6. Aubrey Agaba    -  Country Coordinator, Malaria Free Uganda
-    7. Mbabazi Peter   - National Malaria Control Programme.
+Dr Rek John     - Pilgrim Africa and the Ministry of Health 
+Dr Silver Kasozi  - SBC Officer, National Malaria Control Division, Ministry of Health 
+Robert Mugerwa  -   National Malaria Control Division, Ministry of Health 
+Marion Natukunda      -  Senior Communications Officer, Ministry of Health 
+Kenneth Wycliffe Mugisha  - Board Chairman, Malaria Free Uganda
+Aubrey Agaba    -  Country Coordinator, Malaria Free Uganda
+Mbabazi Peter   - National Malaria Control Programme.
 
 We also have guests from Target Malaria, Quality Chemicals and Centre for Policy Analysis (CEPA)
 You are welcome.  (Applause)
@@ -589,4 +589,3 @@ MOTION FOR A RESOLUTION OF PARLIAMENT URGING GOVERNMENT TO DEVELOP A DOCUMENTED 
 THE DEPUTY SPEAKER: Hon. Ssemwanga Gyaviira? The Member is not in the House. Colleagues, there being no other item on the Order Paper, House is adjourned to tomorrow at 2.00 p.m.
 
 (The House rose at 3.47 p.m. and adjourned until Thursday, 5 May 2022 at 2.00 p.m.) 
-

@@ -1,4 +1,4 @@
-﻿
+
 
 
 
@@ -100,57 +100,57 @@ So, in brief, we have a resource that is about Shs 32 trillion, largely for disc
 
 In effect, we have Shs 27 trillion out of Shs 43 trillion available for distribution within the various programmes of our national budget. I think I should mention the programmes for Members to note since they do not have the document:
 
-    1. Agro-industrialisation is getting a total of Shs 1.798 trillion.
+Agro-industrialisation is getting a total of Shs 1.798 trillion.
 
-    2. Mineral development is getting Shs 35.6 billion.
+Mineral development is getting Shs 35.6 billion.
 
-    3. Sustainable development of petroleum resources Shs 149.3 billion.
+Sustainable development of petroleum resources Shs 149.3 billion.
 
-    4. Tourism development Shs 181.6 billion.
+Tourism development Shs 181.6 billion.
 
-    5. Climate change (Natural Resources Environment and Water Management) Shs 890 billion.
+Climate change (Natural Resources Environment and Water Management) Shs 890 billion.
 
-    6. Private sector development Shs 660.9 billion.
+Private sector development Shs 660.9 billion.
 
-    7. Manufacturing is getting Shs 79.1 billion.
+Manufacturing is getting Shs 79.1 billion.
 
-    8. Integrated transport infrastructure and services Shs 4.855 trillion.
+Integrated transport infrastructure and services Shs 4.855 trillion.
 
-    9. Sustainable energy development Shs 1.1 trillion.
+Sustainable energy development Shs 1.1 trillion.
 
-    10. Digital transformation is getting Shs 217.7 billion.
+Digital transformation is getting Shs 217.7 billion.
 
-    11. Sustainable urbanisation and housing Shs 427.6 billion.
+Sustainable urbanisation and housing Shs 427.6 billion.
 
-    12. Human capital development Shs 6.9 trillion.
+Human capital development Shs 6.9 trillion.
 
-    13. Innovation technology and development Shs 24.2 billion.
+Innovation technology and development Shs 24.2 billion.
 
-    14. Community mobilisation and mindset Shs 72.6 billion.
+Community mobilisation and mindset Shs 72.6 billion.
 
-    15. Governance and security Shs 6.48 trillion.
+Governance and security Shs 6.48 trillion.
 
-    16. Public sector transformation Shs 207.8 billion.
+Public sector transformation Shs 207.8 billion.
 
-    17. Regional development is where, we largely have the Parish Development Model  which is Shs 1.06 trillion.
+Regional development is where, we largely have the Parish Development Model  which is Shs 1.06 trillion.
 
-    18. Development planning implementation Shs 1 trillion.
+Development planning implementation Shs 1 trillion.
 
-    19. Administration of justice is Shs 383.9 billion.
+Administration of justice is Shs 383.9 billion.
 
-    20. Legislation oversight and representation Shs 686.6 billion.
+Legislation oversight and representation Shs 686.6 billion.
 
-    21. Interest payments due is 5.088 trillion. 
+Interest payments due is 5.088 trillion. 
 
 Now, we have this memo items that I referred to earlier:
 
-    1. Domestic refinancing - Shs 7.651 trillion. 
+Domestic refinancing - Shs 7.651 trillion. 
 
-    2. Amortisation on external debt- Shs 2.462 trillion.
+Amortisation on external debt- Shs 2.462 trillion.
 
-    3. Domestic arrears- Shs 395.5 billion.
+Domestic arrears- Shs 395.5 billion.
 
-    4. Appropriation in-aid/local revenue - Shs 212.4 billion.
+Appropriation in-aid/local revenue - Shs 212.4 billion.
 
 That gives us a total of Shs 43.083 trillion. 
 
@@ -220,13 +220,13 @@ Legal compliance of the National Budget Framework Paper
 
 In accordance with Section 9 of the Public Finance Management Act;
 
-    i) The minister shall, for each financial year, prepare the National Budget Framework Paper which shall be consistent with the National Development Plan and with the Charter of Fiscal Responsibility. 
+The minister shall, for each financial year, prepare the National Budget Framework Paper which shall be consistent with the National Development Plan and with the Charter of Fiscal Responsibility. 
 
-    ii) The National Budget Framework Paper shall be in a format prescribed in Schedule 3 of the Public Finance Management Act. 
+The National Budget Framework Paper shall be in a format prescribed in Schedule 3 of the Public Finance Management Act. 
 
-    iii) The minister shall, with the approval of Cabinet, submit the Budget Framework Paper to Parliament by 31 December of the financial year proceeding the financial year to which the National Budget Framework Paper relates. 
+The minister shall, with the approval of Cabinet, submit the Budget Framework Paper to Parliament by 31 December of the financial year proceeding the financial year to which the National Budget Framework Paper relates. 
 
-    iv) The minister shall, in consultation with the Equal Opportunities Commission, issue a certificate certifying that the National Budget Framework Paper is gender and equity responsive; and specify measures taken to equalise opportunities for women, men, persons with disability and other marginalised groups.
+The minister shall, in consultation with the Equal Opportunities Commission, issue a certificate certifying that the National Budget Framework Paper is gender and equity responsive; and specify measures taken to equalise opportunities for women, men, persons with disability and other marginalised groups.
 
 Submission of the National Budget Framework Paper to Parliament
 
@@ -673,14 +673,14 @@ Areas of dissent
 
 We dissented with the majority on the committee on the following areas: 
 
-    a) Implementation of the Parish Development Model.
-    b) Risky projects in externally financed project portfolio.
-    c) Capital flight.
-    d) Government tax arrears. 
-    e) Prompting of supplementary expenditures.
-    f) Value-for-money audits.
-    g) Contingent liabilities. 
-    h) Non-remittance of environmental levy. 
+Implementation of the Parish Development Model.
+Risky projects in externally financed project portfolio.
+Capital flight.
+Government tax arrears. 
+Prompting of supplementary expenditures.
+Value-for-money audits.
+Contingent liabilities. 
+Non-remittance of environmental levy. 
 
 In summary, these are the observations. 
 
