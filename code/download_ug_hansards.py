@@ -59,7 +59,7 @@ def download_handards_from_page(driver, session, base_url, page_number, output_d
                     open_destination_file.write(file_response.content)
 
 def main():
-    output_dir = os.path.abspath('documents')
+    output_dir = os.path.abspath('ug_documents')
     # Define the retry strategy
     retry_strategy = Retry(
         total=10,  # Maximum number of retries
