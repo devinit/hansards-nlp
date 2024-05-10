@@ -54,7 +54,7 @@ def download_handards_from_page(driver, session, base_url, page_number, output_d
             link_div_url = link_div_urls[j]
             file_destination = os.path.join(output_folder_dir, filename)
             if not os.path.exists(file_destination):
-                file_response = requests.get(link_div_url, allow_redirects=True)
+                file_response = session.get(link_div_url, allow_redirects=True)
                 with open(file_destination, 'wb') as open_destination_file:
                     open_destination_file.write(file_response.content)
 
