@@ -63,11 +63,11 @@ def main():
         file_name, _ = os.path.splitext(file_basename)
         destination_basename = '{}.txt'.format(file_name)
         destination_file_path = os.path.join(output_dir, destination_basename)
-        try:
-            full_text = docx_full_text(docx_file)
-        except:
-            print("Corrupted docx: {}".format(file_basename))
         if not os.path.exists(destination_file_path):
+            try:
+                full_text = docx_full_text(docx_file)
+            except:
+                print("Corrupted docx: {}".format(file_basename))
             with open(destination_file_path, 'w') as destination_file:
                 destination_file.write(full_text)
 
