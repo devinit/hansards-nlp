@@ -101,7 +101,7 @@ if __name__ == '__main__':
                     "health_data_information_systems_summary",
                     "health_data_challenges",
                     "health_service_delivery_improvement_recommendations",
-                    "health_sector_decision",
+                    "health_sector_decisions",
                     "health_evidence_base",
                     "health_evidence_requested"
                     ],
