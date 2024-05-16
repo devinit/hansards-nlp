@@ -8,6 +8,9 @@ import numpy as np
 import re
 from datetime import datetime
 import pickle
+from datasets import Dataset
+from datasets.utils.logging import disable_progress_bar
+disable_progress_bar()
 
 
 global MODEL
@@ -38,8 +41,7 @@ def extract_date_from_filename(filename):
         return None
 
 
-def main(txt_files_input_path, query, top_n=10):
-    top_n = top_n * -1
+def main(txt_files_input_path, query, threshold=0.6):
     pickle_path = os.path.join("large_data", "{}.pkl".format(txt_files_input_path))
     input_dir = os.path.abspath(txt_files_input_path)
     txt_wildcard = os.path.join(input_dir, '*.txt')
@@ -56,7 +58,7 @@ def main(txt_files_input_path, query, top_n=10):
         filename = os.path.basename(txt_files[i])
         file_sentences = sent_tokenize(full_text)
         sentences += file_sentences
-        sentence_filenames += [filename] * len(sentences)
+        sentence_filenames += [filename] * len(file_sentences)
 
 
     if os.path.exists(pickle_path):
@@ -75,15 +77,28 @@ def main(txt_files_input_path, query, top_n=10):
     for i, embedding in enumerate(file_embeddings):
         ranks[i] = query_embedding @ embedding.T
 
-    top_indices = np.argpartition(ranks, top_n)[top_n:]
-    top_indices = top_indices[np.argsort(ranks[top_indices])[::-1]]
-    for top_index in top_indices:
-        print(sentences[top_index])
-        print(sentence_filenames[top_index])
-        print(ranks[top_index])
-        print("\n")
+    dataset = Dataset.from_dict(
+        {
+            'text': sentences,
+            'filename': sentence_filenames,
+            'rank': ranks
+        }
+    )
+
+    matching_dataset = dataset.filter(lambda example: example['rank'] > threshold)
+    unique_matching_files = list(set(matching_dataset['filename']))
+    
+    if matching_dataset.num_rows == 0:
+        print("No matches.")
+    else:
+        for matching_file in unique_matching_files:
+            print("FILE: {}".format(matching_file))
+            file_dataset = matching_dataset.filter(lambda example: example['filename'] == matching_file)
+            for sentence in file_dataset['text']:
+                print(sentence)
+            print("\n")
 
 
 if __name__ == '__main__':
-    query = "Health information system"
+    query = "What are challenges with health service delivery?"
     main("ke_texts", query)
