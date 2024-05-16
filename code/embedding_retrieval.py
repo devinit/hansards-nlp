@@ -41,7 +41,7 @@ def extract_date_from_filename(filename):
         return None
 
 
-def main(txt_files_input_path, query, threshold=0.6):
+def main(txt_files_input_path, query, threshold=0.6, print_examples=False):
     pickle_path = os.path.join("large_data", "{}.pkl".format(txt_files_input_path))
     input_dir = os.path.abspath(txt_files_input_path)
     txt_wildcard = os.path.join(input_dir, '*.txt')
@@ -88,17 +88,21 @@ def main(txt_files_input_path, query, threshold=0.6):
     matching_dataset = dataset.filter(lambda example: example['rank'] > threshold)
     unique_matching_files = list(set(matching_dataset['filename']))
     
+    print("QUERY: {}".format(query))
+
     if matching_dataset.num_rows == 0:
         print("No matches.")
     else:
         for matching_file in unique_matching_files:
             print("FILE: {}".format(matching_file))
             file_dataset = matching_dataset.filter(lambda example: example['filename'] == matching_file)
-            for sentence in file_dataset['text']:
-                print(sentence)
+            print("COUNT: {}".format(file_dataset.num_rows))
+            if print_examples:
+                for sentence in file_dataset['text']:
+                    print(sentence)
             print("\n")
 
 
 if __name__ == '__main__':
-    query = "What are challenges with health service delivery?"
-    main("ke_texts", query)
+    query = "Where are there discussions about health records, health data, or health information systems?"
+    main("ke_texts", query, threshold=0.61, print_examples=True)
