@@ -5,7 +5,7 @@ from glob import glob
 from tqdm import tqdm
 
 
-MODEL = "gpt-3.5-turbo-0125"
+MODEL = "gpt-4o-mini-2024-07-18"
 
 
 def count_tokens(tokenizer, text):
@@ -25,7 +25,7 @@ def main(txt_files_input_path):
 
     full_text = "\n".join(full_text_list)
     token_count = count_tokens(tokenizer, full_text)
-    token_cost = 0.50
+    token_cost = 0.15
     token_cost_per = 1000000
     print(
         "This will use at least {} tokens and cost at least ${} to run using model {}.".format(
